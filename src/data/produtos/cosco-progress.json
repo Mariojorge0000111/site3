@@ -1,0 +1,51 @@
+{
+  "slug": "cosco-progress",
+  "nome": "Cosco Progress",
+  "marca": "Cosco Kids",
+  "categoria": "multigrupo",
+  "tipo": "Multigrupo conversível",
+  "faixa": "0 a 36 kg",
+  "kgMin": 0,
+  "kgMax": 36,
+  "idade": "Do nascimento a cerca de 10 anos",
+  "grupos": "0+, 1, 2 e 3",
+  "isofix": "Não (só cinto do carro)",
+  "ancoragem": "Não tem",
+  "costasAte": "No grupo 0+ (até 13 kg)",
+  "reclinacoes": "3 posições (1 de costas e 2 de frente)",
+  "giro360": false,
+  "pesoProduto": "5,8 kg",
+  "norma": "NBR 14400",
+  "inmetro": "Sim, registro nº 003852/2020",
+  "precoFaixa": 2,
+  "precoRef": "entre R$ 520 e R$ 780 no Mercado Livre (out/2026)",
+  "notas": {
+    "seguranca": 8.0,
+    "instalacao": 7.0,
+    "conforto": 8.5,
+    "versatilidade": 8.5,
+    "custo": 9.5
+  },
+  "melhorPara": "Melhor custo-benefício",
+  "resumo": "A cadeirinha 0 a 36 kg mais vendida e mais bem avaliada do Mercado Livre, com mais de 12 mil avaliações. É leve e barata, mas instala só com o cinto do carro, o que pede mais atenção na hora de prender.",
+  "pros": [
+    "Preço baixo para uma cadeira que vai do nascimento aos 36 kg",
+    "Leve (5,8 kg), fácil de trocar de carro",
+    "Apoio de cabeça com 9 alturas, que regula junto com o cinto",
+    "Capa e almofadas laváveis na máquina",
+    "Mais de 12 mil avaliações, nota 4,9"
+  ],
+  "contras": [
+    "Não tem ISOFIX: a instalação depende de passar e esticar bem o cinto do carro",
+    "Só uma posição de costas",
+    "Não tem top tether nem perna de apoio"
+  ],
+  "paraQuem": "Quem quer gastar pouco, tem carro sem ISOFIX ou precisa revezar a cadeira entre carros.",
+  "paraQuemNao": "Quem quer a instalação mais simples e firme que o ISOFIX oferece.",
+  "imagemAlt": "Cadeirinha Cosco Progress preta de 0 a 36 kg",
+  "mlUrl": "https://meli.la/1hjt9v6",
+  "fonte": "https://www.mercadolivre.com.br/cadeirinha-cosco-kids-progress-0-a-36kg-preto/p/MLB19970137",
+  "nota": 8.2,
+  "atualizado": "2026-10-31",
+  "imagem": "928226-MLA99462528060_112025"
+}

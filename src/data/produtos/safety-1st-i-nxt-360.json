@@ -1,0 +1,51 @@
+{
+  "slug": "safety-1st-i-nxt-360",
+  "nome": "Safety 1st i-NXT 360",
+  "marca": "Safety 1st",
+  "categoria": "giratoria",
+  "tipo": "Giratória 360° i-Size",
+  "faixa": "0 a 36 kg (40 a 150 cm)",
+  "kgMin": 0,
+  "kgMax": 36,
+  "idade": "Do nascimento a cerca de 12 anos",
+  "grupos": "0+, 1, 2 e 3",
+  "isofix": "Sim (obrigatório nos grupos 0+ e 1)",
+  "ancoragem": "Top tether (grupos 0+ e 1)",
+  "costasAte": "Até 87 cm (cerca de 13 kg)",
+  "reclinacoes": "5, ajustáveis com a cadeira instalada",
+  "giro360": true,
+  "pesoProduto": "11,5 kg",
+  "norma": "R129 (i-Size) e NBR 14400:2020",
+  "inmetro": "Sim, registro nº 005197/2021",
+  "precoFaixa": 3,
+  "precoRef": "entre R$ 1.250 e R$ 1.950 no Mercado Livre (out/2026)",
+  "notas": {
+    "seguranca": 9.5,
+    "instalacao": 9.0,
+    "conforto": 9.0,
+    "versatilidade": 9.5,
+    "custo": 8.0
+  },
+  "melhorPara": "Melhor giratória custo-benefício",
+  "resumo": "Giro 360° de verdade com a cadeira instalada, homologação i-Size e uso do nascimento aos 36 kg por um preço bem abaixo das giratórias premium. A exigência de ISOFIX com top tether nos primeiros grupos é o ponto a checar antes de comprar.",
+  "pros": [
+    "Gira 360° mesmo instalada, o que facilita muito colocar e tirar o bebê",
+    "Homologada pela R129 (i-Size), com teste de impacto lateral",
+    "5 reclinações ajustáveis sem desinstalar",
+    "Cinto de 5 pontos regula junto com o apoio de cabeça",
+    "Uma cadeira só do nascimento aos 36 kg"
+  ],
+  "contras": [
+    "Nos grupos 0+ e 1 só instala com ISOFIX e top tether: carro sem ponto de top tether não serve",
+    "Com 11,5 kg, é pesada para trocar de carro com frequência",
+    "Ocupa bastante espaço no banco de trás de carros compactos"
+  ],
+  "paraQuem": "Famílias com carro equipado com ISOFIX e top tether que querem uma cadeira só, do recém-nascido ao assento de elevação, com o conforto do giro.",
+  "paraQuemNao": "Quem tem carro sem ponto de top tether ou precisa trocar a cadeira de carro toda semana.",
+  "imagemAlt": "Cadeirinha giratória Safety 1st i-NXT 360 na cor preta",
+  "mlUrl": "https://meli.la/13ZosGN",
+  "fonte": "https://www.mercadolivre.com.br/cadeirinha-safety-1st-i-nxt-0-a-36kg-com-giro-360-black-urban/p/MLB19508447",
+  "nota": 9.1,
+  "atualizado": "2026-10-31",
+  "imagem": "673952-MLA118463635355_092026"
+}

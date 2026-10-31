@@ -1,0 +1,50 @@
+{
+  "slug": "maxi-cosi-citi-2",
+  "nome": "Maxi-Cosi Citi² com base",
+  "marca": "Maxi-Cosi",
+  "categoria": "bebe-conforto",
+  "tipo": "Bebê conforto com base",
+  "faixa": "0 a 13 kg",
+  "kgMin": 0,
+  "kgMax": 13,
+  "idade": "Do nascimento a cerca de 12 meses",
+  "grupos": "0+",
+  "isofix": "Não (base presa com o cinto de 3 pontos do carro)",
+  "ancoragem": "Não tem",
+  "costasAte": "Sempre de costas",
+  "reclinacoes": "Não reclina",
+  "giro360": false,
+  "pesoProduto": "3,2 kg",
+  "norma": "NBR 14400",
+  "inmetro": "Sim, registro nº 002992/2020",
+  "precoFaixa": 3,
+  "precoRef": "entre R$ 1.030 e R$ 1.800 no Mercado Livre (out/2026)",
+  "notas": {
+    "seguranca": 8.5,
+    "instalacao": 8.5,
+    "conforto": 8.0,
+    "versatilidade": 7.0,
+    "custo": 7.5
+  },
+  "melhorPara": "Leve, com base, sem precisar de ISOFIX",
+  "resumo": "Bebê conforto leve que vem com base para deixar no carro: você encaixa e desencaixa o bebê sem reinstalar o cinto toda vez. A base é presa com cinto, não com ISOFIX.",
+  "pros": [
+    "Base inclusa: encaixa e solta com um clique",
+    "Leve (3,2 kg)",
+    "Funciona em carro sem ISOFIX",
+    "Registro no Inmetro informado no anúncio"
+  ],
+  "contras": [
+    "Base presa com cinto, menos prática que ISOFIX",
+    "Poucas avaliações no Mercado Livre",
+    "Preço alto para um bebê conforto sem ISOFIX"
+  ],
+  "paraQuem": "Quem tem carro sem ISOFIX e quer a praticidade de uma base fixa.",
+  "paraQuemNao": "Quem tem ISOFIX no carro e pode pagar um pouco mais por uma base ISOFIX.",
+  "imagemAlt": "Bebê conforto Maxi-Cosi Citi 2 preto com base",
+  "mlUrl": "https://meli.la/33NbLxv",
+  "fonte": "https://www.mercadolivre.com.br/bebe-conforto-maxi-cosi-citi-com-base-essential-black/p/MLB47804359",
+  "nota": 8.1,
+  "atualizado": "2026-10-31",
+  "imagem": "956055-MLA99982926879_112025"
+}

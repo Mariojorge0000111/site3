@@ -1,0 +1,114 @@
+---
+import Base from './Base.astro';
+import CardProduto from '../components/CardProduto.astro';
+import Tabela from '../components/Tabela.astro';
+import Faq from '../components/Faq.astro';
+import FotoProduto from '../components/FotoProduto.astro';
+import BotaoML from '../components/BotaoML.astro';
+import { produto, urlReview, imgProduto } from '../data/produtos';
+import { SITE } from '../config';
+import { md } from '../lib/md';
+import { dataBR } from '../lib/datas';
+
+const { frontmatter: f } = Astro.props;
+const itens = (f.produtos as { slug: string; selo: string; texto?: string }[]).map((i) => ({ ...i, p: produto(i.slug) }));
+const selos = Object.fromEntries(itens.map((i) => [i.slug, i.selo]));
+const url = new URL(Astro.url.pathname, Astro.site).href;
+const top3 = itens.slice(0, 3);
+
+const schema = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: f.h1,
+    description: f.descricao,
+    datePublished: f.data,
+    dateModified: f.atualizado ?? f.data,
+    author: { '@type': 'Organization', name: SITE.equipe, url: new URL('/sobre/', Astro.site).href },
+    publisher: { '@id': new URL('/#organizacao', Astro.site).href },
+    image: imgProduto(itens[0].p.imagem),
+    mainEntityOfPage: url,
+    inLanguage: 'pt-BR',
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    name: f.h1,
+    itemListElement: itens.map((i, n) => ({
+      '@type': 'ListItem',
+      position: n + 1,
+      url: new URL(urlReview(i.slug), Astro.site).href,
+      name: i.p.nome,
+    })),
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Início', item: new URL('/', Astro.site).href },
+      { '@type': 'ListItem', position: 2, name: f.h1, item: url },
+    ],
+  },
+  ...(f.faq?.length
+    ? [{
+        '@context': 'https://schema.org',
+        '@type': 'FAQPage',
+        mainEntity: f.faq.map((q: any) => ({ '@type': 'Question', name: q.p, acceptedAnswer: { '@type': 'Answer', text: q.r.replace(/\*\*|\[|\]\([^)]*\)/g, '') } })),
+      }]
+    : []),
+];
+---
+<Base title={f.titulo} description={f.descricao} schema={schema} ogImage={imgProduto(itens[0].p.imagem)} ogType="article">
+  <header class="cabeca-pagina">
+    <div class="wrap">
+      <nav class="migalhas" aria-label="Você está em"><a href="/">Início</a> / {f.migalha ?? 'Listas'}</nav>
+      <h1 style="max-width:22ch">{f.h1}</h1>
+      <p class="lead" style="max-width:68ch" set:html={md(f.intro)} />
+      <div class="meta">
+        <span>Atualizado em <strong><time datetime={f.atualizado ?? f.data}>{dataBR(f.atualizado ?? f.data)}</time></strong></span>
+        <span>Por <a href="/sobre/">{SITE.equipe}</a></span>
+        <span>{itens.length} modelos avaliados</span>
+        <a href="/metodologia/">Como avaliamos</a>
+      </div>
+    </div>
+  </header>
+
+  <section class="wrap" style="padding-top:28px">
+    <p class="aviso">Os links para o Mercado Livre são de afiliado: se você comprar por eles, o site pode receber uma comissão, sem custo para você. <a href="/aviso-de-afiliado/">Entenda</a>.</p>
+
+    <h2 style="margin-top:36px">Nossas escolhas em resumo</h2>
+    <div class="destaques">
+      {top3.map((i) => (
+        <div class="destaque">
+          <span class="selo">{i.selo}</span>
+          <FotoProduto nome={i.p.imagem} alt={i.p.imagemAlt} sizes="160px" />
+          <div>
+            <h3><a href={`#${i.slug}`} style="color:inherit;text-decoration:none">{i.p.nome}</a></h3>
+            <p>{i.p.faixa} · nota {i.p.nota.toFixed(1).replace('.', ',')}</p>
+          </div>
+          <BotaoML href={i.p.mlUrl} texto="Ver preço" />
+        </div>
+      ))}
+    </div>
+
+    <h2 style="margin:44px 0 18px">Tabela comparativa</h2>
+    <Tabela produtos={itens.map((i) => i.p)} selos={selos} />
+    <p style="font-size:.9rem;color:var(--suave);margin-top:10px">Quer filtrar por peso, ISOFIX ou giro? Use o <a href="/comparador/">comparador de cadeirinhas</a>.</p>
+  </section>
+
+  <section class="wrap" style="padding-top:36px">
+    <h2 style="margin-bottom:24px">{f.tituloAnalises ?? 'Análise de cada modelo'}</h2>
+    {itens.map((i, n) => <CardProduto p={i.p} posicao={n + 1} selo={i.selo} texto={i.texto} />)}
+  </section>
+
+  <article class="texto conteudo" style="padding-bottom:24px">
+    <slot />
+  </article>
+
+  {f.faq?.length && (
+    <section class="texto" style="padding:24px 20px 72px">
+      <h2 style="margin-bottom:12px">Perguntas frequentes</h2>
+      <Faq itens={f.faq} />
+    </section>
+  )}
+</Base>

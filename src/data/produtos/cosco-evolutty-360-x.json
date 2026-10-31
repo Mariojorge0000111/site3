@@ -1,0 +1,50 @@
+{
+  "slug": "cosco-evolutty-360-x",
+  "nome": "Cosco Evolutty 360 X",
+  "marca": "Cosco Kids",
+  "categoria": "giratoria",
+  "tipo": "Giratória 360°",
+  "faixa": "0 a 36 kg",
+  "kgMin": 0,
+  "kgMax": 36,
+  "idade": "Do nascimento a cerca de 10 anos",
+  "grupos": "0+, 1, 2 e 3",
+  "isofix": "Sim (obrigatório nos grupos 0+ e 1, opcional nos grupos 2 e 3)",
+  "ancoragem": "Top tether (grupos 0+ e 1)",
+  "costasAte": "Até 18 kg",
+  "reclinacoes": "4",
+  "giro360": true,
+  "pesoProduto": "Não informado pelo fabricante",
+  "norma": "NBR 14400",
+  "inmetro": "Sim",
+  "precoFaixa": 3,
+  "precoRef": "entre R$ 920 e R$ 1.800 no Mercado Livre, conforme o vendedor (out/2026)",
+  "notas": {
+    "seguranca": 9.0,
+    "instalacao": 8.5,
+    "conforto": 8.5,
+    "versatilidade": 9.5,
+    "custo": 7.5
+  },
+  "melhorPara": "Giratória de costas até 18 kg por menos",
+  "resumo": "Giratória da Cosco que permite viajar de costas até 18 kg, recurso que costuma aparecer só em modelos bem mais caros. O preço varia muito entre vendedores, então vale comparar antes de fechar.",
+  "pros": [
+    "De costas até 18 kg",
+    "Giro 360° para colocar a criança de frente para a porta",
+    "ISOFIX com top tether nos grupos menores",
+    "Vira assento de elevação com encosto no fim do uso"
+  ],
+  "contras": [
+    "Preço muito diferente de um anúncio para outro",
+    "Exige top tether nos grupos 0+ e 1",
+    "Fabricante não informa o peso da cadeira"
+  ],
+  "paraQuem": "Quem quer giro e mais tempo de costas gastando menos que numa Maxi-Cosi.",
+  "paraQuemNao": "Quem tem carro sem top tether ou prefere uma marca com garantia estendida.",
+  "imagemAlt": "Cadeirinha Cosco Evolutty 360 X preta com ISOFIX",
+  "mlUrl": "https://meli.la/2Q3TJy8",
+  "fonte": "https://www.mercadolivre.com.br/cosco-kids-cadeirinha-evolutty-360-x-0-a-36kg-com-giro-360-e-isofix-preto/p/MLB20662139",
+  "nota": 8.7,
+  "atualizado": "2026-10-31",
+  "imagem": "657053-MLA99593658978_122025"
+}

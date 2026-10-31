@@ -1,0 +1,24 @@
+---
+import type { Produto } from '../data/produtos';
+interface Props { p: Produto; }
+const { p } = Astro.props;
+const linhas: [string, string][] = [
+  ['Tipo', p.tipo],
+  ['Faixa de uso', p.faixa],
+  ['Idade aproximada', p.idade],
+  ['Grupos', p.grupos],
+  ['ISOFIX', p.isofix],
+  ['Top tether / perna de apoio', p.ancoragem],
+  ['De costas para o movimento', p.costasAte],
+  ['Reclinações', p.reclinacoes],
+  ['Giro 360°', p.giro360 ? 'Sim' : 'Não'],
+  ['Peso da cadeirinha', p.pesoProduto],
+  ['Norma', p.norma],
+  ['Certificação Inmetro', p.inmetro],
+];
+---
+<table class="ficha">
+  <tbody>
+    {linhas.map(([k, v]) => (<tr><th scope="row">{k}</th><td>{v}</td></tr>))}
+  </tbody>
+</table>

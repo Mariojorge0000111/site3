@@ -1,0 +1,50 @@
+{
+  "slug": "chicco-gofit-plus",
+  "nome": "Chicco GoFit Plus",
+  "marca": "Chicco",
+  "categoria": "assento",
+  "tipo": "Assento de elevação sem encosto (booster)",
+  "faixa": "18 a 36 kg",
+  "kgMin": 18,
+  "kgMax": 36,
+  "idade": "De cerca de 4 a 12 anos",
+  "grupos": "2 e 3",
+  "isofix": "Sim (conectores LATCH nas âncoras ISOFIX; a criança usa o cinto do carro)",
+  "ancoragem": "Não se aplica",
+  "costasAte": "Não se aplica",
+  "reclinacoes": "Não se aplica",
+  "giro360": false,
+  "pesoProduto": "3 kg",
+  "norma": "FMVSS 213 (americana)",
+  "inmetro": "Sim, registro nº 008878/2022",
+  "precoFaixa": 2,
+  "precoRef": "entre R$ 640 e R$ 790 no Mercado Livre (out/2026)",
+  "notas": {
+    "seguranca": 7.5,
+    "instalacao": 9.0,
+    "conforto": 8.5,
+    "versatilidade": 7.0,
+    "custo": 8.0
+  },
+  "melhorPara": "Booster para criança maior",
+  "resumo": "Booster leve, acolchoado e com trava nas âncoras ISOFIX, bem avaliado (nota 5,0). Como não tem encosto, só serve para crianças maiores, a partir de 18 kg, e não protege a cabeça.",
+  "pros": [
+    "Trava nas âncoras ISOFIX: não escorrega nem voa quando vazio",
+    "Leve (3 kg) e com alça para levar",
+    "Espuma dupla e porta-copos",
+    "Nota 5,0 com mais de 800 avaliações"
+  ],
+  "contras": [
+    "Sem encosto: não protege cabeça nem ombros",
+    "Só a partir de 18 kg",
+    "Caro para um booster sem encosto"
+  ],
+  "paraQuem": "Crianças maiores que já não cabem no encosto da cadeirinha e famílias que trocam de carro com frequência.",
+  "paraQuemNao": "Crianças pequenas ou que dormem no carro e precisam de apoio para a cabeça.",
+  "imagemAlt": "Assento de elevação Chicco GoFit Plus sem encosto",
+  "mlUrl": "https://meli.la/2t5zbrd",
+  "fonte": "https://www.mercadolivre.com.br/assento-infantil-para-carro-chicco-gofit-plus-assento-booster-gofit-plus-avenue/p/MLB15342826",
+  "nota": 8.0,
+  "atualizado": "2026-10-31",
+  "imagem": "951429-MLA51361993105_082022"
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "joie-every-stage-fx",
+  "nome": "Joie Every Stage FX",
+  "marca": "Joie",
+  "categoria": "multigrupo",
+  "tipo": "Multigrupo conversível",
+  "faixa": "0 a 36 kg",
+  "kgMin": 0,
+  "kgMax": 36,
+  "idade": "Do nascimento a cerca de 12 anos",
+  "grupos": "0+, 1, 2 e 3",
+  "isofix": "Sim (de frente, a partir de 9 kg) ou cinto do carro",
+  "ancoragem": "Não tem",
+  "costasAte": "Até 18 kg (com cinto do carro)",
+  "reclinacoes": "6",
+  "giro360": false,
+  "pesoProduto": "14 kg",
+  "norma": "R44/04",
+  "inmetro": "Sim, registro nº 000820/2021",
+  "precoFaixa": 3,
+  "precoRef": "entre R$ 1.430 e R$ 3.000 no Mercado Livre, conforme o vendedor (out/2026)",
+  "notas": {
+    "seguranca": 9.0,
+    "instalacao": 8.0,
+    "conforto": 9.0,
+    "versatilidade": 9.5,
+    "custo": 7.5
+  },
+  "melhorPara": "De costas até 18 kg sem giro",
+  "resumo": "Multigrupo robusta, com estrutura de aço, que permite viajar de costas até 18 kg usando o cinto do carro. É pesada e tem preço que varia muito de vendedor para vendedor.",
+  "pros": [
+    "De costas até 18 kg",
+    "Estrutura interna em aço",
+    "6 posições de reclinação",
+    "Laterais que se ampliam com o crescimento"
+  ],
+  "contras": [
+    "Pesada (14 kg)",
+    "ISOFIX só na posição de frente",
+    "Preço oscila bastante entre anúncios"
+  ],
+  "paraQuem": "Quem quer manter a criança de costas por mais tempo sem pagar por uma giratória.",
+  "paraQuemNao": "Quem quer instalar de costas com ISOFIX ou trocar a cadeira de carro com frequência.",
+  "imagemAlt": "Cadeirinha Joie Every Stage FX cinza",
+  "mlUrl": "https://meli.la/1pKXQyW",
+  "fonte": "https://www.mercadolivre.com.br/cadeira-auto-joie-every-stage-fx-0-a-36kg-isofix-4-em-1-cinza-10-ajustes-autoadjust-grow-together-guard-surround-estrutura-em-aco/p/MLB16044176",
+  "nota": 8.7,
+  "atualizado": "2026-10-31",
+  "imagem": "737568-MLA107386330029_022026"
+}

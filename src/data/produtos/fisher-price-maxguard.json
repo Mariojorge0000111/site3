@@ -1,0 +1,50 @@
+{
+  "slug": "fisher-price-maxguard",
+  "nome": "Fisher-Price MaxGuard",
+  "marca": "Fisher-Price",
+  "categoria": "cadeirinha",
+  "tipo": "Cadeirinha i-Size (de frente)",
+  "faixa": "76 a 150 cm (até 36 kg)",
+  "kgMin": 9,
+  "kgMax": 36,
+  "idade": "De cerca de 15 meses a 12 anos",
+  "grupos": "1, 2 e 3",
+  "isofix": "Sim",
+  "ancoragem": "Top tether",
+  "costasAte": "Não se aplica (só de frente)",
+  "reclinacoes": "Não reclina",
+  "giro360": false,
+  "pesoProduto": "7 kg",
+  "norma": "R129 (i-Size)",
+  "inmetro": "Sim, registro nº 000566/2025",
+  "precoFaixa": 3,
+  "precoRef": "entre R$ 920 e R$ 1.580 no Mercado Livre (out/2026)",
+  "notas": {
+    "seguranca": 9.0,
+    "instalacao": 8.5,
+    "conforto": 8.0,
+    "versatilidade": 8.0,
+    "custo": 8.0
+  },
+  "melhorPara": "Segunda cadeira, depois do bebê conforto",
+  "resumo": "Cadeirinha i-Size para depois do bebê conforto: vai de 76 a 150 cm, com ISOFIX e top tether. Não reclina e não serve para recém-nascido.",
+  "pros": [
+    "i-Size com ISOFIX e top tether",
+    "Leve para a categoria (7 kg)",
+    "Acompanha a criança até 150 cm",
+    "Registro no Inmetro informado no anúncio"
+  ],
+  "contras": [
+    "Não reclina: soneca em viagem longa fica menos confortável",
+    "Só de frente, a partir de 76 cm",
+    "Não serve para recém-nascido"
+  ],
+  "paraQuem": "Quem já tem bebê conforto e precisa da próxima cadeira para usar até a idade escolar.",
+  "paraQuemNao": "Quem quer comprar uma cadeira só desde o nascimento.",
+  "imagemAlt": "Cadeirinha Fisher-Price MaxGuard preta com ISOFIX",
+  "mlUrl": "https://meli.la/1AoJLaz",
+  "fonte": "https://site.fastshop.com.br/cadeira-de-carro-infantil-isofix-maxguard-preto-fisher-price-129440/p",
+  "nota": 8.4,
+  "atualizado": "2026-10-31",
+  "imagem": "823658-MLB96424358459_102025"
+}

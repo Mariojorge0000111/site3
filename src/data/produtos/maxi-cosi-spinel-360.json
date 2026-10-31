@@ -1,0 +1,51 @@
+{
+  "slug": "maxi-cosi-spinel-360",
+  "nome": "Maxi-Cosi Spinel 360",
+  "marca": "Maxi-Cosi",
+  "categoria": "giratoria",
+  "tipo": "Giratória 360°",
+  "faixa": "0 a 36 kg",
+  "kgMin": 0,
+  "kgMax": 36,
+  "idade": "Do nascimento a cerca de 12 anos",
+  "grupos": "0+, 1, 2 e 3",
+  "isofix": "Sim",
+  "ancoragem": "Perna de apoio",
+  "costasAte": "Até 18 kg",
+  "reclinacoes": "4",
+  "giro360": true,
+  "pesoProduto": "14 kg",
+  "norma": "NBR 14400",
+  "inmetro": "Sim, registro nº 005468/2021",
+  "precoFaixa": 4,
+  "precoRef": "entre R$ 2.450 e R$ 3.200 no Mercado Livre (out/2026)",
+  "notas": {
+    "seguranca": 9.4,
+    "instalacao": 9.0,
+    "conforto": 9.0,
+    "versatilidade": 9.5,
+    "custo": 6.5
+  },
+  "melhorPara": "Mais tempo de costas",
+  "resumo": "A giratória que deixa a criança de costas até 18 kg, com perna de apoio e garantia de 5 anos. É a escolha para quem quer adiar ao máximo a virada para frente e aceita pagar por isso.",
+  "pros": [
+    "De costas até 18 kg, bem acima da média",
+    "Perna de apoio no assoalho reduz a rotação em batida frontal",
+    "Gira com a cadeira instalada",
+    "Garantia de 5 anos com registro no site da marca",
+    "Capa removível e lavável na máquina"
+  ],
+  "contras": [
+    "Um dos preços mais altos da categoria",
+    "Pesada (14 kg) e volumosa",
+    "Perna de apoio pode não encaixar em carros com compartimento no assoalho traseiro"
+  ],
+  "paraQuem": "Pais que seguem a recomendação de manter a criança de costas pelo maior tempo possível e têm carro com ISOFIX e espaço atrás.",
+  "paraQuemNao": "Quem tem orçamento apertado ou carro com assoalho traseiro irregular para a perna de apoio.",
+  "imagemAlt": "Cadeirinha Maxi-Cosi Spinel 360 preta com base giratória",
+  "mlUrl": "https://meli.la/2dokpxk",
+  "fonte": "https://www.mercadolivre.com.br/cadeirinha-spinel-360-preto-authentic-black-maxi-cosi/p/MLB19970082",
+  "nota": 8.8,
+  "atualizado": "2026-10-31",
+  "imagem": "847571-MLA99485578880_112025"
+}

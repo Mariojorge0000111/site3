@@ -1,0 +1,50 @@
+{
+  "slug": "litet-all-stages-fix-2",
+  "nome": "Litet All Stages Fix 2.0",
+  "marca": "Litet",
+  "categoria": "multigrupo",
+  "tipo": "Multigrupo com ISOFIX",
+  "faixa": "0 a 36 kg",
+  "kgMin": 0,
+  "kgMax": 36,
+  "idade": "Do nascimento a cerca de 10 anos",
+  "grupos": "0+, 1, 2 e 3",
+  "isofix": "Sim (reversível, em todos os grupos)",
+  "ancoragem": "Top tether",
+  "costasAte": "No grupo 0+ (até 13 kg)",
+  "reclinacoes": "4",
+  "giro360": false,
+  "pesoProduto": "8,5 kg",
+  "norma": "R44/04",
+  "inmetro": "Sim, registro nº 001635/2017",
+  "precoFaixa": 2,
+  "precoRef": "entre R$ 730 e R$ 920 no Mercado Livre (out/2026)",
+  "notas": {
+    "seguranca": 8.7,
+    "instalacao": 8.5,
+    "conforto": 8.0,
+    "versatilidade": 9.0,
+    "custo": 9.0
+  },
+  "melhorPara": "ISOFIX em todos os grupos por menos de R$ 1.000",
+  "resumo": "Multigrupo com ISOFIX que funciona de costas e de frente, mais top tether, por preço de cadeira básica. Não gira e segue a norma R44/04, mais antiga que a i-Size.",
+  "pros": [
+    "ISOFIX em todas as fases, inclusive de costas",
+    "Top tether para reduzir a rotação para frente",
+    "Apoio de cabeça com 14 posições",
+    "Quase 2.800 avaliações com nota 4,9"
+  ],
+  "contras": [
+    "Norma R44/04, sem o teste lateral exigido pela i-Size",
+    "Não gira",
+    "Espuma e tecido mais simples que os de marcas premium"
+  ],
+  "paraQuem": "Quem quer instalar com ISOFIX desde o nascimento sem passar de R$ 1.000.",
+  "paraQuemNao": "Quem faz questão da homologação i-Size ou do giro.",
+  "imagemAlt": "Cadeirinha Litet All Stages Fix 2.0 cinza com ISOFIX",
+  "mlUrl": "https://meli.la/16V1M87",
+  "fonte": "https://www.mercadolivre.com.br/cadeira-de-carro-all-stages-20-isofix-0-36kgs-cinza-litet/p/MLB24768816",
+  "nota": 8.6,
+  "atualizado": "2026-10-31",
+  "imagem": "995649-MLA109737919053_032026"
+}

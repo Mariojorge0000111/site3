@@ -1,0 +1,39 @@
+---
+import type { Produto } from '../data/produtos';
+import { urlReview } from '../data/produtos';
+import FotoProduto from './FotoProduto.astro';
+import Nota from './Nota.astro';
+import Ficha from './Ficha.astro';
+import ProsContras from './ProsContras.astro';
+import BotaoML from './BotaoML.astro';
+interface Props { p: Produto; posicao: number; selo?: string; texto?: string; }
+const { p, posicao, selo, texto } = Astro.props;
+---
+<article class="produto" id={p.slug}>
+  <div class="produto-topo">
+    <a class="produto-foto" href={urlReview(p.slug)} aria-label={`Review do ${p.nome}`}>
+      <FotoProduto nome={p.imagem} alt={p.imagemAlt} />
+    </a>
+    <div>
+      <div class="produto-cab">
+        <div>
+          <span class="selo">{posicao}. {selo ?? p.melhorPara}</span>
+          <h3><a href={urlReview(p.slug)}>{p.nome}</a></h3>
+          <p class="produto-tipo">{p.tipo} · {p.faixa}</p>
+        </div>
+        <Nota valor={p.nota} />
+      </div>
+      <p class="produto-resumo">{texto ?? p.resumo}</p>
+      <div class="produto-acoes">
+        <BotaoML href={p.mlUrl} />
+        <a class="btn btn-linha" href={urlReview(p.slug)}>Ler review completo</a>
+      </div>
+      <p class="preco-ref">Referência de preço: {p.precoRef}. O valor muda com frequência; confira no anúncio.</p>
+    </div>
+  </div>
+  <ProsContras pros={p.pros} contras={p.contras} />
+  <details class="ficha-caixa">
+    <summary>Ficha técnica completa</summary>
+    <Ficha p={p} />
+  </details>
+</article>

@@ -1,0 +1,147 @@
+---
+import '../styles/global.css';
+import { SITE, MENU } from '../config';
+
+interface Props {
+  title: string;
+  description: string;
+  schema?: object | object[];
+  ogImage?: string;
+  ogType?: string;
+  preloadImg?: string;
+  ctaFixo?: boolean;
+  noindex?: boolean;
+}
+const { title, description, schema, ogImage, ogType = 'website', preloadImg, ctaFixo = false, noindex = false } = Astro.props;
+const comMarca = `${title} | ${SITE.nome}`;
+const fullTitle = title.includes(SITE.nome) || comMarca.length > 60 ? title : comMarca;
+const canonical = new URL(Astro.url.pathname, Astro.site).href;
+const og = ogImage?.startsWith('http') ? ogImage : new URL(`/images/${ogImage ?? 'og-padrao'}.webp`, Astro.site).href;
+const caminho = Astro.url.pathname;
+
+const schemaSite = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'Organization',
+      '@id': new URL('/#organizacao', Astro.site).href,
+      name: SITE.nome,
+      url: new URL('/', Astro.site).href,
+      logo: new URL('/favicon.svg', Astro.site).href,
+    },
+    {
+      '@type': 'WebSite',
+      '@id': new URL('/#site', Astro.site).href,
+      name: SITE.nome,
+      url: new URL('/', Astro.site).href,
+      inLanguage: 'pt-BR',
+      publisher: { '@id': new URL('/#organizacao', Astro.site).href },
+    },
+  ],
+};
+const schemas = [schemaSite, ...(schema ? (Array.isArray(schema) ? schema : [schema]) : [])];
+---
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    {noindex && <meta name="robots" content="noindex, follow" />}
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="preload" href="/fonts/figtree-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin />
+    {preloadImg && <link rel="preload" as="image" href={preloadImg.startsWith('http') ? preloadImg : `/images/${preloadImg}.webp`} fetchpriority="high" />}
+    <link rel="preconnect" href="https://http2.mlstatic.com" />
+    <meta name="theme-color" content="#13203a" />
+    <meta property="og:type" content={ogType} />
+    <meta property="og:locale" content="pt_BR" />
+    <meta property="og:site_name" content={SITE.nome} />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={og} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="sitemap" href="/sitemap-index.xml" />
+    {schemas.map((s) => <script type="application/ld+json" set:html={JSON.stringify(s)} />)}
+  </head>
+  <body class={ctaFixo ? 'tem-cta-fixo' : undefined}>
+    <a class="pular" href="#conteudo">Pular para o conteúdo</a>
+    <header class="topo">
+      <div class="wrap">
+        <a class="logo" href="/" aria-label={`${SITE.nome}, página inicial`}>
+          <svg width="30" height="30" viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="9" fill="#0c6b63"/><path d="M11 7.5c0-1 1-1.6 1.9-1.1l1.2.7c.6.3.9.9.9 1.5v8.9h6.3c1.3 0 2.4.9 2.7 2.2l1 4.6c.2.9-.5 1.7-1.4 1.7H10.5c-.8 0-1.5-.6-1.5-1.4l-.2-4.4c0-.6.2-1.1.6-1.5l1.6-1.4V7.5z" fill="#fff"/><circle cx="20.5" cy="11.5" r="2.6" fill="#ffe600"/></svg>
+          {SITE.nome}
+        </a>
+        <button class="menu-botao" aria-expanded="false" aria-controls="menu" id="menu-botao">Menu</button>
+        <nav aria-label="Principal">
+          <ul class="menu" id="menu">
+            {MENU.map((m) => (
+              <li><a href={m.href} aria-current={caminho.startsWith(m.href) ? 'page' : undefined}>{m.rotulo}</a></li>
+            ))}
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <main id="conteudo">
+      <slot />
+    </main>
+
+    <footer class="rodape">
+      <div class="wrap">
+        <div class="rodape-grade">
+          <div>
+            <a class="logo" href="/" style="color:#fff">{SITE.nome}</a>
+            <p style="margin-top:12px">Reviews independentes de cadeirinhas para carro vendidas no Brasil. Ficha técnica completa, prós e contras e o que a lei exige.</p>
+          </div>
+          <div>
+            <h3>Listas</h3>
+            <ul>
+              <li><a href="/melhor-cadeirinha-para-carro/">Melhor cadeirinha para carro</a></li>
+              <li><a href="/melhor-bebe-conforto/">Melhor bebê conforto</a></li>
+              <li><a href="/melhor-cadeirinha-giratoria-360/">Melhor cadeirinha 360</a></li>
+              <li><a href="/melhor-assento-de-elevacao/">Melhor assento de elevação</a></li>
+              <li><a href="/comparador/">Comparador de cadeirinhas</a></li>
+            </ul>
+          </div>
+          <div>
+            <h3>Guias</h3>
+            <ul>
+              <li><a href="/guias/lei-da-cadeirinha/">Lei da cadeirinha</a></li>
+              <li><a href="/guias/o-que-e-i-size/">O que é i-Size</a></li>
+              <li><a href="/guias/isofix-ou-cinto/">ISOFIX ou cinto</a></li>
+              <li><a href="/guias/">Todos os guias</a></li>
+            </ul>
+          </div>
+          <div>
+            <h3>Sobre</h3>
+            <ul>
+              <li><a href="/sobre/">Quem somos</a></li>
+              <li><a href="/metodologia/">Como avaliamos</a></li>
+              <li><a href="/aviso-de-afiliado/">Aviso de afiliado</a></li>
+              <li><a href="/privacidade/">Privacidade</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="rodape-base">
+          <p style="margin:0">Somos afiliados do Mercado Livre: quando você compra por um link do site, podemos receber uma comissão, sem custo extra para você. Isso não muda nossas notas. Preços e disponibilidade mudam: confira sempre no anúncio.</p>
+          <p style="margin:10px 0 0">© {new Date().getFullYear()} {SITE.nome}. Este site não substitui o manual do fabricante nem a orientação do pediatra.</p>
+        </div>
+      </div>
+    </footer>
+
+    <script is:inline>
+      (function () {
+        var b = document.getElementById('menu-botao');
+        var m = document.getElementById('menu');
+        if (!b || !m) return;
+        b.addEventListener('click', function () {
+          var aberto = m.classList.toggle('aberto');
+          b.setAttribute('aria-expanded', aberto ? 'true' : 'false');
+        });
+      })();
+    </script>
+  </body>
+</html>

@@ -1,0 +1,51 @@
+{
+  "slug": "cosco-wizz",
+  "nome": "Cosco Wizz",
+  "marca": "Cosco Kids",
+  "categoria": "bebe-conforto",
+  "tipo": "Bebê conforto",
+  "faixa": "0 a 13 kg",
+  "kgMin": 0,
+  "kgMax": 13,
+  "idade": "Do nascimento a cerca de 12 meses",
+  "grupos": "0+",
+  "isofix": "Não (cinto de 3 pontos do carro)",
+  "ancoragem": "Não tem",
+  "costasAte": "Sempre de costas",
+  "reclinacoes": "Alça com 4 posições",
+  "giro360": false,
+  "pesoProduto": "2,5 kg",
+  "norma": "NBR 14400",
+  "inmetro": "Sim",
+  "precoFaixa": 1,
+  "precoRef": "entre R$ 280 e R$ 470 no Mercado Livre, conforme a cor e a versão com base (out/2026)",
+  "notas": {
+    "seguranca": 8.0,
+    "instalacao": 7.5,
+    "conforto": 8.5,
+    "versatilidade": 7.0,
+    "custo": 9.5
+  },
+  "melhorPara": "Bebê conforto barato e bem avaliado",
+  "resumo": "O bebê conforto mais barato entre os que avaliamos e um dos mais vendidos do Mercado Livre, com quase 6 mil avaliações. Instala com o cinto do carro e não tem base na versão mais em conta.",
+  "pros": [
+    "Preço baixo",
+    "Muito leve (2,5 kg)",
+    "Aprovado para uso em avião (consulte a companhia)",
+    "Encaixa em carrinhos Cosco compatíveis",
+    "Quase 6 mil avaliações, nota 4,9"
+  ],
+  "contras": [
+    "Sem base na versão mais barata: é preciso passar o cinto toda vez",
+    "Sem ISOFIX",
+    "Proteção lateral mais simples que a dos modelos premium"
+  ],
+  "paraQuem": "Quem quer um bebê conforto seguro e certificado gastando pouco.",
+  "paraQuemNao": "Quem vai tirar e colocar o bebê no carro várias vezes por dia e quer a praticidade de uma base.",
+  "imagemAlt": "Bebê conforto Cosco Wizz preto",
+  "mlUrl": "https://meli.la/1JPAr4F",
+  "fonte": "https://www.mercadolivre.com.br/bebe-conforto-cosco-kids-wizz-0-a-13kg-preto/p/MLB24097850",
+  "nota": 8.1,
+  "atualizado": "2026-10-31",
+  "imagem": "724874-MLA99994002539_112025"
+}

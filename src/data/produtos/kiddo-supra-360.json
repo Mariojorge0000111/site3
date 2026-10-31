@@ -1,0 +1,50 @@
+{
+  "slug": "kiddo-supra-360",
+  "nome": "Kiddo Supra 360",
+  "marca": "Kiddo",
+  "categoria": "giratoria",
+  "tipo": "Giratória 360°",
+  "faixa": "0 a 36 kg (40 a 150 cm)",
+  "kgMin": 0,
+  "kgMax": 36,
+  "idade": "Do nascimento a cerca de 10 anos",
+  "grupos": "0+, 1, 2 e 3",
+  "isofix": "Sim",
+  "ancoragem": "Top tether com alarme",
+  "costasAte": "Até 18 kg",
+  "reclinacoes": "5",
+  "giro360": true,
+  "pesoProduto": "Não informado de forma consistente",
+  "norma": "NBR 14400",
+  "inmetro": "Sim, registro nº 003390/2023",
+  "precoFaixa": 3,
+  "precoRef": "entre R$ 1.380 e R$ 1.600 no Mercado Livre (out/2026)",
+  "notas": {
+    "seguranca": 9.0,
+    "instalacao": 8.5,
+    "conforto": 8.5,
+    "versatilidade": 9.5,
+    "custo": 8.0
+  },
+  "melhorPara": "Top tether com alerta sonoro",
+  "resumo": "Giratória nacional com ISOFIX, top tether com alarme e posição de costas até 18 kg. Boa alternativa às importadas, com menos avaliações publicadas no Mercado Livre.",
+  "pros": [
+    "Top tether com alarme avisa quando a cinta não está tensionada",
+    "De costas até 18 kg",
+    "5 reclinações",
+    "Giro 360° com a cadeira instalada"
+  ],
+  "contras": [
+    "Poucas avaliações de compradores no Mercado Livre até agora",
+    "Peso da cadeira não aparece de forma consistente nos anúncios",
+    "Acabamento menos refinado que o das marcas importadas"
+  ],
+  "paraQuem": "Quem quer os recursos de uma giratória completa com ajuda extra para instalar certo.",
+  "paraQuemNao": "Quem prefere modelos com histórico longo de avaliações.",
+  "imagemAlt": "Cadeirinha giratória Kiddo Supra 360 cinza",
+  "mlUrl": "https://meli.la/19XAb7v",
+  "fonte": "https://www.extra.com.br/cadeirinha-para-carro-supra-360-kiddo-com-isofix-0-a-36kg/p/1566699860",
+  "nota": 8.8,
+  "atualizado": "2026-10-31",
+  "imagem": "932605-MLA112853142860_072026"
+}

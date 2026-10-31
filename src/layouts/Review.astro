@@ -1,0 +1,150 @@
+---
+import Base from './Base.astro';
+import FotoProduto from '../components/FotoProduto.astro';
+import Nota from '../components/Nota.astro';
+import Ficha from '../components/Ficha.astro';
+import ProsContras from '../components/ProsContras.astro';
+import BotaoML from '../components/BotaoML.astro';
+import Faq from '../components/Faq.astro';
+import { produto, urlReview, CATEGORIAS, imgProduto } from '../data/produtos';
+import { SITE } from '../config';
+import { dataBR } from '../lib/datas';
+
+const { frontmatter: f } = Astro.props;
+const p = produto(f.produto);
+const cat = CATEGORIAS[p.categoria];
+const url = new URL(Astro.url.pathname, Astro.site).href;
+const alternativas = ((f.alternativas ?? []) as string[]).map(produto);
+const criterios: [string, number][] = [
+  ['Segurança', p.notas.seguranca],
+  ['Instalação', p.notas.instalacao],
+  ['Conforto', p.notas.conforto],
+  ['Versatilidade', p.notas.versatilidade],
+  ['Custo-benefício', p.notas.custo],
+];
+
+const schema = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Product',
+    name: p.nome,
+    brand: { '@type': 'Brand', name: p.marca },
+    image: imgProduto(p.imagem),
+    description: p.resumo,
+    review: {
+      '@type': 'Review',
+      name: f.h1,
+      author: { '@type': 'Organization', name: SITE.equipe, url: new URL('/sobre/', Astro.site).href },
+      datePublished: f.data,
+      reviewBody: p.resumo,
+      reviewRating: { '@type': 'Rating', ratingValue: p.nota, bestRating: 10, worstRating: 0 },
+      positiveNotes: { '@type': 'ItemList', itemListElement: p.pros.map((x, i) => ({ '@type': 'ListItem', position: i + 1, name: x })) },
+      negativeNotes: { '@type': 'ItemList', itemListElement: p.contras.map((x, i) => ({ '@type': 'ListItem', position: i + 1, name: x })) },
+    },
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Início', item: new URL('/', Astro.site).href },
+      { '@type': 'ListItem', position: 2, name: 'Reviews', item: new URL('/reviews/', Astro.site).href },
+      { '@type': 'ListItem', position: 3, name: p.nome, item: url },
+    ],
+  },
+  ...(f.faq?.length
+    ? [{
+        '@context': 'https://schema.org',
+        '@type': 'FAQPage',
+        mainEntity: f.faq.map((q: any) => ({ '@type': 'Question', name: q.p, acceptedAnswer: { '@type': 'Answer', text: q.r.replace(/\*\*|\[|\]\([^)]*\)/g, '') } })),
+      }]
+    : []),
+];
+---
+<Base title={f.titulo} description={f.descricao} schema={schema} ogImage={imgProduto(p.imagem)} ogType="article" ctaFixo preloadImg={imgProduto(p.imagem)}>
+  <header class="cabeca-pagina">
+    <div class="wrap">
+      <nav class="migalhas" aria-label="Você está em"><a href="/">Início</a> / <a href="/reviews/">Reviews</a> / <a href={cat.lista}>{cat.nome}</a></nav>
+      <h1 style="max-width:24ch">{f.h1}</h1>
+      <div class="meta">
+        <span class="chip">{p.tipo}</span>
+        <span>Atualizado em <strong><time datetime={f.atualizado ?? f.data}>{dataBR(f.atualizado ?? f.data)}</time></strong></span>
+        <span>Por <a href="/sobre/">{SITE.equipe}</a></span>
+        <a href="/metodologia/">Como avaliamos</a>
+      </div>
+    </div>
+  </header>
+
+  <div class="wrap review-topo" style="padding-top:32px">
+    <div>
+      <div class="veredito">
+        <Nota valor={p.nota} />
+        <div>
+          <strong>Veredito: {p.melhorPara.charAt(0).toLowerCase() + p.melhorPara.slice(1)}.</strong>
+          <p>{p.resumo}</p>
+        </div>
+      </div>
+
+      <div class="barras" aria-label="Notas por critério">
+        {criterios.map(([nome, v]) => (
+          <div class="barra"><span>{nome}</span><i><b style={`width:${v * 10}%`}></b></i><span>{v.toFixed(1).replace('.', ',')}</span></div>
+        ))}
+      </div>
+
+      <ProsContras pros={p.pros} contras={p.contras} />
+
+      <div class="grade" style="margin-top:20px;grid-template-columns:repeat(auto-fit,minmax(240px,1fr))">
+        <div class="caixa" style="padding:18px 20px"><strong style="color:var(--bom)">Para quem é</strong><p style="margin:6px 0 0">{p.paraQuem}</p></div>
+        <div class="caixa" style="padding:18px 20px"><strong style="color:var(--ruim)">Para quem não é</strong><p style="margin:6px 0 0">{p.paraQuemNao}</p></div>
+      </div>
+
+      <h2 style="margin:40px 0 14px">Ficha técnica</h2>
+      <div class="tabela-rolagem" style="border-radius:16px"><Ficha p={p} /></div>
+      <p style="font-size:.88rem;color:var(--suave);margin-top:10px">Dados conferidos com a <a href={p.fonte} target="_blank" rel="nofollow noopener">ficha do fabricante ou do varejista</a> e com o uso da nossa equipe. Antes de comprar, confira o número de registro no Inmetro na etiqueta e o manual do seu carro.</p>
+    </div>
+
+    <aside class="review-lateral" aria-label="Onde comprar">
+      <div class="compra">
+        <div class="produto-foto"><FotoProduto nome={p.imagem} alt={p.imagemAlt} prioridade sizes="340px" /></div>
+        <div style="display:flex;justify-content:space-between;align-items:center;gap:12px;margin-bottom:14px">
+          <div><strong style="color:var(--tinta);font-size:1.1rem">{p.nome}</strong><div style="color:var(--suave);font-size:.92rem">{p.faixa}</div></div>
+          <Nota valor={p.nota} pequena />
+        </div>
+        <BotaoML href={p.mlUrl} bloco />
+        <p class="preco-ref">Referência: {p.precoRef}. Link de afiliado.</p>
+      </div>
+    </aside>
+  </div>
+
+  <article class="texto conteudo" style="padding-top:24px">
+    <slot />
+  </article>
+
+  {alternativas.length > 0 && (
+    <section class="secao secao-areia" style="margin-top:48px">
+      <div class="wrap">
+        <div class="cabeca"><h2>Alternativas para comparar</h2><p>Modelos da mesma faixa com outro equilíbrio entre preço, instalação e recursos.</p></div>
+        <div class="grade">
+          {alternativas.map((a) => (
+            <a class="caixa caixa-link" href={urlReview(a.slug)}>
+              <div class="produto-foto" style="max-height:180px;aspect-ratio:auto;height:180px"><FotoProduto nome={a.imagem} alt={a.imagemAlt} sizes="200px" /></div>
+              <h3>{a.nome}</h3>
+              <p>{a.faixa} · nota {a.nota.toFixed(1).replace('.', ',')}</p>
+            </a>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+  {f.faq?.length && (
+    <section class="texto" style="padding:56px 20px 72px">
+      <h2 style="margin-bottom:12px">Perguntas frequentes sobre o {p.nome}</h2>
+      <Faq itens={f.faq} />
+    </section>
+  )}
+
+  <div class="cta-fixo">
+    <span>{p.nome}</span>
+    <BotaoML href={p.mlUrl} texto="Ver preço" />
+  </div>
+</Base>

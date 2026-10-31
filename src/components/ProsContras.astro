@@ -1,0 +1,8 @@
+---
+interface Props { pros: string[]; contras: string[]; }
+const { pros, contras } = Astro.props;
+---
+<div class="pc">
+  <div class="pros"><h4>Pontos positivos</h4><ul>{pros.map((x) => <li>{x}</li>)}</ul></div>
+  <div class="contras"><h4>Pontos negativos</h4><ul>{contras.map((x) => <li>{x}</li>)}</ul></div>
+</div>

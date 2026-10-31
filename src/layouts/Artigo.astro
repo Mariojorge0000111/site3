@@ -1,0 +1,65 @@
+---
+import Base from './Base.astro';
+import Faq from '../components/Faq.astro';
+import { SITE } from '../config';
+import { dataBR } from '../lib/datas';
+
+const { frontmatter: f } = Astro.props;
+const url = new URL(Astro.url.pathname, Astro.site).href;
+const secao = f.secao ?? { nome: 'Guias', url: '/guias/' };
+
+const schema = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: f.h1,
+    description: f.descricao,
+    datePublished: f.data,
+    dateModified: f.atualizado ?? f.data,
+    author: { '@type': 'Organization', name: SITE.equipe, url: new URL('/sobre/', Astro.site).href },
+    publisher: { '@id': new URL('/#organizacao', Astro.site).href },
+    image: new URL(`/images/${f.imagem ?? 'og-padrao'}.webp`, Astro.site).href,
+    mainEntityOfPage: url,
+    inLanguage: 'pt-BR',
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Início', item: new URL('/', Astro.site).href },
+      { '@type': 'ListItem', position: 2, name: secao.nome, item: new URL(secao.url, Astro.site).href },
+      { '@type': 'ListItem', position: 3, name: f.h1, item: url },
+    ],
+  },
+  ...(f.faq?.length
+    ? [{
+        '@context': 'https://schema.org',
+        '@type': 'FAQPage',
+        mainEntity: f.faq.map((q: any) => ({ '@type': 'Question', name: q.p, acceptedAnswer: { '@type': 'Answer', text: q.r.replace(/\*\*|\[|\]\([^)]*\)/g, '') } })),
+      }]
+    : []),
+];
+---
+<Base title={f.titulo} description={f.descricao} schema={schema} ogImage={f.imagem} ogType="article">
+  <header class="cabeca-pagina">
+    <div class="texto">
+      <nav class="migalhas" aria-label="Você está em"><a href="/">Início</a> / <a href={secao.url}>{secao.nome}</a></nav>
+      <h1>{f.h1}</h1>
+      {f.intro && <p class="lead">{f.intro}</p>}
+      <div class="meta">
+        <span>Atualizado em <strong><time datetime={f.atualizado ?? f.data}>{dataBR(f.atualizado ?? f.data)}</time></strong></span>
+        <span>Por <a href="/sobre/">{SITE.equipe}</a></span>
+      </div>
+    </div>
+  </header>
+  <article class="texto conteudo" style="padding-top:28px">
+    <slot />
+  </article>
+  {f.faq?.length && (
+    <section class="texto" style="padding:32px 20px 72px">
+      <h2 style="margin-bottom:12px">Perguntas frequentes</h2>
+      <Faq itens={f.faq} />
+    </section>
+  )}
+  {!f.faq?.length && <div style="height:64px"></div>}
+</Base>

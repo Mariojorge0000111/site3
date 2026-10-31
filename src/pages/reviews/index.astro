@@ -1,0 +1,36 @@
+---
+import Base from '../../layouts/Base.astro';
+import FotoProduto from '../../components/FotoProduto.astro';
+import Nota from '../../components/Nota.astro';
+import { PRODUTOS, CATEGORIAS, urlReview } from '../../data/produtos';
+const ordem = ['bebe-conforto', 'multigrupo', 'giratoria', 'cadeirinha', 'assento'] as const;
+---
+<Base title="Reviews de Cadeirinhas para Carro" description="Todos os reviews de cadeirinhas para carro, bebês conforto e assentos de elevação, com nota, ficha técnica, prós e contras e link para o Mercado Livre.">
+  <header class="cabeca-pagina">
+    <div class="wrap">
+      <nav class="migalhas" aria-label="Você está em"><a href="/">Início</a> / Reviews</nav>
+      <h1>Reviews de cadeirinhas</h1>
+      <p class="lead" style="max-width:64ch">Cada modelo com ficha técnica completa, nota por critério e os pontos negativos que importam. Separados por tipo.</p>
+    </div>
+  </header>
+  {ordem.map((cat) => {
+    const itens = PRODUTOS.filter((p) => p.categoria === cat);
+    return itens.length > 0 && (
+      <section class="wrap" style="padding:40px 20px 8px">
+        <h2 style="margin-bottom:18px">{CATEGORIAS[cat].nome}</h2>
+        <div class="grade">
+          {itens.map((p) => (
+            <a class="caixa caixa-link" href={urlReview(p.slug)}>
+              <div class="produto-foto" style="height:200px;aspect-ratio:auto"><FotoProduto nome={p.imagem} alt={p.imagemAlt} /></div>
+              <div style="display:flex;justify-content:space-between;gap:10px;align-items:center;margin-top:12px">
+                <div><h3 style="margin:0">{p.nome}</h3><p>{p.faixa}</p></div>
+                <Nota valor={p.nota} pequena />
+              </div>
+            </a>
+          ))}
+        </div>
+      </section>
+    );
+  })}
+  <div style="height:72px"></div>
+</Base>

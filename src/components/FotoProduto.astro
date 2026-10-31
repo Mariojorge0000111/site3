@@ -1,0 +1,15 @@
+---
+import { imgProduto } from '../data/produtos';
+interface Props { nome: string; alt: string; prioridade?: boolean; sizes?: string; }
+const { nome, alt, prioridade = false } = Astro.props;
+---
+<img
+  src={imgProduto(nome)}
+  alt={alt}
+  width="560"
+  height="560"
+  loading={prioridade ? 'eager' : 'lazy'}
+  decoding="async"
+  fetchpriority={prioridade ? 'high' : 'auto'}
+  referrerpolicy="no-referrer"
+/>

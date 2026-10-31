@@ -1,0 +1,51 @@
+{
+  "slug": "safety-1st-multifix",
+  "nome": "Safety 1st Multifix",
+  "marca": "Safety 1st",
+  "categoria": "multigrupo",
+  "tipo": "Multigrupo conversível",
+  "faixa": "0 a 36 kg",
+  "kgMin": 0,
+  "kgMax": 36,
+  "idade": "Do nascimento a cerca de 10 anos",
+  "grupos": "0+, 1, 2 e 3",
+  "isofix": "Sim (a partir do grupo 1, de frente) ou cinto do carro",
+  "ancoragem": "Não tem",
+  "costasAte": "No grupo 0+ (até 13 kg), com cinto do carro",
+  "reclinacoes": "4",
+  "giro360": false,
+  "pesoProduto": "10,3 kg",
+  "norma": "NBR 14400",
+  "inmetro": "Sim",
+  "precoFaixa": 2,
+  "precoRef": "entre R$ 840 e R$ 1.000 no Mercado Livre (out/2026)",
+  "notas": {
+    "seguranca": 8.8,
+    "instalacao": 8.0,
+    "conforto": 8.5,
+    "versatilidade": 9.0,
+    "custo": 8.5
+  },
+  "melhorPara": "Melhor multigrupo no geral",
+  "resumo": "A multigrupo mais citada do mercado: instala com cinto ou ISOFIX, tem proteção lateral Air Protect e indicador de instalação correta. Não gira e, de costas, só vai até o fim do grupo 0+.",
+  "pros": [
+    "Instala com ISOFIX ou com o cinto do carro, serve em quase qualquer veículo",
+    "Proteção lateral Air Protect",
+    "Indicador de instalação correta",
+    "Cinto e apoio de cabeça regulam juntos",
+    "Mais de 1.700 avaliações com nota alta no Mercado Livre"
+  ],
+  "contras": [
+    "De costas só no grupo 0+, e com cinto do carro",
+    "Não gira: colocar o bebê exige mais esforço",
+    "ISOFIX só na posição de frente"
+  ],
+  "paraQuem": "Quem quer uma cadeira só, confiável e que funcione em carro com ou sem ISOFIX.",
+  "paraQuemNao": "Quem quer manter a criança de costas depois de 1 ano.",
+  "imagemAlt": "Cadeirinha Safety 1st Multifix preta com ISOFIX",
+  "mlUrl": "https://meli.la/28uEjYN",
+  "fonte": "https://www.mercadolivre.com.br/cadeirinha-multifix-0-a-36kg-com-isofix-safety-1st-cor-black-urban/p/MLB15585946",
+  "nota": 8.6,
+  "atualizado": "2026-10-31",
+  "imagem": "931363-MLA113291447235_062026"
+}

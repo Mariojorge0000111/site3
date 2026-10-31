@@ -1,0 +1,50 @@
+{
+  "slug": "fisher-price-growstages",
+  "nome": "Fisher-Price GrowStages",
+  "marca": "Fisher-Price",
+  "categoria": "multigrupo",
+  "tipo": "Multigrupo i-Size",
+  "faixa": "40 a 150 cm (até 36 kg)",
+  "kgMin": 0,
+  "kgMax": 36,
+  "idade": "Do nascimento a cerca de 12 anos",
+  "grupos": "i-Size (equivale aos grupos 0+ a 3)",
+  "isofix": "Sim",
+  "ancoragem": "Top tether",
+  "costasAte": "Fase bebê, no limite de altura do manual",
+  "reclinacoes": "4",
+  "giro360": false,
+  "pesoProduto": "Não informado pelo fabricante",
+  "norma": "R129 (i-Size)",
+  "inmetro": "Sim (confira o nº de registro na etiqueta)",
+  "precoFaixa": 3,
+  "precoRef": "entre R$ 1.260 e R$ 1.900 no Mercado Livre (out/2026)",
+  "notas": {
+    "seguranca": 9.2,
+    "instalacao": 8.5,
+    "conforto": 8.5,
+    "versatilidade": 9.5,
+    "custo": 8.0
+  },
+  "melhorPara": "i-Size sem giro",
+  "resumo": "Multigrupo homologada pela i-Size, com ISOFIX e top tether, do nascimento aos 150 cm. Não gira e os anúncios do Mercado Livre são de lojas, sem avaliações de catálogo.",
+  "pros": [
+    "Homologação i-Size (R129)",
+    "ISOFIX com top tether",
+    "Apoio de cabeça com 17 posições",
+    "Uso do nascimento até 150 cm"
+  ],
+  "contras": [
+    "Não gira",
+    "Anúncios sem avaliações de catálogo no Mercado Livre",
+    "Fabricante não divulga o limite exato de costas nos anúncios"
+  ],
+  "paraQuem": "Quem quer i-Size e ISOFIX numa cadeira só, sem o custo extra do giro.",
+  "paraQuemNao": "Quem precisa colocar e tirar o bebê várias vezes por dia em carro baixo.",
+  "imagemAlt": "Cadeirinha Fisher-Price GrowStages preta i-Size",
+  "mlUrl": "https://meli.la/2Z98Drx",
+  "fonte": "https://www.drogasil.com.br/cadeira-de-carro-infantil-isofix-growstages-preto-fisher-price-1371216.html",
+  "nota": 8.8,
+  "atualizado": "2026-10-31",
+  "imagem": "859369-MLB93458525447_092025"
+}

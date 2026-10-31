@@ -1,0 +1,50 @@
+{
+  "slug": "burigotto-protege-fix",
+  "nome": "Burigotto Protege Fix",
+  "marca": "Burigotto",
+  "categoria": "assento",
+  "tipo": "Assento de elevação com encosto",
+  "faixa": "15 a 36 kg",
+  "kgMin": 15,
+  "kgMax": 36,
+  "idade": "De cerca de 4 a 10 anos",
+  "grupos": "2 e 3",
+  "isofix": "Sim (ganchos Fix; a criança usa o cinto de 3 pontos do carro)",
+  "ancoragem": "Não se aplica",
+  "costasAte": "Não se aplica",
+  "reclinacoes": "Encosto ajustável; apoio de cabeça com 3 alturas",
+  "giro360": false,
+  "pesoProduto": "Não informado pelo fabricante",
+  "norma": "NBR 14400",
+  "inmetro": "Sim, registro nº 010883/2022",
+  "precoFaixa": 1,
+  "precoRef": "entre R$ 200 e R$ 380 no Mercado Livre, conforme a cor (out/2026)",
+  "notas": {
+    "seguranca": 7.8,
+    "instalacao": 8.5,
+    "conforto": 7.5,
+    "versatilidade": 8.0,
+    "custo": 9.5
+  },
+  "melhorPara": "Assento de elevação com ISOFIX barato",
+  "resumo": "Assento de elevação com encosto e ganchos ISOFIX por preço de assento simples. O encosto sai e ele vira booster no grupo 3. O anúncio não informa proteção lateral reforçada.",
+  "pros": [
+    "Ganchos ISOFIX deixam o assento firme mesmo vazio",
+    "Encosto removível: vira booster",
+    "Preço muito baixo",
+    "Mais de 1.300 avaliações com nota 4,9"
+  ],
+  "contras": [
+    "Anúncio não informa proteção contra impacto lateral",
+    "Acolchoado simples",
+    "Ficha do anúncio tem dados trocados (grupo e peso): confira na etiqueta"
+  ],
+  "paraQuem": "Quem precisa do assento de elevação obrigatório até 7 anos e meio gastando pouco.",
+  "paraQuemNao": "Quem quer proteção lateral mais robusta para a cabeça.",
+  "imagemAlt": "Assento de elevação Burigotto Protege Fix preto com encosto",
+  "mlUrl": "https://meli.la/1s9uR1k",
+  "fonte": "https://www.mercadolivre.com.br/cadeira-para-auto-protege-fix-preta-15-a-36kg-burigotto/p/MLB26070786",
+  "nota": 8.2,
+  "atualizado": "2026-10-31",
+  "imagem": "977477-MLA95495344656_102025"
+}

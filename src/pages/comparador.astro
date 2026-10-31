@@ -1,0 +1,129 @@
+---
+import Base from '../layouts/Base.astro';
+import { PRODUTOS, CATEGORIAS, FAIXAS_PRECO, urlReview, imgProduto } from '../data/produtos';
+
+const linhas = PRODUTOS.map((p) => ({
+  p,
+  dados: {
+    categoria: p.categoria,
+    kgmin: p.kgMin,
+    kgmax: p.kgMax,
+    isofix: p.isofix.startsWith('Sim') ? 'sim' : 'nao',
+    giro: p.giro360 ? 'sim' : 'nao',
+    isize: /R129|i-Size/i.test(p.norma) ? 'sim' : 'nao',
+    preco: p.precoFaixa,
+  },
+}));
+const schema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Início', item: new URL('/', Astro.site).href },
+    { '@type': 'ListItem', position: 2, name: 'Comparador de cadeirinhas', item: new URL('/comparador/', Astro.site).href },
+  ],
+};
+---
+<Base
+  title="Comparador de Cadeirinhas para Carro com Filtros"
+  description="Compare cadeirinhas, bebês conforto e assentos de elevação por peso da criança, ISOFIX, giro 360°, i-Size e faixa de preço. Ficha técnica lado a lado."
+  schema={schema}
+>
+  <header class="cabeca-pagina">
+    <div class="wrap">
+      <nav class="migalhas" aria-label="Você está em"><a href="/">Início</a> / Comparador</nav>
+      <h1>Comparador de cadeirinhas</h1>
+      <p class="lead" style="max-width:66ch">Todos os modelos que avaliamos numa tabela só. Filtre pelo peso do seu filho, pelo tipo de instalação e pelo orçamento, e abra o review de quem sobrar.</p>
+    </div>
+  </header>
+
+  <section class="wrap" style="padding:28px 20px 80px">
+    <form class="filtros" id="filtros" onsubmit="return false">
+      <label>Peso da criança
+        <select name="peso">
+          <option value="">Qualquer peso</option>
+          <option value="3">Recém-nascido</option>
+          <option value="8">Até 9 kg</option>
+          <option value="12">9 a 13 kg</option>
+          <option value="16">13 a 18 kg</option>
+          <option value="22">18 a 25 kg</option>
+          <option value="30">25 a 36 kg</option>
+        </select>
+      </label>
+      <label>Tipo
+        <select name="categoria">
+          <option value="">Todos os tipos</option>
+          {Object.entries(CATEGORIAS).map(([k, c]) => <option value={k}>{c.nome}</option>)}
+        </select>
+      </label>
+      <label>ISOFIX
+        <select name="isofix"><option value="">Tanto faz</option><option value="sim">Com ISOFIX</option><option value="nao">Só cinto</option></select>
+      </label>
+      <label>Giro 360°
+        <select name="giro"><option value="">Tanto faz</option><option value="sim">Com giro</option><option value="nao">Sem giro</option></select>
+      </label>
+      <label>Norma
+        <select name="isize"><option value="">Qualquer</option><option value="sim">i-Size (R129)</option></select>
+      </label>
+      <label>Preço
+        <select name="preco">
+          <option value="">Qualquer preço</option>
+          {Object.entries(FAIXAS_PRECO).map(([k, v]) => <option value={k}>{v}</option>)}
+        </select>
+      </label>
+    </form>
+    <p class="contagem" id="contagem" aria-live="polite">{linhas.length} modelos</p>
+
+    <div class="tabela-rolagem">
+      <table class="tabela" style="min-width:980px">
+        <thead>
+          <tr><th>Modelo</th><th>Tipo</th><th>Faixa</th><th>ISOFIX</th><th>Ancoragem</th><th>De costas</th><th>Giro</th><th>Norma</th><th>Preço</th><th>Nota</th><th><span class="pular">Comprar</span></th></tr>
+        </thead>
+        <tbody>
+          {linhas.map(({ p, dados }) => (
+            <tr data-categoria={dados.categoria} data-kgmin={dados.kgmin} data-kgmax={dados.kgmax} data-isofix={dados.isofix} data-giro={dados.giro} data-isize={dados.isize} data-preco={dados.preco}>
+              <td><span class="tabela-mini"><img src={imgProduto(p.imagem)} referrerpolicy="no-referrer" alt="" width="44" height="44" loading="lazy" /><a href={urlReview(p.slug)}>{p.nome}</a></span></td>
+              <td>{CATEGORIAS[p.categoria].nome}</td>
+              <td>{p.faixa}</td>
+              <td>{p.isofix.split(' (')[0]}</td>
+              <td>{p.ancoragem}</td>
+              <td>{p.costasAte}</td>
+              <td>{p.giro360 ? 'Sim' : 'Não'}</td>
+              <td>{p.norma}</td>
+              <td style="white-space:nowrap">{FAIXAS_PRECO[p.precoFaixa]}</td>
+              <td class="num">{p.nota.toFixed(1).replace('.', ',')}</td>
+              <td><a class="btn btn-ml" style="padding:8px 12px;font-size:.88rem" href={p.mlUrl} target="_blank" rel="sponsored nofollow noopener">Ver preço</a></td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+    <p style="font-size:.9rem;color:var(--suave);margin-top:14px">As faixas de preço são referências de outubro de 2026 e mudam com promoções. Links para o Mercado Livre são de afiliado. Antes de comprar, confira se o seu carro tem ancoragem ISOFIX e top tether no manual do veículo: veja o guia <a href="/guias/isofix-ou-cinto/">ISOFIX ou cinto</a>.</p>
+  </section>
+
+  <script is:inline>
+    (function () {
+      var f = document.getElementById('filtros');
+      var linhas = document.querySelectorAll('tbody tr[data-categoria]');
+      var cont = document.getElementById('contagem');
+      function aplicar() {
+        var v = Object.fromEntries(new FormData(f));
+        var n = 0;
+        linhas.forEach(function (tr) {
+          var d = tr.dataset, ok = true;
+          if (v.peso) { var kg = +v.peso; ok = ok && kg >= +d.kgmin && kg <= +d.kgmax; }
+          if (v.categoria) ok = ok && d.categoria === v.categoria;
+          if (v.isofix) ok = ok && d.isofix === v.isofix;
+          if (v.giro) ok = ok && d.giro === v.giro;
+          if (v.isize) ok = ok && d.isize === v.isize;
+          if (v.preco) ok = ok && d.preco === v.preco;
+          tr.hidden = !ok; if (ok) n++;
+        });
+        cont.textContent = n === 1 ? '1 modelo' : n + ' modelos';
+      }
+      f.addEventListener('change', aplicar);
+      var q = new URLSearchParams(location.search);
+      q.forEach(function (val, k) { if (f.elements[k]) f.elements[k].value = val; });
+      aplicar();
+    })();
+  </script>
+</Base>

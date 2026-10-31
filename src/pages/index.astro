@@ -1,0 +1,181 @@
+---
+import Base from '../layouts/Base.astro';
+import Faq from '../components/Faq.astro';
+import FotoProduto from '../components/FotoProduto.astro';
+import Nota from '../components/Nota.astro';
+import BotaoML from '../components/BotaoML.astro';
+import { PRODUTOS, produto, urlReview, imgProduto } from '../data/produtos';
+
+const escolhas = [
+  { slug: 'safety-1st-i-nxt-360', selo: 'Melhor no geral' },
+  { slug: 'cosco-progress', selo: 'Melhor custo-benefício' },
+  { slug: 'maxi-cosi-pebble-360-pro', selo: 'Melhor bebê conforto' },
+  { slug: 'burigotto-protege-fix', selo: 'Melhor assento de elevação' },
+].map((e) => ({ ...e, p: produto(e.slug) }));
+
+const fases = [
+  { titulo: 'Recém-nascido até 13 kg', texto: 'Bebê conforto ou cadeira conversível, sempre de costas para o movimento.', href: '/melhor-bebe-conforto/', rotulo: 'Bebês conforto' },
+  { titulo: 'Uma cadeira de 0 a 36 kg', texto: 'Multigrupo que acompanha do nascimento aos 10 anos, com ou sem ISOFIX.', href: '/melhor-cadeirinha-para-carro/', rotulo: 'Cadeirinhas 0 a 36 kg' },
+  { titulo: 'Giro 360° para o dia a dia', texto: 'Gira para a porta e facilita colocar a criança. Exige ISOFIX no carro.', href: '/melhor-cadeirinha-giratoria-360/', rotulo: 'Giratórias 360' },
+  { titulo: 'De 4 a 10 anos (15 a 36 kg)', texto: 'Assento de elevação para o cinto do carro passar no lugar certo.', href: '/melhor-assento-de-elevacao/', rotulo: 'Assentos de elevação' },
+];
+
+// Dados enxutos para o seletor no navegador
+const dadosSeletor = PRODUTOS.map((p) => ({
+  slug: p.slug, nome: p.nome, faixa: p.faixa, kgMin: p.kgMin, kgMax: p.kgMax, categoria: p.categoria,
+  semIsofix: p.isofix.startsWith('Não') || /cinto/i.test(p.isofix), nota: p.nota, img: imgProduto(p.imagem), ml: p.mlUrl, melhor: p.melhorPara,
+}));
+
+const faq = [
+  { p: 'Qual a melhor cadeirinha para carro em 2026?', r: 'Na nossa avaliação, a **Safety 1st i-NXT 360** é a mais completa pelo preço: gira, tem homologação i-Size e vai do nascimento aos 36 kg. Para gastar menos, a **Cosco Progress** é a melhor relação custo-benefício. Veja a [lista completa](/melhor-cadeirinha-para-carro/).' },
+  { p: 'Até que idade a criança precisa de cadeirinha?', r: 'Pela Resolução Contran 819/2021, até 10 anos ou 1,45 m de altura a criança viaja no banco de trás em dispositivo de retenção: bebê conforto, cadeirinha e depois assento de elevação até 7 anos e meio ou 1,45 m. Detalhes no [guia da lei da cadeirinha](/guias/lei-da-cadeirinha/).' },
+  { p: 'Cadeirinha com ISOFIX é mais segura?', r: 'O ISOFIX reduz muito o risco de instalação errada, que é a falha mais comum. Uma cadeira bem instalada com o cinto do carro também protege, desde que fique firme. Explicamos as diferenças no guia [ISOFIX ou cinto](/guias/isofix-ou-cinto/).' },
+  { p: 'O que é cadeirinha i-Size?', r: 'É a cadeira aprovada pela norma europeia R129, que classifica por altura, exige viagem de costas até pelo menos 15 meses e inclui teste de impacto lateral. O Inmetro aceita a R129. Veja [o que é i-Size](/guias/o-que-e-i-size/).' },
+  { p: 'Vocês ganham comissão pelas indicações?', r: 'Sim. Os links para o Mercado Livre são de afiliado e podemos receber uma comissão, sem custo extra para você. As notas seguem a nossa [metodologia](/metodologia/) e não mudam por causa disso.' },
+];
+const schemaFaq = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faq.map((f) => ({ '@type': 'Question', name: f.p, acceptedAnswer: { '@type': 'Answer', text: f.r.replace(/\*\*|\[|\]\([^)]*\)/g, '') } })),
+};
+---
+<Base
+  title="Cadeirinha Bebê: reviews de cadeirinhas para carro"
+  description="Reviews e comparativos de cadeirinhas para carro, bebês conforto e assentos de elevação vendidos no Brasil, com ficha técnica completa e prós e contras."
+  schema={schemaFaq}
+>
+  <section class="hero">
+    <div class="wrap" style="display:grid;grid-template-columns:1.05fr .95fr;gap:44px;align-items:center" id="hero-grade">
+      <div>
+        <span class="selo">Atualizado em outubro de 2026</span>
+        <h1 style="margin-top:16px">A cadeirinha certa para o seu filho e para o seu carro.</h1>
+        <p class="lead">Reviews de {PRODUTOS.length} modelos vendidos no Brasil, com o que os anúncios costumam esconder: até quando fica de costas, se exige top tether, o registro no Inmetro e os pontos negativos de verdade.</p>
+        <div style="display:flex;flex-wrap:wrap;gap:10px;margin-top:26px">
+          <a class="btn btn-marca" href="/melhor-cadeirinha-para-carro/">Ver as melhores cadeirinhas</a>
+          <a class="btn btn-linha" href="/comparador/">Abrir o comparador</a>
+        </div>
+      </div>
+
+      <div class="seletor" id="seletor">
+        <h2>Qual cadeirinha serve agora?</h2>
+        <p style="color:var(--suave);margin:0 0 6px;font-size:.96rem">Responda duas perguntas e veja os modelos indicados.</p>
+        <div class="rot">Peso da criança</div>
+        <div class="opcoes" role="radiogroup" aria-label="Peso da criança">
+          <label class="op"><input type="radio" name="peso" value="4" checked /><span>Recém-nascido</span></label>
+          <label class="op"><input type="radio" name="peso" value="11" /><span>9 a 13 kg</span></label>
+          <label class="op"><input type="radio" name="peso" value="16" /><span>13 a 18 kg</span></label>
+          <label class="op"><input type="radio" name="peso" value="25" /><span>18 a 36 kg</span></label>
+        </div>
+        <div class="rot">O carro tem ISOFIX?</div>
+        <div class="opcoes" role="radiogroup" aria-label="O carro tem ISOFIX">
+          <label class="op"><input type="radio" name="isofix" value="sim" checked /><span>Tem</span></label>
+          <label class="op"><input type="radio" name="isofix" value="nao" /><span>Não tem</span></label>
+          <label class="op"><input type="radio" name="isofix" value="" /><span>Não sei</span></label>
+        </div>
+        <div class="resultado" id="resultado" aria-live="polite"></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="secao">
+    <div class="wrap">
+      <div class="cabeca">
+        <h2>Nossas escolhas</h2>
+        <p>Os modelos com a melhor nota em cada situação, segundo a nossa <a href="/metodologia/">metodologia</a>.</p>
+      </div>
+      <div class="grade">
+        {escolhas.map(({ p, selo }) => (
+          <div class="caixa" style="display:flex;flex-direction:column;gap:12px">
+            <span class="selo" style="align-self:flex-start">{selo}</span>
+            <a class="produto-foto" href={urlReview(p.slug)} aria-label={`Review do ${p.nome}`}><FotoProduto nome={p.imagem} alt={p.imagemAlt} /></a>
+            <div style="display:flex;justify-content:space-between;gap:10px;align-items:center">
+              <div><h3 style="font-size:1.1rem"><a href={urlReview(p.slug)} style="color:inherit;text-decoration:none">{p.nome}</a></h3><div style="color:var(--suave);font-size:.92rem">{p.faixa}</div></div>
+              <Nota valor={p.nota} pequena />
+            </div>
+            <BotaoML href={p.mlUrl} texto="Ver preço" bloco />
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="secao secao-areia">
+    <div class="wrap">
+      <div class="cabeca">
+        <h2>Escolha pela fase</h2>
+        <p>A lei define o tipo de dispositivo pela idade, pelo peso e pela altura. Comece pela fase do seu filho.</p>
+      </div>
+      <div class="grade">
+        {fases.map((f) => (
+          <a class="caixa caixa-link" href={f.href}>
+            <span class="chip">{f.rotulo}</span>
+            <h3>{f.titulo}</h3>
+            <p>{f.texto}</p>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="secao">
+    <div class="wrap">
+      <div class="cabeca">
+        <h2>Como avaliamos</h2>
+        <p>Cada modelo recebe nota de 0 a 10 em cinco critérios. Segurança pesa mais que tudo.</p>
+      </div>
+      <div class="confianca">
+        <div><strong>Ficha técnica completa</strong><p>Peso suportado, limite de costas, ISOFIX, top tether, norma e registro no Inmetro, conferidos com o fabricante e o anúncio.</p></div>
+        <div><strong>Prós e contras de verdade</strong><p>Todo modelo tem pontos negativos. A gente mostra, inclusive nos mais bem avaliados.</p></div>
+        <div><strong>Sem preço inventado</strong><p>Mostramos a faixa de preço de referência com a data. O valor certo está sempre no anúncio.</p></div>
+      </div>
+      <p style="margin-top:20px"><a href="/metodologia/">Leia a metodologia completa</a></p>
+    </div>
+  </section>
+
+  <section class="secao secao-tinta">
+    <div class="wrap">
+      <div class="cabeca"><h2>Guias para decidir com segurança</h2><p>O que a lei exige e o que muda entre as tecnologias.</p></div>
+      <div class="grade">
+        <a class="caixa caixa-link" href="/guias/lei-da-cadeirinha/"><span class="chip">Lei</span><h3>Lei da cadeirinha 2026</h3><p>Idades, alturas, banco da frente, aplicativos e o valor da multa.</p></a>
+        <a class="caixa caixa-link" href="/guias/o-que-e-i-size/"><span class="chip">Normas</span><h3>O que é i-Size (R129)</h3><p>A diferença para a norma antiga e se vale pagar mais por ela.</p></a>
+        <a class="caixa caixa-link" href="/guias/isofix-ou-cinto/"><span class="chip">Instalação</span><h3>ISOFIX ou cinto?</h3><p>Como saber se o carro tem ISOFIX e como instalar sem folga.</p></a>
+        <a class="caixa caixa-link" href="/comparativos/safety-1st-multifix-vs-cosco-progress/"><span class="chip">Comparativo</span><h3>Multifix ou Cosco Progress?</h3><p>As duas multigrupo mais vendidas, lado a lado.</p></a>
+      </div>
+    </div>
+  </section>
+
+  <section class="secao">
+    <div class="texto">
+      <h2 style="margin-bottom:12px">Perguntas frequentes</h2>
+      <Faq itens={faq} />
+    </div>
+  </section>
+
+  <script define:vars={{ dados: dadosSeletor }}>
+    (function () {
+      var caixa = document.getElementById('seletor');
+      var saida = document.getElementById('resultado');
+      function render() {
+        var peso = +caixa.querySelector('input[name=peso]:checked').value;
+        var iso = caixa.querySelector('input[name=isofix]:checked').value;
+        var lista = dados.filter(function (p) {
+          if (peso < p.kgMin || peso > p.kgMax) return false;
+          if (iso === 'nao' && !p.semIsofix) return false;
+          return true;
+        }).sort(function (a, b) { return b.nota - a.nota; }).slice(0, 3);
+        if (!lista.length) { saida.innerHTML = '<p>Nenhum modelo encontrado. Veja o <a href="/comparador/">comparador</a>.</p>'; return; }
+        saida.innerHTML = lista.map(function (p) {
+          return '<a href="/reviews/' + p.slug + '/" style="display:flex;gap:12px;align-items:center;padding:10px;border:1px solid var(--linha);border-radius:14px;margin-top:8px;text-decoration:none;color:inherit">' +
+            '<img src="' + p.img + '" alt="" width="56" height="56" style="width:56px;height:56px;object-fit:contain;background:var(--areia);border-radius:10px;mix-blend-mode:multiply" referrerpolicy="no-referrer" />' +
+            '<span style="flex:1;min-width:0"><strong style="color:var(--tinta);display:block">' + p.nome + '</strong><span style="font-size:.88rem;color:var(--suave)">' + p.melhor + ' · ' + p.faixa + '</span></span>' +
+            '<span class="nota nota-p">' + p.nota.toFixed(1).replace('.', ',') + '</span></a>';
+        }).join('') + '<p style="margin:12px 0 0;font-size:.9rem"><a href="/comparador/?peso=' + peso + (iso ? '&isofix=' + iso : '') + '">Ver todos no comparador</a></p>';
+      }
+      caixa.addEventListener('change', render);
+      render();
+    })();
+  </script>
+  <style>
+    @media (max-width: 900px) { #hero-grade { grid-template-columns: 1fr !important; } }
+  </style>
+</Base>

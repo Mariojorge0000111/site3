@@ -1,0 +1,50 @@
+{
+  "slug": "galzerano-cocoon",
+  "nome": "Galzerano Cocoon",
+  "marca": "Galzerano",
+  "categoria": "bebe-conforto",
+  "tipo": "Bebê conforto",
+  "faixa": "0 a 13 kg",
+  "kgMin": 0,
+  "kgMax": 13,
+  "idade": "Do nascimento a cerca de 12 meses",
+  "grupos": "0+",
+  "isofix": "Não (cinto de 3 pontos do carro; base 8185 vendida à parte)",
+  "ancoragem": "Não tem",
+  "costasAte": "Sempre de costas",
+  "reclinacoes": "Não reclina",
+  "giro360": false,
+  "pesoProduto": "2,6 kg",
+  "norma": "NBR 14400",
+  "inmetro": "Sim, registro nº 002558/2016",
+  "precoFaixa": 1,
+  "precoRef": "entre R$ 410 e R$ 530 no Mercado Livre (out/2026)",
+  "notas": {
+    "seguranca": 7.8,
+    "instalacao": 7.5,
+    "conforto": 8.0,
+    "versatilidade": 6.5,
+    "custo": 9.5
+  },
+  "melhorPara": "Bebê conforto nacional simples",
+  "resumo": "Bebê conforto nacional, leve e barato, com capota e acolchoado dupla face. Não vem com base e o anúncio não informa proteção contra impacto lateral.",
+  "pros": [
+    "Preço baixo",
+    "Leve (2,6 kg)",
+    "Capota e acolchoado removíveis e laváveis",
+    "Base acoplável vendida à parte"
+  ],
+  "contras": [
+    "Sem base na caixa",
+    "Sem ISOFIX",
+    "Anúncio não informa proteção lateral reforçada"
+  ],
+  "paraQuem": "Quem quer o básico certificado para os primeiros meses.",
+  "paraQuemNao": "Quem quer base inclusa ou ISOFIX.",
+  "imagemAlt": "Bebê conforto Galzerano Cocoon preto",
+  "mlUrl": "https://meli.la/31rzcLT",
+  "fonte": "https://www.mercadolivre.com.br/bebe-conforto-galzerano-cocoon-liso-black/p/MLB15099199",
+  "nota": 7.8,
+  "atualizado": "2026-10-31",
+  "imagem": "704684-MLA95689736492_102025"
+}

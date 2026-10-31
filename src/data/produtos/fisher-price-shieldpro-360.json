@@ -1,0 +1,50 @@
+{
+  "slug": "fisher-price-shieldpro-360",
+  "nome": "Fisher-Price ShieldPro 360",
+  "marca": "Fisher-Price",
+  "categoria": "giratoria",
+  "tipo": "Giratória 360° i-Size",
+  "faixa": "40 a 150 cm (até 36 kg)",
+  "kgMin": 0,
+  "kgMax": 36,
+  "idade": "Do nascimento a cerca de 12 anos",
+  "grupos": "i-Size (equivale aos grupos 0+ a 3)",
+  "isofix": "Sim",
+  "ancoragem": "Top tether",
+  "costasAte": "Fase bebê, no limite de altura do manual",
+  "reclinacoes": "4 (1 de costas e 3 de frente)",
+  "giro360": true,
+  "pesoProduto": "11 kg",
+  "norma": "R129 (i-Size)",
+  "inmetro": "Sim (confira o nº de registro na etiqueta)",
+  "precoFaixa": 3,
+  "precoRef": "entre R$ 1.190 e R$ 1.360 no Mercado Livre (out/2026)",
+  "notas": {
+    "seguranca": 9.3,
+    "instalacao": 8.5,
+    "conforto": 8.5,
+    "versatilidade": 9.5,
+    "custo": 8.5
+  },
+  "melhorPara": "i-Size giratória de entrada",
+  "resumo": "Giratória i-Size com ISOFIX e top tether que cobre de 40 a 150 cm por um preço próximo ao das cadeiras multigrupo comuns. Tem menos reclinações para a fase de frente do que algumas concorrentes.",
+  "pros": [
+    "Norma i-Size (R129), com teste de impacto lateral",
+    "Giro 360° com a cadeira instalada",
+    "Preço baixo para uma giratória i-Size",
+    "Faixa de uso por altura, mais precisa que por peso"
+  ],
+  "contras": [
+    "Só 1 reclinação na posição de costas",
+    "Marca nova no segmento de giratórias, com poucas avaliações",
+    "Exige top tether"
+  ],
+  "paraQuem": "Quem quer giro e i-Size sem pagar preço de importada premium.",
+  "paraQuemNao": "Quem precisa de várias inclinações para o bebê dormir de costas em viagens longas.",
+  "imagemAlt": "Cadeirinha Fisher-Price ShieldPro 360 preta",
+  "mlUrl": "https://meli.la/1qRsrG5",
+  "fonte": "https://www.trocafacil.multilaser.com.br/cadeirinha-shieldpro-360-i-size-40-150cm-fisher-price-bb722/p",
+  "nota": 8.9,
+  "atualizado": "2026-10-31",
+  "imagem": "817117-MLA99945643227_112025"
+}

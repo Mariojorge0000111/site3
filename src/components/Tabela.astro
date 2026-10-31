@@ -1,0 +1,31 @@
+---
+import type { Produto } from '../data/produtos';
+import { urlReview, imgProduto } from '../data/produtos';
+interface Props { produtos: Produto[]; selos?: Record<string, string>; }
+const { produtos, selos = {} } = Astro.props;
+---
+<div class="tabela-rolagem">
+  <table class="tabela">
+    <thead>
+      <tr><th>Modelo</th><th>Melhor para</th><th>Faixa</th><th>ISOFIX</th><th>De costas</th><th>Nota</th><th><span class="pular">Comprar</span></th></tr>
+    </thead>
+    <tbody>
+      {produtos.map((p) => (
+        <tr>
+          <td>
+            <span class="tabela-mini">
+              <img src={imgProduto(p.imagem)} referrerpolicy="no-referrer" alt="" width="44" height="44" loading="lazy" />
+              <a href={`#${p.slug}`}>{p.nome}</a>
+            </span>
+          </td>
+          <td>{selos[p.slug] ?? p.melhorPara}</td>
+          <td>{p.faixa}</td>
+          <td>{p.isofix.split(' (')[0]}</td>
+          <td>{p.costasAte}</td>
+          <td class="num">{p.nota.toFixed(1).replace('.', ',')}</td>
+          <td><a class="btn btn-ml" style="padding:8px 12px;font-size:.88rem" href={p.mlUrl} target="_blank" rel="sponsored nofollow noopener">Ver preço</a></td>
+        </tr>
+      ))}
+    </tbody>
+  </table>
+</div>

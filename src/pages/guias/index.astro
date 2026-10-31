@@ -1,0 +1,29 @@
+---
+import Base from '../../layouts/Base.astro';
+const guias = Object.values(import.meta.glob('./*.md', { eager: true }) as Record<string, any>);
+---
+<Base title="Guias sobre Cadeirinha para Carro" description="Guias sobre a lei da cadeirinha, a norma i-Size, ISOFIX e instalação correta, com base nas regras do Contran e do Inmetro e no manual dos fabricantes.">
+  <header class="cabeca-pagina">
+    <div class="wrap">
+      <nav class="migalhas" aria-label="Você está em"><a href="/">Início</a> / Guias</nav>
+      <h1>Guias</h1>
+      <p class="lead" style="max-width:64ch">O que a lei exige, como as normas funcionam e como instalar a cadeirinha do jeito certo.</p>
+    </div>
+  </header>
+  <section class="wrap" style="padding:40px 20px 80px">
+    <div class="grade">
+      {guias.map((g) => (
+        <a class="caixa caixa-link" href={g.url.replace(/\/?$/, '/')}>
+          <span class="chip">Guia</span>
+          <h3>{g.frontmatter.h1}</h3>
+          <p>{g.frontmatter.descricao}</p>
+        </a>
+      ))}
+      <a class="caixa caixa-link" href="/comparativos/">
+        <span class="chip">Comparativos</span>
+        <h3>Modelos lado a lado</h3>
+        <p>Comparações diretas entre as cadeirinhas mais procuradas.</p>
+      </a>
+    </div>
+  </section>
+</Base>

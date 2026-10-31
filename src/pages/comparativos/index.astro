@@ -1,0 +1,25 @@
+---
+import Base from '../../layouts/Base.astro';
+const itens = Object.values(import.meta.glob('./*.md', { eager: true }) as Record<string, any>);
+---
+<Base title="Comparativos de Cadeirinhas para Carro" description="Comparativos diretos entre cadeirinhas para carro vendidas no Brasil: ficha técnica lado a lado, diferenças de instalação e qual escolher para cada família.">
+  <header class="cabeca-pagina">
+    <div class="wrap">
+      <nav class="migalhas" aria-label="Você está em"><a href="/">Início</a> / Comparativos</nav>
+      <h1>Comparativos</h1>
+      <p class="lead" style="max-width:64ch">Dois modelos, uma decisão. Ficha lado a lado e o veredito para cada tipo de família.</p>
+    </div>
+  </header>
+  <section class="wrap" style="padding:40px 20px 80px">
+    <div class="grade">
+      {itens.map((g) => (
+        <a class="caixa caixa-link" href={g.url.replace(/\/?$/, '/')}>
+          <span class="chip">Comparativo</span>
+          <h3>{g.frontmatter.h1}</h3>
+          <p>{g.frontmatter.descricao}</p>
+        </a>
+      ))}
+      <a class="caixa caixa-link" href="/comparador/"><span class="chip">Ferramenta</span><h3>Comparador com filtros</h3><p>Todos os modelos numa tabela, filtrando por peso, ISOFIX, giro e preço.</p></a>
+    </div>
+  </section>
+</Base>
