@@ -80,7 +80,7 @@ De costas, avança na direção do banco da frente. Em compactos, o passageiro p
 
 O giro compensa o volume. Com o assento virado para a porta, você coloca a criança, ajusta as alças e fecha a fivela de frente para ela. Na fase de costas, que dura pelo menos 15 meses, isso poupa as costas de quem pega o bebê várias vezes por dia.
 
-## Onde ela fica devendo
+## Os limites que a gente encontrou
 
 - **Uma inclinação só de costas.** O limite que mais aparece em viagem longa.
 - **Pouco histórico.** Marca recente em giratórias, com poucas avaliações publicadas.

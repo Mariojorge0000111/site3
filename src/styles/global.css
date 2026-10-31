@@ -30,7 +30,7 @@
   --menta: #dcf2e7;
   --menta-escura: #17734b;
   --pessego: #ffe7dc;
-  --coral: #c2412d;
+  --coral: #ad3522;
   --ml: #ffe600;
   --ml-escuro: #f0d500;
   /* faixas da régua */
@@ -246,15 +246,15 @@ p { margin: 0 0 1em; }
 /* Prós e contras */
 .pc { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin-top: 20px; }
 .pc > div { border-radius: var(--raio); padding: 16px 18px; }
-.pc h4 { font-family: var(--corpo); font-size: .95rem; margin-bottom: 8px; letter-spacing: 0; }
+.pc .pc-tit { font-weight: 700; margin: 0 0 8px; font-family: var(--corpo); font-size: .95rem; margin-bottom: 8px; letter-spacing: 0; }
 .pc ul { margin: 0; padding: 0; list-style: none; font-size: .96rem; }
 .pc li { position: relative; padding-left: 26px; margin: 7px 0; }
 .pc li::before { position: absolute; left: 0; top: 2px; width: 18px; height: 18px; border-radius: 50%; display: grid; place-items: center; font-size: .8rem; font-weight: 800; line-height: 1; }
 .pc .pros { background: var(--menta); }
-.pc .pros h4 { color: var(--menta-escura); }
+.pc .pros .pc-tit { color: var(--menta-escura); }
 .pc .pros li::before { content: '+'; background: var(--menta-escura); color: #fff; }
 .pc .contras { background: var(--ruim-fundo); }
-.pc .contras h4 { color: var(--coral); }
+.pc .contras .pc-tit { color: var(--coral); }
 .pc .contras li::before { content: '−'; background: var(--coral); color: #fff; }
 @media (max-width: 640px) { .pc { grid-template-columns: 1fr; } }
 
@@ -480,3 +480,4 @@ p { margin: 0 0 1em; }
   .seletor { padding: 20px; }
 }
 .card-blog p { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.rodape-tit { color: #fff; font-weight: 700; margin: 0 0 12px; font-family: var(--display); }

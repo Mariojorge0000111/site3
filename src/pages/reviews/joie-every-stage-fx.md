@@ -8,99 +8,85 @@ data: "2026-10-31"
 atualizado: "2026-10-31"
 alternativas: ["maxi-cosi-spinel-360", "cosco-evolutty-360-x", "safety-1st-multifix"]
 faq:
-  - p: "Até quantos kg a Joie Every Stage FX fica de costas?"
-    r: "Até 18 kg, segundo o fabricante, com a cadeira presa pelo cinto do carro. É um limite alto para uma cadeira sem giro e permite manter a criança de costas bem depois do primeiro ano."
-  - p: "A Joie Every Stage FX tem ISOFIX?"
-    r: "Sim, mas só na posição de frente, a partir de 9 kg. De costas, ela é instalada com o cinto de 3 pontos do carro. Ela não tem top tether."
-  - p: "A Every Stage FX serve para recém-nascido?"
-    r: "Sim, a faixa começa no nascimento, na posição de costas com o cinto do carro. Siga o manual para a reclinação e o redutor dos primeiros meses."
-  - p: "A Joie Every Stage FX tem selo do Inmetro?"
-    r: "Sim. O anúncio informa o registro nº 000820/2021, com base na norma R44/04. Confira o selo e o número na etiqueta da cadeira."
-  - p: "Quanto pesa a Joie Every Stage FX?"
-    r: "Cerca de 14 kg, segundo o fabricante. O peso vem em parte da estrutura interna de aço, e faz dela uma cadeira para instalar e deixar num carro só."
+  - p: "A Joie Every Stage FX instala de costas com ISOFIX?"
+    r: "Não. De costas, ela é presa com o cinto de 3 pontos do carro. O ISOFIX só funciona na posição de frente, a partir de 9 kg."
+  - p: "Entre 9 e 18 kg, a Every Stage FX vai de costas ou de frente?"
+    r: "Nessa faixa, as duas posições são permitidas, e a escolha é sua. A gente manteria de costas até os 18 kg, porque esse é o recurso que justifica comprar esta cadeira."
+  - p: "Por que a Joie Every Stage FX é tão pesada?"
+    r: "São cerca de 14 kg, e parte disso vem da estrutura interna de aço. O peso faz dela uma cadeira para instalar e deixar num carro só."
+  - p: "A Every Stage FX tem top tether?"
+    r: "Não. De frente com ISOFIX, ela fica presa só pelos dois conectores. De costas, só pelo cinto do carro."
+  - p: "Até que idade a Every Stage FX serve?"
+    r: "Do nascimento a cerca de 12 anos, até 36 kg, passando pelos grupos 0+, 1, 2 e 3. As laterais se ampliam conforme a criança cresce."
 ---
 
-## Resumo da nossa avaliação
+> **Resposta rápida:** se a meta é deixar a criança de costas até 18 kg sem pagar por uma giratória, a Every Stage FX é a nossa escolha. O porém é o conjunto: 14 kg de cadeira, fase de costas presa com o cinto do carro, sem ISOFIX, e um preço que oscila muito entre anúncios.
 
-A Joie Every Stage FX é uma multigrupo do nascimento aos 36 kg com uma característica que costuma aparecer só nas giratórias: a criança pode viajar de costas até 18 kg, segundo o fabricante. Ela tem estrutura interna de aço, 6 posições de reclinação e laterais que se ampliam com o crescimento. É uma cadeira robusta, pensada para durar muitos anos.
+Limites, peso e reclinações daqui em diante são os da ficha da Joie e do anúncio. As impressões de uso são da nossa equipe.
 
-Na nossa avaliação, ela é a escolha de quem quer seguir a orientação de manter a criança de costas pelo maior tempo possível, mas não quer pagar o preço de uma giratória. A troca envolve três pontos: ela é pesada, com cerca de 14 kg, a fase de costas é instalada com o cinto do carro, e não com ISOFIX, e o preço varia muito de um vendedor para outro. Este review mostra como lidar com cada um.
+## Como uma cadeira sem giro chega a 18 kg de costas?
 
-## O que muda com 18 kg de costas
+Ela é robusta. A estrutura interna é de aço, o casco é largo e as laterais se ampliam com o crescimento. Isso permite acomodar de costas uma criança bem maior do que as multigrupo comuns, que viram para frente aos 13 kg, perto do primeiro ano.
 
-A maioria das multigrupo vira a criança para frente ao fim do grupo 0+, aos 13 kg, perto do primeiro ano. Com 18 kg de limite, a Every Stage FX permite adiar essa virada bastante.
+Por que isso importa: numa batida de frente, a cadeira de costas apoia cabeça, pescoço e tronco ao mesmo tempo. De frente, o cinto segura o tronco e a cabeça é lançada para frente. A orientação da AAP de 2018 vai nessa linha: manter de costas até o limite de peso ou altura que o fabricante da cadeira permite. Os sinais certos para a virada estão no artigo [quando virar a cadeirinha de frente](/blog/quando-virar-a-cadeirinha-de-frente/).
 
-Isso importa porque, numa batida frontal, a cadeira de costas apoia cabeça, pescoço e tronco de uma vez. De frente, o cinto segura o tronco e a cabeça é jogada para frente. A Academia Americana de Pediatria (AAP, 2018) orienta manter a criança de costas até o limite de peso ou altura do fabricante. Estudos dos Estados Unidos citados pela DGT espanhola apontam redução de até 90% no risco de lesão na posição de costas.
+O efeito que pouca gente considera é o físico. Sem giro, pôr uma criança grande de costas exige se curvar para dentro do carro e erguer o peso dela. Nos testes da equipe, essa foi a parte mais cansativa do uso. Se você faz isso várias vezes por dia, uma giratória pode compensar a diferença de preço.
 
-Há um efeito prático que pouca gente considera: sem giro, colocar uma criança maior numa cadeira de costas exige se curvar para dentro do carro e levantar o peso dela. Nos testes da equipe, essa foi a parte mais cansativa do uso. Se você vai fazer isso várias vezes por dia, uma giratória pode compensar a diferença de preço.
+## De costas com cinto, de frente com ISOFIX
 
-## Instalação no carro
-
-A Every Stage FX tem duas formas de instalação, conforme a fase:
-
-| Fase (segundo o fabricante) | Posição | Como instala |
+| Fase | Posição | Como instala |
 |---|---|---|
 | Do nascimento até 18 kg | De costas | Cinto de 3 pontos do carro |
 | A partir de 9 kg | De frente | ISOFIX ou cinto do carro |
 
-Repare na sobreposição: entre 9 e 18 kg, você escolhe se a criança vai de costas ou de frente. Para aproveitar o recurso principal da cadeira, a escolha é ficar de costas até o limite.
+Repare na faixa que se sobrepõe. Entre 9 e 18 kg, você escolhe a posição. Para aproveitar o motivo de comprar esta cadeira, a escolha é ficar de costas até o limite, mesmo que isso signifique adiar o ISOFIX.
 
-### De costas, com cinto
+De frente, a instalação é por encaixe: conectores nas barras do banco, cadeira empurrada até ficar rente ao encosto. Não há top tether. O guia [ISOFIX ou cinto](/guias/isofix-ou-cinto/) compara os dois sistemas.
 
-Toda a fase longa de costas é feita com o cinto do carro. Quando instalamos, passar o cinto pelas guias de costas exigiu atenção: ele precisa seguir o caminho exato do manual, sem torção, e ficar bem esticado. Apoiar o peso do corpo na cadeira enquanto puxa a parte diagonal do cinto ajuda a tirar a folga.
+## Na prática: a fase longa de costas com cinto
 
-O teste final é segurar a cadeira na altura onde o cinto passa e tentar movê-la para os lados e para frente. A referência usada pela NHTSA é que ela não se mova mais que cerca de 2,5 cm. Repita a conferência com frequência, porque o cinto pode ceder com o uso.
+Como a fase de costas pode durar bem mais de um ano, a instalação com cinto vira hábito. O que a gente faria:
 
-### De frente, com ISOFIX
+1. Abra o manual na página da posição de costas e siga as guias marcadas para ela, que são diferentes das de frente.
+2. Passe o cinto sem torção e afivele.
+3. Apoie o peso do corpo na cadeira e recolha a parte diagonal até tirar a folga.
+4. Faça o [teste de folga](/guias/isofix-ou-cinto/): a referência da NHTSA é que a cadeira não se mova mais que cerca de 2,5 cm na altura em que o cinto passa.
+5. Repita a conferência com frequência. Com uma cadeira de 14 kg e uma criança cada vez mais pesada, o cinto do carro pode ceder com o uso.
 
-Na posição de frente, a cadeira aceita ISOFIX. Você encaixa os conectores nas barras do banco e empurra até ficar rente ao encosto. A cadeira não tem top tether, segundo o fabricante.
+Quando a gente instalou, passar o cinto pelas guias de costas foi a etapa que pediu mais atenção. A cadeira é grande e pesada, então vale fazer a instalação com calma, com a porta toda aberta e, se possível, com outra pessoa segurando a cadeira no lugar enquanto você puxa o cinto. Depois de pegar o jeito, a reinstalação fica mais rápida, mas o teste de folga continua obrigatório.
 
-Nosso guia [ISOFIX ou cinto](/guias/isofix-ou-cinto/) explica as diferenças entre os sistemas.
+## Estrutura de aço e laterais que abrem
 
-### Espaço no banco de trás
+A estrutura interna de aço reforça o corpo da cadeira e explica boa parte dos 14 kg. As laterais que se ampliam acompanham o crescimento e dão mais espaço nos ombros da criança maior, mantendo a proteção da cabeça e dos ombros conforme ela cresce.
 
-Uma criança maior de costas ocupa bastante espaço. A cadeira avança na direção do banco da frente, e em carros compactos o passageiro pode precisar adiantar o banco. Meça o espaço antes de comprar.
+A certificação é a R44/04, com registro no Inmetro nº 000820/2021. A R44/04 é mais antiga que a i-Size (R129) e não exige teste de impacto lateral. O guia [o que é i-Size](/guias/o-que-e-i-size/) mostra o que muda entre elas.
 
-## Segurança
+## Seis reclinações ou menos? A ficha não ajuda
 
-A Every Stage FX é certificada pela norma europeia R44/04 e tem registro no Inmetro nº 000820/2021, segundo o anúncio. A R44/04 é mais antiga que a i-Size (R129) e não exige teste de impacto lateral. As laterais que se ampliam com o crescimento ajudam a manter a proteção da cabeça e dos ombros conforme a criança cresce. Para entender as normas, veja [o que é i-Size](/guias/o-que-e-i-size/).
+A Joie fala em 6 posições de reclinação. As fichas das lojas se contradizem nesse ponto, ora com 6, ora dividindo entre costas e frente. Antes de contar com elas, veja no manual quantas valem para cada posição.
 
-A estrutura interna de aço reforça o corpo da cadeira. É parte do motivo de ela ser tão pesada.
+Para a gente, as reclinações ajudam nos cochilos de viagem, principalmente de frente. O anúncio não detalha redutor nem lavagem da capa.
 
-Para as regras brasileiras de transporte, como banco traseiro até 10 anos ou 1,45 m, veja o guia da [lei da cadeirinha](/guias/lei-da-cadeirinha/).
+## Quanto espaço uma criança grande de costas ocupa?
 
-## Ajustes e conforto
+Bastante. Uma criança de quase 18 kg de costas, numa cadeira volumosa, empurra a frente da cadeira na direção do banco do passageiro. Em carros compactos, quem vai na frente pode precisar adiantar o banco por mais de um ano. O artigo sobre [cadeirinha para carro pequeno](/blog/cadeirinha-para-carro-pequeno/) ensina a medir antes.
 
-O fabricante indica 6 posições de reclinação. A ficha das lojas é contraditória nesse ponto, ora com 6 posições, ora dividindo entre posições de costas e de frente. Confira no manual quantas valem para cada posição antes de contar com elas.
+E, com 14 kg, revezar entre carros é cansativo. Cada troca na fase de costas significa refazer a instalação com cinto do zero.
 
-Na nossa avaliação, as reclinações ajudam nos cochilos de viagem, principalmente na fase de frente.
+## Como achar a Joie sem pagar a mais
 
-As laterais ajustáveis acompanham o crescimento e dão mais espaço nos ombros da criança maior. O anúncio não detalha redutor nem forma de lavagem da capa, então confira o manual.
+A faixa de preço desta cadeira é larga, e o mesmo modelo aparece com valores bem distantes conforme o vendedor. Algumas atitudes ajudam:
 
-## Tamanho, peso e uso no dia a dia
+- compare vários anúncios já com frete;
+- prefira vendedor com nota fiscal e boa reputação;
+- confira no título e nas fotos que é a **Every Stage FX**, de 0 a 36 kg;
+- ao receber, procure o selo do Inmetro na etiqueta, como explica o artigo sobre [o selo do Inmetro](/blog/selo-inmetro-cadeirinha-como-consultar/).
 
-Com cerca de 14 kg, segundo o fabricante, a Every Stage FX é uma das cadeiras mais pesadas desta faixa. Ela foi feita para ficar instalada num carro só. Revezar entre carros é cansativo, e cada troca na fase de costas exige refazer a instalação com cinto.
+Num anúncio na parte de baixo da faixa, a relação entre recursos e custo melhora muito. O [comparador de cadeirinhas](/comparador/) ajuda a ver onde ela se encaixa.
 
-Ela também é volumosa. Isso, somado à posição longa de costas, pede um carro com espaço razoável atrás.
+## O que a gente faria
 
-## Pontos de atenção
-
-- **Pesada.** Cerca de 14 kg, pouco prática para trocar de carro.
-- **ISOFIX só de frente.** A fase longa de costas depende do cinto do carro e de conferências frequentes.
-- **Não gira.** Colocar uma criança grande de costas exige esforço.
-- **Ficha contraditória nas reclinações.** Confirme no manual.
-- **Preço muito variável.** A faixa de referência no Mercado Livre era de R$ 1.430 a R$ 3.000 em outubro de 2026, conforme o vendedor. Compare vários anúncios antes de fechar, olhando o preço com frete, e prefira vendedores com nota fiscal.
-
-## Vale a pena?
-
-Vale para quem quer manter a criança de costas até 18 kg, tem carro com espaço atrás e não quer pagar por uma giratória. Se você encontrar um anúncio na parte de baixo da faixa de preço, a relação entre recursos e custo melhora muito. Para ver como ela se compara com as outras do mesmo perfil, use o [comparador de cadeirinhas](/comparador/).
-
-Não vale para quem quer instalar de costas com ISOFIX, troca a cadeira de carro com frequência ou faz questão do giro.
-
-| Alternativa | Por que considerar |
-|---|---|
-| [Maxi-Cosi Spinel 360](/reviews/maxi-cosi-spinel-360/) | 18 kg de costas com giro, ISOFIX e perna de apoio, por um preço maior |
-| [Cosco Evolutty 360 X](/reviews/cosco-evolutty-360-x/) | 18 kg de costas com giro e top tether |
-| [Safety 1st Multifix](/reviews/safety-1st-multifix/) | Mais leve e mais barata, de costas só até 13 kg |
-
-Antes de instalar, confira o selo e o registro do Inmetro na etiqueta e o manual do carro para saber qual posição do banco tem cinto de 3 pontos e ISOFIX.
+- **Quer de costas até 18 kg, tem carro com espaço atrás e não vai trocar a cadeira de carro:** a gente compraria a Every Stage FX num anúncio bem pesquisado.
+- **Mesma meta, mas quer giro e tem orçamento maior:** [Maxi-Cosi Spinel 360](/reviews/maxi-cosi-spinel-360/), com ISOFIX e perna de apoio.
+- **Quer giro e 18 kg de costas gastando menos, com top tether no carro:** [Cosco Evolutty 360 X](/reviews/cosco-evolutty-360-x/).
+- **Prefere uma cadeira mais leve e aceita virar perto de 1 ano:** [Safety 1st Multifix](/reviews/safety-1st-multifix/).

@@ -20,7 +20,7 @@ faq:
     r: "A Multifix aceita ISOFIX de frente, tem proteção lateral Air Protect e indicador de instalação. A Cosco Progress é mais leve e mais barata, mas só instala com cinto. Detalhamos tudo no [comparativo Multifix vs Cosco Progress](/comparativos/safety-1st-multifix-vs-cosco-progress/)."
 ---
 
-> **Resposta rápida:** a Multifix é a cadeira que a gente indicaria para quem quer uma só, do nascimento aos 36 kg, que funcione em qualquer carro, com ou sem ISOFIX. O porém é o tempo de costas: só até 13 kg, sempre com o cinto do carro, e ela não gira.
+> **Resposta rápida:** para quem quer uma cadeira só, do nascimento aos 36 kg, que funcione em qualquer carro, com ou sem ISOFIX, a gente aponta a Multifix. O porém é o tempo de costas: só até 13 kg, sempre com o cinto do carro, e ela não gira.
 
 As medidas e os limites que aparecem aqui são os informados pela Safety 1st. O resto é o que a nossa equipe viu instalando.
 

@@ -1,6 +1,7 @@
 import type { APIRoute } from 'astro';
 import { PRODUTOS, urlReview } from '../data/produtos';
 import { SITE } from '../config';
+import { todosPosts } from '../lib/blog';
 export const GET: APIRoute = ({ site }) => {
   const u = (p: string) => new URL(p, site).href;
   const linhas = [
@@ -19,6 +20,9 @@ export const GET: APIRoute = ({ site }) => {
     `- [Lei da cadeirinha](${u('/guias/lei-da-cadeirinha/')})`,
     `- [O que é i-Size](${u('/guias/o-que-e-i-size/')})`,
     `- [ISOFIX ou cinto](${u('/guias/isofix-ou-cinto/')})`,
+    '',
+    '## Blog',
+    ...todosPosts().map((p) => `- [${p.frontmatter.h1}](${u(p.url)})`),
     '',
     '## Reviews',
     ...PRODUTOS.map((p) => `- [${p.nome}](${u(urlReview(p.slug))}): ${p.tipo}, ${p.faixa}, nota ${p.nota}/10`),

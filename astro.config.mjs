@@ -7,5 +7,5 @@ export default defineConfig({
   site: SITE_URL,
   trailingSlash: 'always',
   build: { format: 'directory' },
-  integrations: [sitemap()],
+  integrations: [sitemap({ lastmod: new Date(), filter: (page) => !page.includes('/404') })],
 });

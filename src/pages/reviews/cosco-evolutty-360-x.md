@@ -90,7 +90,7 @@ De costas, ela avança na direção do banco da frente. Em carros compactos, o p
 
 ## O que a gente faria
 
-- **Carro com ISOFIX e top tether, e vontade de ficar de costas até 18 kg sem gastar muito:** a gente compraria a Evolutty 360 X, desde que achasse um anúncio na parte de baixo da faixa. Ela está na nossa lista de [cadeirinhas giratórias 360](/melhor-cadeirinha-giratoria-360/).
+- **Quer ficar de costas até 18 kg sem gastar muito, e o seu carro tem os três pontos de fixação:** a gente compraria a Evolutty 360 X, desde que achasse um anúncio na parte de baixo da faixa. Ela está na nossa lista de [cadeirinhas giratórias 360](/melhor-cadeirinha-giratoria-360/).
 - **Carro sem gancho de top tether, mas com piso firme:** [Maxi-Cosi Spinel 360](/reviews/maxi-cosi-spinel-360/), com perna de apoio e garantia de 5 anos.
 - **Vários adultos instalam a cadeira:** [Kiddo Supra 360](/reviews/kiddo-supra-360/), que avisa quando a cinta está frouxa.
 - **Faz questão de i-Size e aceita virar mais cedo:** [Safety 1st i-NXT 360](/reviews/safety-1st-i-nxt-360/).
