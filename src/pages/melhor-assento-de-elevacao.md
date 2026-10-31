@@ -4,6 +4,7 @@ titulo: "Melhor assento de elevação 2026: 4 avaliados"
 descricao: "Melhor assento de elevação de 2026: modelos com ISOFIX, com e sem encosto, quando trocar a cadeirinha, como passar o cinto e o que a lei exige."
 h1: "Melhor assento de elevação em 2026: com ISOFIX, com encosto e booster"
 migalha: "Melhor assento de elevação"
+tituloAnalises: "Os 4 assentos, do mais simples ao mais completo"
 intro: "O **Burigotto Protege Fix** é o melhor assento de elevação em custo-benefício: tem encosto removível, ganchos ISOFIX e registro no Inmetro por preço de booster simples. Para crianças maiores, o **Chicco GoFit Plus** é o booster mais prático. Se a criança ainda não está pronta para o cinto do carro, a **Fisher-Price MaxGuard** segura essa fase com encosto até 150 cm."
 data: "2026-10-31"
 atualizado: "2026-10-31"
@@ -22,7 +23,7 @@ produtos:
     texto: "A Cosco Progress é uma cadeira multigrupo, não um assento de elevação: acompanha a criança do nascimento até 36 kg e, na última fase, funciona como assento com encosto usando o cinto do carro. Faz sentido para quem ainda vai comprar a cadeira e quer resolver todas as fases de uma vez. Tem mais de 12 mil avaliações com nota 4,9 no Mercado Livre e pesa 5,8 kg, segundo o fabricante. Não tem ISOFIX, então a cadeira fica presa só pelo cinto."
 faq:
   - p: "Qual o melhor assento de elevação em 2026?"
-    r: "Na nossa avaliação, o **Burigotto Protege Fix**, pelo encosto removível, pelos ganchos ISOFIX e pelo preço baixo. Para crianças a partir de 18 kg que já não precisam de encosto, o Chicco GoFit Plus é o mais prático. Confira sempre o registro do Inmetro na etiqueta."
+    r: "Para a gente, o **Burigotto Protege Fix**, pelo encosto removível, pelos ganchos ISOFIX e pelo preço baixo. Para crianças a partir de 18 kg que já não precisam de encosto, o Chicco GoFit Plus é o mais prático. Confira sempre o registro do Inmetro na etiqueta."
   - p: "Com quantos anos a criança pode usar assento de elevação?"
     r: "A Resolução Contran 819/2021 indica o assento de elevação acima de 4 anos e até 7 anos e meio, ou até 1,45 m e de 15 a 36 kg. A idade sozinha não basta. A troca deve acontecer quando a criança passa do limite do cinto interno da cadeirinha, conforme o manual."
   - p: "Até quando usar assento de elevação?"
@@ -35,94 +36,84 @@ faq:
     r: "Sim. O Inmetro considera o assento de elevação um dispositivo de retenção, e ele precisa de certificação e registro para ser vendido no Brasil. O número de registro fica numa etiqueta presa ao assento."
 ---
 
-## Quando passar para o assento de elevação
+> **Resposta rápida:** o assento de elevação entra quando os ombros passam da última altura do cinto interno da cadeirinha e a criança consegue ficar bem sentada a viagem inteira. A idade sozinha não decide. Depois disso, a escolha é entre encosto e booster: se ela ainda dorme no carro, ou se o banco de trás não tem apoio de cabeça, fique com encosto.
 
-A troca não é por idade. É pelo limite da cadeirinha. Enquanto a criança cabe no cinto de 5 pontos da cadeira, dentro do peso e da altura do manual, ela está mais protegida ali. O assento de elevação entra quando a criança passa desse limite.
+Os números de faixa e peso desta página são do fabricante ou do anúncio. As impressões de uso vêm da equipe, que instalou cada assento e passou o cinto do carro pelas guias.
 
-A [Resolução Contran nº 819/2021](https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao8192021.pdf/@@display-file/file) indica o assento acima de 4 anos e até 7 anos e meio, ou até 1,45 m e de 15 a 36 kg. A Criança Segura usa uma faixa parecida para o booster: de 15 a 36 kg, cerca de 4 a 10 anos. Na prática, os três sinais de que chegou a hora são:
+## Sinais de que seu filho está pronto para o assento
 
-- a criança passou do peso máximo do cinto interno da cadeirinha;
-- os ombros passaram da altura máxima das alças do cinto;
-- ela consegue ficar sentada corretamente, sem se curvar nem tirar o cinto do lugar, durante toda a viagem.
+Fazer 4 anos não é motivo para trocar. O motivo é a criança ter passado do limite da cadeirinha. Enquanto ela cabe no cinto de 5 pontos, dentro do peso e da altura do manual, está mais protegida ali, porque o cinto da cadeira distribui a força por ombros e quadril ao mesmo tempo.
 
-Os dois primeiros sinais estão no manual da cadeirinha que a criança usa hoje. Se você não tem mais o manual, procure o modelo no site do fabricante antes de decidir.
+Os três sinais, nesta ordem:
 
-O terceiro ponto é o que mais se esquece. Um assento de elevação só protege se a criança mantém a postura. Se ela ainda dorme torta ou mexe no cinto, vale esperar ou escolher um modelo com encosto.
+1. ela passou do peso máximo do cinto interno da cadeirinha;
+2. os ombros ficaram acima da última regulagem das alças;
+3. ela fica sentada direito, sem se curvar nem tirar o cinto do lugar, do começo ao fim do trajeto.
 
-## Com encosto ou sem encosto
+Os dois primeiros estão no manual da cadeirinha atual. Se você perdeu o manual, procure o modelo no site do fabricante. O terceiro é o que mais se esquece. O assento só protege se a criança mantém a postura. Se ela ainda dorme torta ou brinca com o cinto, espere mais um pouco.
 
-### Assento com encosto
+Se os grupos 2 e 3 dos anúncios confundem, o texto sobre [os grupos 0+, 1, 2 e 3 da cadeirinha](/blog/grupos-da-cadeirinha-0-1-2-3/) traduz cada faixa.
 
-O encosto dá apoio para cabeça e ombros e tem uma guia que posiciona a faixa diagonal do cinto. Ele ajuda quando a criança dorme no carro, porque a cabeça não cai para o lado. Também é a melhor escolha para carros sem apoio de cabeça no banco de trás. O Burigotto Protege Fix tem encosto com apoio de cabeça de 3 alturas e o encosto sai depois, virando booster.
+## Ele dorme no carro? Com encosto ou booster
 
-### Booster sem encosto
+**Com encosto.** O encosto apoia cabeça e ombros e tem uma guia que posiciona a faixa diagonal. Quando a criança dorme, a cabeça não tomba para o lado e o cinto não escorrega para o pescoço. É também a escolha para carro sem apoio de cabeça no banco traseiro. O Burigotto Protege Fix tem apoio de cabeça com 3 alturas, e o encosto sai depois para virar booster.
 
-O booster é só a base que eleva a criança. É leve, fácil de levar e serve para crianças maiores, que já ficam bem sentadas e cuja cabeça fica protegida pelo apoio de cabeça do banco do carro. O Chicco GoFit Plus pesa 3 kg, segundo o fabricante, e só deve ser usado a partir de 18 kg.
+**Booster sem encosto.** É só a base que eleva a criança. Leve, fácil de levar na mochila de uma carona, mas só para crianças maiores, que ficam bem sentadas e cuja cabeça fica protegida pelo apoio do próprio banco. O Chicco GoFit Plus pesa 3 kg e começa em 18 kg.
 
-### E quem ainda não está pronto
+## E se ele ainda não está pronto
 
-Há crianças que já passaram dos 4 anos mas ainda não ficam bem posicionadas com o cinto do carro. Para elas, uma cadeirinha de frente que vai até 150 cm, como a Fisher-Price MaxGuard, mantém a estrutura e o apoio por mais tempo. Outra saída é comprar desde o início uma multigrupo que termina como assento, como a [Cosco Progress, que vai do nascimento aos 36 kg](/reviews/cosco-progress/). Se você está nessa fase de escolha, compare também as opções da nossa [lista de cadeirinhas para carro](/melhor-cadeirinha-para-carro/).
+Tem criança que já passou dos 4 anos e ainda não se ajeita com o cinto do carro. Para ela, uma cadeira de frente que vai até 150 cm, como a Fisher-Price MaxGuard, mantém a estrutura e o cinto próprio por mais tempo. Outra saída é comprar desde cedo uma multigrupo que termina como assento, como a [Cosco Progress, que vai do nascimento aos 36 kg](/reviews/cosco-progress/). Para comparar com as cadeiras de fases anteriores, veja a [lista de cadeirinhas para carro](/melhor-cadeirinha-para-carro/).
 
-## Como o cinto deve passar
+## Na prática
 
-No assento de elevação, quem protege a criança é o cinto de 3 pontos do carro. O assento só existe para colocar o cinto no lugar certo do corpo. Confira estes pontos a cada viagem:
+No assento de elevação, quem segura a criança é o cinto de 3 pontos do carro. O assento existe só para colocar esse cinto no lugar certo do corpo. A cada viagem, confira:
 
-1. **Faixa abdominal baixa.** Ela passa sobre o quadril e o alto das coxas, nunca sobre a barriga. Na batida, a barriga não tem ossos para segurar a força.
-2. **Faixa diagonal no meio do ombro.** Ela cruza o ombro e o peito, sem encostar no pescoço e sem escorregar para o braço.
-3. **Pelas guias do assento.** A faixa abdominal passa por baixo dos apoios de braço ou pelas guias laterais, conforme o manual. No modelo com encosto, a diagonal passa pela guia do ombro.
-4. **Sem folga.** O cinto fica rente ao corpo. Casaco grosso cria folga.
-5. **Nunca atrás das costas ou debaixo do braço.** Isso tira a proteção do tronco e é um dos erros mais comuns.
+1. **Faixa de baixo sobre o quadril e o alto das coxas**, nunca na barriga. A barriga não tem osso para receber a força da freada.
+2. **Faixa diagonal no meio do ombro**, cruzando o peito, sem encostar no pescoço nem cair para o braço.
+3. **Cinto pelas guias do assento.** A faixa de baixo passa sob os apoios de braço ou pelas guias laterais. No modelo com encosto, a diagonal passa pela guia do ombro.
+4. **Fita rente ao corpo**, sem casaco grosso por baixo.
+5. **Diagonal sempre na frente**, nunca atrás das costas ou debaixo do braço.
 
-Faça essa checagem com a criança sentada do jeito que ela realmente viaja, encostada e com os pés relaxados. Se o cinto só fica certo quando ela se ajeita, o assento ainda não é o ideal para ela.
+Faça o teste com a criança sentada do jeito que ela viaja de verdade, encostada e com as pernas relaxadas. Se o cinto só fica certo quando ela se arruma, o assento ainda não serve para ela.
 
-A AAP recomenda manter o assento até o cinto encaixar corretamente sem ele, o que muitas vezes passa da idade mínima da lei.
+## Para que serve o ISOFIX num assento
 
-## Como escolher
+Aqui o ISOFIX tem outro papel. Ele não segura a criança, quem faz isso é o cinto do carro. Os ganchos prendem o assento no banco, mantêm a posição durante a viagem e impedem que ele fique solto quando está vazio. Numa freada forte, um assento solto vira objeto voando dentro do carro. O guia [ISOFIX ou cinto](/guias/isofix-ou-cinto/) mostra onde ficam os pontos.
 
-### ISOFIX no assento de elevação
+## Faixa de peso e altura: onde conferir
 
-No assento de elevação, o ISOFIX não segura a criança. Quem segura é o cinto do carro. Os ganchos têm outra função: deixam o assento firme no banco, ajudam a manter a posição durante a viagem e evitam que ele fique solto quando está vazio. Quem procura assento de elevação com ISOFIX ganha praticidade e um objeto a menos voando numa freada. O guia [ISOFIX ou cinto](/guias/isofix-ou-cinto/) explica como localizar os pontos no carro.
+O Protege Fix vai de 15 a 36 kg e o GoFit Plus de 18 a 36 kg. A MaxGuard é medida por altura, de 76 a 150 cm. No caso do Protege Fix, a ficha do anúncio traz grupo e peso trocados, então a fonte confiável é a etiqueta da peça.
 
-### Faixa de peso e altura
+## Onde achar o selo do Inmetro no assento
 
-Confira os dois limites. O Protege Fix vai de 15 a 36 kg, e o GoFit Plus de 18 a 36 kg, segundo os fabricantes. A MaxGuard é medida por altura, de 76 a 150 cm. No caso do Protege Fix, a ficha do anúncio traz dados trocados de grupo e peso, então vale olhar a etiqueta da peça.
+O Protege Fix segue a NBR 14400, o GoFit Plus foi testado pela americana FMVSS 213 e a MaxGuard segue a R129, a i-Size. Os quatro têm registro no Inmetro, que é o que vale para a venda no Brasil. O próprio Inmetro trata o [assento de elevação como dispositivo de retenção](https://www.gov.br/inmetro/pt-br/acesso-a-informacao/perguntas-frequentes/avaliacao-da-conformidade/dispositivos-de-retencao-para-criancas/assentos-de-elevacao-sao-considerados-como-dispositivos-de-retencao), sujeito à mesma certificação. O selo e o número de registro ficam numa etiqueta presa ao assento. O passo a passo para conferir o número está em [como consultar o selo do Inmetro](/blog/selo-inmetro-cadeirinha-como-consultar/).
 
-### Norma e certificação
+## Viagem longa ou trajeto da escola?
 
-O Protege Fix segue a NBR 14400 e o GoFit Plus foi testado pela americana FMVSS 213. A MaxGuard segue a R129 (i-Size). Os quatro têm registro no Inmetro, que é o que vale para venda no Brasil. O Inmetro deixa claro que o [assento de elevação é um dispositivo de retenção](https://www.gov.br/inmetro/pt-br/acesso-a-informacao/perguntas-frequentes/avaliacao-da-conformidade/dispositivos-de-retencao-para-criancas/assentos-de-elevacao-sao-considerados-como-dispositivos-de-retencao) e precisa de certificação.
+Criança maior passa mais tempo acordada e reclama quando o assento incomoda. O GoFit Plus tem espuma dupla e porta-copos, e sai fácil do carro quando ela vai de carona com outra família. O Protege Fix tem acolchoado mais simples, o que a equipe notou no uso, mas o encosto ajuda nas sonecas. A MaxGuard não reclina, então em estrada a cabeça pode cair para frente quando a criança dorme.
 
-### Faixa de preço
+Sobre preço: a faixa dos cards é referência de outubro de 2026. No Protege Fix ela muda conforme a cor escolhida.
 
-As faixas que mostramos nos cards são referência de outubro de 2026 no Mercado Livre e mudam com frequência. O Protege Fix varia conforme a cor.
+## Até quando: a lei e o que vem depois
 
-### Conforto e uso diário
+A Resolução Contran 819/2021 exige o assento de elevação até **7 anos e meio ou 1,45 m**. Depois, a criança usa o cinto do carro no banco de trás até 10 anos, ou até alcançar 1,45 m. A AAP orienta manter o assento até o cinto encaixar sozinho no corpo, o que muitas vezes passa da idade mínima da lei. Exceções, como táxi, aplicativo e transporte escolar, e o valor da multa estão no guia da [lei da cadeirinha](/guias/lei-da-cadeirinha/).
 
-Criança maior passa mais tempo acordada no carro e reclama quando o assento incomoda. O GoFit Plus tem espuma dupla e porta-copos, e é leve para tirar do carro na hora de levar a criança de carona com outra família. O Protege Fix tem acolchoado mais simples, o que notamos ao usar, mas o encosto ajuda nas sonecas. A MaxGuard não reclina, então em viagens longas a cabeça pode cair para frente quando a criança dorme.
+## O cinto passando no lugar errado
 
-## Qual comprar, conforme o seu caso
+1. **Trocar cedo demais.** Use o cinto interno da cadeirinha até o limite do manual.
+2. **Diagonal no pescoço.** A criança reclama e passa o cinto para trás das costas. Ajuste a guia ou volte para um modelo com encosto.
+3. **Faixa de baixo na barriga.** Ela pertence aos ossos do quadril.
+4. **Booster em banco sem apoio de cabeça.** Sem encosto, só onde o banco tem apoio na altura certa.
+5. **Assento solto no banco vazio.** Sem ISOFIX, prenda com o cinto mesmo sem criança.
 
-- **Gastar pouco com ISOFIX e encosto:** Burigotto Protege Fix.
-- **Criança acima de 18 kg, que fica bem sentada, em família que reveza carros:** Chicco GoFit Plus.
-- **Criança que ainda não se adapta ao cinto do carro:** Fisher-Price MaxGuard, até 150 cm.
-- **Ainda vai comprar a primeira cadeira e quer uma só até 36 kg:** Cosco Progress.
+## O que a gente conferiu em cada assento
 
-Se a criança está entrando agora na fase de 4 a 5 anos e você também está trocando o carro, vale conferir os pontos de ISOFIX do banco antes de escolher.
+A equipe instalou cada assento com e sem ISOFIX quando possível, passou o cinto do carro pelas guias e pontuou segurança, instalação, conforto, versatilidade e custo-benefício. Os critérios estão na [metodologia](/metodologia/).
 
-## O que a lei exige
+## O que a gente faria
 
-A Resolução Contran 819/2021 exige o assento de elevação até **7 anos e meio ou 1,45 m**. Depois, a criança usa o cinto do carro no banco de trás até 10 anos ou até chegar a 1,45 m. Transportar a criança sem o dispositivo adequado é infração gravíssima pelo art. 168 do CTB: multa de R$ 293,47, 7 pontos na CNH e retenção do veículo até a situação ser corrigida.
+- **Criança de 4 ou 5 anos saindo agora da cadeirinha, que ainda dorme no carro:** a gente iria de [Burigotto Protege Fix](/reviews/burigotto-protege-fix/). Tem encosto, ganchos ISOFIX e o menor preço da lista, e depois vira booster.
+- **Criança acima de 18 kg, que já fica bem sentada, em família que reveza carros e caronas:** o [Chicco GoFit Plus](/reviews/chicco-gofit-plus/), leve e travado no ISOFIX para não escorregar no banco.
+- **Criança que passou da idade mas ainda não se ajeita com o cinto do carro:** a [Fisher-Price MaxGuard](/reviews/fisher-price-maxguard/), com cinto próprio até 150 cm. Quem ainda vai comprar a primeira cadeira e quer resolver tudo de uma vez pode olhar a [Cosco Progress](/reviews/cosco-progress/).
 
-Há exceções, como táxi e carro de aplicativo para crianças de até 7 anos e meio durante a corrida, e transporte escolar. O resumo completo está no nosso guia da [lei da cadeirinha](/guias/lei-da-cadeirinha/).
-
-## Erros comuns
-
-1. **Trocar cedo demais.** Fazer 4 anos não é motivo para sair da cadeirinha. Use o cinto interno até o limite do manual.
-2. **Faixa diagonal no pescoço.** A criança reclama e acaba passando o cinto por trás das costas. Ajuste a guia ou escolha um modelo com encosto.
-3. **Faixa abdominal na barriga.** Ela deve ficar sobre os ossos do quadril.
-4. **Booster sem apoio de cabeça.** Booster sem encosto só em banco que tem apoio de cabeça na altura certa.
-5. **Assento solto no banco vazio.** Sem ISOFIX, prenda com o cinto mesmo quando não há criança.
-6. **Comprar sem selo.** Confira a etiqueta do Inmetro e o número de registro.
-
-## Como avaliamos
-
-A equipe instalou cada assento com e sem ISOFIX quando possível, conferiu a passagem do cinto do carro pelas guias e avaliou segurança, instalação, conforto, versatilidade e custo-benefício. As especificações vêm do fabricante ou do anúncio. Os critérios completos estão na nossa [metodologia](/metodologia/). Antes de usar, confira o selo e o registro do Inmetro na etiqueta e o manual do carro.
+Antes da primeira viagem, faça o teste do cinto descrito acima com a criança sentada do jeito que ela realmente viaja.

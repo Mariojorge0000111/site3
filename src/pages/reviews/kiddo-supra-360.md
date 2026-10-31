@@ -9,95 +9,77 @@ atualizado: "2026-10-31"
 alternativas: ["cosco-evolutty-360-x", "safety-1st-i-nxt-360", "fisher-price-shieldpro-360"]
 faq:
   - p: "Para que serve o alarme do top tether da Kiddo Supra 360?"
-    r: "Segundo o fabricante, o alarme avisa quando a cinta do top tether não está tensionada. Cinta frouxa é um dos erros de instalação mais comuns e quase não se percebe a olho. O alarme ajuda, mas não substitui a conferência pelo manual."
-  - p: "Até quantos kg a Kiddo Supra 360 fica de costas?"
-    r: "Até 18 kg, nos grupos 0+ e 1, segundo o fabricante. É um limite alto, que permite manter a criança de costas bem depois do primeiro ano."
-  - p: "A Kiddo Supra 360 tem ISOFIX?"
-    r: "Sim, ela usa ISOFIX com top tether. Confira no manual do carro se a posição do banco traseiro tem os dois pontos, porque muitos carros têm ISOFIX e não têm o ponto superior."
-  - p: "A Kiddo Supra 360 tem selo do Inmetro?"
-    r: "Sim. O anúncio informa a certificação pela NBR 14400 e o registro nº 003390/2023. Confira o número na etiqueta da cadeira."
-  - p: "A Kiddo Supra 360 serve para recém-nascido?"
-    r: "Sim. A faixa vai de 40 a 150 cm, segundo o fabricante, e começa no nascimento. Use a posição de costas com a reclinação indicada no manual para bebês pequenos."
+    r: "Ele avisa quando a cinta do top tether não está tensionada. Cinta frouxa é um erro de instalação comum e difícil de perceber a olho. O alarme ajuda, mas não substitui a conferência pelo manual."
+  - p: "O alarme da Supra 360 avisa se o ISOFIX não travou?"
+    r: "Não é essa a função que a Kiddo descreve. O alarme fica na cinta superior e acusa falta de tensão nela. O encaixe dos conectores ISOFIX e a altura das alças você confere do jeito tradicional, olhando os indicadores e fazendo o [teste de folga](/guias/isofix-ou-cinto/)."
+  - p: "A Kiddo Supra 360 é i-Size?"
+    r: "A faixa aparece em altura, de 40 a 150 cm, mas a homologação R129 (i-Size) não está informada nos dados que a gente consultou. A certificação declarada é a NBR 14400, com registro no Inmetro nº 003390/2023."
+  - p: "Quanto pesa a Kiddo Supra 360?"
+    r: "O peso não aparece de forma consistente nos anúncios. Se isso for decisivo, pergunte ao vendedor antes de comprar. Pelo tamanho da base giratória, conte com uma cadeira pesada."
+  - p: "Quantas reclinações tem a Supra 360?"
+    r: "São 5 posições. De costas, a mais deitada acomoda o recém-nascido. De frente, as mais retas servem para a criança que já quer olhar a janela."
 ---
 
-## Resumo da nossa avaliação
+> **Resposta rápida:** a Supra 360 é a giratória que a gente recomendaria para famílias em que mais de uma pessoa instala a cadeira, porque o alarme do top tether avisa quando a cinta está frouxa. O porém é o histórico curto: poucas avaliações publicadas, acabamento mais simples e peso que os anúncios não informam direito.
 
-A Kiddo Supra 360 é uma giratória nacional do nascimento aos 36 kg, com ISOFIX, posição de costas até 18 kg e 5 reclinações, segundo o fabricante. No papel, ela tem a mesma lista de recursos de giratórias bem mais caras. O que a diferencia é um detalhe pequeno e muito útil: o top tether tem um alarme que avisa quando a cinta não está tensionada.
+Os números deste review (faixa, reclinações, limite de costas) são os que a Kiddo declara. As impressões de uso são da nossa equipe.
 
-Na nossa avaliação, esse alarme é a melhor razão para escolher a Supra 360. Ele ataca um erro de instalação que quase ninguém percebe sozinho. Em troca, a cadeira tem poucas avaliações publicadas no Mercado Livre até agora, o peso não aparece de forma consistente nos anúncios e o acabamento é menos refinado que o das marcas importadas. Este review explica por que a cinta frouxa importa e o que você ganha e perde com este modelo.
+## O alarme do top tether resolve o quê, exatamente?
 
-## O diferencial: top tether com alarme
+Primeiro, o básico. O ISOFIX trava a base da cadeira embaixo, nas barras do banco. O top tether trava o topo: é uma fita ligada ao encosto da cadeira que você engata num ponto de ancoragem do carro, quase sempre atrás do banco traseiro ou no piso do porta-malas. Numa batida de frente, ela limita o quanto a cadeira gira para frente e, com isso, o movimento da cabeça da criança.
 
-### O que é o top tether
+O alarme da Supra 360 acusa quando essa cinta não está tensionada. Parece pouco, mas é o ponto em que a gente mais viu instalação errada em todas as cadeiras com top tether que testou.
 
-É uma cinta que sai do alto da cadeira e prende num ponto de ancoragem do carro, normalmente atrás do encosto do banco traseiro ou no assoalho do porta-malas. O ISOFIX prende a base embaixo. O top tether segura a parte de cima. Numa batida frontal, ele reduz o quanto a cadeira gira para frente, o que diminui o movimento da cabeça da criança.
+Pense em quem vai mexer na cadeira. Se é sempre a mesma pessoa, cuidadosa, que leu o manual, o alarme é um conforto. Se a criança vai para a escola com o pai, volta com a avó e às vezes sai com a babá, ele vira um segundo par de olhos que não se cansa. É nesse cenário que a Supra 360 se destaca das concorrentes de preço parecido.
 
-### Por que a cinta frouxa é um problema
+## Cinta presa não é cinta esticada
 
-Uma cinta de top tether presa mas sem tensão parece instalada. Ela está no gancho, a cadeira não balança muito, e tudo dá a impressão de estar certo. Só que a cinta solta só começa a trabalhar depois que a cadeira já se moveu. Esse atraso é justamente o que o sistema existe para evitar.
+Uma cinta enganchada e sem tensão engana bem. Ela está no lugar, a cadeira não balança muito, tudo parece certo. O problema é que a cinta solta só começa a trabalhar depois que a cadeira já andou para frente, e esse atraso é justamente o que o sistema existe para evitar.
 
-A cinta também afrouxa com o tempo: alguém mexe no banco, a cadeira é retirada para limpeza, o carro passa por buracos. Nos testes da equipe, conferir a tensão a olho foi a etapa mais sujeita a erro em todas as cadeiras com top tether.
+Ela também afrouxa sozinha com o tempo. Alguém reclina o banco, a cadeira sai para lavar a capa, o carro passa por uma sequência de buracos. Conferir tensão a olho depende de experiência. O alarme transforma isso numa verificação simples, que avó, babá ou tio conseguem fazer sem ter lido o manual.
 
-### O que o alarme muda
+## Na prática: instalando com o alarme ligado
 
-Segundo o fabricante, o alarme avisa quando a cinta não está tensionada. Na prática, ele transforma uma conferência que depende de experiência numa verificação simples, que qualquer adulto da família consegue fazer. Isso ajuda especialmente quando a cadeira é instalada por avós, babás ou alguém que não leu o manual.
+1. Confirme no manual do carro que a posição escolhida tem ISOFIX e top tether juntos.
+2. Encaixe os conectores nas barras e empurre a base contra o encosto do banco.
+3. Leve a cinta superior por cima do banco até o gancho, sem torcer.
+4. Estique até o alarme parar de indicar falta de tensão.
+5. Puxe a cadeira pela base e veja se ela se mantém firme.
+6. Gire o assento para a porta e de volta, e confira se ele travou na posição de viagem.
+7. Toda vez que mexerem no banco, olhe o alarme antes de sair.
 
-O alarme não substitui o manual. Ele avisa sobre a tensão da cinta, mas não confere o encaixe do ISOFIX nem a posição correta das alças. Siga o passo a passo completo do fabricante.
+O passo a passo genérico para cadeiras com ISOFIX está no guia [ISOFIX ou cinto](/guias/isofix-ou-cinto/). Aqui o que muda é o passo 4: em vez de adivinhar, você tem um aviso.
 
-## Instalação no carro
+## O que o alarme não confere
 
-O processo segue a ordem comum das giratórias com ISOFIX e top tether:
+Ele cuida de uma coisa só, a tensão da cinta superior. Não diz se os conectores ISOFIX travaram, não confere a altura das alças e não sabe se a reclinação está certa para a posição de costas. Tudo isso continua sendo conferência sua.
 
-1. Encaixe os conectores ISOFIX nas barras do banco traseiro.
-2. Empurre a base até ela ficar rente ao encosto do banco.
-3. Passe a cinta do top tether por cima do banco e prenda no ponto de ancoragem.
-4. Estique a cinta até o alarme indicar a tensão correta.
-5. Segure a cadeira perto da base e tente movê-la para os lados. Ela não deve sair do lugar.
+E tem um pré-requisito óbvio que muita gente esquece: o alarme só ajuda se o carro tiver o gancho de top tether. Muitos carros têm ISOFIX e não têm esse ponto. Sem ele, a Supra 360 não serve como foi projetada.
 
-Antes de comprar, confira no manual do carro se a mesma posição do banco tem ISOFIX e top tether. Muitos carros têm as barras e não têm o ponto superior. Nosso guia sobre [ISOFIX ou cinto](/guias/isofix-ou-cinto/) explica como identificar cada um.
+## Poucas avaliações: isso deveria preocupar?
 
-## Segurança
+A Supra 360 tem pouco histórico publicado por compradores no Mercado Livre até agora. Isso não diz nada sobre a segurança da cadeira, que tem certificação NBR 14400 e registro no Inmetro nº 003390/2023 (veja [como conferir o registro](/blog/selo-inmetro-cadeirinha-como-consultar/) na etiqueta).
 
-A Supra 360 é certificada pela NBR 14400, com registro no Inmetro nº 003390/2023, segundo o anúncio. A faixa de uso aparece também em altura, de 40 a 150 cm, mas o fabricante não informa homologação R129 (i-Size) nos dados que consultamos. Se a i-Size for prioridade, veja [o que é i-Size](/guias/o-que-e-i-size/) e compare com as opções do fim deste review.
+O que a falta de avaliações tira de você é a previsibilidade: como o tecido aguenta três anos de lanche, como o giro se comporta com o uso, se o alarme continua confiável. Quem gosta de comprar com base em milhares de opiniões vai se sentir mais seguro com outra marca.
 
-O limite de costas até 18 kg é um ponto forte real. A Academia Americana de Pediatria (AAP, 2018) orienta manter a criança de costas pelo maior tempo possível, até o limite do fabricante. Muitas cadeiras param em 13 kg. Com 18 kg, você tem bem mais margem para seguir essa orientação.
+A faixa de uso aparece em centímetros, de 40 a 150 cm, mas a homologação i-Size não está informada nos dados que a gente consultou. Se a R129 é prioridade, o guia [o que é i-Size](/guias/o-que-e-i-size/) ajuda a decidir.
 
-Para as regras de uso no Brasil, como banco traseiro até 10 anos ou 1,45 m, veja o guia da [lei da cadeirinha](/guias/lei-da-cadeirinha/).
+## De costas até 18 kg numa nacional
 
-## Ajustes e conforto
+Esse é o outro trunfo. Muitas cadeiras viram para frente aos 13 kg, perto do primeiro ano. A Supra 360 deixa de costas até 18 kg, o que dá margem larga para adiar a virada. O motivo para adiar e os sinais certos de que chegou a hora estão no artigo [quando virar a cadeirinha de frente](/blog/quando-virar-a-cadeirinha-de-frente/).
 
-São 5 reclinações, segundo o fabricante. Na fase de costas, a reclinação mais deitada acomoda o recém-nascido. Na fase de frente, as posições mais retas ajudam a criança maior.
+O giro torna isso viável na rotina. Com a cadeira virada para a porta, você acomoda uma criança grande de costas sem se curvar para dentro do carro. A gente conferia o travamento girando de volta e puxando o assento de leve antes de sair.
 
-O giro funciona com a cadeira instalada. Na nossa avaliação, ele facilitou muito colocar e tirar a criança, principalmente na posição de costas, quando você precisaria se curvar para dentro do carro numa cadeira fixa.
+## Acabamento e conforto: onde ela economiza
 
-O acabamento é o ponto menos forte no conforto. Tecido e espuma parecem mais simples que os das marcas importadas de preço mais alto. Não afeta a segurança, mas aparece no toque e no visual. O anúncio não detalha a forma de lavagem da capa, então confira o manual antes de lavar.
+São 5 reclinações, bom número para a faixa. No acabamento, a Supra 360 fica atrás das importadas mais caras: tecido e espuma parecem mais simples ao toque. Não muda a função da cadeira, mas aparece no visual e na sensação.
 
-## Tamanho, peso e uso no dia a dia
+O anúncio não explica como lavar a capa. Leia o manual antes de ir para a máquina, e o artigo [como limpar cadeirinha de carro](/blog/como-limpar-cadeirinha-de-carro/) cobre o resto.
 
-O peso da cadeira não aparece de forma consistente nos anúncios. Por ser uma giratória com base reforçada, conte com uma cadeira pesada, feita para ficar instalada num carro só.
+Como toda giratória de costas, ela avança na direção do banco da frente. Em compactos, meça o espaço antes. E, sem peso confiável nos anúncios, trate-a como cadeira para instalar e deixar.
 
-Como toda giratória de costas, ela avança na direção do banco da frente. Em carros compactos, meça o espaço antes de comprar.
+## O que a gente faria
 
-Se a cadeira for revezar entre carros, o alarme ajuda: cada reinstalação fica mais fácil de conferir. Mesmo assim, o peso torna as trocas cansativas.
-
-## Pontos de atenção
-
-- **Poucas avaliações no Mercado Livre.** Há pouco histórico publicado por compradores até agora. Isso não diz nada sobre segurança, mas dificulta saber como a cadeira se comporta depois de anos de uso.
-- **Peso inconsistente nos anúncios.** Confira com o vendedor antes de comprar se isso for importante para você.
-- **Acabamento mais simples** que o de marcas importadas.
-- **Exige top tether no carro.** O alarme só ajuda se o seu carro tiver o ponto de ancoragem.
-- **Preço.** A faixa de referência no Mercado Livre era de R$ 1.380 a R$ 1.600 em outubro de 2026. O valor muda, então compare vendedores.
-
-## Vale a pena?
-
-Vale para quem quer uma giratória completa, com 18 kg de costas e 5 reclinações, e quer uma ajuda extra para instalar certo. Se a cadeira vai ser instalada por mais de uma pessoa da família, o alarme vale muito. Ela está entre as opções da nossa lista de [cadeirinhas giratórias 360](/melhor-cadeirinha-giratoria-360/).
-
-Não vale para quem prefere modelos com histórico longo de avaliações ou acabamento mais caprichado.
-
-| Alternativa | Por que considerar |
-|---|---|
-| [Cosco Evolutty 360 X](/reviews/cosco-evolutty-360-x/) | Também 18 kg de costas, com preço que pode ser menor em alguns anúncios |
-| [Safety 1st i-NXT 360](/reviews/safety-1st-i-nxt-360/) | Homologação i-Size, com limite de costas menor |
-| [Fisher-Price ShieldPro 360](/reviews/fisher-price-shieldpro-360/) | i-Size giratória numa faixa de preço mais baixa |
-
-Antes de instalar, confira o selo e o registro do Inmetro na etiqueta e o manual do carro para localizar os pontos ISOFIX e top tether.
+- **Mais de uma pessoa da família instala a cadeira, e o carro tem ISOFIX e top tether:** a gente iria de Supra 360. O alarme vale mais do que qualquer detalhe de acabamento. Ela está na nossa lista de [cadeirinhas giratórias 360](/melhor-cadeirinha-giratoria-360/).
+- **Quer os mesmos 18 kg de costas e prefere uma marca com mais estrada:** [Cosco Evolutty 360 X](/reviews/cosco-evolutty-360-x/), que em alguns anúncios sai por menos.
+- **Faz questão de i-Size:** [Safety 1st i-NXT 360](/reviews/safety-1st-i-nxt-360/), com limite de costas menor, ou a [Fisher-Price ShieldPro 360](/reviews/fisher-price-shieldpro-360/), numa faixa de preço mais baixa.

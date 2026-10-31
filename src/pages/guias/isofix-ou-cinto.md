@@ -20,7 +20,9 @@ faq:
     r: "Pouco. Segure a cadeira na base, perto de onde passa o cinto ou ficam os conectores, e puxe para os lados e para frente: ela não deve se deslocar mais do que alguns centímetros. Órgãos como a NHTSA usam 2,5 cm como referência."
 ---
 
-A maior parte dos problemas com cadeirinha não está na cadeira, está na instalação. Por isso a pergunta "ISOFIX ou cinto?" é tão comum. A resposta depende do carro, da cadeira e de quantas vezes você vai tirar e colocar a cadeira. Este guia explica cada sistema, como saber o que o seu carro tem e como instalar dos dois jeitos.
+> **Resposta rápida:** a escolha depende de quantos carros a cadeira vai frequentar. Se ela fica num carro só e ele tem ISOFIX, vá de ISOFIX, porque a trava em pontos fixos tira de você a parte mais difícil, que é esticar o cinto. Se ela roda entre carros, ou um deles não tem os pontos, escolha um modelo que aceite cinto e faça o teste de folga em toda reinstalação.
+
+Quase todo problema de cadeirinha que a gente vê começa na instalação. Por isso a pergunta "ISOFIX ou cinto?" é tão comum. A resposta depende do carro, da cadeira e de quantas vezes você vai tirar e colocar a cadeira. Este guia explica cada sistema, como saber o que o seu carro tem e como instalar dos dois jeitos.
 
 ## O que é ISOFIX
 
@@ -38,7 +40,7 @@ O ponto de top tether muda de lugar conforme o carro: pode estar atrás do encos
 
 ## O que é perna de apoio
 
-A **perna de apoio** faz o mesmo trabalho do top tether por outro caminho. É uma haste ajustável que sai da frente da cadeira (ou da base do bebê conforto) e desce até o assoalho do carro. Ela impede que a cadeira mergulhe para frente na batida.
+A **perna de apoio** faz o mesmo trabalho do top tether por outro caminho. É uma haste ajustável que sai da frente da cadeira (ou da base do bebê conforto) e desce até o assoalho do carro. Ela impede que a frente da cadeira desça e avance na batida.
 
 O cuidado é com o piso. Alguns carros têm compartimento oco embaixo do banco traseiro, e o manual do carro pode restringir o uso de perna de apoio nesses lugares. A Resolução Contran 819/2021 permite que o fabricante do veículo estabeleça condições e restrições para cadeirinhas, desde que informadas no manual. Leia essa parte.
 
@@ -50,7 +52,7 @@ Três jeitos, do mais seguro ao mais rápido:
 2. **Etiqueta ou símbolo no banco.** Muitos carros têm uma etiqueta de tecido, um botão plástico ou um símbolo de cadeirinha perto do vão do banco, marcando o ponto ISOFIX.
 3. **Ganchos entre o assento e o encosto.** Afaste o estofado e passe a mão no vão. Os pontos ISOFIX são duas barras metálicas, uma de cada lado do lugar.
 
-Se encontrar os ganchos, procure também o ponto de top tether. Se a cadeira que você quer usa perna de apoio, confira no manual se o piso daquele lugar aceita.
+Se encontrar os ganchos, procure também o ponto de top tether. O manual também diz se o lugar do meio tem ISOFIX. A escolha entre os lugares do banco está em [cadeirinha no banco do meio ou atrás do motorista](/blog/cadeirinha-no-banco-do-meio-ou-atras-do-motorista/). Se a cadeira que você quer usa perna de apoio, confira no manual se o piso daquele lugar aceita.
 
 ## ISOFIX ou cinto: comparação rápida
 
@@ -85,7 +87,7 @@ Siga sempre o manual da sua cadeira. Os passos abaixo são o roteiro geral:
 5. **Trave o cinto**, se a cadeira tiver trava própria para isso, conforme o manual.
 6. **Faça o teste de folga.**
 
-Nos testes da equipe com cadeiras instaladas só pelo cinto, passar a fita pelas guias e esticar até a cadeira ficar firme exige atenção e alguma força. Vale treinar antes do dia em que o bebê chega.
+Nos testes da equipe com cadeiras instaladas só pelo cinto, passar a fita pelas guias e esticar até a cadeira ficar firme exige atenção e alguma força. Vale treinar antes do dia em que o bebê chega. Para o bebê conforto, com e sem base, a gente fez um roteiro próprio em [como instalar o bebê conforto no carro](/blog/como-instalar-bebe-conforto-no-carro/).
 
 ## O teste de folga
 
@@ -126,9 +128,16 @@ Para filtrar outros modelos pelo tipo de instalação, use o [comparador de cade
 - Veja no manual da cadeira quais fases usam ISOFIX e quais usam cinto.
 - Procure o selo e o número de registro do Inmetro na etiqueta da cadeira.
 - Instale, faça o teste de folga e repita sempre que a cadeira sair do carro.
+- Se a cadeira passou por uma batida, não reinstale antes de ler [o que fazer com a cadeirinha depois de acidente](/blog/cadeirinha-depois-de-acidente/).
+
+## O que a gente faria
+
+- **Um carro só, com ISOFIX e top tether:** a gente escolheria uma cadeira com ISOFIX em todas as fases. A [Litet All Stages Fix 2.0](/reviews/litet-all-stages-fix-2/) é o caminho mais barato. Com orçamento maior, a [Safety 1st i-NXT 360](/reviews/safety-1st-i-nxt-360/) soma i-Size e giro.
+- **Dois carros, um com ISOFIX e outro sem:** a [Safety 1st Multifix](/reviews/safety-1st-multifix/), que trava no ISOFIX de frente e aceita o cinto no outro carro. Só lembre que de costas ela vai sempre com cinto.
+- **Carro sem ISOFIX, ou cadeira que vive trocando de carro com os avós:** a [Cosco Progress](/reviews/cosco-progress/). É leve, serve em qualquer banco com cinto de 3 pontos e pede só capricho para esticar a fita.
 
 ## Fontes
 
-- [Inmetro: o que a medida regulatória para dispositivos de retenção estabelece (NBR 14400 para ISOFIX ou cinto)](https://www.gov.br/inmetro/pt-br/acesso-a-informacao/perguntas-frequentes/avaliacao-da-conformidade/dispositivos-de-retencao-para-criancas/o-que-a-medida-regulatoria-para-dispositivos-de-retencao-para-criancas-estabelece)
+- [Inmetro: a NBR 14400 vale para cadeiras com ISOFIX ou com cinto](https://www.gov.br/inmetro/pt-br/acesso-a-informacao/perguntas-frequentes/avaliacao-da-conformidade/dispositivos-de-retencao-para-criancas/o-que-a-medida-regulatoria-para-dispositivos-de-retencao-para-criancas-estabelece)
 - [Inmetro: qual legislação estabelece o regulamento (Portaria nº 246/2021)](https://www.gov.br/inmetro/pt-br/acesso-a-informacao/perguntas-frequentes/avaliacao-da-conformidade/dispositivos-de-retencao-para-criancas/qual-legislacao-estabelece-o-regulamento-para-dispositivos-de-retencao-para-criancas)
 - [Resolução Contran nº 819/2021 (Ministério dos Transportes)](https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao8192021.pdf/@@display-file/file)

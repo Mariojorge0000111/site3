@@ -8,92 +8,89 @@ data: "2026-10-31"
 atualizado: "2026-10-31"
 alternativas: ["cosco-evolutty-360-x", "kiddo-supra-360", "joie-every-stage-fx"]
 faq:
-  - p: "Até quantos kg a Maxi-Cosi Spinel 360 fica de costas?"
-    r: "Segundo o fabricante, até 18 kg. É um dos limites mais altos entre as cadeirinhas vendidas no Brasil e permite manter a criança de costas bem além do primeiro ano."
-  - p: "A Spinel 360 tem ISOFIX?"
-    r: "Sim. Ela usa ISOFIX junto com uma perna de apoio que desce até o assoalho do carro. Confira no manual do veículo se a posição do banco traseiro aceita a perna, porque alguns carros têm compartimento sob o piso."
-  - p: "Para que serve a perna de apoio da cadeirinha?"
-    r: "A perna transfere parte da força de uma batida frontal para o assoalho do carro. Com isso, a cadeira gira menos para frente e o movimento da cabeça da criança diminui. Ela cumpre a função que o top tether faz em outras cadeiras."
-  - p: "A Maxi-Cosi Spinel 360 serve para recém-nascido?"
-    r: "Sim, a faixa começa no nascimento, segundo o fabricante. Use a posição de costas com a reclinação indicada no manual para bebês pequenos."
-  - p: "A Spinel 360 tem selo do Inmetro?"
-    r: "Sim. O anúncio informa o registro nº 005468/2021, pela norma NBR 14400. Confira o selo na etiqueta da cadeira antes de instalar."
+  - p: "Para que serve a perna de apoio da Spinel 360?"
+    r: "Ela desce da base até o assoalho do carro e, numa batida frontal, leva parte da força para o piso. Assim a cadeira gira menos para frente e a cabeça da criança se move menos. Na Spinel, ela faz o papel que o top tether faz em outras giratórias."
+  - p: "A Spinel 360 serve em carro com compartimento no assoalho traseiro?"
+    r: "Pode não servir. Se embaixo da perna houver uma tampa ou um porta-objetos, o apoio deixa de ser firme. Confira no manual do carro se aquela posição aceita perna de apoio. Se não aceitar, uma giratória com top tether, como a [Cosco Evolutty 360 X](/reviews/cosco-evolutty-360-x/), resolve."
+  - p: "Quantos anos de garantia tem a Spinel 360?"
+    r: "Cinco anos, desde que você registre a cadeira no site da Maxi-Cosi. Faça o registro logo depois da compra e guarde a nota fiscal."
+  - p: "A Spinel 360 é i-Size?"
+    r: "O fabricante informa a certificação pela NBR 14400 e não cita homologação R129 (i-Size) para este modelo. A classificação segue por peso, nos grupos 0+, 1, 2 e 3. O registro no Inmetro é o nº 005468/2021."
+  - p: "Dá para lavar a capa da Spinel 360 na máquina?"
+    r: "Sim. A capa é removível e vai à máquina de lavar. Para os cuidados com o resto da cadeira, veja o artigo sobre [como limpar cadeirinha de carro](/blog/como-limpar-cadeirinha-de-carro/)."
 ---
 
-## Resumo da nossa avaliação
+> **Resposta rápida:** a Spinel 360 é a giratória para quem quer manter a criança de costas até 18 kg e prefere a perna de apoio ao top tether. O porém é duplo: ela está entre as mais caras da categoria e o assoalho do seu carro precisa ser firme bem no ponto onde a perna encosta.
 
-A Maxi-Cosi Spinel 360 é uma giratória do nascimento aos 36 kg com duas características que a separam da maioria: a criança pode viajar de costas até 18 kg, segundo o fabricante, e a cadeira se apoia no assoalho do carro por uma perna de apoio, em vez de usar a cinta superior do top tether. Na nossa avaliação, é a cadeira para quem leva a sério a orientação de manter a criança de costas pelo maior tempo possível.
+Os números a seguir (pesos, limites e reclinações) são do fabricante. As impressões de uso são da nossa equipe.
 
-O preço, no entanto, está entre os mais altos da categoria, e a cadeira é pesada e volumosa. A perna de apoio também traz uma exigência que pouca gente confere antes de comprar: o piso embaixo dela precisa ser firme. Este review explica por que esses dois recursos importam, o que eles exigem do seu carro e quando eles justificam o investimento.
+## O que você ganha com 18 kg de costas
 
-## Por que 18 kg de costas faz diferença
+Numa batida de frente, o corpo é jogado para frente. Com a criança virada para frente, o cinto segura o tronco, mas a cabeça, pesada para o tamanho do corpo, puxa o pescoço. De costas, o encosto recebe cabeça, pescoço e costas de uma vez, e a força se espalha por uma área muito maior.
 
-Numa batida frontal, que é o tipo mais comum de colisão grave, o corpo é jogado para frente. Quando a criança está de frente, o cinto segura o tronco, mas a cabeça, que é pesada em relação ao corpo, vai para frente e puxa o pescoço. De costas, o encosto da cadeira recebe a cabeça, o pescoço e as costas de uma vez, distribuindo a força por uma área muito maior.
+É por isso que a Academia Americana de Pediatria, na diretriz de 2018, orienta deixar a criança de costas pelo maior tempo possível, até o limite que o fabricante da cadeira permite. Estudos dos Estados Unidos citados pela DGT espanhola falam em queda de até 90% no risco de lesão nessa posição.
 
-Por isso a Academia Americana de Pediatria (AAP, 2018) orienta manter a criança de costas pelo maior tempo possível, até o limite de peso ou altura indicado pelo fabricante. Estudos dos Estados Unidos citados pela DGT espanhola apontam redução de até 90% no risco de lesão na posição de costas.
+O detalhe é que muitas cadeiras param em 13 kg, peso que a criança costuma atingir perto do primeiro ano. Com 18 kg, a Spinel empurra a virada para bem depois. Crianças maiores de costas dobram as pernas ou apoiam os pés no encosto do banco. Isso é normal e não indica que a cadeira ficou pequena. Os sinais certos estão no artigo [quando virar a cadeirinha de frente](/blog/quando-virar-a-cadeirinha-de-frente/).
 
-O problema é que muitas cadeiras multigrupo só permitem viajar de costas no grupo 0+, até 13 kg. Uma criança costuma chegar a esse peso perto de 1 ano. Com limite de 18 kg, a Spinel 360 permite adiar a virada por bastante tempo, conforme o ritmo de crescimento de cada criança.
+## Perna de apoio no lugar do top tether
 
-Uma ressalva prática: crianças maiores de costas dobram as pernas ou apoiam os pés no encosto do banco. Isso é normal e não é sinal de que a cadeira ficou pequena. O limite que vale é o do manual.
+A Spinel trava no banco pelas barras ISOFIX e se apoia no chão por uma perna que sai da frente da base. Numa batida frontal, a cadeira tende a girar para frente e para baixo. A perna impede esse mergulho, levando parte da energia para o piso do carro.
 
-## Instalação no carro
+O top tether faz o mesmo trabalho, só que puxando por cima. A vantagem da perna é que você não precisa de um gancho atrás do banco, coisa que muitos carros não têm. A desvantagem é que ela depende de algo que pouca gente olha: o que existe embaixo do tapete.
 
-A fixação combina ISOFIX com perna de apoio. Você encaixa os conectores nas barras do banco traseiro, empurra a base até ela ficar rente ao encosto e depois desce a perna até tocar o assoalho com firmeza.
+## O assoalho do seu carro aguenta a perna?
 
-### Como a perna de apoio funciona
+Alguns carros têm compartimento, tampa plástica ou caixa de ferramentas sob o piso traseiro. Se a perna encosta numa tampa oca, ela pode ceder justamente na hora da batida. O manual do veículo costuma dizer quais posições aceitam perna de apoio.
 
-A perna fica na frente da base e desce até o piso do carro. Numa batida frontal, ela impede que a cadeira gire para frente e para baixo, levando parte da força ao assoalho. É a mesma função que o top tether cumpre em outras cadeiras, só que apoiada embaixo, e não presa em cima.
+Outros pontos que a gente olharia:
 
-### O que conferir no seu carro
+- **Tapete grosso ou solto.** Pode deixar a perna instável. O ideal é apoiar num ponto firme.
+- **Desnível do piso.** A perna precisa tocar o chão sem ficar suspensa.
+- **Posição das barras ISOFIX.** Confirme no manual em qual lugar do banco elas existem. O guia [ISOFIX ou cinto](/guias/isofix-ou-cinto/) mostra como achar.
 
-- **Piso firme.** Alguns carros têm compartimento de armazenamento ou tampa sob o assoalho traseiro. Se a perna se apoia numa tampa plástica, ela pode ceder justamente na hora da batida. O manual do carro costuma dizer se a posição aceita perna de apoio.
-- **Altura do assoalho.** A perna precisa tocar o chão sem ficar suspensa. Nos testes da equipe, ajustar a altura até o encaixe certo pediu atenção, e vale conferir de novo depois de alguns dias de uso.
-- **Tapete.** Tapetes grossos ou soltos podem deixar a perna instável. O ideal é que ela apoie num ponto firme.
-- **Pontos ISOFIX.** Confirme no manual em qual posição do banco traseiro eles existem.
+Se o seu carro falha aqui, a Spinel não é a cadeira certa, por melhor que seja.
 
-Se o seu carro não comporta a perna, prefira uma giratória com top tether, como a [Cosco Evolutty 360 X](/reviews/cosco-evolutty-360-x/), que também vai até 18 kg de costas. Nosso guia de [ISOFIX ou cinto](/guias/isofix-ou-cinto/) ajuda a entender cada sistema.
+## Na prática: ajustando a perna de apoio
 
-## Segurança
+1. Encaixe os conectores ISOFIX nas barras e empurre a base até ela encostar no banco.
+2. Tire o tapete solto de baixo da perna, se ele escorregar.
+3. Desça a perna até tocar o assoalho com firmeza, sem levantar a base.
+4. Confira o indicador da perna, se houver, conforme o manual da cadeira.
+5. Faça o [teste de folga](/guias/isofix-ou-cinto/) puxando a cadeira pela base.
+6. Volte a conferir a altura da perna depois de alguns dias de uso.
 
-A Spinel 360 é certificada pela NBR 14400 e tem registro no Inmetro nº 005468/2021, segundo o anúncio. O fabricante não informa homologação i-Size (R129) para este modelo, então a classificação segue por peso, nos grupos 0+, 1, 2 e 3.
+Nos testes da equipe, achar a altura certa da perna foi a etapa que pediu mais atenção. Depois de acertar, ela ficou estável, mas vale repetir a conferência quando alguém mexer no banco da frente ou no tapete.
 
-Na prática, o que mais pesa na segurança desta cadeira é a combinação dos dois recursos deste review: mais tempo de costas e a perna de apoio reduzindo a rotação. Para comparar a lógica das normas, veja o guia [o que é i-Size](/guias/o-que-e-i-size/).
+## Por que ela custa tanto, e o que entra na conta
 
-A lei brasileira exige dispositivo adequado e banco traseiro até os 10 anos ou 1,45 m, conforme a Resolução Contran 819/2021. O guia da [lei da cadeirinha](/guias/lei-da-cadeirinha/) resume as faixas e as exceções.
+A Spinel tem uma das faixas de preço mais altas entre as giratórias, e o valor varia bastante de um vendedor para outro. O que você leva pelo dinheiro:
 
-## Ajustes e conforto
+- o limite de costas de 18 kg;
+- a perna de apoio, que dispensa o top tether;
+- o giro com a cadeira instalada;
+- garantia de 5 anos, com registro no site da marca;
+- capa removível que vai à máquina.
 
-O fabricante indica 4 reclinações. Na posição de costas, a reclinação mais deitada é a que acomoda melhor o recém-nascido. De frente, as posições mais retas ajudam a criança maior a ver a janela. Confira no manual quais reclinações valem para cada posição.
+O que você não leva: homologação i-Size. O fabricante informa a NBR 14400, com registro no Inmetro nº 005468/2021, e a classificação é por peso. Se a norma europeia mais nova pesa na sua decisão, o guia [o que é i-Size](/guias/o-que-e-i-size/) compara as duas lógicas.
 
-A capa sai e vai à máquina de lavar, segundo o fabricante. Para quem usa a cadeira por anos, com lanche, leite e enjoo no caminho, isso faz diferença.
+O giro, aqui, rende mais do que em cadeiras que viram cedo. Colocar uma criança de dois anos de costas numa cadeira fixa exige erguer o peso dela para dentro do carro, curvado. Com o assento virado para a porta, você faz isso de frente para ela.
 
-O giro funciona com a cadeira instalada. Na nossa avaliação, ele ajuda ainda mais aqui do que em cadeiras com limite menor de costas: colocar uma criança maior numa cadeira fixa de costas exige se inclinar e levantar o peso dela para dentro do carro. Girando para a porta, você faz isso de frente.
+## Com 14 kg, dá para trocar de carro?
 
-## Tamanho, peso e uso no dia a dia
+Dá, mas ninguém vai querer fazer isso toda semana. Pense no cenário real: tirar a cadeira do carro dos pais, levar até o carro dos avós, encaixar o ISOFIX, achar de novo a altura da perna e conferir o piso. Feito uma vez por mês, tudo bem. Toda sexta-feira, cansa. São 14 kg de cadeira, e cada troca obriga a reajustar a perna e conferir o piso do outro carro, que pode não aceitar o apoio.
 
-Com cerca de 14 kg, segundo o fabricante, a Spinel 360 é pesada. Ela foi feita para ficar instalada num carro só. Trocar de veículo com frequência significa repetir o ajuste da perna e conferir o piso a cada vez.
+Ela também é volumosa. De costas, avança na direção do banco da frente, e em carros compactos o passageiro pode precisar adiantar o banco. Se o seu carro é um hatch, leia antes o nosso texto sobre [cadeirinha em carro pequeno](/blog/cadeirinha-para-carro-pequeno/), com a forma certa de tirar as medidas.
 
-Ela também é volumosa. De costas, avança na direção do banco da frente, e em carros compactos o passageiro pode precisar adiantar o banco. Meça o espaço antes de comprar.
+## O que pesa contra
 
-Um ponto a favor no uso de longo prazo: a garantia é de 5 anos, mediante registro no site da marca, segundo o fabricante. Faça o registro logo depois da compra.
+- **Preço alto**, entre os maiores da categoria.
+- **Peso e volume** que pedem um carro com espaço atrás.
+- **Dependência do assoalho.** Sem piso firme na posição certa, a perna não cumpre o papel.
+- **Sem i-Size informada.** Quem faz questão do teste lateral da R129 precisa olhar outro modelo.
 
-## Pontos de atenção
+## O que a gente faria
 
-- **Preço alto.** A faixa de referência no Mercado Livre era de R$ 2.450 a R$ 3.200 em outubro de 2026, entre as mais altas da categoria. O valor muda, então compare vendedores.
-- **Peso e volume.** Cerca de 14 kg e bastante espaço ocupado no banco de trás.
-- **Perna de apoio depende do assoalho.** Carros com compartimento sob o piso traseiro podem não oferecer apoio firme. Confira o manual do carro antes.
-- **Sem i-Size informada.** O fabricante informa a NBR 14400, sem homologação R129 no anúncio.
-
-## Vale a pena?
-
-Vale para quem quer manter a criança de costas até 18 kg, tem carro com ISOFIX e assoalho traseiro firme e aceita pagar mais pela marca e pela garantia longa. Entre as [melhores cadeirinhas giratórias 360](/melhor-cadeirinha-giratoria-360/), é a escolha mais focada em tempo de costas.
-
-Não vale para quem tem orçamento apertado, carro com piso irregular atrás ou precisa trocar a cadeira de carro com frequência.
-
-| Alternativa | Por que considerar |
-|---|---|
-| [Cosco Evolutty 360 X](/reviews/cosco-evolutty-360-x/) | Também vai até 18 kg de costas, com top tether, por bem menos |
-| [Kiddo Supra 360](/reviews/kiddo-supra-360/) | 18 kg de costas e alarme no top tether |
-| [Joie Every Stage FX](/reviews/joie-every-stage-fx/) | 18 kg de costas sem giro, com cinto do carro |
-
-Antes de instalar, confira o selo e o registro do Inmetro na etiqueta e leia no manual do carro onde ficam os pontos ISOFIX e se o assoalho aceita perna de apoio.
+- **Quer o máximo de tempo de costas, tem carro com ISOFIX e piso firme atrás, e o orçamento permite:** a gente iria de Spinel 360. Entre as [melhores cadeirinhas giratórias 360](/melhor-cadeirinha-giratoria-360/), é a mais focada nesse objetivo.
+- **Quer os mesmos 18 kg de costas gastando bem menos e o carro tem top tether:** [Cosco Evolutty 360 X](/reviews/cosco-evolutty-360-x/).
+- **Mesma meta, mas quer ajuda para saber se a cinta superior está esticada:** [Kiddo Supra 360](/reviews/kiddo-supra-360/), com alarme no top tether.
+- **Abre mão do giro para pagar menos e ainda ficar de costas até 18 kg:** [Joie Every Stage FX](/reviews/joie-every-stage-fx/), que instala de costas com o cinto do carro.

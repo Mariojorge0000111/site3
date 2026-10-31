@@ -9,94 +9,87 @@ atualizado: "2026-10-31"
 alternativas: ["safety-1st-i-nxt-360", "kiddo-supra-360", "cosco-evolutty-360-x"]
 faq:
   - p: "A Fisher-Price ShieldPro 360 é i-Size?"
-    r: "Sim. Segundo o fabricante, ela é homologada pela norma R129 (i-Size), que classifica a cadeira por altura e inclui teste de impacto lateral. A faixa de uso vai de 40 a 150 cm."
-  - p: "Até quando a ShieldPro 360 fica de costas?"
-    r: "Na fase bebê, até o limite de altura indicado no manual. Pela norma i-Size, a criança deve ficar de costas até pelo menos 15 meses, e a posição de frente só é permitida a partir de 76 cm. Confira o limite exato no manual da cadeira."
-  - p: "A ShieldPro 360 tem ISOFIX?"
-    r: "Sim, com top tether. Antes de comprar, confira no manual do carro se a mesma posição do banco traseiro tem ISOFIX e o ponto de ancoragem superior."
-  - p: "A Fisher-Price ShieldPro 360 tem selo do Inmetro?"
-    r: "Sim, segundo o anúncio. O número de registro não aparece nos dados que consultamos, então confira o selo e o número na etiqueta da cadeira quando ela chegar."
-  - p: "A ShieldPro 360 serve para recém-nascido?"
-    r: "Sim, a faixa começa em 40 cm, segundo o fabricante. A posição de costas tem só 1 reclinação, então confira no manual se ela vem com redutor para os primeiros meses."
+    r: "Sim. Ela é homologada pela R129 (i-Size), que classifica a cadeira por altura e inclui teste de impacto lateral. A faixa de uso vai de 40 a 150 cm."
+  - p: "Por que o anúncio da ShieldPro 360 não diz até quando ela fica de costas?"
+    r: "O anúncio fala só em 'fase bebê, no limite de altura do manual', sem um número fechado. Pela i-Size, a criança não pode virar antes dos 15 meses, e a posição de frente só começa em 76 cm. O limite exato de costas está no manual da cadeira."
+  - p: "A ShieldPro 360 serve para viagem longa com bebê dormindo?"
+    r: "É o ponto fraco dela. De costas existe só uma inclinação, então você não consegue deitar mais o assento quando a cabeça do bebê começa a tombar. Para estrada com frequência, a [Safety 1st i-NXT 360](/reviews/safety-1st-i-nxt-360/) tem 5 reclinações ajustáveis com a cadeira instalada."
+  - p: "Qual a diferença entre a ShieldPro 360 e a i-NXT 360?"
+    r: "As duas são giratórias i-Size com ISOFIX e top tether. A i-NXT tem 5 reclinações e pesa 11,5 kg. A ShieldPro tem 4 reclinações, só 1 delas de costas, pesa 11 kg e costuma ficar numa faixa de preço mais baixa."
+  - p: "A ShieldPro 360 tem registro no Inmetro?"
+    r: "O anúncio informa o selo, mas não traz o número de registro. Confira na etiqueta da cadeira quando ela chegar. O artigo sobre [o selo do Inmetro](/blog/selo-inmetro-cadeirinha-como-consultar/) mostra onde procurar."
 ---
 
-## Resumo da nossa avaliação
+> **Resposta rápida:** a ShieldPro 360 é o jeito mais barato que a gente encontrou de ter giro e i-Size na mesma cadeira, e serve bem para quem roda mais na cidade. O porém é a fase de costas: só existe uma inclinação, o que pesa em viagens longas com o bebê dormindo.
 
-A Fisher-Price ShieldPro 360 é uma giratória homologada pela norma i-Size (R129), com ISOFIX e top tether, que cobre de 40 a 150 cm, segundo o fabricante. O que chama atenção é a combinação de giro com i-Size numa faixa de preço próxima à de cadeiras multigrupo comuns. Para muitos pais, é a porta de entrada mais barata para essa norma com base giratória.
+Faixa, peso e número de reclinações vêm da ficha da Fisher-Price. O que a gente sentiu instalando e usando aparece como impressão da equipe.
 
-Na nossa avaliação, ela acerta no essencial: giro com a cadeira instalada, teste de impacto lateral exigido pela norma e uso por altura, que é mais preciso do que por peso. O ponto fraco está no conforto da fase bebê: são só 4 reclinações no total, e apenas 1 delas na posição de costas. Para trajetos curtos, isso pouco importa. Para viagens longas com bebê dormindo, faz diferença. A marca também é nova no segmento de giratórias e tem poucas avaliações publicadas.
+## Por que ela mede a criança em centímetros?
 
-## Entendendo a faixa por altura
+Quem cresceu ouvindo falar em grupo 0+, 1, 2 e 3 estranha uma cadeira que fala em centímetros. A lógica da i-Size (norma R129) é que duas crianças com o mesmo peso podem ter tamanhos bem diferentes. O que decide se as alças saem na altura certa do ombro e se a cabeça fica protegida pelas abas é a altura.
 
-Quem está acostumado com os grupos 0+, 1, 2 e 3 pode estranhar uma cadeira que fala em centímetros. A lógica da i-Size é simples: duas crianças com o mesmo peso podem ter tamanhos bem diferentes, e o que define se o cinto e o apoio de cabeça estão no lugar certo é a altura. Nosso guia sobre [o que é i-Size](/guias/o-que-e-i-size/) explica a norma com mais detalhe.
+A R129 também exige teste de impacto lateral, que a norma antiga R44 não pedia. Para uma cadeira nessa faixa de preço, esse é o argumento mais forte da ShieldPro.
 
-Na prática, você precisa medir a criança de tempos em tempos. Algumas regras da R129 que valem para a ShieldPro 360:
+No Brasil, o Inmetro aceita a R129 no regulamento técnico de cadeirinhas, conforme a [Portaria Inmetro 246/2021](https://www.gov.br/inmetro/pt-br/acesso-a-informacao/perguntas-frequentes/avaliacao-da-conformidade/dispositivos-de-retencao-para-criancas/qual-legislacao-estabelece-o-regulamento-para-dispositivos-de-retencao-para-criancas). Ou seja, a homologação europeia vale aqui, desde que a cadeira traga o selo e o número de registro brasileiros. Na prática, a i-Size muda a sua rotina em um ponto: em vez de pesar a criança, você mede. O guia [o que é i-Size](/guias/o-que-e-i-size/) explica as diferenças com calma.
 
-- **De costas até pelo menos 15 meses.** A norma não permite virar antes disso.
-- **De frente só a partir de 76 cm.** Antes dessa altura, a criança fica obrigatoriamente de costas.
-- **O limite final de costas** está no manual da cadeira. O anúncio fala em "fase bebê, no limite de altura do manual", sem um número fechado.
+## Quanto tempo ela fica de costas?
 
-Uma dica que funciona: marque a altura da criança na parede a cada poucos meses e compare com as faixas do manual. Isso evita virar a cadeira cedo demais ou continuar usando uma fase quando ela já passou do limite.
+O anúncio não fecha um número. Fala em "fase bebê, no limite de altura do manual". O que a norma garante:
 
-A Academia Americana de Pediatria (AAP, 2018) orienta manter a criança de costas pelo maior tempo possível, até o limite do fabricante. Com a ShieldPro 360, isso significa usar a posição de costas até a altura máxima do manual, e não virar só porque completou 15 meses.
+- **pelo menos até os 15 meses**, porque a i-Size não deixa virar antes;
+- **de frente só a partir de 76 cm**, e antes disso a posição de costas é obrigatória;
+- **o teto de costas**, que está no manual da cadeira.
 
-## Instalação no carro
+A gente seguiria o manual até o último centímetro permitido, e não viraria só porque a criança fez 15 meses. O artigo [quando virar a cadeirinha de frente](/blog/quando-virar-a-cadeirinha-de-frente/) mostra os sinais que valem e os que enganam.
 
-A fixação é por ISOFIX com top tether, segundo o fabricante. O processo:
+## Na prática: acompanhando a altura em casa
 
-1. Encaixe os conectores ISOFIX nas barras do banco traseiro.
-2. Empurre a base contra o encosto até ela ficar rente.
-3. Prenda a cinta do top tether no ponto de ancoragem do carro e estique bem.
-4. Segure a cadeira perto da base e tente movê-la para os lados. Ela não deve sair do lugar.
+1. Anote no celular o limite de costas e as faixas de frente que estão no manual.
+2. A cada dois ou três meses, meça a criança em pé, encostada na parede, sem sapato.
+3. Compare a medida com as faixas anotadas.
+4. Confira também a altura das alças e do apoio de cabeça, na posição que o manual indica para aquela medida.
+5. Só vire quando a medida passar do limite de costas.
 
-Quando instalamos, a cinta do top tether foi a parte que pediu mais cuidado. Ela precisa ficar esticada, reta e sem torção, e vale conferir de novo de tempos em tempos.
+Esse hábito evita os dois erros mais comuns em cadeiras por altura: virar cedo demais e continuar numa fase que a criança já ultrapassou.
 
-Antes de comprar, confirme no manual do carro se a posição do banco traseiro tem os três pontos juntos. Muitos carros têm ISOFIX e não têm top tether, e sem esse ponto a cadeira não pode ser usada conforme o fabricante. O guia [ISOFIX ou cinto](/guias/isofix-ou-cinto/) mostra como identificar os pontos.
+## Uma reclinação só de costas: quando isso incomoda
 
-## Segurança
+São 4 reclinações no total, 1 de costas e 3 de frente. De frente, as 3 posições cobrem bem a criança maior. De costas, a posição é fixa.
 
-A homologação R129 é o principal argumento de segurança. Ela exige teste de impacto lateral, que a norma antiga R44 não pedia, e fixa a posição de costas por mais tempo. O anúncio informa selo do Inmetro, mas não traz o número de registro nos dados que consultamos. Confira o selo e o número na etiqueta. O Inmetro aceita a R129 no regulamento técnico de dispositivos de retenção, conforme a [Portaria Inmetro 246/2021](https://www.gov.br/inmetro/pt-br/acesso-a-informacao/perguntas-frequentes/avaliacao-da-conformidade/dispositivos-de-retencao-para-criancas/qual-legislacao-estabelece-o-regulamento-para-dispositivos-de-retencao-para-criancas).
+Em trajetos curtos, isso pouco importa. O bebê vai sentado no ângulo que a cadeira oferece e chega antes de dormir. Em estrada, a história muda: quando a cabeça começa a tombar para frente no sono, você não tem como deitar mais o assento. Se a sua família viaja com frequência, esse ponto pesa mais do que o preço.
 
-Para as regras de transporte no Brasil, como banco traseiro até 10 anos ou 1,45 m, veja o guia da [lei da cadeirinha](/guias/lei-da-cadeirinha/).
+O anúncio não detalha redutor, tecido nem lavagem da capa. Confira no manual o que vem na caixa.
 
-## Ajustes e conforto
+## O top tether é obrigatório mesmo?
 
-São 4 reclinações no total, segundo o fabricante: 1 de costas e 3 de frente. É aqui que a ShieldPro 360 fica atrás de outras giratórias.
+É. A ShieldPro 360 prende com ISOFIX e top tether, a cinta que sai do alto da cadeira até um gancho do carro. Muitos carros têm as barras ISOFIX e não têm o gancho, e sem ele a cadeira não pode ser usada como o fabricante prevê.
 
-Com uma única inclinação de costas, você não ajusta o ângulo quando o bebê dorme e a cabeça começa a cair, nem quando ele está acordado e quer ficar mais sentado. Para o dia a dia na cidade, a posição fixa resolve. Em viagens longas, faz falta. Se o seu bebê costuma dormir muito no carro, isso pesa.
+Confirme no manual do carro que os três pontos estão na mesma posição do banco. O guia [ISOFIX ou cinto](/guias/isofix-ou-cinto/) mostra como reconhecer cada um. Quando a gente instalou, a cinta superior foi a parte que pediu mais cuidado: precisa ficar reta, sem torção, bem esticada e reconferida de tempos em tempos.
 
-De frente, as 3 posições cobrem bem a fase de criança.
+## Marca nova em giratória: o que isso significa
 
-O giro funciona com a cadeira instalada. Na nossa avaliação, ele facilitou muito colocar e tirar a criança, principalmente de costas.
+A Fisher-Price é recente no segmento de giratórias, e este modelo tem poucas avaliações publicadas. Isso não afeta a homologação. Afeta o que você consegue prever sobre durabilidade do giro e do tecido depois de alguns anos.
 
-O anúncio não detalha tecido, redutor ou forma de lavagem da capa. Confira no manual o que vem na caixa.
+O registro no Inmetro aparece no anúncio sem número. Confira o número na etiqueta assim que a cadeira chegar, e não instale sem ele.
 
-## Tamanho, peso e uso no dia a dia
+## Pesa 11 kg: para instalar e deixar
 
-Com 11 kg, segundo o fabricante, ela é pesada para trocar de carro com frequência. Trate-a como uma cadeira para instalar e deixar.
+Com 11 kg, ela não é cadeira para revezar entre carros toda semana. Cada troca exige refazer o top tether.
 
-De costas, ela avança na direção do banco da frente. Em carros compactos, meça o espaço antes de comprar.
+De costas, avança na direção do banco da frente. Em compactos, o passageiro pode precisar adiantar o banco. Tem hatch na garagem? Antes de fechar, passe pelo nosso guia de [cadeirinha para carro pequeno](/blog/cadeirinha-para-carro-pequeno/).
 
-No uso diário, o giro compensa o volume. Com o assento virado para a porta, você coloca a criança, ajusta as alças e confere a fivela de frente para ela, sem se curvar para dentro do carro. Na fase de costas, que pela i-Size dura pelo menos até os 15 meses, isso poupa as costas de quem carrega o bebê várias vezes por dia. Depois de prender, gire de volta e confira se a base travou na posição de viagem antes de sair.
+O giro compensa o volume. Com o assento virado para a porta, você coloca a criança, ajusta as alças e fecha a fivela de frente para ela. Na fase de costas, que dura pelo menos 15 meses, isso poupa as costas de quem pega o bebê várias vezes por dia.
 
-## Pontos de atenção
+## Onde ela fica devendo
 
-- **Só 1 reclinação de costas.** O ponto mais limitante para bebês que dormem em viagens longas.
-- **Marca nova em giratórias.** Há poucas avaliações publicadas, o que dificulta prever o comportamento depois de anos de uso.
-- **Exige top tether.** Sem o ponto de ancoragem superior no carro, a cadeira não serve.
-- **Limite de costas sem número no anúncio.** Você precisa do manual para saber até quando usar.
-- **Preço.** A faixa de referência no Mercado Livre era de R$ 1.190 a R$ 1.360 em outubro de 2026. O valor muda, então compare vendedores.
+- **Uma inclinação só de costas.** O limite que mais aparece em viagem longa.
+- **Pouco histórico.** Marca recente em giratórias, com poucas avaliações publicadas.
+- **Top tether obrigatório.** Carro sem o gancho fica de fora.
+- **Limite de costas sem número no anúncio.** Você depende do manual para saber até quando usar a fase bebê.
+- **Número do Inmetro ausente no anúncio.** Só a etiqueta resolve.
 
-## Vale a pena?
+## O que a gente faria
 
-Vale para quem quer giro e i-Size juntos sem pagar preço de importada premium, faz trajetos curtos no dia a dia e tem carro com ISOFIX e top tether. Entre as [melhores cadeirinhas giratórias 360](/melhor-cadeirinha-giratoria-360/), é a opção i-Size com a faixa de preço mais baixa.
-
-Não vale para quem precisa de várias inclinações para o bebê dormir de costas em viagens longas ou prefere marcas com histórico maior no segmento.
-
-| Alternativa | Por que considerar |
-|---|---|
-| [Safety 1st i-NXT 360](/reviews/safety-1st-i-nxt-360/) | Também i-Size, com 5 reclinações ajustáveis com a cadeira instalada |
-| [Kiddo Supra 360](/reviews/kiddo-supra-360/) | 5 reclinações, 18 kg de costas e alarme no top tether |
-| [Cosco Evolutty 360 X](/reviews/cosco-evolutty-360-x/) | De costas até 18 kg, sem i-Size informada |
-
-Para comparar todas as giratórias lado a lado, use o [comparador](/comparador/). Antes de instalar, confira o selo do Inmetro na etiqueta e o manual do carro para localizar os pontos ISOFIX e top tether.
+- **Quer giro e i-Size pelo menor preço, roda mais na cidade e o carro tem ISOFIX e top tether:** a gente compraria a ShieldPro 360. É a opção i-Size mais em conta da nossa lista de [cadeirinhas giratórias 360](/melhor-cadeirinha-giratoria-360/).
+- **Pega estrada com frequência:** pagaria a diferença pela [Safety 1st i-NXT 360](/reviews/safety-1st-i-nxt-360/), com 5 reclinações.
+- **Quer mais tempo de costas e abre mão da i-Size:** [Kiddo Supra 360](/reviews/kiddo-supra-360/) ou [Cosco Evolutty 360 X](/reviews/cosco-evolutty-360-x/), ambas até 18 kg.

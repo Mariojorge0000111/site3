@@ -8,111 +8,80 @@ data: "2026-10-31"
 atualizado: "2026-10-31"
 alternativas: ["safety-1st-multifix", "litet-all-stages-fix-2", "joie-every-stage-fx"]
 faq:
-  - p: "A Cosco Progress tem ISOFIX?"
-    r: "Não. A Cosco Progress é instalada só com o cinto de segurança do carro, em todas as fases. Ela também não tem top tether nem perna de apoio."
   - p: "Como saber se a Cosco Progress está bem instalada?"
     r: "Segure a cadeira na altura onde o cinto do carro passa e tente movê-la para os lados e para frente. A referência usada pela NHTSA, dos Estados Unidos, é que ela não se mova mais que cerca de 2,5 cm. Se mexer mais, tire a folga do cinto e refaça."
-  - p: "Até quantos kg a Cosco Progress fica de costas?"
-    r: "Segundo o fabricante, de costas só no grupo 0+, até 13 kg, que corresponde mais ou menos ao primeiro ano. Depois disso ela deve ser virada para frente."
-  - p: "A Cosco Progress tem selo do Inmetro?"
-    r: "Sim. O anúncio informa a certificação pela NBR 14400 e o registro nº 003852/2020. Confira o selo e o número na etiqueta da cadeira."
-  - p: "A Cosco Progress serve para recém-nascido?"
-    r: "Sim, a faixa começa no nascimento, na posição de costas mais inclinada. Siga o manual para o uso do redutor e a passagem do cinto nessa posição."
+  - p: "Dá para usar a Cosco Progress no carro dos avós?"
+    r: "Dá, e é um dos melhores usos dela. Com 5,8 kg e instalação só pelo cinto, ela vai de um carro para outro sem depender de ISOFIX. O cuidado é refazer a passagem do cinto do zero a cada troca."
+  - p: "A capa da Cosco Progress vai à máquina?"
+    r: "Sim. Capa e almofadas são laváveis na máquina. Depois de recolocar a capa, confira se as alças voltaram pelas fendas certas e refaça o teste de folga."
+  - p: "Quantas posições a Cosco Progress tem?"
+    r: "Três: 1 de costas e 2 de frente. Cada uma usa guias diferentes para o cinto do carro, então abra o manual na página da posição que você vai usar."
+  - p: "A Cosco Progress tem ISOFIX?"
+    r: "Não. Ela instala só com o cinto de segurança do carro, em todas as fases, e também não tem top tether nem perna de apoio."
 ---
 
-## Resumo da nossa avaliação
+> **Resposta rápida:** a Progress é a cadeira que a gente indicaria para quem quer gastar pouco, tem carro sem ISOFIX ou divide a cadeira entre dois carros. O porém é que tudo depende do cinto do carro: instalada com folga, ela perde boa parte da proteção, e de costas só vai até 13 kg.
 
-A Cosco Progress é a cadeirinha 0 a 36 kg mais vendida e mais bem avaliada do Mercado Livre, com mais de 12 mil avaliações e nota 4,9. Ela é leve, com 5,8 kg segundo o fabricante, barata para uma cadeira que vai do nascimento aos 36 kg, tem apoio de cabeça com 9 alturas que regula junto com o cinto e capa lavável na máquina. É fácil entender por que tanta gente compra.
+Peso, posições e alturas do apoio de cabeça foram tirados da ficha da Cosco. O que é impressão de uso vem da nossa equipe.
 
-O ponto que exige atenção é a instalação. A Progress **não tem ISOFIX**, nem top tether, nem perna de apoio. Ela é presa só pelo cinto de segurança do carro, em todas as fases. Instalada do jeito certo, ela cumpre seu papel. Instalada com folga, perde boa parte da proteção. Por isso, a maior parte deste review é um passo a passo para deixar a cadeira firme com o cinto, que é o que mais faz diferença na segurança deste modelo.
+## Por que a cadeira mais vendida pede mais cuidado?
 
-## Por que a instalação com cinto exige mais cuidado
+A Progress é a cadeirinha 0 a 36 kg mais vendida e mais bem avaliada do Mercado Livre, com mais de 12 mil avaliações e nota 4,9. É leve, barata para quem vai do nascimento aos 36 kg e tem capa que vai à máquina. Dá para entender o sucesso.
 
-Com ISOFIX, a cadeira trava em barras metálicas do carro e o encaixe é quase sempre o mesmo. Com cinto, a firmeza depende de quem instala: do caminho que o cinto faz pela cadeira, de quanto ele foi esticado e de ele continuar esticado com o passar das semanas. Nosso guia [ISOFIX ou cinto](/guias/isofix-ou-cinto/) explica essa diferença em detalhe.
+Só que ela não tem ISOFIX, nem top tether, nem perna de apoio. Quem segura a cadeira no banco é só o cinto do carro. Com ISOFIX, o encaixe trava em barras de metal e sai quase sempre igual. Com cinto, a firmeza depende de três coisas: o caminho certo pelas guias, a tensão que você aplicou e essa tensão continuar ali semanas depois. O guia [ISOFIX ou cinto](/guias/isofix-ou-cinto/) explica a diferença com detalhe.
 
-A boa notícia é que uma instalação com cinto bem feita é segura. A diferença é que ela pede mais atenção na primeira vez e conferências frequentes depois.
+A boa notícia: uma instalação com cinto bem feita é segura. Ela só pede mais atenção na primeira vez e conferência frequente depois.
 
-## Instalação no carro: passo a passo com o cinto
+## Na prática: os pontos que a gente confere na Progress
 
-Nos testes da equipe, passar o cinto pelas guias e tirar toda a folga foi o que mais pediu atenção. Este é o roteiro que seguimos.
+O roteiro completo de instalação com cinto está no [guia de ISOFIX ou cinto](/guias/isofix-ou-cinto/). Aqui ficam os pontos que são da Progress.
 
-### 1. Escolha a posição no banco traseiro
+1. **Escolha a guia da posição certa.** São 3 posições, 1 de costas e 2 de frente, e cada uma tem o seu caminho para o cinto. Passar pela guia de outra posição é o erro mais grave que dá para cometer com ela.
+2. **Corra a mão pelo cinto inteiro.** Nenhum trecho pode ficar torcido. Cinto torcido distribui mal a força.
+3. **Olhe onde a fivela parou.** Ela não deve ficar dobrada sobre a borda da cadeira ou em cima de uma guia. Se ficar, o manual mostra a alternativa, e às vezes trocar de lado no banco resolve.
+4. **Tire a folga com o peso do corpo.** Apoie o joelho no assento da cadeira, empurrando para baixo e contra o encosto, e puxe a parte diagonal na direção do retrator. Só solte o peso depois de recolher tudo.
+5. **Faça o teste de folga** na altura em que o cinto passa, e não no topo da cadeira.
 
-A lei exige banco traseiro para crianças menores de 10 anos que ainda não chegaram a 1,45 m, conforme a [Resolução Contran 819/2021](https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao8192021.pdf/@@display-file/file). Confira no manual da cadeira qual tipo de cinto ela exige em cada fase e se a posição escolhida do banco atende.
+O anúncio não informa trava própria para o cinto do carro. Por isso a tensão depende só do retrator, e conferir é parte do uso. A gente repetiria o teste toda semana, depois de lavar a capa e sempre que alguém mexer no banco.
 
-### 2. Identifique o caminho certo do cinto
+## O cinto do meu carro dá conta?
 
-A Progress tem 3 posições de instalação, segundo o fabricante: 1 de costas e 2 de frente. Cada posição usa guias diferentes para o cinto do carro. Esse é o erro mais grave possível: passar o cinto pela guia da posição errada. Abra o manual na página da posição que você vai usar e siga as marcações da cadeira.
+Na maior parte dos carros, sim. Mas leia no manual da cadeira qual tipo de cinto ela exige em cada fase e veja se a posição escolhida do banco atende. Assentos do meio às vezes têm cinto diferente das laterais. O artigo sobre [banco do meio ou atrás do motorista](/blog/cadeirinha-no-banco-do-meio-ou-atras-do-motorista/) ajuda a escolher o lugar.
 
-### 3. Passe o cinto sem torção
+Se a cadeira não fica firme numa posição mesmo depois de refazer tudo, troque de lugar no banco antes de desistir do modelo.
 
-Passe a parte abdominal e a parte diagonal do cinto pelos pontos indicados. Corra a mão por toda a extensão do cinto para conferir se ele não está torcido em nenhum trecho. Cinto torcido distribui mal a força e pode escorregar.
+## 5,8 kg: a vantagem de quem divide a cadeira
 
-### 4. Afivele e confira a fivela
+Este é o argumento mais forte da Progress depois do preço. Com 5,8 kg, ela é muito leve para uma cadeira de 0 a 36 kg. Dá para tirar do carro dos pais, levar ao dos avós, usar num carro emprestado. Como só precisa do cinto, serve em praticamente qualquer veículo.
 
-Afivele o cinto do carro e veja onde a fivela ficou. Ela não deve ficar dobrada sobre a borda ou sobre uma guia da cadeira. Se isso acontecer, o manual da cadeira mostra a posição correta, e às vezes vale trocar de lugar no banco.
+A contrapartida está no parágrafo anterior: cada troca exige refazer a instalação com o mesmo cuidado. Leveza só ajuda se a reinstalação for bem feita.
 
-### 5. Tire toda a folga
+## O apoio de cabeça sobe junto com o cinto
 
-Este é o passo que mais diferencia uma instalação boa de uma ruim:
+O apoio de cabeça tem 9 alturas e regula junto com as alças do cinto de 5 pontos. Para a gente, é um dos pontos mais bem resolvidos da cadeira. Quando a criança cresce, você sobe o apoio e as alças acompanham, sem desmontar nada e sem o risco de deixar as alças baixas demais.
 
-- apoie o joelho ou o peso do corpo no assento da cadeira, empurrando-a para baixo e contra o encosto do banco;
-- com a outra mão, puxe a parte diagonal do cinto na direção do retrator, recolhendo toda a sobra;
-- mantenha a pressão até soltar o peso, para o cinto não voltar.
+Na reclinação, ela é simples. De frente, há uma posição mais reta e outra mais deitada. De costas, só uma inclinação. Capa e almofadas vão à máquina, o que conta numa cadeira que pode durar quase dez anos.
 
-O anúncio não informa trava própria para o cinto do carro. Por isso, a tensão depende só do cinto, e conferir com frequência é parte do uso.
+Quando as alças estiverem no lugar, ajuste a tensão delas: se você consegue beliscar uma dobra da fita na altura do ombro, ainda está frouxo. Casaco grosso por baixo das alças cria folga escondida.
 
-### 6. Faça o teste de firmeza
+## De costas só no primeiro ano
 
-Segure a cadeira na altura onde o cinto passa, e não no topo, e tente movê-la para os lados e para frente. A referência usada pela NHTSA, dos Estados Unidos, é que ela não se mova mais que cerca de 2,5 cm. Se mexer mais, volte ao passo 5.
+O limite de costas é o fim do grupo 0+, 13 kg, que chega perto do primeiro ano. Depois disso, a Progress vira para frente. Quem quer adiar a virada precisa de outro modelo. O artigo [quando virar a cadeirinha de frente](/blog/quando-virar-a-cadeirinha-de-frente/) explica por que isso importa.
 
-### 7. Ajuste o cinto da criança
+A certificação é a NBR 14400, com registro no Inmetro nº 003852/2020. Se quiser conferir esse número na etiqueta, o artigo sobre [o selo do Inmetro](/blog/selo-inmetro-cadeirinha-como-consultar/) mostra como. O fabricante não informa proteção lateral reforçada nem homologação i-Size.
 
-Com a cadeira firme, ajuste as alças do cinto de 5 pontos. Elas devem ficar justas: se você conseguir beliscar uma dobra da fita na altura do ombro, ainda está frouxo. Evite casacos grossos por baixo das alças, porque eles criam uma folga escondida.
+## O que falta nela
 
-### 8. Confira de novo com frequência
+- **ISOFIX.** A firmeza é toda do cinto e de quem instala.
+- **Top tether e perna de apoio.** Nada além do cinto limita o movimento da cadeira numa batida.
+- **Reclinação de costas.** Só uma posição.
+- **Tempo de costas.** Até 13 kg.
 
-Repita o teste de firmeza toda semana, depois de lavar a capa e sempre que alguém mexer no banco. Um cinto do carro pode ceder um pouco com o uso.
+## O que a gente faria
 
-## Segurança
+- **Orçamento curto, carro sem ISOFIX ou cadeira que vai circular entre carros:** a gente compraria a Progress e seguiria os cinco pontos acima à risca. Ela está entre as escolhas de custo-benefício da nossa lista de [cadeirinhas para carro](/melhor-cadeirinha-para-carro/).
+- **Quer ISOFIX de frente e proteção lateral, sem perder a opção do cinto:** [Safety 1st Multifix](/reviews/safety-1st-multifix/).
+- **Tem ISOFIX e top tether e prefere encaixe desde o nascimento:** [Litet All Stages Fix 2.0](/reviews/litet-all-stages-fix-2/).
+- **Quer ficar de costas até 18 kg:** [Joie Every Stage FX](/reviews/joie-every-stage-fx/).
 
-A Progress é certificada pela NBR 14400 e tem registro no Inmetro nº 003852/2020, segundo o anúncio. O selo é obrigatório para vender cadeirinhas no Brasil, conforme a [Portaria Inmetro 246/2021](https://www.gov.br/inmetro/pt-br/acesso-a-informacao/perguntas-frequentes/avaliacao-da-conformidade/dispositivos-de-retencao-para-criancas/qual-legislacao-estabelece-o-regulamento-para-dispositivos-de-retencao-para-criancas).
-
-O limite de costas é o fim do grupo 0+, até 13 kg, segundo o fabricante. A Academia Americana de Pediatria (AAP, 2018) orienta manter a criança de costas pelo maior tempo possível, até o limite do fabricante. Na Progress, esse limite chega perto do primeiro ano. Quem quer mais tempo de costas precisa de outro modelo.
-
-O fabricante não informa proteção lateral reforçada nem homologação i-Size para este modelo.
-
-## Ajustes e conforto
-
-O apoio de cabeça tem 9 alturas e regula junto com o cinto, segundo o fabricante. Na nossa avaliação, esse é um dos melhores pontos da cadeira: quando a criança cresce, você sobe o apoio e as alças acompanham, sem desmontar nada.
-
-São 3 posições no total: 1 de costas e 2 de frente. De frente, dá para escolher uma posição mais reta ou mais deitada. De costas, só existe uma inclinação.
-
-Capa e almofadas vão à máquina de lavar, segundo o fabricante. Para uma cadeira que pode ser usada por quase dez anos, isso conta.
-
-## Tamanho, peso e uso no dia a dia
-
-Com 5,8 kg, a Progress é muito leve para uma cadeira 0 a 36 kg. É a opção mais prática para quem precisa revezar entre o carro dos pais e o dos avós, ou usar carro emprestado. O cinto do carro serve em praticamente qualquer veículo.
-
-A contrapartida é que cada troca exige refazer o passo a passo acima. Leveza só ajuda se a reinstalação for feita com o mesmo cuidado.
-
-## Pontos de atenção
-
-- **Sem ISOFIX.** A firmeza depende de passar e esticar bem o cinto do carro, e de conferir com frequência.
-- **Só uma posição de costas.** Sem ajuste de inclinação nessa fase.
-- **Sem top tether nem perna de apoio.** Não há nada além do cinto limitando o movimento da cadeira numa batida.
-- **De costas até 13 kg.** A virada para frente vem perto do primeiro ano.
-
-## Vale a pena?
-
-Vale para quem quer gastar pouco, tem carro sem ISOFIX ou precisa trocar a cadeira de carro com frequência, e está disposto a seguir o passo a passo de instalação com cuidado. A faixa de referência no Mercado Livre era de R$ 520 a R$ 780 em outubro de 2026, e o valor muda. Ela está entre as escolhas de [custo-benefício da nossa lista de cadeirinhas](/melhor-cadeirinha-para-carro/).
-
-Não vale para quem quer a instalação mais simples e firme que o ISOFIX oferece ou quer manter a criança de costas por mais tempo.
-
-| Alternativa | Por que considerar |
-|---|---|
-| [Safety 1st Multifix](/reviews/safety-1st-multifix/) | ISOFIX de frente, proteção lateral e indicador de instalação |
-| [Litet All Stages Fix 2.0](/reviews/litet-all-stages-fix-2/) | ISOFIX em todas as fases, com top tether |
-| [Joie Every Stage FX](/reviews/joie-every-stage-fx/) | De costas até 18 kg |
-
-Se a dúvida é entre a Progress e a Multifix, veja o [comparativo das duas](/comparativos/safety-1st-multifix-vs-cosco-progress/). Ao receber a cadeira, confira o selo e o registro do Inmetro na etiqueta.
+Se a dúvida é entre a Progress e a Multifix, o [comparativo das duas](/comparativos/safety-1st-multifix-vs-cosco-progress/) resolve.

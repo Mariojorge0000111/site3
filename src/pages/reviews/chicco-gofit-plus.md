@@ -8,94 +8,74 @@ data: "2026-10-31"
 atualizado: "2026-10-31"
 alternativas: ["burigotto-protege-fix", "fisher-price-maxguard", "safety-1st-multifix"]
 faq:
-  - p: "O Chicco GoFit Plus tem ISOFIX?"
-    r: "Ele tem conectores LATCH que travam nas âncoras ISOFIX do carro e prendem o assento no banco. A criança continua presa pelo cinto de 3 pontos do veículo."
+  - p: "O GoFit Plus serve para uma criança de 4 anos?"
+    r: "A idade sozinha não decide. O mínimo é 18 kg, e a criança precisa ficar sentada direita o trajeto todo, com o cinto no meio do ombro. Se ela ainda dorme muito no carro ou não chegou aos 18 kg, um assento com encosto protege mais."
+  - p: "LATCH é a mesma coisa que ISOFIX?"
+    r: "LATCH é o sistema de ancoragem americano. Os conectores do GoFit Plus travam nas âncoras ISOFIX do carro e prendem o assento, enquanto a criança continua presa pelo cinto de 3 pontos do veículo."
+  - p: "Um booster com norma americana vale no Brasil?"
+    r: "Vale, desde que tenha registro no Inmetro. O GoFit Plus foi projetado pela FMVSS 213 e o anúncio informa o registro nº 008878/2022. O Inmetro aceita ensaios por essa norma, além da NBR 14400 e da R129."
   - p: "A partir de quantos kg dá para usar o GoFit Plus?"
-    r: "Consideramos a faixa de 18 a 36 kg, de cerca de 4 a 12 anos. Alguns anúncios citam 15 kg, então confira a faixa na etiqueta e no manual do produto."
-  - p: "Até que idade a criança precisa de assento de elevação?"
-    r: "Pela Resolução 819/2021 do Contran, até 7 anos e meio ou até 1,45 m. A AAP recomenda manter o booster até o cinto do carro encaixar corretamente sem ele, o que pode passar dessa idade."
-  - p: "O Chicco GoFit Plus tem selo do Inmetro?"
-    r: "Sim. O anúncio informa o registro nº 008878/2022 no Inmetro. O assento foi projetado pela norma americana FMVSS 213, que o Inmetro aceita nos ensaios."
-  - p: "Booster sem encosto é seguro?"
-    r: "É seguro quando a criança tem tamanho para ele e o cinto passa no lugar certo, no ombro e no quadril. Ele não protege cabeça nem ombros, então o banco do carro precisa ter apoio de cabeça na altura da criança."
+    r: "A gente considera a faixa de 18 a 36 kg, cerca de 4 a 12 anos. Alguns anúncios citam 15 kg, então confira a faixa na etiqueta e no manual do produto que você receber."
+  - p: "O GoFit Plus precisa do apoio de cabeça do carro?"
+    r: "Precisa. Como não tem encosto, a cabeça da criança depende do apoio de cabeça do banco, que deve chegar pelo menos à altura das orelhas dela. Sem isso, ele não deve ser usado."
 ---
 
-## Resumo da nossa avaliação
+> **Resposta rápida:** o GoFit Plus é para a criança maior, que já passou de 18 kg, senta direito o trajeto inteiro e não cabe mais no encosto da cadeirinha, e para a família que troca o assento de carro toda semana. O porém é que, sem encosto, ele não protege cabeça nem ombros numa batida lateral, e custa mais do que assentos com encosto e ISOFIX.
 
-O Chicco GoFit Plus é um booster: só o assento, sem encosto. Ele é leve (3 kg, segundo o fabricante), tem espuma dupla, porta-copos, alça para carregar e conectores que travam nas âncoras ISOFIX do carro. O anúncio somava mais de 800 avaliações com nota 5,0, a melhor da nossa lista de assentos.
+Peso de 3 kg, espuma dupla e norma de projeto vêm da Chicco e do anúncio. A sensação de conforto e de firmeza é impressão dos testes da equipe.
 
-A grande questão é o encaixe na fase da criança. Sem encosto, ele não protege cabeça nem ombros e só serve a partir de 18 kg. Na referência de outubro de 2026, a faixa de preço no Mercado Livre ia de R$ 640 a R$ 790, valor que muda com frequência. É caro para um booster sem encosto. Este review foca em quando ele faz sentido, porque para a criança errada ele é a escolha errada.
+## O booster sem encosto é seguro para uma criança de 4 anos?
 
-## Quando a criança está pronta para um booster sem encosto
+Na maioria dos casos, a gente esperaria mais. O GoFit Plus é um booster: só o assento, sem encosto. Ele levanta a criança para o cinto do carro cair no lugar certo, mas não tem abas laterais para a cabeça nem guia para a faixa diagonal. A faixa oficial começa em 18 kg, e o peso é só o primeiro filtro.
 
-O peso mínimo é só o primeiro filtro. Antes de trocar um assento com encosto por um booster, observe:
+A Resolução 819/2021 do Contran exige assento de elevação acima de 4 anos e até 7 anos e meio, ou até 1,45 m. Ela não diz se o assento deve ter encosto. Essa escolha é sua, e a gente explica abaixo como fazer.
 
-- **Altura.** A cabeça da criança precisa ficar apoiada no encosto de cabeça do banco do carro, que deve chegar pelo menos à altura das orelhas dela.
-- **Postura.** Ela consegue ficar sentada direita durante o trajeto todo, sem se deitar de lado nem escorregar.
-- **Sono.** Se ela dorme no carro com frequência, um assento com encosto segura melhor a cabeça. No booster, a cabeça tomba e o corpo sai da posição do cinto.
-- **Cinto.** Com ela sentada no booster, o cinto do carro cai no meio do ombro e baixo no quadril.
+O que pesa contra o booster nessa idade é a falta de encosto. Numa batida lateral, as abas de um assento com encosto seguram a cabeça e ajudam a manter o cinto no ombro. No GoFit Plus, essa função fica toda com o apoio de cabeça do banco do carro, e por isso ele precisa estar na altura certa.
 
-Se alguma resposta for não, mantenha um assento com encosto por mais tempo.
+## Na prática: quatro sinais de que seu filho está pronto para o booster
 
-## Instalação no carro
+1. **Ele já passou de 18 kg.** Abaixo disso, o GoFit Plus não serve.
+2. **A cabeça fica apoiada no banco do carro.** O apoio de cabeça do banco chega pelo menos à altura das orelhas dele.
+3. **Ele aguenta o trajeto inteiro sentado direito,** sem deitar de lado, escorregar ou se curvar para pegar brinquedo.
+4. **Com ele no booster, o cinto cai certo:** a diagonal no meio do ombro, longe do pescoço, e a do colo baixa, sobre os ossos do quadril.
 
-O GoFit Plus usa conectores LATCH que travam nas âncoras ISOFIX do banco traseiro. O papel deles é prender o assento, não a criança. Na prática, ele não escorrega quando a criança sobe e não vira um objeto solto quando está vazio. Nos testes da equipe, a trava deixou o booster firme e simples de prender, coerente com a nota de instalação que demos.
+Se algum item falhar, mantenha um assento com encosto por mais tempo. Se ele dorme muito no carro, também: no booster, a cabeça tomba e o corpo sai da linha do cinto.
 
-1. Encaixe os conectores nas âncoras ISOFIX e empurre o assento contra o encosto do banco.
-2. Com a criança sentada, passe o cinto de 3 pontos do carro.
-3. Em boosters com apoio de braço, como este, a faixa do colo costuma passar por baixo dos apoios, que ajudam a mantê-la baixa. Confira o desenho no manual.
-4. Afivele e tire a folga puxando a faixa diagonal.
+## A trava LATCH segura a criança?
 
-O guia [ISOFIX ou cinto](/guias/isofix-ou-cinto/) explica o que muda quando o ISOFIX prende só o assento.
+Não, e isso confunde muita gente. Os conectores LATCH, do sistema americano de ancoragem, travam nas âncoras do banco de trás e prendem o assento. A criança continua presa só pelo cinto de 3 pontos do carro.
 
-### Como o cinto deve passar na criança
+O ganho é outro: o booster não escorrega quando a criança sobe e não vira um objeto solto quando está vazio numa freada. Nos testes da equipe, a trava deixou o GoFit Plus firme e simples de prender. O guia [ISOFIX ou cinto](/guias/isofix-ou-cinto/) explica o que muda quando a ancoragem prende só o assento.
 
-Todo o trabalho do booster é levantar a criança para o cinto do carro cair no lugar certo:
+Para instalar: encaixe os conectores nas âncoras, empurre o assento contra o banco, sente a criança e passe o cinto. Neste modelo, a faixa do colo costuma passar por baixo dos apoios de braço, que ajudam a mantê-la baixa. O desenho exato está no manual.
 
-- **No ombro:** a faixa diagonal cruza o meio do ombro e o peito. Não pode encostar no pescoço nem escorregar para o braço.
-- **No quadril:** a faixa do colo fica baixa, sobre os ossos do quadril e o alto das coxas. Não pode subir para a barriga.
+## Por que um booster custa mais que um assento com encosto?
 
-Sem encosto, o GoFit Plus não tem guia para a faixa diagonal. Se o cinto do seu carro cai no pescoço da criança mesmo com o booster, ela ainda não está pronta para ele. Confira a posição toda vez que ela sentar e não deixe passar a faixa por trás das costas.
+Porque você paga por leveza, espuma e marca, não por proteção extra. O GoFit Plus tem espuma dupla, que nos testes da equipe se mostrou mais macia que a de boosters simples, porta-copos, apoios de braço e alça para carregar. O anúncio soma mais de 800 avaliações com nota 5,0, a melhor da nossa lista de assentos.
 
-## Segurança
+Só que, em proteção, um assento com encosto e ISOFIX de preço menor entrega mais: abas para a cabeça e guia para o cinto. Se o critério é segurança da cabeça, o GoFit Plus perde. Se o critério é conforto e mobilidade para uma criança que já está pronta, ele ganha.
 
-O GoFit Plus foi projetado pela FMVSS 213, a norma americana, e o anúncio informa o registro nº 008878/2022 no Inmetro. O Inmetro aceita ensaios pela FMVSS 213, além da NBR 14400 e da R129, para certificar dispositivos de retenção no Brasil. Assento de elevação é dispositivo de retenção e precisa desse registro.
+## Norma americana vale no Brasil?
 
-### O que a lei exige
+Vale. O GoFit Plus foi projetado pela FMVSS 213, a norma dos Estados Unidos, e o anúncio informa o registro nº 008878/2022 no Inmetro. O Inmetro aceita ensaios pela FMVSS 213, além da NBR 14400 e da R129, para certificar dispositivos de retenção. O que manda é ter o registro, e o artigo sobre [como consultar o selo do Inmetro](/blog/selo-inmetro-cadeirinha-como-consultar/) mostra como conferir o número.
 
-A Resolução 819/2021 do Contran exige o assento de elevação para crianças acima de 4 anos e até 7 anos e meio, ou até 1,45 m, na faixa de 15 a 36 kg. Depois disso, a criança pode usar só o cinto, ainda no banco traseiro até os 10 anos, salvo se já tiver 1,45 m. O resumo está no guia da [lei da cadeirinha](/guias/lei-da-cadeirinha/).
+## Os erros que a gente mais vê com booster
 
-A AAP, na diretriz de 2018, recomenda manter o booster até o cinto encaixar bem na criança sem ele. É aí que um booster como o GoFit Plus brilha: na criança mais velha que já passou dos 7 anos e meio, ainda não tem altura para o cinto sozinho e reclama de um assento com encosto.
+- **Faixa diagonal por baixo do braço ou atrás das costas.** Geralmente porque ela encosta no pescoço. Se encosta, o booster não está resolvendo a altura, e a criança precisa de um assento com encosto.
+- **Booster no banco da frente.** A criança vai atrás até os 10 anos, a menos que já tenha 1,45 m. O motivo e as exceções estão no guia da [lei da cadeirinha](/guias/lei-da-cadeirinha/).
+- **Assento solto num carro com âncoras.** Use a trava sempre, mesmo na ida até a padaria.
+- **Tirar o booster cedo demais.** O cinto sozinho só funciona quando já cai certo no ombro e no quadril sem assento, o que pode demorar além dos 7 anos e meio.
 
-### O limite real
+## 3 kg e alça: bom para carona da escola?
 
-Sem encosto, não há proteção para a cabeça e os ombros numa batida lateral. Esse é o contra mais importante e não é um detalhe de acabamento: é o desenho do produto. Para crianças menores, um assento com encosto protege mais.
+É o ponto forte do produto. Com 3 kg e alça, o GoFit Plus é o assento mais fácil de levar de um carro para outro na nossa lista. Rodízio de carona, carro alugado nas férias, fim de semana com os avós: ele vai debaixo do braço.
 
-## Ajustes e conforto
+A ressalva: a trava depende de âncoras ISOFIX no outro carro. Sem elas, veja no manual se o uso só com o cinto é permitido. E confira se o banco daquele carro tem apoio de cabeça na altura certa para a criança.
 
-Não há ajustes de encosto ou de cabeça, porque não há encosto. O conforto vem da espuma dupla do assento, que nos testes da equipe se mostrou mais macia que a de boosters simples. O porta-copos e os apoios de braço agradam crianças maiores, o que ajuda a mantê-las sentadas direito. Para limpar, siga a etiqueta da capa.
+## O que a gente faria
 
-## Tamanho, peso e uso no dia a dia
+- **Criança acima de 18 kg, que senta direito e já reclama do encosto, numa família que reveza carros:** a gente compraria o GoFit Plus.
+- **Criança perto dos 4 anos, ou que dorme no carro:** a gente ficaria com o [Burigotto Protege Fix](/reviews/burigotto-protege-fix/), que tem encosto, apoio de cabeça e ISOFIX por menos.
+- **Criança ainda na fase de cadeirinha:** a [Fisher-Price MaxGuard](/reviews/fisher-price-maxguard/) e a [Safety 1st Multifix](/reviews/safety-1st-multifix/) acompanham até 36 kg.
 
-Com 3 kg, segundo o fabricante, e alça para carregar, o GoFit Plus é o assento mais fácil de levar de um carro para outro. Para famílias que revezam carros, caronas da escola ou viagens com carro alugado, esse é um ponto forte. Lembre só de que a trava depende de âncoras ISOFIX no outro carro. Sem elas, confira no manual se o uso só com o cinto é permitido.
-
-### Erros comuns com booster
-
-- Passar a faixa diagonal por baixo do braço ou por trás das costas porque ela incomoda no pescoço. Se incomoda, o booster não está resolvendo a altura.
-- Usar no banco da frente. A criança vai no banco traseiro até os 10 anos, salvo se já tiver 1,45 m.
-- Deixar o booster solto quando o carro tem âncoras ISOFIX. Use a trava sempre, mesmo em trajetos curtos.
-
-## Pontos de atenção
-
-- **Sem encosto: não protege cabeça nem ombros.** É o limite do tipo de produto.
-- **Só a partir de 18 kg.** Não serve para quem acabou de sair da cadeirinha.
-- **Caro para um booster sem encosto.** A faixa de preço é bem mais alta que a de assentos com encosto e ISOFIX.
-- **Depende do banco do carro.** Sem encosto de cabeça na altura da criança, ele não deve ser usado.
-
-## Vale a pena?
-
-Vale para crianças maiores, que já não cabem no encosto da cadeirinha, e para famílias que trocam de carro com frequência e querem um assento leve e preso no banco.
-
-Não vale para crianças pequenas ou que dormem no carro. Para elas, o [Burigotto Protege Fix](/reviews/burigotto-protege-fix/) tem encosto, apoio de cabeça e ISOFIX por menos. Se a criança ainda está na fase de cadeirinha, a [Fisher-Price MaxGuard](/reviews/fisher-price-maxguard/) e a [Safety 1st Multifix](/reviews/safety-1st-multifix/) acompanham até 36 kg. Compare todos no ranking de [melhor assento de elevação](/melhor-assento-de-elevacao/).
-
-Antes de usar, confira o selo e o registro do Inmetro na etiqueta e veja no manual do carro onde ficam as âncoras ISOFIX.
+Compare os assentos no ranking de [melhor assento de elevação](/melhor-assento-de-elevacao/). Ao abrir a caixa, ache o registro do Inmetro na etiqueta do assento e localize no manual do carro as âncoras ISOFIX do banco de trás.

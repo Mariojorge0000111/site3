@@ -20,7 +20,9 @@ faq:
     r: "Não. A Resolução 277/2008 foi revogada pelo art. 8º da Resolução 819/2021, que está em vigor desde 12 de abril de 2021. Textos que ainda citam a 277 estão desatualizados."
 ---
 
-A lei da cadeirinha mudou de número em 2021, mas a lógica continua a mesma: criança pequena viaja atrás, presa num dispositivo que combina com o tamanho dela. A norma em vigor é a **Resolução Contran nº 819/2021**, e a punição está no art. 168 do Código de Trânsito Brasileiro (CTB). Abaixo está o que cada artigo diz, sem juridiquês, e o que isso significa na hora de comprar e usar a cadeira.
+> **Resposta rápida:** para saber se você está dentro da lei hoje, confira duas coisas. A primeira é se o dispositivo combina com a fase da criança, pela tabela abaixo e pelos limites do manual da cadeira. A segunda é se ele tem registro no Inmetro. A idade da tabela é só referência: quem decide a troca é o limite de peso ou altura da cadeira que você tem.
+
+A lei da cadeirinha mudou de número em 2021, mas a lógica continua a mesma: criança pequena viaja atrás, presa num dispositivo que combina com o tamanho dela. A norma em vigor é a **Resolução Contran nº 819/2021**, e a punição está no art. 168 do Código de Trânsito Brasileiro (CTB). Abaixo está o que cada artigo diz, sem juridiquês, e o que isso significa quando você for comprar e usar a cadeira.
 
 ## O que diz a Resolução Contran 819/2021
 
@@ -45,7 +47,7 @@ Se você está na primeira fase, veja a nossa seleção dos [melhores bebês con
 
 ### A lei é o mínimo, não o ideal
 
-A resolução diz quando é obrigatório usar cada tipo de cadeira. Ela não diz que é seguro virar o bebê de frente no dia em que ele faz 1 ano. A diretriz de 2018 da Academia Americana de Pediatria (AAP) recomenda manter a criança de costas pelo maior tempo possível, até o limite de peso ou altura que o fabricante permite. A ONG Criança Segura segue a mesma linha e orienta usar só cadeiras com certificação.
+A resolução diz quando é obrigatório usar cada tipo de cadeira. Ela não diz que é seguro virar o bebê de frente no dia em que ele faz 1 ano. A diretriz de 2018 da Academia Americana de Pediatria (AAP) vai no sentido oposto: deixar a criança de costas enquanto ela couber nos limites que o fabricante da cadeira define. A gente explica como reconhecer essa hora em [quando virar a cadeirinha de frente](/blog/quando-virar-a-cadeirinha-de-frente/). A ONG Criança Segura segue a mesma linha e orienta usar só cadeiras com certificação.
 
 É por isso que as cadeiras da norma i-Size só permitem a posição de frente a partir de 76 cm e mantêm o bebê de costas até pelo menos 15 meses. Explicamos isso em detalhes no guia [o que é i-Size e o que muda em relação à R44](/guias/o-que-e-i-size/).
 
@@ -70,11 +72,11 @@ O art. 4º trata do passageiro dianteiro em carro com airbag. Para crianças de 
 - a cadeira de frente é permitida desde que não tenha bandeja ou acessório parecido acoplado;
 - o banco do passageiro deve ficar na última posição de recuo, salvo instrução diferente do fabricante do carro.
 
-Ou seja: bebê conforto no banco da frente com airbag ligado está fora da lei, mesmo nas exceções acima.
+Ou seja: bebê conforto no banco da frente com airbag ligado está fora da lei, mesmo nas exceções acima. Para decidir entre os lugares do banco de trás, a gente comparou as opções em [cadeirinha no banco do meio ou atrás do motorista](/blog/cadeirinha-no-banco-do-meio-ou-atras-do-motorista/).
 
 ### Carro com cinto de 2 pontos atrás
 
-O parágrafo único do art. 3º traz um caso específico. Se o banco traseiro veio de fábrica só com cinto de 2 pontos, crianças de mais de 4 e menos de 7 anos e meio podem viajar atrás usando esse cinto sem o assento de elevação. É uma regra pensada para carros antigos. Se o seu carro tem cinto de 3 pontos atrás, ela não se aplica.
+O parágrafo único do art. 3º traz um caso específico. Se o banco traseiro veio de fábrica só com cinto de 2 pontos, crianças de mais de 4 e menos de 7 anos e meio podem viajar atrás usando esse cinto sem o assento de elevação. A regra existe por causa de carros antigos. Se o seu carro tem cinto de 3 pontos atrás, ela não se aplica.
 
 ## Cadeirinha em Uber, 99 e táxi
 
@@ -113,9 +115,9 @@ Muita gente ainda encontra textos que citam a **Resolução Contran 277/2008**. 
 
 ## A cadeira também precisa ser certificada
 
-Cumprir a lei não é só ter uma cadeira no carro. Para ser vendido no Brasil, todo dispositivo de retenção precisa de certificação compulsória e de **registro no Inmetro**, conforme a Portaria Inmetro nº 246/2021. Isso inclui os assentos de elevação, que o Inmetro considera dispositivos de retenção.
+A lei também exige que a própria cadeira seja certificada. Para ser vendido no Brasil, todo dispositivo de retenção precisa de certificação compulsória e de **registro no Inmetro**, conforme a Portaria Inmetro nº 246/2021. Isso inclui os assentos de elevação, que o Inmetro considera dispositivos de retenção.
 
-Antes de comprar, procure o selo e o número de registro na etiqueta da cadeira e no anúncio. Produto sem registro é irregular. Suspeita de fraude pode ser comunicada à Ouvidoria do Inmetro, no 0800 285 1818.
+Antes de comprar, procure o selo e o número de registro na etiqueta da cadeira e no anúncio. Produto sem registro é irregular. O passo a passo para conferir o número está em [como consultar o selo do Inmetro](/blog/selo-inmetro-cadeirinha-como-consultar/). Suspeita de fraude pode ser comunicada à Ouvidoria do Inmetro, no 0800 285 1818.
 
 Se quiser comparar faixa de uso, tipo de instalação e registro de vários modelos de uma vez, use o nosso [comparador de cadeirinhas](/comparador/).
 
@@ -128,11 +130,17 @@ Se quiser comparar faixa de uso, tipo de instalação e registro de vários mode
 - A instalação segue o manual da cadeira e o manual do carro, que indica onde ficam os pontos ISOFIX e de top tether.
 - Em aplicativo e táxi a dispensa existe, mas levar o assento continua sendo a opção mais segura.
 
+## O que a gente faria
+
+- **Família que anda muito de aplicativo com uma criança de 5 ou 6 anos:** a lei dispensa o dispositivo durante a corrida, mas a gente levaria um booster leve na mochila. O [Chicco GoFit Plus](/reviews/chicco-gofit-plus/) pesa 3 kg e serve a partir de 18 kg. Para crianças menores, que ainda precisam de encosto, o [Burigotto Protege Fix](/reviews/burigotto-protege-fix/) é a opção mais em conta.
+- **Família com bebê que vai fazer 1 ano:** a gente não viraria de frente no aniversário. A lei permite, mas a cadeira pode deixar ir além. Se a atual chega ao limite cedo, uma cadeira que fica de costas até 18 kg, como a [Maxi-Cosi Spinel 360](/reviews/maxi-cosi-spinel-360/) ou a [Joie Every Stage FX](/reviews/joie-every-stage-fx/), estende essa fase.
+- **Família com três crianças e um carro só:** antes de colocar alguém na frente pela exceção do art. 3º, a gente mediria se três dispositivos cabem lado a lado atrás. Se uma das crianças for na frente num carro com airbag no passageiro, ela vai de frente para o movimento, com o banco todo recuado e sem bandeja acoplada, como pede o art. 4º.
+
 ## Fontes
 
 - [Resolução Contran nº 819/2021 (Ministério dos Transportes)](https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao8192021.pdf/@@display-file/file)
 - [Código de Trânsito Brasileiro, Lei nº 9.503/1997 (Planalto)](https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm)
-- [Inmetro: o que a medida regulatória para dispositivos de retenção estabelece](https://www.gov.br/inmetro/pt-br/acesso-a-informacao/perguntas-frequentes/avaliacao-da-conformidade/dispositivos-de-retencao-para-criancas/o-que-a-medida-regulatoria-para-dispositivos-de-retencao-para-criancas-estabelece)
+- [Inmetro: regras da certificação de dispositivos de retenção](https://www.gov.br/inmetro/pt-br/acesso-a-informacao/perguntas-frequentes/avaliacao-da-conformidade/dispositivos-de-retencao-para-criancas/o-que-a-medida-regulatoria-para-dispositivos-de-retencao-para-criancas-estabelece)
 - [Inmetro: qual legislação estabelece o regulamento](https://www.gov.br/inmetro/pt-br/acesso-a-informacao/perguntas-frequentes/avaliacao-da-conformidade/dispositivos-de-retencao-para-criancas/qual-legislacao-estabelece-o-regulamento-para-dispositivos-de-retencao-para-criancas)
 - [Inmetro: assentos de elevação são dispositivos de retenção](https://www.gov.br/inmetro/pt-br/acesso-a-informacao/perguntas-frequentes/avaliacao-da-conformidade/dispositivos-de-retencao-para-criancas/assentos-de-elevacao-sao-considerados-como-dispositivos-de-retencao)
 - [Agência Gov: Inmetro reforça orientações para o transporte seguro de crianças](https://agenciagov.ebc.com.br/noticias/202509/cadeirinha-salva-vidas-inmetro-reforca-orientacoes-para-transporte-seguro-de-criancas)

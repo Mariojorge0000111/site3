@@ -8,81 +8,72 @@ data: "2026-10-31"
 atualizado: "2026-10-31"
 alternativas: ["fisher-price-growstages", "safety-1st-multifix", "burigotto-protege-fix"]
 faq:
-  - p: "A Fisher-Price MaxGuard tem ISOFIX?"
-    r: "Sim, ela tem ISOFIX e top tether, segundo o fabricante. Confira no manual do carro se o banco traseiro tem os pontos ISOFIX e o ponto de ancoragem do top tether."
   - p: "A MaxGuard pode ser usada de costas?"
-    r: "Não. Ela é só de frente, a partir de 76 cm, segundo o fabricante. Por isso não serve para recém-nascido nem para quem quer manter a criança de costas por mais tempo."
-  - p: "A partir de que idade dá para usar a MaxGuard?"
-    r: "Segundo o fabricante, a partir de 76 cm, o que dá cerca de 15 meses. A norma i-Size não permite usar de frente antes disso."
-  - p: "A Fisher-Price MaxGuard tem selo do Inmetro?"
-    r: "Sim. O anúncio informa o registro nº 000566/2025 no Inmetro. Confira o mesmo número na etiqueta da cadeira."
+    r: "Não. Ela é só de frente, a partir de 76 cm. Por isso não serve para recém-nascido nem para quem quer manter a criança de costas além do mínimo da norma."
+  - p: "Meu bebê saiu do bebê conforto com 12 meses. Já posso usar a MaxGuard?"
+    r: "Só se ele já tiver 76 cm e 15 meses, que é o mínimo da i-Size para andar de frente. Se ainda não chegou lá, ele precisa de uma cadeira que continue de costas nesse intervalo."
   - p: "A MaxGuard reclina?"
-    r: "Não, segundo o fabricante ela não reclina. Em viagens longas, a soneca fica menos confortável do que numa cadeira com reclinação."
+    r: "Não. Em trajetos curtos isso quase não aparece. Em viagens longas, a criança que dorme tende a tombar a cabeça, e só o apoio de cabeça segura."
+  - p: "A MaxGuard funciona em carro sem top tether?"
+    r: "A instalação prevista pela Fisher-Price usa ISOFIX e top tether juntos. Se o seu carro não tem o ponto de top tether, a instalação completa não acontece, então confira o manual do veículo antes de comprar."
+  - p: "A Fisher-Price MaxGuard tem ISOFIX?"
+    r: "Sim, com top tether. Os dois conectores ISOFIX travam nos pontos do banco de trás e a fita do top tether prende o alto da cadeira."
 ---
 
-## Resumo da nossa avaliação
+> **Resposta rápida:** a MaxGuard é a segunda cadeira da família: começa onde o bebê conforto termina e vai até os 150 cm, com i-Size, ISOFIX, top tether e só 7 kg. O porém é que ela é só de frente, a partir de 76 cm, e não reclina. Quem quer manter a criança de costas por mais tempo precisa de outro modelo.
 
-A MaxGuard é a cadeira para a segunda fase. Ela não substitui o bebê conforto: começa onde ele termina. Segundo o fabricante, vai de 76 a 150 cm (até 36 kg), de cerca de 15 meses a 12 anos, com homologação i-Size (R129), ISOFIX e top tether. Pesa 7 kg, o que é pouco para uma cadeira com essa faixa de uso.
+Faixa, peso e registro no Inmetro são dados da Fisher-Price e do anúncio. O que a equipe percebeu ao instalar aparece como impressão de uso.
 
-Os limites são claros e é bom saber deles antes. Ela é só de frente, não reclina e não serve para recém-nascido. Na referência de outubro de 2026, a faixa de preço no Mercado Livre ia de R$ 920 a R$ 1.580, valor que muda com frequência. É uma boa compra para quem já tem bebê conforto e quer uma cadeira que dure até a idade escolar. Não é a melhor escolha para quem quer comprar uma cadeira só desde o nascimento.
+## Meu bebê saiu do bebê conforto: a MaxGuard já serve?
 
-## Quando trocar o bebê conforto pela MaxGuard
+Talvez não, e essa é a dúvida que mais traz pais até este modelo. O bebê conforto vale até cerca de 1 ano ou 13 kg. A MaxGuard só aceita a criança a partir de 76 cm, e a i-Size exige que ela fique de costas pelo menos até 15 meses. Entre um limite e outro pode sobrar um intervalo de meses.
 
-Essa é a dúvida que mais leva os pais a esse modelo. O bebê conforto vale até cerca de 1 ano ou 13 kg, conforme o fabricante. Quando o bebê chega ao limite, é hora da próxima cadeira.
+Se o seu bebê estourar o bebê conforto antes dos 76 cm e dos 15 meses, a MaxGuard ainda não serve. Ele vai precisar de uma cadeira com fase de costas nesse período. Os sinais de que o bebê conforto chegou ao fim estão em [bebê conforto até quando](/blog/bebe-conforto-ate-quando-usar/).
 
-A MaxGuard só aceita a criança a partir de 76 cm e é só de frente. A norma i-Size exige que a criança fique de costas até pelo menos 15 meses, e a AAP, na diretriz de 2018, recomenda manter de costas pelo maior tempo possível, até o limite do fabricante. Na prática, isso cria um intervalo. Se o seu bebê estourar o bebê conforto antes de chegar aos 76 cm e aos 15 meses, a MaxGuard ainda não serve. Você vai precisar de uma cadeira que continue de costas nesse período.
+## Na prática: a conta que a gente faria antes de comprar
 
-Por isso, faça a conta antes de comprar: em que mês o bebê deve chegar ao limite do bebê conforto, e quando chega aos 76 cm? Se as datas não batem, considere uma cadeira com fase de costas.
+1. Pegue a última consulta do pediatra e anote a altura e o peso atuais do bebê.
+2. Veja no manual do bebê conforto qual limite chega primeiro: peso, altura ou posição da cabeça no casco.
+3. Compare com o mínimo da MaxGuard: 76 cm e 15 meses.
+4. Se o bebê conforto acaba antes desse mínimo, compre uma cadeira com fase de costas, e não a MaxGuard.
+5. Se as datas batem, confira no manual do carro se há ISOFIX e ponto de top tether no lugar onde a cadeira vai ficar.
 
-## Instalação no carro
+## Só de frente: do que você abre mão
 
-### ISOFIX com top tether
+Do tempo extra de costas. De costas, a força de uma batida frontal se espalha pelo encosto e pelas costas da criança, em vez de jogar a cabeça e o pescoço para a frente. Muitas cadeiras permitem ficar assim bem depois dos 15 meses. A MaxGuard não.
 
-A MaxGuard usa dois conectores ISOFIX, que travam nos pontos metálicos do banco traseiro, e uma fita de top tether, que prende o alto da cadeira num ponto de ancoragem atrás do banco. O ISOFIX tira a dependência do cinto do carro bem esticado. O top tether reduz o movimento da cadeira para a frente numa batida, justamente o movimento mais forte numa cadeira de frente.
+Andar de frente a partir de 76 cm e 15 meses é permitido pela norma. Só que, se você pretende esticar a fase de costas, esta cadeira não deixa. O raciocínio completo está em [quando virar a cadeirinha de frente](/blog/quando-virar-a-cadeirinha-de-frente/).
 
-Na instalação, confira:
+Em troca, ela entrega a i-Size: faixa por altura, mais precisa que os grupos de peso antigos, e teste de impacto lateral obrigatório. O guia [o que é i-Size](/guias/o-que-e-i-size/) explica a norma. O anúncio informa o registro nº 000566/2025 no Inmetro, que você pode conferir com o passo a passo de [como consultar o selo do Inmetro](/blog/selo-inmetro-cadeirinha-como-consultar/).
 
-- os dois conectores ISOFIX travados, puxando a cadeira para checar;
-- a fita do top tether esticada e sem torção;
-- no manual do carro, onde fica o ponto de top tether. Pode ser no encosto do banco, no teto ou no assoalho do porta-malas.
+## ISOFIX e top tether: onde fica o ponto no seu carro?
 
-Nos testes da equipe, o peso de 7 kg informado pelo fabricante ajudou no manuseio durante a instalação. O guia [ISOFIX ou cinto](/guias/isofix-ou-cinto/) explica como cada sistema trabalha.
+A MaxGuard usa dois conectores ISOFIX, que travam nos pontos metálicos do banco traseiro, e uma fita de top tether, que prende o alto da cadeira num ponto de ancoragem atrás do banco. Numa cadeira de frente, o top tether tem um papel grande: ele segura o movimento para a frente, que é justamente o mais forte numa batida frontal.
 
-### Nas fases maiores
+O ponto de ancoragem muda de carro para carro. Pode estar no encosto do banco, no teto ou no assoalho do porta-malas. Na instalação, a gente confere os dois conectores travados (puxando a cadeira) e a fita esticada, sem torção. Nos testes da equipe, o peso baixo da cadeira deixou a montagem menos cansativa. O papel de cada sistema está no guia [ISOFIX ou cinto](/guias/isofix-ou-cinto/).
 
-Por cobrir os grupos 1, 2 e 3, a MaxGuard acompanha a criança até a fase em que, normalmente, o cinto do carro passa a segurar a criança, com a cadeira funcionando como posicionador. O manual indica em que altura essa mudança acontece e como o cinto deve passar pelas guias. Quando chegar lá, a regra é a mesma de qualquer assento de elevação: a faixa diagonal no meio do ombro, longe do pescoço, e a faixa do colo baixa, sobre o quadril, longe da barriga.
+## Uma cadeira sem reclinação aguenta viagem longa?
 
-## Segurança
+Aguenta, mas a soneca sofre. A MaxGuard não reclina. Em trajetos de bairro, quase ninguém percebe. Na estrada, a criança que dorme tende a tombar a cabeça para a frente ou para o lado, e o apoio de cabeça precisa segurar sozinho. Para nós, é o contra que mais pesa no conforto.
 
-A MaxGuard segue a R129, a i-Size, e o anúncio informa o registro nº 000566/2025 no Inmetro. Para os pais, a i-Size traz duas vantagens: a faixa de uso por altura, que é mais precisa que os antigos grupos de peso, e o teste de impacto lateral obrigatório. O guia [o que é i-Size](/guias/o-que-e-i-size/) explica a norma em detalhe.
+Uma dica que ajuda: revise a altura do apoio de cabeça e das alças a cada poucos meses. Numa cadeira que vai de 76 a 150 cm, é esse ajuste que mantém a cabeça dentro das abas laterais em cada fase.
 
-O que ela não oferece é a posição de costas. Para crianças acima de 76 cm e 15 meses, andar de frente é permitido pela norma. Mas, se você puder manter de costas por mais tempo, essa cadeira não deixa.
+## 7 kg: dá para passar para o carro dos avós?
 
-Pela Resolução 819/2021 do Contran, a cadeirinha é o dispositivo para crianças de 1 a 4 anos, ou de 9 a 18 kg, e depois vem o assento de elevação. Uma cadeira que cobre as duas fases evita uma compra a mais. As regras completas estão no guia da [lei da cadeirinha](/guias/lei-da-cadeirinha/).
+Dá, e é um dos pontos fortes. Com 7 kg, a MaxGuard é leve para uma cadeira com essa faixa. Tirar do carro de vez em quando, para uma viagem ou para a semana na casa dos avós, não é um sacrifício. A condição é que o outro carro também tenha ISOFIX e top tether.
 
-## Ajustes e conforto
+## Quando ela vira posicionador de cinto
 
-A MaxGuard não reclina, segundo o fabricante. Em trajetos curtos, isso faz pouca diferença. Em viagens longas, a criança que dorme tende a tombar a cabeça para a frente ou para o lado, e o apoio de cabeça precisa segurar sozinho. Esse é o contra que mais pesa no conforto.
+Por cobrir os grupos 1, 2 e 3, a MaxGuard chega à fase em que o cinto do carro passa a segurar a criança e a cadeira só posiciona esse cinto. O manual indica a altura dessa mudança. A partir dali, a faixa diagonal deve cruzar o meio do ombro e a do colo deve ficar baixa, sobre o quadril.
 
-Numa cadeira que vai de 76 a 150 cm, o ajuste de altura é o que mantém a proteção em cada fase. Siga o manual para posicionar o apoio de cabeça e o cinto pela altura dos ombros da criança, e revise a cada poucos meses, porque ela cresce mais rápido do que parece. Para limpar, siga a etiqueta do tecido.
+## Por quanto tempo dá para usar a mesma cadeira?
 
-## Tamanho, peso e uso no dia a dia
+Pela faixa, até perto dos 12 anos. Pelo desgaste, talvez menos. Não existe validade legal para cadeirinha no Brasil. O fabricante define o prazo de uso, e a Abramet indica uso médio de até cerca de 6 anos. Confira a data de fabricação na etiqueta. Se o carro sofrer batida moderada ou grave com a cadeira instalada, a NHTSA orienta trocar, mesmo sem dano visível. O artigo [cadeirinha depois de acidente](/blog/cadeirinha-depois-de-acidente/) explica os critérios.
 
-Com 7 kg, segundo o fabricante, a MaxGuard é leve para a categoria. Isso ajuda quem precisa tirar a cadeira do carro de vez em quando, para levar no carro dos avós, por exemplo. Ainda assim, trocar de carro exige que o outro veículo também tenha ISOFIX e top tether.
+## O que a gente faria
 
-Como a MaxGuard pode acompanhar a criança por muitos anos, preste atenção ao prazo de uso. Não existe validade legal para cadeirinha no Brasil, mas o fabricante define um prazo, e a Abramet indica uso médio de até cerca de 6 anos. Confira a data de fabricação na etiqueta. E se o carro sofrer uma batida moderada ou grave com a cadeira instalada, a orientação da NHTSA é trocar a cadeira, mesmo sem dano visível.
+- **Já tem bebê conforto, o bebê passou dos 76 cm e o carro tem ISOFIX e top tether:** a gente compraria a MaxGuard. É leve, i-Size e vai longe.
+- **Quer uma cadeira só desde o nascimento:** a [Fisher-Price GrowStages](/reviews/fisher-price-growstages/) cobre de 40 a 150 cm com fase de costas, e a [Safety 1st Multifix](/reviews/safety-1st-multifix/) vai de 0 a 36 kg com ISOFIX ou cinto.
+- **A criança já está na fase do assento de elevação e o orçamento é curto:** o [Burigotto Protege Fix](/reviews/burigotto-protege-fix/) custa bem menos.
 
-## Pontos de atenção
-
-- **Não reclina.** É o ponto mais sentido em viagens longas e sonecas.
-- **Só de frente, a partir de 76 cm.** Não acompanha a recomendação de manter de costas por mais tempo.
-- **Não serve para recém-nascido.** Você vai precisar de um bebê conforto ou outra cadeira antes dela.
-- **Depende do carro.** Sem ponto de top tether, a instalação completa prevista não acontece. Confira antes de comprar.
-
-## Vale a pena?
-
-Vale para quem já tem bebê conforto, tem carro com ISOFIX e top tether e quer uma cadeira i-Size leve para usar até a idade escolar.
-
-Não vale para quem quer uma cadeira só desde o nascimento. Para esse caso, a [Fisher-Price GrowStages](/reviews/fisher-price-growstages/) cobre de 40 a 150 cm com fase de costas, e a [Safety 1st Multifix](/reviews/safety-1st-multifix/) vai de 0 a 36 kg com ISOFIX ou cinto. Se a criança já está na fase do assento de elevação e o orçamento é curto, o [Burigotto Protege Fix](/reviews/burigotto-protege-fix/) custa bem menos. Veja todas no ranking de [melhor cadeirinha para carro](/melhor-cadeirinha-para-carro/).
-
-Antes de instalar, confira o selo e o registro do Inmetro na etiqueta e veja no manual do carro onde ficam os pontos ISOFIX e o top tether.
+O ranking de [melhor cadeirinha para carro](/melhor-cadeirinha-para-carro/) reúne todas. No dia da instalação, compare o número do Inmetro da etiqueta com o do anúncio e ache no manual do carro o ponto de top tether do lugar escolhido.

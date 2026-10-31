@@ -8,96 +8,84 @@ data: "2026-10-31"
 atualizado: "2026-10-31"
 alternativas: ["cosco-progress", "litet-all-stages-fix-2", "joie-every-stage-fx"]
 faq:
-  - p: "A Safety 1st Multifix tem ISOFIX?"
-    r: "Sim, mas só na posição de frente, a partir do grupo 1. Na posição de costas, no grupo 0+, ela é instalada com o cinto de 3 pontos do carro. Em carros sem ISOFIX, ela pode ser usada com o cinto em todas as fases."
-  - p: "Até quantos kg a Multifix fica de costas?"
-    r: "Segundo o fabricante, de costas só no grupo 0+, até 13 kg. Depois disso ela deve ser virada para frente. Se você quer manter a criança de costas por mais tempo, veja a [Joie Every Stage FX](/reviews/joie-every-stage-fx/), que vai até 18 kg."
-  - p: "A Safety 1st Multifix serve para recém-nascido?"
-    r: "Sim, a faixa começa no nascimento, na posição de costas presa com o cinto do carro. Use a reclinação e o redutor indicados no manual para os primeiros meses."
-  - p: "A Multifix tem selo do Inmetro?"
-    r: "Sim, ela é certificada pela NBR 14400 e tem selo do Inmetro, segundo o fabricante. O número de registro não aparece nos dados que consultamos, então confira a etiqueta da cadeira."
+  - p: "Meu carro tem ISOFIX. A Multifix usa ISOFIX de costas?"
+    r: "Não. De costas, no grupo 0+, ela é sempre presa com o cinto de 3 pontos do carro. O ISOFIX só entra quando a cadeira vira para frente, a partir do grupo 1. Se você quer encaixe ISOFIX desde o nascimento, olhe a [Litet All Stages Fix 2.0](/reviews/litet-all-stages-fix-2/)."
+  - p: "A Multifix funciona em carro sem ISOFIX?"
+    r: "Sim. Ela aceita o cinto do carro em todas as fases, de costas e de frente. É por isso que ela serve em quase qualquer veículo, inclusive carro emprestado ou de aplicativo."
+  - p: "Para que serve o indicador de instalação da Multifix?"
+    r: "Ele ajuda a conferir se a cadeira foi montada do jeito previsto pelo fabricante. A gente ainda faria o [teste de folga](/guias/isofix-ou-cinto/) depois, puxando a cadeira na altura em que o cinto passa."
+  - p: "A Multifix tem top tether?"
+    r: "Não. De frente com ISOFIX, ela fica presa só pelos dois conectores, sem a cinta superior que outras cadeiras usam para reduzir a rotação numa batida."
   - p: "Qual a diferença entre a Multifix e a Cosco Progress?"
     r: "A Multifix aceita ISOFIX de frente, tem proteção lateral Air Protect e indicador de instalação. A Cosco Progress é mais leve e mais barata, mas só instala com cinto. Detalhamos tudo no [comparativo Multifix vs Cosco Progress](/comparativos/safety-1st-multifix-vs-cosco-progress/)."
 ---
 
-## Resumo da nossa avaliação
+> **Resposta rápida:** a Multifix é a cadeira que a gente indicaria para quem quer uma só, do nascimento aos 36 kg, que funcione em qualquer carro, com ou sem ISOFIX. O porém é o tempo de costas: só até 13 kg, sempre com o cinto do carro, e ela não gira.
 
-A Safety 1st Multifix é uma das cadeirinhas multigrupo mais citadas do mercado, e a razão é prática: ela instala com o cinto do carro ou com ISOFIX, o que a torna compatível com quase qualquer veículo. Vai do nascimento aos 36 kg, tem proteção lateral Air Protect, indicador de instalação correta e cinto que regula junto com o apoio de cabeça. No Mercado Livre, soma mais de 1.700 avaliações com nota alta.
+As medidas e os limites que aparecem aqui são os informados pela Safety 1st. O resto é o que a nossa equipe viu instalando.
 
-Na nossa avaliação, ela é a escolha segura para quem quer uma cadeira só e não quer depender do equipamento do carro. O que ela não oferece é tempo de costas: de costas, só no grupo 0+, até 13 kg, e presa com cinto. O ISOFIX entra apenas na posição de frente. Ela também não gira, então colocar o bebê dá mais trabalho. Este review explica como cada fase funciona e o que muda na hora de virar a cadeira.
+## Multifix quer dizer ISOFIX o tempo todo?
 
-## Duas formas de instalar, em fases diferentes
+Não, e essa é a confusão mais comum na compra. O nome sugere encaixe em tudo, mas cada fase tem a sua regra:
 
-A Multifix tem uma lógica de instalação que confunde muita gente na compra. O nome sugere ISOFIX em tudo, mas não é assim:
-
-| Fase (segundo o fabricante) | Posição | Como instala |
+| Fase | Posição | Como instala |
 |---|---|---|
 | Grupo 0+ (até 13 kg) | De costas | Cinto de 3 pontos do carro |
 | Grupo 1 (9 a 18 kg) | De frente | ISOFIX ou cinto do carro |
 | Grupos 2 e 3 (15 a 36 kg) | De frente | Criança presa pelo cinto do carro |
 
-Isso significa que, mesmo com ISOFIX no seu carro, o primeiro ano será com o cinto. Isso faz parte do desenho do produto, mas você precisa saber disso antes de comprar, para não esperar a instalação de encaixe desde o nascimento.
+Na prática, mesmo com ISOFIX no seu carro, o primeiro ano é com o cinto. Isso é parte do desenho do produto. Só convém saber antes de pagar, para não esperar um encaixe de dois cliques na saída da maternidade.
 
-### Fase de costas: com cinto
+## O primeiro ano é com o cinto: como deixar firme
 
-No grupo 0+, o cinto de 3 pontos do carro passa pelas guias da cadeira na posição de costas. Quando instalamos, passar o cinto pelas guias exigiu atenção: ele precisa seguir exatamente o caminho do manual, sem torção, e ficar bem esticado. Apoiar o peso na cadeira enquanto puxa a parte diagonal do cinto ajuda a tirar a folga.
+De costas, o cinto de 3 pontos do carro passa pelas guias da Multifix. Quando a gente instalou, essa foi a etapa que pediu mais atenção: o cinto tem que seguir exatamente o caminho marcado na cadeira, sem torção, e ficar bem esticado. Apoiar o peso na cadeira enquanto recolhe a parte diagonal ajudou a tirar a folga.
 
-O indicador de instalação correta ajuda a conferir o resultado. Mesmo assim, faça o teste final: segure a cadeira na altura onde o cinto passa e tente movê-la para os lados e para frente. Ela deve ficar firme.
+O indicador de instalação correta é um bom aliado aqui. Ele não substitui o teste com a mão, mas avisa quando algo ficou fora do lugar. Depois, faça o [teste de folga](/guias/isofix-ou-cinto/) na altura em que o cinto atravessa a cadeira.
 
-### A virada para frente: quando o ISOFIX entra
+## O que acontece na virada para frente
 
-Ao passar dos 13 kg, a cadeira vira para frente. É nesse momento que o ISOFIX passa a ser usado, se o carro tiver. Você desinstala a cadeira, vira a posição, encaixa os conectores nas barras do banco e empurra até ficar rente ao encosto.
+Passou dos 13 kg, a cadeira vira. É nesse momento que o ISOFIX entra, se o carro tiver. Você solta o cinto, gira a cadeira para a posição de frente, encaixa os conectores nas barras e empurra até ficar rente ao encosto.
 
-Para muitos pais, essa troca é uma melhora: a instalação de frente com ISOFIX é mais simples e menos sujeita a erro que a de cinto. Se o carro não tiver ISOFIX, a cadeira continua sendo instalada com o cinto, também de frente.
+Para muitos pais, essa troca é um alívio. A instalação de frente com ISOFIX é mais simples e menos sujeita a erro do que a de cinto. Sem ISOFIX no carro, a Multifix continua de frente, presa com o cinto.
 
-A Multifix não usa top tether, segundo o fabricante. Nosso guia [ISOFIX ou cinto](/guias/isofix-ou-cinto/) explica as vantagens de cada sistema.
+O lado ruim é a idade em que isso acontece. Treze quilos chegam perto do primeiro ano, e muitas cadeiras seguram de costas por bem mais tempo. Se você quer adiar a virada, o artigo [quando virar a cadeirinha de frente](/blog/quando-virar-a-cadeirinha-de-frente/) explica o motivo, e a [Joie Every Stage FX](/reviews/joie-every-stage-fx/) vai até 18 kg de costas.
 
-## Segurança
+## Air Protect e indicador: o que ela tem a mais
 
-A cadeira é certificada pela NBR 14400 e tem selo do Inmetro, segundo o fabricante. O número de registro não aparece nos dados que consultamos, então confira a etiqueta. A norma é por peso, sem homologação i-Size informada.
+Duas coisas separam a Multifix das multigrupo básicas da mesma faixa:
 
-A proteção lateral Air Protect é um recurso da marca para reforçar a região da cabeça. Ela é um diferencial frente a cadeiras básicas da mesma faixa, que nem sempre informam proteção lateral.
+- **Air Protect.** É a proteção lateral da marca, que reforça a região da cabeça. Muitas cadeiras simples nem informam proteção lateral.
+- **Indicador de instalação correta.** Ajuda quem instala pela primeira vez a perceber erro de montagem.
 
-O limite de costas é o ponto a pesar. A Academia Americana de Pediatria (AAP, 2018) orienta manter a criança de costas pelo maior tempo possível, até o limite do fabricante. Na Multifix, esse limite é o fim do grupo 0+. Se essa orientação é prioridade para você, considere uma cadeira com limite maior de costas. O guia [o que é i-Size](/guias/o-que-e-i-size/) explica por que as normas mais novas pedem mais tempo de costas.
+Somam-se a isso o cinto de 5 pontos que sobe junto com o apoio de cabeça e as 4 reclinações. Quando a criança cresce, você ajusta o apoio e as alças acompanham, sem desmontar o cinto e repassar por outras fendas. Isso reduz a chance de deixar as alças na altura errada.
 
-A [Resolução Contran 819/2021](https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao8192021.pdf/@@display-file/file) define as faixas de uso e exige banco traseiro até 10 anos ou 1,45 m.
+A certificação é a NBR 14400, por peso, sem i-Size informada. O anúncio não traz o número de registro do Inmetro, então confira na etiqueta. O artigo sobre [como consultar o selo do Inmetro](/blog/selo-inmetro-cadeirinha-como-consultar/) mostra onde procurar.
 
-## Ajustes e conforto
+## Sem giro, quanto esforço dá colocar o bebê?
 
-São 4 reclinações, segundo o fabricante. Na fase de frente, elas ajudam bastante nos cochilos.
+Mais do que numa giratória, principalmente de costas. Você precisa se inclinar para dentro do carro, segurar o bebê e passar as alças com os braços esticados. Nos testes da equipe, isso cansou mais do que nas giratórias, sobretudo em carros de porta menor.
 
-O cinto de 5 pontos regula junto com o apoio de cabeça. Na nossa avaliação, esse é um detalhe que faz diferença ao longo dos anos: quando a criança cresce, você sobe o apoio e as alças acompanham. Não é preciso desmontar o cinto e passar por outras fendas, e o risco de deixar as alças na altura errada diminui.
+Não é um problema de segurança. É de ergonomia, e quem carrega o bebê várias vezes por dia sente nas costas. Se esse ponto pesa, uma giratória como a [Safety 1st i-NXT 360](/reviews/safety-1st-i-nxt-360/) resolve, mas exige ISOFIX e top tether no carro.
 
-O anúncio não detalha o redutor nem a forma de lavagem da capa. Confira no manual antes de lavar.
+## Na prática: se você reveza entre carros
 
-## Tamanho, peso e uso no dia a dia
+A Multifix pesa 10,3 kg, um meio-termo: mais leve que as giratórias e mais pesada que as multigrupo só de cinto. É a cadeira que a gente escolheria para quem ainda não sabe qual carro vai ter daqui a dois anos.
 
-Com 10,3 kg, segundo o fabricante, a Multifix fica no meio do caminho: mais leve que muitas giratórias e mais pesada que as multigrupo mais simples. Dá para trocar de carro de vez em quando, mas não é prático fazer isso toda semana.
+1. Antes de levar para outro carro, veja se ele tem ISOFIX. Se não tiver, tudo bem, a cadeira aceita o cinto.
+2. De costas, refaça a passagem do cinto pelas guias, do zero, como na primeira vez.
+3. De frente com ISOFIX, encaixe os dois conectores e confira o indicador.
+4. Faça o teste de folga antes de colocar a criança.
+5. Se o revezamento for semanal, pense numa segunda cadeira mais leve para o outro carro.
 
-A falta de giro aparece no dia a dia. Na posição de costas, colocar o bebê exige se inclinar para dentro do carro. Nos testes da equipe, isso cansou mais do que nas giratórias, especialmente em carros de porta menor.
+## Multifix ou Cosco Progress?
 
-A compatibilidade é o grande ganho. Se você troca de carro, usa o carro de outra pessoa ou ainda não sabe qual carro terá daqui a dois anos, a Multifix tende a servir.
+É a dúvida que a gente mais recebe. A resposta curta: a Multifix custa mais e entrega ISOFIX de frente, proteção lateral reforçada e indicador de instalação. A Progress compensa com leveza e preço, mas instala só com cinto em todas as fases.
 
-## Pontos de atenção
+O [comparativo Multifix vs Cosco Progress](/comparativos/safety-1st-multifix-vs-cosco-progress/) coloca as duas lado a lado em instalação, peso, conforto e faixa de preço.
 
-- **De costas só até 13 kg.** É o limite mais importante. Depois do primeiro ano, mais ou menos, a criança vai para frente.
-- **ISOFIX só de frente.** Na fase de costas, a instalação depende do cinto do carro e pede mais cuidado.
-- **Não gira.** Colocar e tirar o bebê exige mais esforço, principalmente de costas.
-- **Sem top tether.** De frente com ISOFIX, a cadeira não tem o terceiro ponto que algumas concorrentes usam.
-- **Preço.** A faixa de referência no Mercado Livre era de R$ 840 a R$ 1.000 em outubro de 2026. O valor muda, então compare vendedores.
+## O que a gente faria
 
-## Vale a pena?
-
-Vale para quem quer uma cadeira só, confiável, com proteção lateral e que funcione em carro com ou sem ISOFIX. Ela aparece na nossa lista das [melhores cadeirinhas para carro](/melhor-cadeirinha-para-carro/) como a multigrupo mais equilibrada.
-
-Não vale para quem quer manter a criança de costas depois de 13 kg ou faz questão do giro.
-
-Se a sua dúvida é entre ela e a opção mais barata da Cosco, que é a comparação mais comum entre os pais, o [comparativo Multifix vs Cosco Progress](/comparativos/safety-1st-multifix-vs-cosco-progress/) coloca as duas lado a lado em instalação, peso, conforto e faixa de preço. Em resumo, a Multifix custa mais e entrega ISOFIX de frente, proteção lateral reforçada e indicador de instalação. A Progress compensa com leveza e preço.
-
-| Alternativa | Por que considerar |
-|---|---|
-| [Cosco Progress](/reviews/cosco-progress/) | Mais leve e mais barata, só com cinto do carro |
-| [Litet All Stages Fix 2.0](/reviews/litet-all-stages-fix-2/) | ISOFIX também de costas, mais top tether |
-| [Joie Every Stage FX](/reviews/joie-every-stage-fx/) | De costas até 18 kg, sem giro |
-
-Antes de instalar, confira o selo do Inmetro na etiqueta e o manual do carro para saber se a posição do banco tem ISOFIX.
+- **Quer uma cadeira só, confiável, que sirva em qualquer carro:** a gente iria de Multifix. É a multigrupo mais equilibrada da nossa lista de [melhores cadeirinhas para carro](/melhor-cadeirinha-para-carro/).
+- **Orçamento apertado ou cadeira que vai rodar entre vários carros:** [Cosco Progress](/reviews/cosco-progress/), mais leve e mais barata.
+- **Tem ISOFIX e top tether e quer encaixe desde o nascimento:** [Litet All Stages Fix 2.0](/reviews/litet-all-stages-fix-2/).
+- **Quer a criança de costas até 18 kg sem pagar por giro:** [Joie Every Stage FX](/reviews/joie-every-stage-fx/).

@@ -4,6 +4,7 @@ titulo: "Melhor cadeirinha para carro 2026: 10 avaliadas"
 descricao: "Melhor cadeirinha para carro em 2026: 10 modelos de 0 a 36 kg com ISOFIX, giro e i-Size avaliados pela equipe, com prós, contras e o que a lei exige."
 h1: "Melhor cadeirinha para carro em 2026: 10 modelos de 0 a 36 kg avaliados"
 migalha: "Melhor cadeirinha para carro"
+tituloAnalises: "As 10 cadeiras, uma por uma"
 intro: "A **Safety 1st i-NXT 360** é a melhor cadeirinha para carro que avaliamos: gira com a cadeira instalada, tem homologação i-Size e vai do nascimento aos 36 kg. Se o seu carro não tem ISOFIX ou o orçamento é menor, a **Cosco Progress** resolve com o cinto do carro, e a **Safety 1st Multifix** funciona dos dois jeitos."
 data: "2026-10-31"
 atualizado: "2026-10-31"
@@ -40,112 +41,111 @@ produtos:
     texto: "Não é para recém-nascido: entra depois do bebê conforto, a partir de 76 cm, e vai até 150 cm com ISOFIX e top tether. O registro no Inmetro aparece no anúncio e ela pesa 7 kg, pouco para a categoria. Só vai de frente e não reclina, o que deixa a soneca em viagem menos confortável."
 faq:
   - p: "Qual é a melhor cadeirinha para carro em 2026?"
-    r: "Na nossa avaliação, a **Safety 1st i-NXT 360**, por juntar giro, norma i-Size e uso do nascimento aos 36 kg. Ela exige carro com ISOFIX e top tether. Sem esses pontos, a Safety 1st Multifix ou a Cosco Progress são as opções mais seguras para instalar com cinto."
+    r: "Para a gente, é a **Safety 1st i-NXT 360**, por juntar giro, norma i-Size e uso do nascimento aos 36 kg. Ela exige carro com ISOFIX e top tether. Sem esses pontos, a Safety 1st Multifix ou a Cosco Progress são as opções mais seguras para instalar com cinto."
   - p: "Cadeirinha 0 a 36 kg vale a pena?"
     r: "Vale para quem quer comprar uma vez só e usar do nascimento até a fase do assento de elevação. O lado ruim é que ela fica no carro e não sai com o bebê dormindo, como um bebê conforto. Muitas também ficam de costas só até 13 kg."
   - p: "Cadeirinha com ISOFIX é mais segura que com cinto?"
     r: "Uma cadeirinha bem presa com o cinto do carro também protege. A vantagem do ISOFIX é reduzir o erro de instalação, que é muito comum com cinto frouxo ou passado pela guia errada. Com top tether ou perna de apoio, a cadeira ainda gira menos para frente numa batida."
   - p: "Até quando a criança deve andar de costas?"
-    r: "A lei brasileira fala em bebê conforto ou conversível até 1 ano ou 13 kg, conforme o fabricante. A AAP recomenda manter de costas pelo maior tempo possível, até o limite de peso ou altura da cadeira. Por isso modelos de costas até 18 kg, como a Maxi-Cosi Spinel 360, fazem diferença."
+    r: "A lei brasileira fala em bebê conforto ou conversível até 1 ano ou 13 kg, conforme o fabricante. A orientação da AAP vai além: ficar de costas até o teto que a própria cadeira aceita. Quem quer seguir isso precisa de um modelo que vá a 18 kg de costas, como a Maxi-Cosi Spinel 360."
   - p: "Como saber se a cadeirinha tem selo do Inmetro?"
     r: "Procure a etiqueta do Inmetro com o número de registro, presa na própria cadeira. Desconfie de anúncio que não mostra o selo nem o registro. Produto sem registro é irregular no Brasil."
   - p: "Posso comprar cadeirinha usada?"
     r: "Pode, se ela tiver selo do Inmetro, estiver em perfeito estado, tiver menos de cerca de 6 anos de uso e nunca tiver passado por batida moderada ou grave. Se não souber o histórico, não compre. A NHTSA orienta trocar a cadeira depois de colisão moderada ou grave."
 ---
 
-## Primeiro: qual tipo de cadeirinha você precisa
+> **Resposta rápida:** duas perguntas decidem esta compra antes de qualquer marca. A primeira é se o banco de trás tem ISOFIX e ponto de top tether, porque sem eles metade desta lista não instala. A segunda é quantas vezes por semana a cadeira vai mudar de carro: se for sempre, peso leve e instalação por cinto valem mais que giro.
 
-Antes de comparar marcas, defina o tipo. Muita compra errada começa aqui. Existem quatro caminhos, e cada um resolve uma fase diferente.
+Os números técnicos desta página (faixas, peso, reclinações, limite de costas) são do fabricante ou do anúncio. O que a gente percebeu instalando e usando aparece como impressão da equipe. Abaixo, as perguntas na ordem em que a gente responderia se estivesse no seu lugar.
 
-- **Bebê conforto:** do nascimento até cerca de 1 ano ou 13 kg. Sempre de costas, leve e sai do carro com o bebê dentro. Veja a nossa seleção de [bebê conforto com e sem base ISOFIX](/melhor-bebe-conforto/).
-- **Multigrupo (0 a 36 kg):** uma cadeira só, do nascimento até a fase de assento. Fica instalada no carro. A Cosco Progress, a Multifix e a Litet desta lista são desse tipo.
-- **Giratória 360:** é uma multigrupo que gira sobre a base para ficar de frente para a porta. Facilita colocar e tirar a criança e custa mais. Se é isso que você procura, compare as [cadeirinhas giratórias 360 que avaliamos](/melhor-cadeirinha-giratoria-360/).
-- **Assento de elevação:** para crianças maiores, que já usam o cinto de 3 pontos do carro. A lei exige até 7 anos e meio ou 1,45 m. Temos uma lista só de [assentos de elevação e boosters](/melhor-assento-de-elevacao/).
+## Seu carro tem ISOFIX e top tether?
 
-Uma combinação comum é bebê conforto mais uma cadeirinha como a Fisher-Price MaxGuard depois. Outra é ir direto para uma multigrupo desde a maternidade. As duas funcionam. A diferença está na praticidade e no orçamento.
+Comece pelo carro, não pela cadeira. O ISOFIX são duas barras metálicas escondidas no vão entre o assento e o encosto do banco traseiro. A cadeira tem conectores que travam nelas com um clique. O top tether é uma fita que sai do alto da cadeira e prende num ponto atrás do encosto, no porta-malas ou no teto. A perna de apoio faz o mesmo papel descendo até o assoalho. Esses dois últimos seguram a cadeira para não girar para frente numa batida.
 
-## Como escolher
+Por que isso vem primeiro: a Safety 1st i-NXT 360, a ShieldPro 360, a GrowStages, a MaxGuard e a Kiddo Supra 360 dependem de ISOFIX com top tether em alguma fase. Se o seu carro não tem o ponto de top tether, elas simplesmente não servem, por melhor que sejam.
 
-### Peso, altura e idade da criança
+Sem ISOFIX, sobram a Cosco Progress, que vai só com o cinto, e a Safety 1st Multifix, que aceita os dois sistemas. Com cinto a cadeira também protege, mas a firmeza depende de você esticar bem a fita. A comparação completa está no guia [ISOFIX ou cinto: qual instalação escolher](/guias/isofix-ou-cinto/).
 
-Cadeiras antigas usam grupos por peso (0+, 1, 2 e 3). As homologadas pela i-Size usam faixas por altura, em centímetros, com um limite de peso. Na prática, compre pela fase em que a criança está e confira no manual os limites de entrada e de saída. Uma "0 a 36 kg" pode ter regras diferentes para cada fase, como exigir ISOFIX nos grupos 0+ e 1.
+## Em que fase o seu filho está agora?
 
-### ISOFIX, top tether, perna de apoio ou cinto
+O tipo de cadeira vem antes do modelo. São quatro caminhos:
 
-O ISOFIX prende a cadeira em dois pontos metálicos do banco. O top tether é uma cinta que vai da parte de cima da cadeira até um ponto atrás do encosto, no porta-malas ou no teto. A perna de apoio desce até o assoalho. Os dois últimos reduzem a rotação da cadeira para frente numa batida.
+- **Bebê conforto:** do nascimento até cerca de 1 ano ou 13 kg, sempre de costas, e sai do carro com o bebê dentro. A gente separou os modelos na lista de [bebê conforto com e sem base ISOFIX](/melhor-bebe-conforto/).
+- **Multigrupo 0 a 36 kg:** uma cadeira que fica instalada e acompanha a criança até a fase do assento. Progress, Multifix e Litet são desse tipo.
+- **Giratória 360:** uma multigrupo que gira sobre a base para ficar de frente para a porta. Quem quer só esse tipo pode comparar as [cadeirinhas giratórias 360 que a gente testou](/melhor-cadeirinha-giratoria-360/).
+- **Assento de elevação:** para a criança maior, que já usa o cinto de 3 pontos do carro. Tem uma página só para [assentos de elevação e boosters](/melhor-assento-de-elevacao/).
 
-O cinto do carro também prende bem, mas depende de passar pelas guias certas e ficar bem esticado. É aí que acontece a maioria dos erros. Explicamos as diferenças em detalhe no guia [ISOFIX ou cinto: qual instalação escolher](/guias/isofix-ou-cinto/).
+Se os nomes de grupo (0+, 1, 2 e 3) confundem, o artigo sobre [o que significa cada grupo da cadeirinha](/blog/grupos-da-cadeirinha-0-1-2-3/) traduz cada um em idade e peso aproximados. As cadeiras i-Size trocam os grupos por centímetros, e aí o que vale é medir a criança em pé e comparar com o manual.
 
-Antes de comprar, abra o manual do seu carro e confira três coisas: se tem ISOFIX, em quais bancos, e se tem ponto de top tether. Várias cadeiras desta lista não instalam sem top tether nas fases iniciais.
+## Quanto tempo você quer manter de costas?
 
-### Quanto tempo de costas
+É aqui que os modelos mais se separam. De costas, numa batida frontal, o encosto segura cabeça, pescoço e coluna juntos, em vez de deixar a cabeça ser jogada para frente. A diretriz de 2018 da AAP, a academia americana de pediatria, pede essa posição pelo maior tempo que a cadeira permitir.
 
-Andar de costas protege melhor cabeça e pescoço numa batida frontal. A AAP, desde 2018, recomenda manter a criança de costas pelo maior tempo possível, até o limite de peso ou altura da cadeira. Aqui as diferenças entre modelos são grandes:
-
-| Até quando de costas | Modelos desta lista |
+| Limite de costas (fabricante) | Modelos desta página |
 |---|---|
-| Até 13 kg (grupo 0+) | Cosco Progress, Safety 1st Multifix, Litet All Stages Fix 2.0 |
-| Até 87 cm (cerca de 13 kg) | Safety 1st i-NXT 360 |
-| Até 18 kg | Maxi-Cosi Spinel 360, Joie Every Stage FX, Kiddo Supra 360 |
+| Grupo 0+, até 13 kg | Cosco Progress, Safety 1st Multifix, Litet All Stages Fix 2.0 |
+| 87 cm, perto de 13 kg | Safety 1st i-NXT 360 |
+| 18 kg | Maxi-Cosi Spinel 360, Joie Every Stage FX, Kiddo Supra 360 |
 
-Os números são do fabricante. Se manter de costas depois de 1 ano é prioridade, olhe para a terceira linha.
+Se você pretende passar de 1 ano de costas, só a última linha atende. Quando chegar a hora de pensar nisso, o texto sobre [quando virar a cadeirinha de frente](/blog/quando-virar-a-cadeirinha-de-frente/) mostra os sinais certos e os falsos, como as pernas encostando no banco.
 
-### Norma: R44, NBR 14400 ou i-Size
+## Uma cadeira até os 10 anos ou duas em sequência?
 
-Toda cadeira vendida no Brasil precisa de certificação e registro no Inmetro. Os ensaios seguem a NBR 14400, a europeia R129 (i-Size) ou a americana FMVSS 213. A i-Size classifica por altura, exige teste de impacto lateral e obriga a criança a ficar de costas até pelo menos 15 meses. A R44/04, mais antiga, não testa impacto lateral. Se quiser entender a diferença, leia [o que é i-Size e por que ela importa](/guias/o-que-e-i-size/).
+Existem dois roteiros que funcionam:
 
-### Giro 360
+1. **Bebê conforto no primeiro ano e depois uma cadeira de frente**, como a Fisher-Price MaxGuard, que começa em 76 cm. Você ganha um primeiro ano mais leve e paga duas compras.
+2. **Multigrupo desde a maternidade.** Uma compra só, que vai até 36 kg. Em troca, o bebê não sai dormindo do carro e a cadeira pesa bem mais que um bebê conforto.
 
-O giro não deixa a cadeira mais segura numa batida. Ele facilita a rotina: você vira o assento para a porta, acomoda a criança, ajusta o cinto e volta para a posição de viagem. Em carro baixo, ou para quem tem dor nas costas, faz muita diferença. Custa mais e deixa a cadeira mais pesada.
+Nenhum dos dois é mais seguro por definição. A escolha depende da sua rotina: muitas paradas curtas puxam para o bebê conforto, poucos trajetos longos puxam para a multigrupo. Se você pensa em comprar usada para economizar, leia antes o que a gente escreveu sobre [validade e cadeirinha de segunda mão](/blog/validade-da-cadeirinha-e-cadeirinha-usada/): no Brasil não existe prazo legal, e o histórico da peça conta mais que a aparência.
 
-### Peso da cadeira e espaço no carro
+## R44, NBR 14400 ou i-Size: o que muda para você
 
-Uma Cosco Progress pesa 5,8 kg. Uma Spinel 360 ou uma Joie Every Stage FX pesam 14 kg, segundo os fabricantes. Se a cadeira vai trocar de carro toda semana, isso pesa, literalmente. Giratórias também ocupam mais espaço no banco de trás e podem apertar quem vai na frente em carros compactos.
+Toda cadeira vendida aqui precisa de certificação e registro no Inmetro, seja qual for a norma de ensaio. As três aceitas são a NBR 14400, a europeia R129 (chamada de i-Size) e a americana FMVSS 213. Para os pais, a diferença prática da i-Size é dupla: ela inclui teste de impacto lateral e obriga a posição de costas até, no mínimo, 15 meses. A R44/04, que a Litet segue, não testava batida lateral.
 
-### Faixa de preço
+Isso não torna uma cadeira R44 com registro irregular. Ela é legal. A i-Size é um degrau a mais, e o guia [o que é i-Size e por que ela importa](/guias/o-que-e-i-size/) explica quando vale pagar por ele.
 
-As faixas de preço que mostramos nos cards são referência de outubro de 2026 no Mercado Livre e mudam com frequência. Algumas cadeiras, como a Joie e a Cosco Evolutty, variam muito de um vendedor para outro. Compare o anúncio, o vendedor e confira se o produto é o mesmo modelo da foto.
+## A cadeira vai trocar de carro?
 
-## O que a lei exige
+Esta pergunta muda o ranking para muita família. A Progress pesa 5,8 kg. A Spinel 360 e a Joie Every Stage FX chegam a 14 kg. Tirar e recolocar uma cadeira de 14 kg toda sexta, para o fim de semana com os avós, cansa rápido e aumenta a chance de instalar com pressa.
 
-A regra está na [Resolução Contran nº 819/2021](https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao8192021.pdf/@@display-file/file). Crianças menores de 10 anos que ainda não chegaram a 1,45 m viajam no banco de trás, no dispositivo adequado:
+O giro também entra aqui. Ele não protege mais numa batida: serve para você virar o assento para a porta e acomodar a criança sem torcer o tronco. Em carro baixo ou para quem tem dor nas costas, ajuda muito. Mas giratórias são pesadas e largas, e em hatch pequeno podem empurrar o banco da frente. O artigo sobre [cadeirinha para carro pequeno](/blog/cadeirinha-para-carro-pequeno/) mostra o que medir.
 
-| Dispositivo | Faixa da resolução |
-|---|---|
-| Bebê conforto ou conversível | Até 1 ano ou até 13 kg, conforme o fabricante |
-| Cadeirinha | De 1 a 4 anos ou de 9 a 18 kg |
-| Assento de elevação | De 4 a 7 anos e meio, ou até 1,45 m e de 15 a 36 kg |
-| Cinto do carro | De 7 anos e meio a 10 anos, ou acima de 1,45 m |
+Sobre preço: a faixa que aparece nos cards é uma referência de outubro de 2026 e varia bastante. A Joie e a Cosco Evolutty são as que mais oscilam entre vendedores. Confira se o anúncio é do mesmo modelo da foto antes de fechar.
 
-Descumprir é infração gravíssima pelo art. 168 do CTB: multa de R$ 293,47, 7 pontos na CNH e retenção do veículo até a situação ser corrigida. A exigência não vale para táxi e carro de aplicativo, para crianças de até 7 anos e meio, durante a corrida. O resumo completo, com as exceções do banco da frente, está no nosso guia da [lei da cadeirinha](/guias/lei-da-cadeirinha/).
+## Na prática
 
-## Erros comuns na compra e no uso
+Antes de clicar em comprar, faça isto com o carro na garagem:
 
-1. **Comprar sem conferir o carro.** Cadeira que exige top tether não instala em carro que não tem o ponto. Leia o manual do carro antes.
-2. **Virar a criança de frente cedo demais.** Pernas encostando no banco não são motivo para virar. O limite é o peso ou a altura do manual da cadeira.
-3. **Cinto do carro frouxo.** Com a cadeira instalada, ela não deve se mover muito para os lados na base. Se mexe, reinstale.
-4. **Cinto da criança folgado ou com casaco grosso.** Roupa volumosa cria folga. Ajuste o cinto rente ao corpo e use a manta por cima.
-5. **Apoio de cabeça na altura errada.** Ele sobe junto com a criança. Na i-NXT 360, na Multifix e na Cosco Progress, cinto e apoio regulam juntos, o que ajuda.
-6. **Comprar sem selo do Inmetro.** Confira a etiqueta e o número de registro na cadeira. Anúncio sem essa informação é sinal de alerta.
-7. **Reaproveitar cadeira que passou por batida.** Depois de colisão moderada ou grave, troque. Pode haver dano que não aparece.
+1. Abra o manual do carro na seção de transporte de crianças e anote em quais lugares há ISOFIX.
+2. Afaste o estofado do banco traseiro e confirme com a mão as duas barras metálicas.
+3. Procure o ponto de top tether atrás do encosto ou no porta-malas. Se o carro tem compartimento no assoalho traseiro, anote: a perna de apoio da Spinel pode não ter onde apoiar.
+4. Meça o espaço entre o encosto traseiro e o banco da frente na posição em que o motorista dirige.
+5. Meça e pese a criança e compare com a faixa de entrada e de saída de cada modelo.
+6. Na hora de receber, confira a etiqueta do Inmetro com o número de registro na própria cadeira.
 
-Se você está entre as duas opções mais buscadas do segmento de entrada, fizemos um [comparativo entre Safety 1st Multifix e Cosco Progress](/comparativos/safety-1st-multifix-vs-cosco-progress/) com as diferenças de instalação e de uso.
+## Onde a gente mais vê pai errar
 
-## Qual comprar, conforme o seu caso
+1. **Comprar antes de olhar o carro.** Cadeira que exige top tether não instala em carro sem o ponto.
+2. **Virar de frente por causa das pernas.** Perna dobrada não reduz proteção. O limite é o do manual.
+3. **Cinto do carro com folga.** Segure a cadeira perto da base e puxe para os lados. Se ela anda, reinstale.
+4. **Casaco grosso por baixo do cinto da criança.** Cria uma folga que some na batida. Vista leve e cubra com a manta.
+5. **Apoio de cabeça esquecido na altura de meses atrás.** Na i-NXT 360, na Multifix e na Progress ele sobe junto com o cinto, o que ajuda a não esquecer.
+6. **Reaproveitar cadeira que já passou por batida.** Pode haver dano que não aparece. A NHTSA orienta trocar depois de colisão moderada ou grave.
 
-Se você leu até aqui e ainda está em dúvida, use este atalho:
+Quem está entre as duas mais procuradas da faixa de entrada pode ler o [comparativo entre Safety 1st Multifix e Cosco Progress](/comparativos/safety-1st-multifix-vs-cosco-progress/), focado em instalação e peso.
 
-- **Carro com ISOFIX e top tether, uma cadeira só do nascimento aos 36 kg, com giro:** Safety 1st i-NXT 360. Se o orçamento apertar, a Fisher-Price ShieldPro 360 entrega giro e i-Size por menos.
-- **Carro com ou sem ISOFIX, ou dois carros diferentes:** Safety 1st Multifix. Ela instala com cinto ou ISOFIX e se adapta a quase qualquer banco.
-- **Orçamento curto:** Cosco Progress. É a mais barata da lista e a mais leve para trocar de carro, desde que você tenha paciência para esticar bem o cinto a cada instalação.
-- **ISOFIX desde o nascimento, sem gastar muito:** Litet All Stages Fix 2.0, ciente de que a norma é a R44/04.
-- **Manter de costas até 18 kg:** Maxi-Cosi Spinel 360 se der para investir, Kiddo Supra 360 se quiser uma nacional com alarme no top tether, ou Joie Every Stage FX se não fizer questão do giro.
-- **Já tem bebê conforto e precisa da próxima cadeira:** Fisher-Price MaxGuard, de 76 a 150 cm.
+## O mínimo da lei
 
-Em qualquer caso, a cadeira mais segura é a que fica bem instalada todos os dias. Uma cadeira simples presa do jeito certo protege mais que uma premium instalada com folga.
+Pela [Resolução Contran nº 819/2021](https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao8192021.pdf/@@display-file/file), quem tem menos de 10 anos e ainda não alcançou 1,45 m vai no banco de trás, no dispositivo da sua fase. Por fase: bebê conforto ou conversível no primeiro ano (ou até 13 kg), cadeirinha de 1 a 4 anos (ou de 9 a 18 kg), assento de elevação até 7 anos e meio (ou 1,45 m) e, depois, o cinto do carro. A punição é gravíssima, pelo art. 168 do CTB. Valor da multa, pontos e exceções, como táxi e aplicativo, estão no guia da [lei da cadeirinha](/guias/lei-da-cadeirinha/).
 
-## Como avaliamos
+## Como a gente testou estas cadeiras
 
-A equipe instalou cada modelo, com ISOFIX e com cinto quando a cadeira permite, e avaliou cinco critérios: segurança, instalação, conforto, versatilidade e custo-benefício. As especificações técnicas (faixas, reclinações, peso, norma e registro no Inmetro) vêm do fabricante ou do anúncio e estão indicadas assim. Nenhuma marca pagou para aparecer aqui. Os detalhes estão na nossa [metodologia de avaliação](/metodologia/).
+A equipe instalou cada modelo com ISOFIX e com cinto, quando a cadeira permite, e pontuou segurança, instalação, conforto, versatilidade e custo-benefício. Nenhuma marca pagou para aparecer. Os critérios completos estão na [metodologia de avaliação](/metodologia/).
 
-Antes de usar qualquer cadeira desta lista, confira o selo e o registro do Inmetro na etiqueta e leia o manual do carro para localizar os pontos de ISOFIX e de top tether.
+## O que a gente faria
+
+- **Família com um carro só, ISOFIX e top tether, e alguém com dor nas costas:** a gente iria de [Safety 1st i-NXT 360](/reviews/safety-1st-i-nxt-360/). O giro poupa a coluna em cada embarque e a i-Size cobre do nascimento aos 36 kg. Se o orçamento não fechar, a [Fisher-Price ShieldPro 360](/reviews/fisher-price-shieldpro-360/) entrega giro e i-Size por menos, com uma reclinação de costas só.
+- **Família com dois carros, ou avós que buscam na escola:** a [Cosco Progress](/reviews/cosco-progress/), leve e instalável em qualquer carro com cinto de 3 pontos. Se um dos carros tem ISOFIX, a [Safety 1st Multifix](/reviews/safety-1st-multifix/) aproveita isso na fase de frente.
+- **Família que quer manter de costas até os 18 kg:** a [Maxi-Cosi Spinel 360](/reviews/maxi-cosi-spinel-360/), se o assoalho aceitar a perna de apoio. Sem giro e gastando menos, a [Joie Every Stage FX](/reviews/joie-every-stage-fx/) chega aos mesmos 18 kg de costas, instalada com cinto nessa fase.
+
+Qualquer que seja a escolha, a cadeira que protege é a que está bem presa em todas as viagens, não a mais cara da página.

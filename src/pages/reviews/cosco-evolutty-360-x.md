@@ -8,101 +8,89 @@ data: "2026-10-31"
 atualizado: "2026-10-31"
 alternativas: ["maxi-cosi-spinel-360", "kiddo-supra-360", "safety-1st-i-nxt-360"]
 faq:
-  - p: "A Cosco Evolutty 360 X tem ISOFIX?"
-    r: "Sim. Segundo o fabricante, o ISOFIX é obrigatório nos grupos 0+ e 1, junto com o top tether. Nos grupos 2 e 3 ele passa a ser opcional, e a criança é presa pelo cinto de 3 pontos do carro."
-  - p: "Até quantos kg a Evolutty 360 X fica de costas?"
-    r: "Até 18 kg, segundo o fabricante. É o mesmo limite de giratórias bem mais caras e permite manter a criança de costas bem depois do primeiro ano."
   - p: "A Evolutty 360 X funciona em carro sem top tether?"
-    r: "Não nos grupos 0+ e 1, que vão do nascimento até 18 kg. Nessa fase o fabricante exige ISOFIX e top tether juntos. Confira no manual do carro se existe o ponto de ancoragem superior antes de comprar."
-  - p: "A Cosco Evolutty 360 X tem selo do Inmetro?"
-    r: "Sim, ela é certificada pela NBR 14400 e tem selo do Inmetro. O anúncio não traz o número de registro, então confira a etiqueta da cadeira quando ela chegar."
+    r: "Não nos grupos 0+ e 1, que vão do nascimento até 18 kg. Nessa fase ela exige ISOFIX e top tether juntos. Confira no manual do carro se existe o ponto de ancoragem superior antes de comprar."
+  - p: "Nos grupos 2 e 3, a Evolutty 360 X ainda precisa de ISOFIX?"
+    r: "Não. A partir de 15 kg, como assento, quem segura a criança é o cinto de 3 pontos do carro, e o ISOFIX passa a ser opcional."
   - p: "Quanto pesa a Cosco Evolutty 360 X?"
-    r: "O fabricante não informa o peso da cadeira. Por ser uma giratória com base reforçada, conte com uma cadeira pesada, feita para ficar instalada num carro só."
+    r: "O fabricante não informa. Por ser uma giratória com base reforçada, conte com uma cadeira pesada, feita para ficar instalada num carro só."
+  - p: "A Evolutty 360 X tem garantia estendida?"
+    r: "O anúncio não destaca garantia estendida. Se isso pesa para você, a [Maxi-Cosi Spinel 360](/reviews/maxi-cosi-spinel-360/) tem 5 anos de garantia com registro no site da marca, por um preço bem maior."
+  - p: "Até que idade a Evolutty 360 X serve?"
+    r: "Do nascimento a cerca de 10 anos, até 36 kg. No fim, ela vira assento de elevação com encosto, então você não precisa comprar uma terceira cadeira."
 ---
 
-## Resumo da nossa avaliação
+> **Resposta rápida:** a Evolutty 360 X é a forma mais barata que a gente encontrou de ter giro e posição de costas até 18 kg na mesma cadeira. Os poréns são o top tether obrigatório até 18 kg e um preço que muda muito de anúncio para anúncio, então comparar vendedores é parte da compra.
 
-A Cosco Evolutty 360 X é uma giratória do nascimento aos 36 kg que permite viajar de costas até 18 kg, segundo o fabricante. Esse limite costuma aparecer em cadeiras que custam bem mais, e é o motivo principal para olhar este modelo com atenção. Ela usa ISOFIX com top tether nos primeiros grupos, gira com a cadeira instalada e, no fim do uso, vira assento de elevação com encosto.
+Limites de peso, reclinações e regras de fixação abaixo são os que a Cosco informa. As impressões de uso são da nossa equipe.
 
-Na nossa avaliação, ela entrega o pacote que muitos pais procuram, giro mais tempo de costas, por um valor intermediário. O cuidado está em dois pontos. O primeiro é técnico: sem top tether no carro, ela não serve nos primeiros anos. O segundo é comercial: o preço muda muito de um anúncio para outro, e é fácil pagar quase o dobro pelo mesmo produto. Este review cobre os dois.
+## Por que olhar uma giratória da Cosco?
 
-## O ponto forte: de costas até 18 kg
+Porque ela faz algo que costuma aparecer só em cadeiras bem mais caras: a criança viaja de costas até 18 kg. A maioria das multigrupo vira para frente aos 13 kg, perto do primeiro ano. Com 5 kg a mais de margem, você ganha bastante tempo na posição que protege melhor cabeça e pescoço numa batida frontal. A explicação completa está no artigo [quando virar a cadeirinha de frente](/blog/quando-virar-a-cadeirinha-de-frente/).
 
-A maioria das multigrupo do mercado permite viajar de costas só até 13 kg, que a criança costuma atingir perto de 1 ano. Com 18 kg de limite, a Evolutty 360 X dá bem mais tempo nessa posição.
+O giro ajuda a sustentar essa decisão. Pôr uma criança de quase dois anos de costas numa cadeira fixa significa se curvar para dentro do carro com ela no colo. Nos testes da equipe, virar o assento para a porta deixou essa tarefa bem mais leve, e é esse tipo de conforto que evita a virada precoce por cansaço.
 
-Isso importa porque, numa batida frontal, a cadeira de costas recebe cabeça, pescoço e tronco de uma vez, em vez de deixar a cabeça ser jogada para frente. A Academia Americana de Pediatria (AAP, 2018) orienta manter a criança de costas pelo maior tempo possível, até o limite do fabricante. A NHTSA, dos Estados Unidos, segue a mesma linha.
+## Sem top tether no carro, ela serve?
 
-Na prática, o giro torna essa recomendação mais fácil de seguir. Colocar uma criança maior de costas numa cadeira fixa exige se curvar para dentro do carro com o peso dela no colo. Nos testes da equipe, virar o assento para a porta tornou essa tarefa bem mais confortável, e é isso que faz os pais manterem a posição de costas por mais tempo, em vez de virar a cadeira cedo por cansaço.
+Não, pelo menos até 18 kg. Nos grupos 0+ e 1, a Cosco exige ISOFIX e top tether juntos. Top tether é o terceiro ponto de fixação: uma fita que parte do encosto da cadeira e engata numa argola própria do carro, em geral atrás do banco traseiro ou no porta-malas. Ela impede que a cadeira tombe para frente numa batida. Muitos carros têm as barras ISOFIX e não têm essa argola.
 
-## Instalação no carro
+Antes de comprar, confira no manual do proprietário:
 
-A fixação muda conforme a fase, segundo o fabricante:
+- se a posição escolhida do banco tem as duas barras ISOFIX;
+- se há ponto de top tether nessa mesma posição;
+- se o apoio de cabeça do banco atrapalha a passagem da cinta.
+
+O guia [ISOFIX ou cinto](/guias/isofix-ou-cinto/) mostra como reconhecer cada ponto. Se faltar o gancho, a [Maxi-Cosi Spinel 360](/reviews/maxi-cosi-spinel-360/) usa perna de apoio no lugar dele.
+
+## Os dois jeitos de prender, conforme a fase
 
 | Fase | Posição | Fixação |
 |---|---|---|
 | Grupos 0+ e 1 (até 18 kg) | De costas ou de frente | ISOFIX + top tether, obrigatórios |
 | Grupos 2 e 3 (15 a 36 kg) | De frente, como assento | Cinto de 3 pontos do carro; ISOFIX opcional |
 
-Nos grupos menores, você encaixa os conectores ISOFIX nas barras do banco, empurra a base até ficar rente ao encosto e prende a cinta do top tether no ponto de ancoragem do carro, esticando bem. Quando instalamos, a cinta do top tether foi a parte que pediu mais atenção: ela precisa ficar reta, sem torção e bem tensionada.
+Quando a gente instalou, os conectores ISOFIX entraram sem drama. A cinta do top tether foi o que mais pediu atenção: precisa sair reta, sem torção, e bem esticada. Feito isso, puxe a base para os lados e confira o [teste de folga](/guias/isofix-ou-cinto/).
 
-### Antes de comprar, confira no carro
+## Por que o preço muda tanto de um anúncio para outro?
 
-- **ISOFIX:** duas barras metálicas no vão entre assento e encosto do banco traseiro.
-- **Top tether:** um terceiro ponto, normalmente atrás do encosto do banco ou no assoalho do porta-malas, marcado com o símbolo de uma cadeirinha. Ter ISOFIX não garante ter top tether.
-- **Mesma posição:** os três pontos precisam estar no mesmo lugar do banco.
+A faixa de preço desta cadeira é uma das mais largas que a gente viu na categoria. O mesmo produto aparece em valores muito distantes, conforme o vendedor. Não há nada de errado com a cadeira por isso, mas é fácil pagar bem mais do que precisa se você fechar no primeiro anúncio.
 
-O manual do proprietário tem essa informação na seção de cadeiras infantis. Se o seu carro não tem top tether, a Evolutty 360 X não é para você nos primeiros anos. Uma alternativa com perna de apoio é a [Maxi-Cosi Spinel 360](/reviews/maxi-cosi-spinel-360/). Nosso guia de [ISOFIX ou cinto](/guias/isofix-ou-cinto/) explica as diferenças entre os sistemas.
+Há também o risco de confusão de nome. A Cosco tem outras cadeiras com nomes parecidos, e um anúncio mal escrito pode levar a um modelo diferente, sem o limite de 18 kg de costas.
 
-## Segurança
+## Na prática: antes de clicar em comprar
 
-A cadeira é certificada pela NBR 14400 e tem selo do Inmetro, segundo o fabricante. O anúncio não informa o número de registro, então confira a etiqueta quando o produto chegar. O fabricante não informa homologação i-Size (R129) para este modelo, e a classificação segue por peso. Se quiser entender o que muda entre as normas, veja [o que é i-Size](/guias/o-que-e-i-size/).
+1. Abra pelo menos três anúncios e compare o preço já com frete.
+2. Confira no título e nas fotos que é a **Evolutty 360 X**, com giro e faixa de 0 a 36 kg.
+3. Prefira vendedor com boa reputação e que emita nota fiscal.
+4. Quando a caixa chegar, procure o selo do Inmetro na etiqueta. O anúncio não traz o número de registro, então essa conferência é sua. O artigo sobre [o selo do Inmetro](/blog/selo-inmetro-cadeirinha-como-consultar/) mostra onde ele fica.
+5. Veja a data de fabricação e se o manual veio em português.
 
-O ganho de segurança mais concreto aqui vem do conjunto: ISOFIX e top tether limitando o movimento da cadeira, mais o limite alto de costas protegendo cabeça e pescoço.
+Para colocar a Evolutty lado a lado com as outras giratórias em preço e recursos, use o [comparador de cadeirinhas](/comparador/).
 
-Pela [Resolução Contran 819/2021](https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao8192021.pdf/@@display-file/file), crianças menores de 10 anos que ainda não chegaram a 1,45 m vão no banco traseiro, em dispositivo adequado.
+## Ela vira assento de elevação no fim?
 
-## Ajustes e conforto
+Vira. Quando a criança passa dos 15 kg e já pode usar o cinto do carro, a cadeira se transforma em assento de elevação com encosto. O encosto ajuda a posicionar a faixa diagonal do cinto no ombro, e não no pescoço.
 
-O fabricante indica 4 reclinações. Na fase de recém-nascido, use a mais deitada que o manual permite para a posição de costas. Na fase de frente, as posições mais retas costumam agradar crianças que querem olhar a janela.
+São 4 reclinações. No recém-nascido, use a mais deitada que o manual permite de costas. De frente, as posições mais retas agradam a criança que quer olhar a janela. O anúncio não detalha redutor, tecido nem lavagem da capa, então leia o manual antes de lavar.
 
-No fim do uso, a cadeira vira assento de elevação com encosto. Isso evita comprar um terceiro produto quando a criança passar dos 15 kg e já puder usar o cinto do carro. O encosto ajuda a posicionar a faixa diagonal do cinto no ombro, e não no pescoço.
+A norma informada é a NBR 14400, sem homologação i-Size. A classificação é por peso. Se a diferença entre normas importa para você, o guia [o que é i-Size](/guias/o-que-e-i-size/) explica.
 
-O anúncio não detalha tecido, redutor nem forma de lavagem da capa. Confira no manual antes de lavar.
+## E o peso da cadeira, que ninguém informa?
 
-## Tamanho, peso e uso no dia a dia
+Esse é um buraco de informação. O fabricante não divulga o peso, e isso dificulta prever o esforço de trocar de carro. Pelo tamanho da base giratória, trate-a como cadeira para instalar e deixar. Cada mudança exige refazer o top tether.
 
-O fabricante não informa o peso da cadeira, o que é uma falha de informação. Por ser uma giratória com base reforçada, trate-a como uma cadeira para instalar e deixar num carro só. Cada troca exige refazer o top tether.
+De costas, ela avança na direção do banco da frente. Em carros compactos, o passageiro pode precisar adiantar o banco. Vale medir antes, como explica o artigo sobre [cadeirinha para carro pequeno](/blog/cadeirinha-para-carro-pequeno/).
 
-De costas, ela avança na direção do banco da frente. Em carros compactos, o passageiro da frente pode precisar adiantar o banco. Meça o espaço antes de comprar.
+## Pontos que a gente queria melhores
 
-## Como comprar sem pagar caro demais
+- **Top tether obrigatório até 18 kg.** Exclui carros sem o gancho justamente na fase em que o giro mais ajuda.
+- **Preço instável entre anúncios.** Exige pesquisa.
+- **Peso não divulgado.**
+- **Garantia sem destaque.** O anúncio não fala em garantia estendida.
 
-A faixa de referência no Mercado Livre era de R$ 920 a R$ 1.800 em outubro de 2026, conforme o vendedor. É uma diferença grande para o mesmo produto. Algumas dicas práticas:
+## O que a gente faria
 
-- Compare vários anúncios antes de fechar, olhando o preço com frete.
-- Prefira vendedores com boa reputação e com nota fiscal.
-- Confira se o anúncio é mesmo da Evolutty 360 X, e não de outro modelo da marca com nome parecido.
-- Ao receber, confira o selo do Inmetro na etiqueta, a data de fabricação e o manual em português.
-
-Para ver como ela se compara em preço e recursos com as outras giratórias, use o [comparador de cadeirinhas](/comparador/).
-
-## Pontos de atenção
-
-- **Top tether obrigatório nos grupos 0+ e 1.** Sem o ponto no carro, ela não serve na fase em que o giro mais ajuda.
-- **Preço muito variável.** É fácil pagar bem mais que o necessário se não comparar anúncios.
-- **Peso não informado.** Dificulta prever o esforço para trocar de carro.
-- **Garantia.** O anúncio não destaca garantia estendida, diferente de algumas marcas importadas.
-
-## Vale a pena?
-
-Vale para quem tem carro com ISOFIX e top tether e quer giro mais posição de costas até 18 kg sem pagar preço de importada premium. Entre as [cadeirinhas giratórias 360](/melhor-cadeirinha-giratoria-360/), é das opções com melhor relação entre tempo de costas e valor, desde que você encontre um anúncio na parte de baixo da faixa.
-
-Não vale para quem tem carro sem top tether ou faz questão de garantia longa da marca.
-
-| Alternativa | Por que considerar |
-|---|---|
-| [Maxi-Cosi Spinel 360](/reviews/maxi-cosi-spinel-360/) | Também 18 kg de costas, com perna de apoio e garantia de 5 anos, por um preço bem maior |
-| [Kiddo Supra 360](/reviews/kiddo-supra-360/) | 18 kg de costas e alarme que avisa top tether frouxo |
-| [Safety 1st i-NXT 360](/reviews/safety-1st-i-nxt-360/) | Homologação i-Size, com limite de costas menor (87 cm) |
-
-Antes de instalar, confira o selo do Inmetro na etiqueta e o manual do carro para localizar os pontos ISOFIX e top tether.
+- **Carro com ISOFIX e top tether, e vontade de ficar de costas até 18 kg sem gastar muito:** a gente compraria a Evolutty 360 X, desde que achasse um anúncio na parte de baixo da faixa. Ela está na nossa lista de [cadeirinhas giratórias 360](/melhor-cadeirinha-giratoria-360/).
+- **Carro sem gancho de top tether, mas com piso firme:** [Maxi-Cosi Spinel 360](/reviews/maxi-cosi-spinel-360/), com perna de apoio e garantia de 5 anos.
+- **Vários adultos instalam a cadeira:** [Kiddo Supra 360](/reviews/kiddo-supra-360/), que avisa quando a cinta está frouxa.
+- **Faz questão de i-Size e aceita virar mais cedo:** [Safety 1st i-NXT 360](/reviews/safety-1st-i-nxt-360/).
