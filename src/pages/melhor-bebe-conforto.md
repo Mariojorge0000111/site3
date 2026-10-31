@@ -1,7 +1,7 @@
 ---
 layout: ../layouts/Lista.astro
 titulo: "Melhor bebê conforto 2026: 4 modelos avaliados"
-descricao: "Melhor bebê conforto de 2026: comparamos modelos com base ISOFIX, com base de cinto e sem base, e explicamos até quando usar e quando ir direto à cadeirinha."
+descricao: "Melhor bebê conforto de 2026: modelos com base ISOFIX, com base de cinto e sem base, até quando usar e quando vale ir direto para a cadeirinha."
 h1: "Melhor bebê conforto em 2026: com base ISOFIX, com base de cinto ou sem base"
 migalha: "Melhor bebê conforto"
 intro: "O **Maxi-Cosi Pebble 360 Pro²** é o melhor bebê conforto que avaliamos: tem base ISOFIX com perna de apoio, gira e segue a norma i-Size. Custa caro para um produto de uso curto, por isso o **Cosco Wizz** é a escolha de quem quer o básico certificado gastando pouco."
@@ -120,6 +120,25 @@ O equipamento também precisa ter registro no Inmetro, conforme a Portaria Inmet
 4. **Casaco grosso sob o cinto.** Cria folga. Ajuste o cinto rente ao corpo e cubra o bebê com a manta por cima.
 5. **Bebê conforto de segunda mão sem histórico.** Se não souber se passou por batida, não use. A NHTSA orienta trocar depois de colisão moderada ou grave.
 6. **Deixar o bebê dormir horas no bebê conforto fora do carro.** Ele é feito para o transporte. Em casa, o lugar de dormir é o berço.
+
+## Qual comprar, conforme o seu caso
+
+- **Carro com ISOFIX, uso diário intenso e orçamento folgado:** Pebble 360 Pro². A base que gira e desliza reduz o esforço de cada embarque, e a perna de apoio dá firmeza extra.
+- **Carro sem ISOFIX, mas você quer a praticidade de uma base:** Maxi-Cosi Citi². A base fica presa com o cinto e o bebê conforto só encaixa.
+- **Quer gastar pouco e usar principalmente em saídas curtas:** Cosco Wizz. Se puder, pegue a versão com base.
+- **Quer um modelo nacional simples, com capota e tecido laváveis:** Galzerano Cocoon, sabendo que a base é vendida à parte.
+- **Prefere comprar uma cadeira só desde a maternidade:** veja a seção sobre conversíveis acima e compare a i-NXT 360 com a Multifix.
+
+### Instalação sem base, em linhas gerais
+
+Wizz e Cocoon, sem base, vão presos direto com o cinto de 3 pontos do carro. A sequência geral é esta, mas o manual do modelo sempre manda:
+
+1. coloque o bebê conforto de costas para o movimento, no banco de trás;
+2. passe a faixa abdominal pelas guias marcadas no casco;
+3. passe a faixa diagonal por trás do casco, pela guia indicada;
+4. afivele e puxe o cinto até o bebê conforto ficar firme, sem folga para os lados.
+
+Na nossa avaliação, passar o cinto pelas guias exige atenção nas primeiras vezes. Depois de algumas instalações, fica natural.
 
 ## Como avaliamos
 

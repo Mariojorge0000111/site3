@@ -1,7 +1,7 @@
 ---
 layout: ../layouts/Artigo.astro
 titulo: "Quem somos: a equipe do Cadeirinha Bebê"
-descricao: "Conheça o Cadeirinha Bebê: reviews independentes de cadeirinhas para carro vendidas no Brasil, feitos por uma equipe que testa os modelos e mostra prós e contras."
+descricao: "Conheça o Cadeirinha Bebê: reviews independentes de cadeirinhas para carro vendidas no Brasil, feitos por uma equipe que testa os modelos."
 h1: "Quem somos"
 intro: "O Cadeirinha Bebê é um site de reviews dedicado a um só assunto: a cadeirinha que leva o seu filho no carro."
 data: "2026-10-31"

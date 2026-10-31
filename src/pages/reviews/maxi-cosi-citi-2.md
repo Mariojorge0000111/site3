@@ -13,7 +13,7 @@ faq:
   - p: "Até quantos kg o Maxi-Cosi Citi² pode ser usado?"
     r: "Segundo o fabricante, do nascimento até 13 kg, o que costuma dar cerca de 12 meses. Ele é sempre usado de costas, como todo bebê conforto."
   - p: "O Maxi-Cosi Citi² serve para recém-nascido?"
-    r: "Sim, a faixa começa no nascimento. Use o redutor que acompanha o produto nas primeiras semanas e confira no manual a posição correta das alças do cinto para o tamanho do bebê."
+    r: "Sim, a faixa começa no nascimento. Confira no manual a posição correta das alças do cinto de 5 pontos para o tamanho do bebê e se há acessório redutor indicado para as primeiras semanas."
   - p: "O Maxi-Cosi Citi² tem selo do Inmetro?"
     r: "Sim. O anúncio informa o registro nº 002992/2020 no Inmetro. Confira o mesmo número na etiqueta do produto que você receber."
   - p: "Preciso tirar a base do carro para usar o bebê conforto?"
@@ -76,7 +76,9 @@ Segundo o fabricante, o Citi² vai do nascimento até 13 kg, cerca de 12 meses. 
 
 ## Ajustes e conforto
 
-O Citi² não reclina, segundo a ficha. O ângulo vem do próprio casco e da base, então confira o indicador de nível depois de instalar. Para recém-nascido, o redutor ajuda a manter o bebê bem posicionado. O tecido tem acabamento correto, sem destaque especial.
+O Citi² não reclina, segundo a ficha. O ângulo vem do próprio casco e da base, então confira no manual como verificar a inclinação depois de instalar. Para recém-nascido, a cabeça não pode tombar para a frente: se isso acontecer, revise a instalação antes de sair. O tecido tem acabamento correto, sem destaque especial.
+
+Para o bebê ficar bem preso, as alças do cinto de 5 pontos devem passar justas pelos ombros, sem folga que caiba mais que um dedo entre a fita e o peito. Roupas grossas, como macacão de inverno, criam uma folga que some numa batida. No frio, prenda o bebê com roupa normal e coloque a manta por cima das alças.
 
 ## Tamanho, peso e uso no dia a dia
 

@@ -38,7 +38,7 @@ Agora, se o bebê conforto vai sair de casa só para a maternidade e algumas con
 
 A base se prende nos pontos ISOFIX do banco traseiro e usa uma perna de apoio que desce até o assoalho. A perna segura a rotação da base numa freada forte. Na instalação, confira:
 
-- os dois conectores ISOFIX travados, olhando os indicadores da base;
+- os dois conectores ISOFIX travados, puxando a base para checar;
 - a perna de apoio firme no assoalho, sem ficar suspensa;
 - se o carro tem compartimento ou tampa no piso atrás do banco dianteiro, porque o manual do veículo diz se a perna pode apoiar ali.
 
@@ -58,7 +58,7 @@ Num bebê conforto que aceita instalação direta no cinto, o passo a passo de c
 2. Passe a parte do colo do cinto pelas guias laterais do casco, por cima da área das pernas do bebê.
 3. Leve a parte diagonal por trás do casco, pela guia traseira, e afivele.
 4. Puxe o cinto até o bebê conforto quase não se mexer para os lados.
-5. Confira o ângulo no indicador do casco.
+5. Confira o ângulo de inclinação indicado no manual.
 
 O anúncio do Pebble 360 Pro² não deixa claro se o casco pode ser preso só com o cinto, o que seria útil em táxi ou carro emprestado. Antes de contar com isso, leia o manual do fabricante.
 
@@ -78,7 +78,7 @@ Segundo o fabricante, o Pebble 360 Pro² vai de 40 a 87 cm, o que inclui prematu
 
 A posição totalmente reclinada é o grande diferencial. Segundo o fabricante, ela funciona também no carrinho, então o bebê pode continuar dormindo deitado quando você tira o casco do carro. Para recém-nascido, isso pesa em trajetos longos.
 
-Nos testes da equipe, o acolchoado e o redutor passaram boa impressão de acabamento. Para limpar, siga a etiqueta de lavagem do tecido.
+Nos testes da equipe, o acolchoado passou boa impressão de acabamento. Para limpar, siga a etiqueta de lavagem do tecido.
 
 ## Tamanho, peso e uso no dia a dia
 

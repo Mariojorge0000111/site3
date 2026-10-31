@@ -1,7 +1,7 @@
 ---
 layout: ../layouts/Artigo.astro
 titulo: "Política de privacidade do Cadeirinha Bebê"
-descricao: "Política de privacidade do Cadeirinha Bebê: quais dados o site coleta, como os links de afiliado do Mercado Livre funcionam e quais são os seus direitos pela LGPD."
+descricao: "Política de privacidade do Cadeirinha Bebê: quais dados o site coleta, como funcionam os links de afiliado e seus direitos pela LGPD."
 h1: "Política de privacidade"
 intro: "O Cadeirinha Bebê não pede cadastro e não coleta dados pessoais seus diretamente."
 data: "2026-10-31"

@@ -67,7 +67,7 @@ O fabricante indica 4 reclinações. Na posição de costas, a reclinação mais
 
 A capa sai e vai à máquina de lavar, segundo o fabricante. Para quem usa a cadeira por anos, com lanche, leite e enjoo no caminho, isso faz diferença.
 
-O giro funciona com a cadeira instalada. Na nossa avaliação, ele ajuda ainda mais aqui do que em cadeiras com limite menor de costas: colocar uma criança de 2 ou 3 anos numa cadeira fixa de costas exige se inclinar e levantar o peso dela para dentro do carro. Girando para a porta, você faz isso de frente.
+O giro funciona com a cadeira instalada. Na nossa avaliação, ele ajuda ainda mais aqui do que em cadeiras com limite menor de costas: colocar uma criança maior numa cadeira fixa de costas exige se inclinar e levantar o peso dela para dentro do carro. Girando para a porta, você faz isso de frente.
 
 ## Tamanho, peso e uso no dia a dia
 

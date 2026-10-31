@@ -49,6 +49,10 @@ A resolução diz quando é obrigatório usar cada tipo de cadeira. Ela não diz
 
 É por isso que as cadeiras da norma i-Size só permitem a posição de frente a partir de 76 cm e mantêm o bebê de costas até pelo menos 15 meses. Explicamos isso em detalhes no guia [o que é i-Size e o que muda em relação à R44](/guias/o-que-e-i-size/).
 
+### Quando trocar de fase
+
+Troque de dispositivo quando a criança passar do limite de peso ou de altura informado no manual da cadeira atual, e não antes. Sinais comuns de que chegou a hora: a cabeça já passa do alto do encosto ou os ombros ficaram acima da última regulagem do cinto. Muitas famílias pulam a troca do bebê conforto para a cadeirinha comprando um modelo giratório que acompanha a criança por várias fases. Veja as opções na lista de [cadeirinha giratória 360 com ISOFIX](/melhor-cadeirinha-giratoria-360/).
+
 ## Criança no banco da frente: quando pode
 
 A regra geral é o banco de trás. O art. 3º abre exceções em que a criança com menos de 10 anos pode ir na frente, sempre no dispositivo adequado:

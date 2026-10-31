@@ -131,6 +131,19 @@ Descumprir é infração gravíssima pelo art. 168 do CTB: multa de R$ 293,47, 7
 
 Se você está entre as duas opções mais buscadas do segmento de entrada, fizemos um [comparativo entre Safety 1st Multifix e Cosco Progress](/comparativos/safety-1st-multifix-vs-cosco-progress/) com as diferenças de instalação e de uso.
 
+## Qual comprar, conforme o seu caso
+
+Se você leu até aqui e ainda está em dúvida, use este atalho:
+
+- **Carro com ISOFIX e top tether, uma cadeira só do nascimento aos 36 kg, com giro:** Safety 1st i-NXT 360. Se o orçamento apertar, a Fisher-Price ShieldPro 360 entrega giro e i-Size por menos.
+- **Carro com ou sem ISOFIX, ou dois carros diferentes:** Safety 1st Multifix. Ela instala com cinto ou ISOFIX e se adapta a quase qualquer banco.
+- **Orçamento curto:** Cosco Progress. É a mais barata da lista e a mais leve para trocar de carro, desde que você tenha paciência para esticar bem o cinto a cada instalação.
+- **ISOFIX desde o nascimento, sem gastar muito:** Litet All Stages Fix 2.0, ciente de que a norma é a R44/04.
+- **Manter de costas até 18 kg:** Maxi-Cosi Spinel 360 se der para investir, Kiddo Supra 360 se quiser uma nacional com alarme no top tether, ou Joie Every Stage FX se não fizer questão do giro.
+- **Já tem bebê conforto e precisa da próxima cadeira:** Fisher-Price MaxGuard, de 76 a 150 cm.
+
+Em qualquer caso, a cadeira mais segura é a que fica bem instalada todos os dias. Uma cadeira simples presa do jeito certo protege mais que uma premium instalada com folga.
+
 ## Como avaliamos
 
 A equipe instalou cada modelo, com ISOFIX e com cinto quando a cadeira permite, e avaliou cinco critérios: segurança, instalação, conforto, versatilidade e custo-benefício. As especificações técnicas (faixas, reclinações, peso, norma e registro no Inmetro) vêm do fabricante ou do anúncio e estão indicadas assim. Nenhuma marca pagou para aparecer aqui. Os detalhes estão na nossa [metodologia de avaliação](/metodologia/).
