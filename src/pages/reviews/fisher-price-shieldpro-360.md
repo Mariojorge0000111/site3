@@ -58,7 +58,7 @@ São 4 reclinações no total, 1 de costas e 3 de frente. De frente, as 3 posiç
 
 Em trajetos curtos, isso pouco importa. O bebê vai sentado no ângulo que a cadeira oferece e chega antes de dormir. Em estrada, a história muda: quando a cabeça começa a tombar para frente no sono, você não tem como deitar mais o assento. Se a sua família viaja com frequência, esse ponto pesa mais do que o preço.
 
-O anúncio não detalha redutor, tecido nem lavagem da capa. Confira no manual o que vem na caixa.
+Uma saída para quem viaja de vez em quando é planejar paradas mais frequentes nos trechos longos, para ajeitar o bebê fora do carro. Não resolve o ângulo, mas alivia. O anúncio não detalha redutor, tecido nem lavagem da capa. Confira no manual o que vem na caixa.
 
 ## O top tether é obrigatório mesmo?
 

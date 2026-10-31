@@ -100,8 +100,8 @@ Os quatro têm certificação do Inmetro, que é o que torna a venda legal. O Pe
 Para quem ficou com um modelo sem base, a sequência geral de instalação é esta. O manual do seu modelo sempre manda:
 
 1. Coloque o casco no banco de trás, de costas para o movimento.
-2. Passe a faixa de baixo do cinto pelas guias laterais marcadas no casco.
-3. Leve a faixa diagonal por trás do casco, pela guia indicada, e afivele.
+2. Encaixe a faixa de baixo do cinto nas duas guias laterais que o casco indica.
+3. Contorne a parte de trás do casco com a faixa diagonal, prenda na guia traseira e só então afivele.
 4. Puxe a diagonal até o casco ficar firme, sem andar para os lados.
 5. Confira a inclinação: o recém-nascido precisa de ângulo suficiente para a cabeça não cair para frente. A Criança Segura orienta perto de 45°.
 

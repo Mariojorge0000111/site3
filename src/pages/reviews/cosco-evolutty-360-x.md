@@ -53,7 +53,7 @@ Quando a gente instalou, os conectores ISOFIX entraram sem drama. A cinta do top
 
 ## Por que o preço muda tanto de um anúncio para outro?
 
-A faixa de preço desta cadeira é uma das mais largas que a gente viu na categoria. O mesmo produto aparece em valores muito distantes, conforme o vendedor. Não há nada de errado com a cadeira por isso, mas é fácil pagar bem mais do que precisa se você fechar no primeiro anúncio.
+A faixa de preço desta cadeira é uma das mais largas que a gente viu na categoria. O mesmo produto aparece em valores muito distantes, conforme o vendedor. Não há nada de errado com a cadeira por isso, mas é fácil pagar bem mais do que precisa se você fechar no primeiro anúncio. Por isso a gente trata a pesquisa de preço como etapa da compra, igual à conferência do carro.
 
 Há também o risco de confusão de nome. A Cosco tem outras cadeiras com nomes parecidos, e um anúncio mal escrito pode levar a um modelo diferente, sem o limite de 18 kg de costas.
 

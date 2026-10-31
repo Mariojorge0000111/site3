@@ -42,11 +42,13 @@ De costas, o cinto de 3 pontos do carro passa pelas guias da Multifix. Quando a 
 
 O indicador de instalação correta é um bom aliado aqui. Ele não substitui o teste com a mão, mas avisa quando algo ficou fora do lugar. Depois, faça o [teste de folga](/guias/isofix-ou-cinto/) na altura em que o cinto atravessa a cadeira.
 
+O cinto do carro também cede com o tempo. Alguém reclina o encosto do banco, a cadeira sai para lavar a capa, o retrator recolhe um pouco menos do que deveria. Nesta fase, a gente incluiria a conferência na rotina: uma puxada firme na cadeira antes de colocar o bebê, pelo menos uma vez por semana, resolve a maior parte dos casos de folga.
+
 ## O que acontece na virada para frente
 
 Passou dos 13 kg, a cadeira vira. É nesse momento que o ISOFIX entra, se o carro tiver. Você solta o cinto, gira a cadeira para a posição de frente, encaixa os conectores nas barras e empurra até ficar rente ao encosto.
 
-Para muitos pais, essa troca é um alívio. A instalação de frente com ISOFIX é mais simples e menos sujeita a erro do que a de cinto. Sem ISOFIX no carro, a Multifix continua de frente, presa com o cinto.
+Para muitos pais, essa troca é um alívio. A instalação de frente com ISOFIX é mais simples e menos sujeita a erro do que a de cinto. Sem ISOFIX no carro, a Multifix continua de frente, presa com o cinto. Nesse caso, o cinto passa por outras guias, diferentes das usadas de costas, então abra o manual na página da posição de frente antes de começar.
 
 O lado ruim é a idade em que isso acontece. Treze quilos chegam perto do primeiro ano, e muitas cadeiras seguram de costas por bem mais tempo. Se você quer adiar a virada, o artigo [quando virar a cadeirinha de frente](/blog/quando-virar-a-cadeirinha-de-frente/) explica o motivo, e a [Joie Every Stage FX](/reviews/joie-every-stage-fx/) vai até 18 kg de costas.
 

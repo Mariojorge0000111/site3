@@ -111,7 +111,7 @@ const schema = [
 
   {f.faq?.length && (
     <section class="texto" style="padding:24px 20px 72px">
-      <h2 style="margin-bottom:12px">Perguntas frequentes</h2>
+      <h2 style="margin-bottom:12px">{f.tituloFaq ?? "O que os pais mais perguntam"}</h2>
       <Faq itens={f.faq} />
     </section>
   )}

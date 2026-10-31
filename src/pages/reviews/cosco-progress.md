@@ -48,7 +48,7 @@ O anúncio não informa trava própria para o cinto do carro. Por isso a tensão
 
 Na maior parte dos carros, sim. Mas leia no manual da cadeira qual tipo de cinto ela exige em cada fase e veja se a posição escolhida do banco atende. Assentos do meio às vezes têm cinto diferente das laterais. O artigo sobre [banco do meio ou atrás do motorista](/blog/cadeirinha-no-banco-do-meio-ou-atras-do-motorista/) ajuda a escolher o lugar.
 
-Se a cadeira não fica firme numa posição mesmo depois de refazer tudo, troque de lugar no banco antes de desistir do modelo.
+Se a cadeira não fica firme numa posição mesmo depois de refazer tudo, troque de lugar no banco antes de desistir do modelo. Às vezes o formato do assento, mais inclinado ou mais macio, atrapalha a cadeira a assentar. A lateral oposta pode resolver.
 
 ## 5,8 kg: a vantagem de quem divide a cadeira
 
