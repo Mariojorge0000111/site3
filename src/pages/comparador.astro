@@ -81,17 +81,17 @@ const schema = {
         <tbody>
           {linhas.map(({ p, dados }) => (
             <tr data-categoria={dados.categoria} data-kgmin={dados.kgmin} data-kgmax={dados.kgmax} data-isofix={dados.isofix} data-giro={dados.giro} data-isize={dados.isize} data-preco={dados.preco}>
-              <td><span class="tabela-mini"><img src={imgProduto(p.imagem)} referrerpolicy="no-referrer" alt="" width="44" height="44" loading="lazy" /><a href={urlReview(p.slug)}>{p.nome}</a></span></td>
-              <td>{CATEGORIAS[p.categoria].nome}</td>
-              <td>{p.faixa}</td>
-              <td>{p.isofix.split(' (')[0]}</td>
-              <td>{p.ancoragem}</td>
-              <td>{p.costasAte}</td>
-              <td>{p.giro360 ? 'Sim' : 'Não'}</td>
-              <td>{p.norma}</td>
-              <td style="white-space:nowrap">{FAIXAS_PRECO[p.precoFaixa]}</td>
-              <td class="num">{p.nota.toFixed(1).replace('.', ',')}</td>
-              <td><a class="btn btn-ml" style="padding:8px 12px;font-size:.88rem" href={p.mlUrl} target="_blank" rel="sponsored nofollow noopener">Ver preço</a></td>
+              <td data-rotulo="Modelo"><span class="tabela-mini"><img src={imgProduto(p.imagem)} referrerpolicy="no-referrer" alt="" width="44" height="44" loading="lazy" /><a href={urlReview(p.slug)}>{p.nome}</a></span></td>
+              <td data-rotulo="Tipo">{CATEGORIAS[p.categoria].nome}</td>
+              <td data-rotulo="Faixa">{p.faixa}</td>
+              <td data-rotulo="ISOFIX">{p.isofix.split(' (')[0]}</td>
+              <td data-rotulo="Ancoragem">{p.ancoragem}</td>
+              <td data-rotulo="De costas">{p.costasAte}</td>
+              <td data-rotulo="Giro">{p.giro360 ? 'Sim' : 'Não'}</td>
+              <td data-rotulo="Norma">{p.norma}</td>
+              <td data-rotulo="Preço" style="white-space:nowrap">{FAIXAS_PRECO[p.precoFaixa]}</td>
+              <td data-rotulo="Nota" class="num">{p.nota.toFixed(1).replace('.', ',')}</td>
+              <td data-rotulo=""><a class="btn btn-ml" style="padding:8px 12px;font-size:.88rem" href={p.mlUrl} target="_blank" rel="sponsored nofollow noopener">Ver preço</a></td>
             </tr>
           ))}
         </tbody>
@@ -122,7 +122,7 @@ const schema = {
       }
       f.addEventListener('change', aplicar);
       var q = new URLSearchParams(location.search);
-      q.forEach(function (val, k) { if (f.elements[k]) f.elements[k].value = val; });
+      q.forEach(function (val, k) { var el = f.elements[k]; if (!el) return; if (el.tagName === 'SELECT' && !Array.prototype.some.call(el.options, function (o) { return o.value === val; })) { var o = document.createElement('option'); o.value = val; o.textContent = val + ' kg'; el.appendChild(o); } el.value = val; });
       aplicar();
     })();
   </script>

@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Review.astro
 produto: fisher-price-growstages
-titulo: "Fisher-Price GrowStages: review com prós e contras"
+titulo: "Fisher-Price GrowStages: review da i-Size sem giro"
 descricao: "Review da Fisher-Price GrowStages: multigrupo i-Size com ISOFIX e top tether do nascimento aos 150 cm. Veja se compensa uma cadeira que não gira."
 h1: "Review Fisher-Price GrowStages: uma cadeira i-Size do nascimento aos 150 cm, sem giro"
 data: "2026-10-31"

@@ -1,0 +1,117 @@
+---
+import Base from '../layouts/Base.astro';
+import { PRODUTOS } from '../data/produtos';
+import { SITE } from '../config';
+
+const equipe = [
+  {
+    papel: 'Testes de instalação',
+    titulo: 'Quem instala e usa',
+    cor: 'var(--ceu)', traco: 'var(--cobalto)',
+    icone: '<path d="M5 12h14M12 5v14"/><circle cx="12" cy="12" r="9"/>',
+    texto: 'Instala cada cadeirinha com ISOFIX e com o cinto do carro, ajusta para cada fase e usa no dia a dia antes de qualquer nota sair.',
+    itens: ['Confere folga na base depois de instalada', 'Testa giro, reclinação e ajuste do cinto de 5 pontos', 'Anota o que dá trabalho: peso, tamanho, capa para lavar'],
+  },
+  {
+    papel: 'Ficha técnica e normas',
+    titulo: 'Quem confere os números',
+    cor: 'var(--menta)', traco: 'var(--menta-escura)',
+    icone: '<path d="M9 11l3 3 8-8"/><path d="M20 12v7a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"/>',
+    texto: 'Cruza o que o anúncio promete com o manual e o fabricante: faixa de peso e altura, limite de costas, norma e registro no Inmetro.',
+    itens: ['Acompanha Contran 819/2021 e as regras do Inmetro', 'Explica R44/04, R129 (i-Size) e NBR 14400', 'Marca como "não informado" o que o fabricante não divulga'],
+  },
+  {
+    papel: 'Edição e revisão',
+    titulo: 'Quem escreve e atualiza',
+    cor: 'var(--pessego)', traco: 'var(--coral)',
+    icone: '<path d="M12 20h9"/><path d="M16.5 3.5a2.1 2.1 0 0 1 3 3L7 19l-4 1 1-4z"/>',
+    texto: 'Transforma teste e ficha em texto que um pai cansado entende em dois minutos: resposta primeiro, defeito sem rodeio, sem alarmismo.',
+    itens: ['Revisa preços de referência e disponibilidade', 'Atualiza reviews quando o modelo muda de versão', 'Garante que todo produto tenha prós e contras reais'],
+  },
+];
+
+const passos = [
+  { t: 'Escolha dos modelos', p: 'Os mais vendidos e mais procurados no Brasil, que estão à venda hoje.' },
+  { t: 'Teste da equipe', p: 'Instalação com ISOFIX e cinto, ajustes de cada fase e uso no dia a dia.' },
+  { t: 'Conferência da ficha', p: 'Manual, fabricante e registro no Inmetro. Dado sem fonte não entra.' },
+  { t: 'Nota e revisão', p: 'Cinco critérios com pesos públicos. O texto é revisado e datado.' },
+];
+
+const schema = {
+  '@context': 'https://schema.org',
+  '@type': 'AboutPage',
+  name: `Quem somos | ${SITE.nome}`,
+  url: new URL('/sobre/', Astro.site).href,
+  mainEntity: { '@id': new URL('/#organizacao', Astro.site).href },
+};
+---
+<Base title="Quem somos: a equipe do Cadeirinha Bebê" description="Conheça a equipe do Cadeirinha Bebê: quem testa a instalação, quem confere a ficha técnica e as normas, e quem escreve e atualiza cada review." schema={schema}>
+  <section class="hero" style="padding-bottom:48px">
+    <div class="wrap">
+      <nav class="migalhas" aria-label="Você está em"><a href="/">Início</a> / Quem somos</nav>
+      <h1 style="max-width:16ch">A gente só fala de cadeirinha. E fala a verdade sobre elas.</h1>
+      <p class="lead" style="max-width:60ch">O Cadeirinha Bebê nasceu de uma frustração: anúncio que repete "0 a 36 kg com ISOFIX" e não conta até quando o bebê fica de costas, se precisa de top tether ou qual é o registro no Inmetro. Hoje são {PRODUTOS.length} modelos avaliados com essa régua.</p>
+    </div>
+  </section>
+
+  <section class="secao" style="padding-top:24px">
+    <div class="wrap">
+      <div class="cabeca">
+        <h2>A equipe</h2>
+        <p>Três frentes de trabalho, cada uma com uma responsabilidade clara. Nenhum review é publicado sem passar pelas três.</p>
+      </div>
+      <div class="equipe">
+        {equipe.map((e) => (
+          <article class="pessoa">
+            <div class="avatar" style={`background:${e.cor};color:${e.traco}`}>
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" set:html={e.icone} />
+            </div>
+            <h3>{e.titulo}</h3>
+            <p class="papel">{e.papel}</p>
+            <p>{e.texto}</p>
+            <ul>{e.itens.map((i) => <li>{i}</li>)}</ul>
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="secao secao-areia">
+    <div class="wrap">
+      <div class="cabeca"><h2>Como um review nasce</h2><p>O mesmo caminho para todos os modelos, do mais barato ao mais caro.</p></div>
+      <ol class="passos">
+        {passos.map((p) => <li><h3>{p.t}</h3><p>{p.p}</p></li>)}
+      </ol>
+      <p style="margin-top:22px"><a href="/metodologia/">Ver os critérios e os pesos da nota</a></p>
+    </div>
+  </section>
+
+  <section class="secao">
+    <div class="wrap" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:20px">
+      <div class="caixa" style="border-radius:var(--raio-g)">
+        <h2 style="font-size:1.5rem;margin-bottom:12px">Como o site se paga</h2>
+        <p>Somos afiliados do Mercado Livre. Se você compra pelo nosso link, podemos receber uma comissão, sem custo extra para você.</p>
+        <p style="margin:0">A comissão não mexe na nota: um modelo campeão de vendas pode ficar atrás se tiver uma limitação importante, e a gente diz qual é. <a href="/aviso-de-afiliado/">Leia o aviso de afiliado</a>.</p>
+      </div>
+      <div class="caixa" style="border-radius:var(--raio-g)">
+        <h2 style="font-size:1.5rem;margin-bottom:12px">O que a gente não faz</h2>
+        <ul style="margin:0;padding-left:1.1em">
+          <li>Não inventa preço: mostra uma faixa com data.</li>
+          <li>Não publica depoimento de cliente que não existe.</li>
+          <li>Não faz teste de impacto: isso é trabalho de laboratório certificado.</li>
+          <li>Não substitui o manual da cadeira, o manual do carro nem o pediatra.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="secao secao-tinta">
+    <div class="wrap">
+      <div class="cabeca"><h2>Revisado, com data</h2><p>Fabricantes mudam versões e o preço muda toda semana. Por isso cada página mostra a data da última revisão, e os reviews são revisados quando um modelo muda de versão.</p></div>
+      <div style="display:flex;flex-wrap:wrap;gap:10px">
+        <a class="btn btn-ml" href="/comparador/">Abrir o comparador</a>
+        <a class="btn" style="background:rgba(255,255,255,.1);color:#fff" href="/melhor-cadeirinha-para-carro/">Ver as melhores cadeirinhas</a>
+      </div>
+    </div>
+  </section>
+</Base>

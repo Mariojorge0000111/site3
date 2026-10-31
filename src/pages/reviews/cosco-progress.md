@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Review.astro
 produto: cosco-progress
-titulo: "Cosco Progress: review com prós e contras"
+titulo: "Cosco Progress vale a pena? Review sem ISOFIX"
 descricao: "Review da Cosco Progress, cadeirinha 0 a 36 kg sem ISOFIX: passo a passo para instalar firme com o cinto do carro e os erros que deixam a cadeira solta."
 h1: "Review Cosco Progress: como instalar firme com o cinto do carro a cadeirinha mais vendida"
 data: "2026-10-31"

@@ -4,6 +4,7 @@ import Faq from '../components/Faq.astro';
 import FotoProduto from '../components/FotoProduto.astro';
 import Nota from '../components/Nota.astro';
 import BotaoML from '../components/BotaoML.astro';
+import { imagemPost } from '../lib/blog';
 import { PRODUTOS, produto, urlReview, imgProduto } from '../data/produtos';
 
 const escolhas = [
@@ -38,6 +39,17 @@ const schemaFaq = {
   '@type': 'FAQPage',
   mainEntity: faq.map((f) => ({ '@type': 'Question', name: f.p, acceptedAnswer: { '@type': 'Answer', text: f.r.replace(/\*\*|\[|\]\([^)]*\)/g, '') } })),
 };
+
+const posts = Object.values(import.meta.glob('./blog/*.md', { eager: true }) as Record<string, any>)
+  .sort((a, b) => (b.frontmatter.data + b.url).localeCompare(a.frontmatter.data + a.url))
+  .slice(0, 3);
+const bento = [
+  { c: 'b1', href: '/melhor-bebe-conforto/', t: 'Bebê conforto', f: 'Do nascimento a 13 kg', p: 'Sempre de costas, com ou sem base. Os que valem a pena e os que não.', img: produto('maxi-cosi-citi-2') },
+  { c: 'b2', href: '/melhor-cadeirinha-para-carro/', t: 'Uma cadeira de 0 a 36 kg', f: 'Do nascimento a 10 anos', p: 'Multigrupo com e sem ISOFIX, comparada por quanto tempo fica de costas.', img: produto('safety-1st-multifix') },
+  { c: 'b3', href: '/melhor-cadeirinha-giratoria-360/', t: 'Giratórias 360', f: '0 a 36 kg', p: 'Gira para a porta. Exige ISOFIX no carro.', img: produto('safety-1st-i-nxt-360') },
+  { c: 'b4', href: '/melhor-assento-de-elevacao/', t: 'Assento de elevação', f: '15 a 36 kg', p: 'Para o cinto passar no ombro, não no pescoço.', img: produto('burigotto-protege-fix') },
+  { c: 'b5', href: '/comparador/', t: 'Comparar todas', f: `${PRODUTOS.length} modelos`, p: 'Filtre por peso, ISOFIX, giro e preço.', img: produto('cosco-progress') },
+];
 ---
 <Base
   title="Cadeirinha Bebê: reviews de cadeirinhas para carro"
@@ -45,32 +57,28 @@ const schemaFaq = {
   schema={schemaFaq}
 >
   <section class="hero">
-    <div class="wrap" style="display:grid;grid-template-columns:1.05fr .95fr;gap:44px;align-items:center" id="hero-grade">
+    <div class="wrap hero-grade">
       <div>
-        <span class="selo">Atualizado em outubro de 2026</span>
-        <h1 style="margin-top:16px">A cadeirinha certa para o seu filho e para o seu carro.</h1>
-        <p class="lead">Reviews de {PRODUTOS.length} modelos vendidos no Brasil, com o que os anúncios costumam esconder: até quando fica de costas, se exige top tether, o registro no Inmetro e os pontos negativos de verdade.</p>
-        <div style="display:flex;flex-wrap:wrap;gap:10px;margin-top:26px">
-          <a class="btn btn-marca" href="/melhor-cadeirinha-para-carro/">Ver as melhores cadeirinhas</a>
-          <a class="btn btn-linha" href="/comparador/">Abrir o comparador</a>
+        <h1>A cadeirinha certa serve no seu filho e no seu carro.</h1>
+        <p class="lead">A gente testa as cadeirinhas vendidas no Brasil e mostra o que o anúncio não conta: até quando o bebê fica de costas, se precisa de top tether, o registro no Inmetro e os defeitos de cada uma.</p>
+        <div style="display:flex;flex-wrap:wrap;gap:10px;margin-top:28px">
+          <a class="btn btn-marca" href="/melhor-cadeirinha-para-carro/">Ver as melhores de 2026</a>
+          <a class="btn btn-linha" href="/comparador/">Comparar modelos</a>
         </div>
+        <p style="margin:22px 0 0;font-size:.92rem;color:var(--suave)">{PRODUTOS.length} modelos avaliados. Revisado em outubro de 2026.</p>
       </div>
 
       <div class="seletor" id="seletor">
-        <h2>Qual cadeirinha serve agora?</h2>
-        <p style="color:var(--suave);margin:0 0 6px;font-size:.96rem">Responda duas perguntas e veja os modelos indicados.</p>
-        <div class="rot">Peso da criança</div>
-        <div class="opcoes" role="radiogroup" aria-label="Peso da criança">
-          <label class="op"><input type="radio" name="peso" value="4" checked /><span>Recém-nascido</span></label>
-          <label class="op"><input type="radio" name="peso" value="11" /><span>9 a 13 kg</span></label>
-          <label class="op"><input type="radio" name="peso" value="16" /><span>13 a 18 kg</span></label>
-          <label class="op"><input type="radio" name="peso" value="25" /><span>18 a 36 kg</span></label>
-        </div>
-        <div class="rot">O carro tem ISOFIX?</div>
-        <div class="opcoes" role="radiogroup" aria-label="O carro tem ISOFIX">
-          <label class="op"><input type="radio" name="isofix" value="sim" checked /><span>Tem</span></label>
-          <label class="op"><input type="radio" name="isofix" value="nao" /><span>Não tem</span></label>
-          <label class="op"><input type="radio" name="isofix" value="" /><span>Não sei</span></label>
+        <h2>Quanto seu filho pesa?</h2>
+        <p class="ajuda">Arraste a régua. A gente mostra o tipo certo e os modelos com a melhor nota.</p>
+        <div class="peso-saida"><strong id="kg">4</strong><span>kg</span></div>
+        <p class="peso-fase" id="fase">Fase bebê: de costas, bebê conforto ou conversível</p>
+        <label class="sr" for="peso">Peso da criança em quilos</label>
+        <input class="faixa-range" type="range" id="peso" min="2" max="36" step="1" value="4" />
+        <div class="faixa-legenda" aria-hidden="true"><span style="width:36%">bebê conforto</span><span style="width:14%">cadeirinha</span><span style="width:50%">assento de elevação</span></div>
+        <div class="alternar" role="radiogroup" aria-label="O carro tem ISOFIX?">
+          <label><input type="radio" name="isofix" value="sim" checked /><span>Carro com ISOFIX</span></label>
+          <label><input type="radio" name="isofix" value="nao" /><span>Sem ISOFIX</span></label>
         </div>
         <div class="resultado" id="resultado" aria-live="polite"></div>
       </div>
@@ -80,16 +88,37 @@ const schemaFaq = {
   <section class="secao">
     <div class="wrap">
       <div class="cabeca">
-        <h2>Nossas escolhas</h2>
-        <p>Os modelos com a melhor nota em cada situação, segundo a nossa <a href="/metodologia/">metodologia</a>.</p>
+        <h2>Comece pela fase do seu filho</h2>
+        <p>A lei define o tipo de cadeira pela idade, pelo peso e pela altura. Cada lista compara só os modelos que servem naquela fase.</p>
       </div>
-      <div class="grade">
+      <div class="bento">
+        {bento.map((b) => (
+          <a class={b.c} href={b.href}>
+            <div>
+              <span class="faixa">{b.f}</span>
+              <h3 style="margin-top:8px">{b.t}</h3>
+              <p>{b.p}</p>
+            </div>
+            <FotoProduto nome={b.img.imagem} alt="" />
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="secao secao-areia">
+    <div class="wrap">
+      <div class="cabeca">
+        <h2>As que a gente indicaria para uma amiga</h2>
+        <p>A melhor nota em cada situação, pela nossa <a href="/metodologia/">metodologia</a>. Os defeitos estão em cada review.</p>
+      </div>
+      <div class="grade rolar">
         {escolhas.map(({ p, selo }) => (
-          <div class="caixa" style="display:flex;flex-direction:column;gap:12px">
-            <span class="selo" style="align-self:flex-start">{selo}</span>
+          <div class="caixa" style="display:flex;flex-direction:column;gap:12px;border-radius:var(--raio-g)">
+            <span class="selo">{selo}</span>
             <a class="produto-foto" href={urlReview(p.slug)} aria-label={`Review do ${p.nome}`}><FotoProduto nome={p.imagem} alt={p.imagemAlt} /></a>
             <div style="display:flex;justify-content:space-between;gap:10px;align-items:center">
-              <div><h3 style="font-size:1.1rem"><a href={urlReview(p.slug)} style="color:inherit;text-decoration:none">{p.nome}</a></h3><div style="color:var(--suave);font-size:.92rem">{p.faixa}</div></div>
+              <div><h3 style="font-size:1.12rem"><a href={urlReview(p.slug)} style="color:inherit;text-decoration:none">{p.nome}</a></h3><div style="color:var(--suave);font-size:.9rem">{p.faixa}</div></div>
               <Nota valor={p.nota} pequena />
             </div>
             <BotaoML href={p.mlUrl} texto="Ver preço" bloco />
@@ -99,52 +128,55 @@ const schemaFaq = {
     </div>
   </section>
 
-  <section class="secao secao-areia">
-    <div class="wrap">
-      <div class="cabeca">
-        <h2>Escolha pela fase</h2>
-        <p>A lei define o tipo de dispositivo pela idade, pelo peso e pela altura. Comece pela fase do seu filho.</p>
+  {posts.length > 0 && (
+    <section class="secao">
+      <div class="wrap">
+        <div class="cabeca" style="display:flex;justify-content:space-between;align-items:end;gap:16px;max-width:none;flex-wrap:wrap">
+          <div style="max-width:620px"><h2>Do blog</h2><p>Dúvidas que chegam até a gente, respondidas sem enrolação.</p></div>
+          <a class="btn btn-linha" href="/blog/">Ver todos os artigos</a>
+        </div>
+        <div class="cards-blog rolar">
+          {posts.map((post) => (
+            <a class="card-blog" href={post.url.replace(/\/?$/, '/')}>
+              <img src={imagemPost(post.url, 800)} alt="" width="800" height="533" loading="lazy" />
+              <span class="chip" style="align-self:flex-start">{post.frontmatter.categoria}</span>
+              <h3>{post.frontmatter.h1}</h3>
+              <p>{post.frontmatter.intro}</p>
+            </a>
+          ))}
+        </div>
       </div>
-      <div class="grade">
-        {fases.map((f) => (
-          <a class="caixa caixa-link" href={f.href}>
-            <span class="chip">{f.rotulo}</span>
-            <h3>{f.titulo}</h3>
-            <p>{f.texto}</p>
-          </a>
-        ))}
+    </section>
+  )}
+
+  <section class="secao secao-tinta">
+    <div class="wrap">
+      <div class="cabeca"><h2>Como a gente avalia</h2><p>Cinco critérios com pesos públicos. Segurança pesa mais que qualquer outro.</p></div>
+      <div class="confianca">
+        <div><strong>A ficha que o anúncio esconde</strong><p>Limite de costas, top tether, norma e registro no Inmetro, conferidos com o fabricante.</p></div>
+        <div><strong>Defeito também é informação</strong><p>Todo modelo tem pontos negativos, inclusive os primeiros da lista. A gente escreve quais são.</p></div>
+        <div><strong>Preço com data</strong><p>Mostramos a faixa de referência e o mês. O valor exato está sempre no anúncio.</p></div>
+      </div>
+      <div style="display:flex;flex-wrap:wrap;gap:10px;margin-top:24px">
+        <a class="btn btn-ml" href="/metodologia/">Ler a metodologia</a>
+        <a class="btn" style="background:rgba(255,255,255,.1);color:#fff" href="/sobre/">Conhecer a equipe</a>
       </div>
     </div>
   </section>
 
   <section class="secao">
     <div class="wrap">
-      <div class="cabeca">
-        <h2>Como avaliamos</h2>
-        <p>Cada modelo recebe nota de 0 a 10 em cinco critérios. Segurança pesa mais que tudo.</p>
-      </div>
-      <div class="confianca">
-        <div><strong>Ficha técnica completa</strong><p>Peso suportado, limite de costas, ISOFIX, top tether, norma e registro no Inmetro, conferidos com o fabricante e o anúncio.</p></div>
-        <div><strong>Prós e contras de verdade</strong><p>Todo modelo tem pontos negativos. A gente mostra, inclusive nos mais bem avaliados.</p></div>
-        <div><strong>Sem preço inventado</strong><p>Mostramos a faixa de preço de referência com a data. O valor certo está sempre no anúncio.</p></div>
-      </div>
-      <p style="margin-top:20px"><a href="/metodologia/">Leia a metodologia completa</a></p>
-    </div>
-  </section>
-
-  <section class="secao secao-tinta">
-    <div class="wrap">
-      <div class="cabeca"><h2>Guias para decidir com segurança</h2><p>O que a lei exige e o que muda entre as tecnologias.</p></div>
-      <div class="grade">
+      <div class="cabeca"><h2>Antes de comprar, leia</h2><p>O que a lei exige e o que muda entre as tecnologias.</p></div>
+      <div class="grade rolar">
         <a class="caixa caixa-link" href="/guias/lei-da-cadeirinha/"><span class="chip">Lei</span><h3>Lei da cadeirinha 2026</h3><p>Idades, alturas, banco da frente, aplicativos e o valor da multa.</p></a>
-        <a class="caixa caixa-link" href="/guias/o-que-e-i-size/"><span class="chip">Normas</span><h3>O que é i-Size (R129)</h3><p>A diferença para a norma antiga e se vale pagar mais por ela.</p></a>
+        <a class="caixa caixa-link" href="/guias/o-que-e-i-size/"><span class="chip">Normas</span><h3>O que é i-Size</h3><p>A diferença para a norma antiga e se vale pagar mais por ela.</p></a>
         <a class="caixa caixa-link" href="/guias/isofix-ou-cinto/"><span class="chip">Instalação</span><h3>ISOFIX ou cinto?</h3><p>Como saber se o carro tem ISOFIX e como instalar sem folga.</p></a>
         <a class="caixa caixa-link" href="/comparativos/safety-1st-multifix-vs-cosco-progress/"><span class="chip">Comparativo</span><h3>Multifix ou Cosco Progress?</h3><p>As duas multigrupo mais vendidas, lado a lado.</p></a>
       </div>
     </div>
   </section>
 
-  <section class="secao">
+  <section class="secao secao-areia">
     <div class="texto">
       <h2 style="margin-bottom:12px">Perguntas frequentes</h2>
       <Faq itens={faq} />
@@ -154,28 +186,38 @@ const schemaFaq = {
   <script define:vars={{ dados: dadosSeletor }}>
     (function () {
       var caixa = document.getElementById('seletor');
+      var range = document.getElementById('peso');
+      var kg = document.getElementById('kg');
+      var fase = document.getElementById('fase');
       var saida = document.getElementById('resultado');
+      function nomeFase(w) {
+        if (w <= 13) return { t: 'Fase bebê: de costas, bebê conforto ou conversível', l: '/melhor-bebe-conforto/', lt: 'Ver bebês conforto' };
+        if (w <= 18) return { t: 'Fase cadeirinha: cinto de 5 pontos', l: '/melhor-cadeirinha-para-carro/', lt: 'Ver cadeirinhas' };
+        return { t: 'Fase assento de elevação: cinto do carro no ombro', l: '/melhor-assento-de-elevacao/', lt: 'Ver assentos de elevação' };
+      }
       function render() {
-        var peso = +caixa.querySelector('input[name=peso]:checked').value;
+        var w = +range.value;
         var iso = caixa.querySelector('input[name=isofix]:checked').value;
+        kg.textContent = w;
+        var f = nomeFase(w);
+        fase.textContent = f.t;
         var lista = dados.filter(function (p) {
-          if (peso < p.kgMin || peso > p.kgMax) return false;
+          if (w < p.kgMin || w > p.kgMax) return false;
           if (iso === 'nao' && !p.semIsofix) return false;
           return true;
         }).sort(function (a, b) { return b.nota - a.nota; }).slice(0, 3);
-        if (!lista.length) { saida.innerHTML = '<p>Nenhum modelo encontrado. Veja o <a href="/comparador/">comparador</a>.</p>'; return; }
-        saida.innerHTML = lista.map(function (p) {
-          return '<a href="/reviews/' + p.slug + '/" style="display:flex;gap:12px;align-items:center;padding:10px;border:1px solid var(--linha);border-radius:14px;margin-top:8px;text-decoration:none;color:inherit">' +
-            '<img src="' + p.img + '" alt="" width="56" height="56" style="width:56px;height:56px;object-fit:contain;background:var(--areia);border-radius:10px;mix-blend-mode:multiply" referrerpolicy="no-referrer" />' +
-            '<span style="flex:1;min-width:0"><strong style="color:var(--tinta);display:block">' + p.nome + '</strong><span style="font-size:.88rem;color:var(--suave)">' + p.melhor + ' · ' + p.faixa + '</span></span>' +
-            '<span class="nota nota-p">' + p.nota.toFixed(1).replace('.', ',') + '</span></a>';
-        }).join('') + '<p style="margin:12px 0 0;font-size:.9rem"><a href="/comparador/?peso=' + peso + (iso ? '&isofix=' + iso : '') + '">Ver todos no comparador</a></p>';
+        var html = lista.map(function (p) {
+          return '<a class="res" href="/reviews/' + p.slug + '/">' +
+            '<img src="' + p.img + '" alt="" width="56" height="56" referrerpolicy="no-referrer" />' +
+            '<span style="flex:1;min-width:0"><strong style="color:var(--tinta);display:block">' + p.nome + '</strong><span style="font-size:.86rem;color:var(--suave)">' + p.melhor + '</span></span>' +
+            '<span class="nota nota-p" style="--v:' + p.nota + '"><span>' + p.nota.toFixed(1).replace('.', ',') + '</span></span></a>';
+        }).join('');
+        if (!lista.length) html = '<p style="margin:8px 0 0">Nenhum modelo nessa combinação. Veja todos no comparador.</p>';
+        saida.innerHTML = html + '<p style="margin:14px 0 0;font-size:.92rem;display:flex;gap:16px;flex-wrap:wrap"><a href="' + f.l + '">' + f.lt + '</a><a href="/comparador/?peso=' + w + '&isofix=' + iso + '">Abrir no comparador</a></p>';
       }
+      range.addEventListener('input', render);
       caixa.addEventListener('change', render);
       render();
     })();
   </script>
-  <style>
-    @media (max-width: 900px) { #hero-grade { grid-template-columns: 1fr !important; } }
-  </style>
 </Base>

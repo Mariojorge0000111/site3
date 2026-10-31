@@ -12,18 +12,18 @@ const { produtos, selos = {} } = Astro.props;
     <tbody>
       {produtos.map((p) => (
         <tr>
-          <td>
+          <td data-rotulo="Modelo">
             <span class="tabela-mini">
               <img src={imgProduto(p.imagem)} referrerpolicy="no-referrer" alt="" width="44" height="44" loading="lazy" />
               <a href={`#${p.slug}`}>{p.nome}</a>
             </span>
           </td>
-          <td>{selos[p.slug] ?? p.melhorPara}</td>
-          <td>{p.faixa}</td>
-          <td>{p.isofix.split(' (')[0]}</td>
-          <td>{p.costasAte}</td>
-          <td class="num">{p.nota.toFixed(1).replace('.', ',')}</td>
-          <td><a class="btn btn-ml" style="padding:8px 12px;font-size:.88rem" href={p.mlUrl} target="_blank" rel="sponsored nofollow noopener">Ver preço</a></td>
+          <td data-rotulo="Melhor para">{selos[p.slug] ?? p.melhorPara}</td>
+          <td data-rotulo="Faixa">{p.faixa}</td>
+          <td data-rotulo="ISOFIX">{p.isofix.split(' (')[0]}</td>
+          <td data-rotulo="De costas">{p.costasAte}</td>
+          <td data-rotulo="Nota" class="num">{p.nota.toFixed(1).replace('.', ',')}</td>
+          <td data-rotulo=""><a class="btn btn-ml" style="padding:8px 12px;font-size:.88rem" href={p.mlUrl} target="_blank" rel="sponsored nofollow noopener">Ver preço</a></td>
         </tr>
       ))}
     </tbody>

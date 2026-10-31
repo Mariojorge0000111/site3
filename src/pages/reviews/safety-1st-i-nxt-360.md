@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Review.astro
 produto: safety-1st-i-nxt-360
-titulo: "Safety 1st i-NXT 360: review com prós e contras"
+titulo: "Safety 1st i-NXT 360: review da giratória i-Size"
 descricao: "Review da Safety 1st i-NXT 360: giratória i-Size do nascimento aos 36 kg. Veja por que ela exige ISOFIX e top tether e como conferir isso no seu carro."
 h1: "Review Safety 1st i-NXT 360: a giratória i-Size que exige ISOFIX e top tether"
 data: "2026-10-31"

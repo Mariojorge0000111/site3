@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Review.astro
 produto: burigotto-protege-fix
-titulo: "Burigotto Protege Fix: review com prós e contras"
+titulo: "Burigotto Protege Fix vale a pena? Review do assento"
 descricao: "Review do Burigotto Protege Fix: assento de elevação com encosto e ISOFIX por preço baixo. Veja o que o ISOFIX faz nele e como passar o cinto."
 h1: "Review Burigotto Protege Fix: assento de elevação com ISOFIX que cabe no orçamento"
 data: "2026-10-31"

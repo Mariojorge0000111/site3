@@ -1,98 +1,90 @@
 ---
 layout: ../../layouts/Review.astro
 produto: cosco-wizz
-titulo: "Cosco Wizz: review com prós e contras"
+titulo: "Cosco Wizz: review do bebê conforto mais barato"
 descricao: "Review do Cosco Wizz: o bebê conforto mais barato que avaliamos. Veja o que você ganha, o que perde sem base e como instalar com o cinto."
-h1: "Review Cosco Wizz: o bebê conforto barato e bem avaliado que cumpre o básico"
+h1: "Review Cosco Wizz: o bebê conforto mais barato da nossa lista e o que ele deixa de fora"
 data: "2026-10-31"
 atualizado: "2026-10-31"
 alternativas: ["galzerano-cocoon", "maxi-cosi-citi-2", "maxi-cosi-pebble-360-pro"]
 faq:
-  - p: "O Cosco Wizz tem ISOFIX?"
-    r: "Não. Ele é instalado com o cinto de 3 pontos do carro. Existe uma versão vendida com base, mas confira no anúncio como essa base é presa antes de comprar."
-  - p: "Até quantos kg o Cosco Wizz fica de costas?"
-    r: "O Wizz é sempre usado de costas, do nascimento até 13 kg, segundo o fabricante. Isso costuma dar cerca de 12 meses."
-  - p: "O Cosco Wizz serve para recém-nascido?"
-    r: "Sim, a faixa começa no nascimento. Ajuste a altura das alças do cinto de 5 pontos conforme o manual e deixe as fitas justas, sem folga no peito."
-  - p: "O Cosco Wizz tem selo do Inmetro?"
-    r: "Sim, o anúncio informa a certificação do Inmetro pela NBR 14400. O número de registro não aparece na ficha, então confira na etiqueta do produto."
   - p: "Posso levar o Cosco Wizz no avião?"
-    r: "Segundo o fabricante, ele é aprovado para uso em avião. A regra final é da companhia aérea, então consulte antes de viajar."
+    r: "A Cosco informa que ele é aprovado para uso em avião. Quem decide se ele entra na cabine é a companhia aérea, então consulte a sua antes de comprar a passagem e leve o manual na bolsa."
+  - p: "A versão do Wizz com base tem ISOFIX?"
+    r: "O anúncio que a gente usou como referência não diz como essa base é presa. A versão sem base, que é a mais vendida, só instala com o cinto de 3 pontos do carro. Leia a descrição da versão com base antes de pagar a mais por ela."
+  - p: "O Cosco Wizz reclina?"
+    r: "O casco não tem posições de reclinação. O ângulo vem da instalação no banco, e o que muda de posição é a alça, que tem 4 ajustes e serve de apoio ou balanço fora do carro."
+  - p: "Em qual carrinho o Wizz encaixa?"
+    r: "Nos carrinhos Cosco compatíveis, segundo a marca. A ficha não lista os modelos, então confira a compatibilidade na descrição do carrinho antes de montar o conjunto."
+  - p: "Até quantos kg o Cosco Wizz pode ser usado?"
+    r: "Do nascimento até 13 kg, sempre de costas, o que costuma dar cerca de 12 meses. Os sinais de que está na hora de trocar estão no artigo [bebê conforto até quando](/blog/bebe-conforto-ate-quando-usar/)."
 ---
 
-## Resumo da nossa avaliação
+> **Resposta rápida:** o Wizz serve para a família que quer um bebê conforto certificado, leve e muito bem avaliado gastando o mínimo, e que sai de carro poucas vezes por semana. O porém é que a versão mais em conta não tem base: você passa o cinto do carro pelo casco a cada viagem, e a proteção lateral é mais simples que a dos modelos caros.
 
-O Cosco Wizz é o bebê conforto mais barato entre os que avaliamos e um dos mais vendidos do Mercado Livre. Na referência de outubro de 2026, a faixa de preço ia de R$ 280 a R$ 470, conforme a cor e a versão com base, e esse valor muda com frequência. O anúncio somava quase 6 mil avaliações com nota 4,9, um volume que poucos produtos da categoria têm.
+Os números citados aqui (peso, faixa de uso, aprovação para avião) vêm da Cosco e do anúncio. O que a nossa equipe sentiu instalando e carregando o Wizz aparece como impressão, sem medição própria.
 
-A pergunta que este review responde é simples: o que você deixa de ter quando escolhe o bebê conforto mais em conta? A resposta curta é praticidade, não certificação. O Wizz tem selo do Inmetro, é leve e faz o trabalho de transportar o bebê de costas. O que falta é base na versão mais barata, ISOFIX e uma proteção lateral mais robusta. Para muitas famílias, isso é aceitável. Para outras, não.
+## O que muda quando você escolhe o bebê conforto mais barato?
 
-## O que você ganha pagando menos
+Menos do que muita gente imagina na segurança básica, e mais do que parece na rotina. O Wizz tem certificação do Inmetro pela NBR 14400, a norma brasileira, como todo bebê conforto vendido de forma regular. Ele leva o bebê de costas, com cinto de 5 pontos, e cumpre o que a lei pede para o primeiro ano. Se você quer entender o que o selo garante e como conferir o registro, o artigo sobre o [selo do Inmetro na cadeirinha](/blog/selo-inmetro-cadeirinha-como-consultar/) mostra o caminho.
 
-- **Certificação obrigatória.** O Wizz segue a NBR 14400 e tem certificação do Inmetro, como todo bebê conforto vendido de forma regular no Brasil.
-- **Peso baixo.** São 2,5 kg, segundo o fabricante. É o mais leve da nossa lista, o que ajuda quando você carrega o bebê dentro dele.
-- **Alça com 4 posições.** A alça vira apoio para balançar ou para deixar o bebê conforto parado no chão, e se trava na posição de viagem.
-- **Uso fora do carro.** Segundo o fabricante, ele é aprovado para avião (consulte a companhia) e encaixa em carrinhos Cosco compatíveis.
+O que fica de fora é conforto de uso. Não há base na versão mais barata, não há ISOFIX e as abas laterais são mais finas que as de um modelo premium. Nenhuma dessas faltas torna o produto irregular. Elas mudam o esforço que você faz toda vez que sai de casa.
 
-## O que você perde
+O ponto a favor que mais chama atenção é a confiança de quem já comprou: o anúncio soma quase 6 mil avaliações, com nota 4,9. Poucos produtos da categoria têm esse volume.
 
-O principal é a base. Na versão mais barata, você passa o cinto do carro pelo bebê conforto a cada viagem. Nos testes da equipe, isso não foi difícil, mas exige atenção toda vez: cinto pela guia certa, sem torção e bem esticado. Com o bebê no colo e pressa, é aí que mora o erro.
+## Passar o cinto toda vez cansa mesmo?
 
-Também não há ISOFIX, e a proteção lateral é mais simples que a dos modelos premium. Falamos disso mais abaixo.
+Depende de quantas vezes por semana o bebê entra no carro. A instalação sem base segue o mesmo princípio em qualquer bebê conforto: o cinto de 3 pontos passa pelas guias do casco e tem de ficar esticado, sem torção. O passo a passo completo, com fotos de onde cada faixa passa, está no guia [como instalar bebê conforto no carro](/blog/como-instalar-bebe-conforto-no-carro/).
 
-## Instalação no carro
+No Wizz, a equipe não achou a passagem do cinto difícil. O que pesa é a repetição. Com o bebê chorando, a sacola no ombro e pressa, é fácil deixar a faixa diagonal frouxa ou torcida, e é exatamente aí que a instalação perde firmeza. Para quem faz duas ou três saídas por semana, isso é tolerável. Para quem leva o bebê à creche todo dia, vira um desgaste que a base resolveria.
 
-### Passo a passo de costas com o cinto de 3 pontos
+Um detalhe que pega muita gente: o cinto precisa ser de 3 pontos. Cinto só de colo, de 2 pontos, não segura bebê conforto de costas. E o lugar é sempre o banco de trás, como manda a Resolução 819/2021 do Contran, com as poucas exceções explicadas no guia da [lei da cadeirinha](/guias/lei-da-cadeirinha/).
 
-1. Coloque o Wizz no banco traseiro, virado para o vidro de trás. Nunca no banco da frente.
-2. Passe a parte do colo do cinto pelas guias laterais do casco, por cima da área das pernas do bebê.
-3. Leve a parte diagonal por trás do casco, pela guia traseira, e afivele.
-4. Puxe a fita diagonal para tirar a folga, apoiando a mão no casco.
-5. Confira o ângulo e mexa o bebê conforto: ele deve ficar firme, sem deslizar no banco.
-6. Coloque a alça na posição indicada no manual para viagem.
+## Na prática: o checklist de 30 segundos antes de sair com o Wizz
 
-O cinto do carro precisa ser de 3 pontos. Cinto só de colo, de 2 pontos, não serve para prender bebê conforto de costas. A Resolução 819/2021 do Contran manda transportar a criança no banco traseiro, com as exceções explicadas no guia da [lei da cadeirinha](/guias/lei-da-cadeirinha/).
+Como a instalação é refeita a cada viagem, vale ter uma sequência fixa de conferência. A gente usa esta:
 
-### Base com cinto vs. base ISOFIX
+1. Olhe se a posição escolhida no banco de trás tem cinto de 3 pontos.
+2. Confira se o casco está virado para o vidro traseiro.
+3. Siga a faixa diagonal com a mão, de ponta a ponta, procurando torção.
+4. Empurre o casco para os lados. Se ele desliza no banco, puxe o cinto de novo.
+5. Passe dois dedos entre as alças do cinto de 5 pontos e o peito do bebê. Mais que isso é folga.
+6. Coloque a alça na posição de viagem indicada no manual.
 
-Uma base fica instalada no carro e o casco só encaixa e solta. Ela pode ser presa de dois jeitos. A base com cinto usa o cinto de 3 pontos do carro: serve em quase qualquer veículo, mas a firmeza depende de esticar bem o cinto. A base ISOFIX se prende em pontos metálicos ligados à estrutura do banco, com menos chance de erro, e exige carro com ISOFIX.
+O passo 5 pega até quem instala bem. Macacão grosso e casaco de inverno criam uma folga que não aparece na hora. No frio, prenda o bebê com roupa normal e jogue a manta por cima das alças.
 
-O Wizz tem uma versão vendida com base, que aparece no topo da faixa de preço. O anúncio que usamos como referência não detalha como essa base é presa, então confira na descrição antes de comprar. O guia [ISOFIX ou cinto](/guias/isofix-ou-cinto/) explica o que muda em cada sistema.
+## A proteção lateral simples é motivo para desistir?
 
-## Segurança
+Não sozinha, mas é o contra que a gente mais pesa neste modelo. A NBR 14400 não inclui o teste de impacto lateral que a i-Size (R129, a norma europeia mais recente) exige. O Wizz cumpre a norma dele. Só que as abas laterais são mais simples, e o anúncio não fala em reforço para batidas de lado.
 
-O Wizz segue a NBR 14400, norma brasileira usada na certificação do Inmetro. Ela não inclui o teste de impacto lateral que a i-Size (R129) exige. Isso não torna o produto irregular, mas explica parte da diferença de preço para modelos premium. A proteção lateral do Wizz é mais simples, e esse é um contra real.
+Se o carro da família roda muito em estrada, ou se proteção lateral é o seu critério número um, esse é o motivo mais forte para olhar um modelo i-Size. Se o uso é urbano e curto, o Wizz cumpre o básico com honestidade.
 
-Como todo bebê conforto, ele é sempre de costas. A AAP, na diretriz de 2018, recomenda manter a criança de costas pelo maior tempo possível, até o limite do fabricante. A Criança Segura indica o bebê conforto de costas, no banco traseiro, em ângulo de cerca de 45°.
+Sobre a posição: bebê conforto é sempre de costas, e é isso que protege o pescoço numa freada forte, porque o impacto se espalha pelas costas inteiras do bebê em vez de jogar a cabeça para a frente. O porquê de manter a criança de costas também depois do bebê conforto está em [quando virar a cadeirinha de frente](/blog/quando-virar-a-cadeirinha-de-frente/).
 
-O anúncio confirma o Inmetro, mas não traz o número de registro. Confira o selo e o número na etiqueta.
+## 2,5 kg: leve o bastante para carregar com o bebê dentro?
 
-### Até quando usar
+Sim, e esse é o ponto forte que mais aparece na rotina. Com 2,5 kg declarados, o Wizz é o mais leve da nossa lista de bebês conforto. Do carro até o consultório, ou do estacionamento até o elevador, a diferença no braço é sentida, porque você carrega o casco mais o bebê.
 
-Segundo o fabricante, do nascimento até 13 kg, cerca de 12 meses. É o mesmo limite do Contran para o bebê conforto: até 1 ano ou 13 kg, conforme o fabricante. O manual também indica um limite de altura pela posição da cabeça no casco. O que chegar primeiro define a troca.
+A alça tem 4 posições e trava na de viagem. Fora do carro, ela vira apoio para deixar o Wizz parado no chão ou para balançar o bebê. O casco em si não reclina: o ângulo vem de como ele fica apoiado no banco.
 
-## Ajustes e conforto
+## Dá para levar no avião e no carrinho?
 
-O Wizz não tem reclinação no casco: o ângulo vem da instalação. A alça com 4 posições ajuda fora do carro, como balanço ou apoio no chão. Nos testes da equipe, o acolchoado mostrou conforto razoável para trajetos urbanos. Para limpar, siga a etiqueta do tecido.
+A Cosco informa aprovação para uso em avião. Isso não garante lugar na cabine, porque a regra final é da companhia aérea. Ligue antes.
 
-Um cuidado que vale para o Wizz e para qualquer bebê conforto: as alças do cinto de 5 pontos devem ficar justas no peito do bebê. Casaco grosso ou macacão de inverno criam folga escondida. Prenda o bebê com roupa normal e coloque a manta por cima das alças.
+O Wizz também encaixa em carrinhos Cosco compatíveis, formando um pequeno travel system (casco que sai do carro e vai direto para o carrinho). A ficha não lista quais modelos, então confira pelo lado do carrinho.
 
-## Tamanho, peso e uso no dia a dia
+## O que a gente não gostou
 
-Com 2,5 kg, segundo o fabricante, o Wizz é fácil de levar com o bebê dentro. Isso faz diferença em consultas, visitas e no trajeto entre o carro e o elevador. Se você tem um carrinho Cosco compatível, o encaixe vira um pequeno travel system.
+- **Instalação refeita a cada uso.** Na versão sem base, é mais trabalho e mais chance de erro, principalmente com pressa.
+- **Nada de ISOFIX.** Mesmo a versão com base não informa como é presa no anúncio de referência.
+- **Abas laterais finas.** Proteção lateral mais simples, sem o teste lateral da i-Size.
+- **Vida curta.** Como qualquer bebê conforto de 0 a 13 kg, serve por cerca de um ano. O artigo [bebê conforto até quando](/blog/bebe-conforto-ate-quando-usar/) ajuda a planejar a próxima cadeira.
 
-Quem mais aproveita o produto é a família que usa o carro poucas vezes por semana. Para quem sai todo dia, a falta de base cansa.
+## O que a gente faria
 
-## Pontos de atenção
+- **Se vocês saem de carro poucas vezes por semana e o orçamento está curto:** a gente compraria o Wizz sem base. É certificado, leve e tem o maior volume de avaliações da categoria.
+- **Se o bebê vai entrar e sair do carro todo dia, num carro sem ISOFIX:** a gente gastaria mais no [Maxi-Cosi Citi² com base](/reviews/maxi-cosi-citi-2/), que deixa a base presa com cinto e o casco só encaixa.
+- **Se o carro tem ISOFIX e a rotina é puxada:** o [Maxi-Cosi Pebble 360 Pro²](/reviews/maxi-cosi-pebble-360-pro/) gira e é i-Size, num patamar de preço bem acima.
+- **Se a dúvida é entre os dois baratos:** leia o review do [Galzerano Cocoon](/reviews/galzerano-cocoon/), que vende a base à parte.
 
-- **Sem base na versão mais barata.** Passar o cinto a cada uso é cansativo e aumenta a chance de instalação errada.
-- **Sem ISOFIX.** Mesmo com base, não conte com conectores ISOFIX sem conferir no anúncio.
-- **Proteção lateral simples.** Os modelos premium têm abas laterais mais robustas e, no caso da i-Size, teste lateral.
-- **Uso curto.** Dura cerca de um ano. Planeje a próxima cadeira.
-
-## Vale a pena?
-
-Vale para quem quer um bebê conforto certificado, leve e bem avaliado gastando pouco, e não vai tirar e colocar o bebê do carro várias vezes por dia.
-
-Não vale para quem usa o carro diariamente e quer praticidade. Nesse caso, compare com o [Maxi-Cosi Citi² com base](/reviews/maxi-cosi-citi-2/), que traz base fixa presa com cinto, ou com o [Maxi-Cosi Pebble 360 Pro²](/reviews/maxi-cosi-pebble-360-pro/), que tem base ISOFIX e giro, por um preço bem mais alto. Se a dúvida é entre os baratos, leia também o review do [Galzerano Cocoon](/reviews/galzerano-cocoon/). Todos estão no nosso ranking de [melhor bebê conforto](/melhor-bebe-conforto/).
-
-Antes do primeiro uso, confira o selo e o registro do Inmetro na etiqueta e veja no manual do carro quais posições do banco traseiro têm cinto de 3 pontos.
+Os quatro estão lado a lado no ranking de [melhor bebê conforto](/melhor-bebe-conforto/). Quando o Wizz chegar, procure o selo do Inmetro na etiqueta do casco e confira no manual do carro quais lugares do banco de trás têm cinto de 3 pontos.

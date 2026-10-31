@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Review.astro
 produto: fisher-price-shieldpro-360
-titulo: "Fisher-Price ShieldPro 360: review com prós e contras"
+titulo: "Fisher-Price ShieldPro 360: review da giratória"
 descricao: "Review da Fisher-Price ShieldPro 360: giratória i-Size de 40 a 150 cm com ISOFIX e top tether. Entenda a faixa por altura e o limite da reclinação."
 h1: "Review Fisher-Price ShieldPro 360: giratória i-Size por altura, sem preço de premium"
 data: "2026-10-31"

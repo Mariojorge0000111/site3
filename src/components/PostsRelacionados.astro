@@ -1,0 +1,22 @@
+---
+import { imagemPost, type PostResumo } from '../lib/blog';
+interface Props { posts: PostResumo[]; titulo?: string; }
+const { posts, titulo = 'Do blog sobre este assunto' } = Astro.props;
+---
+{posts.length > 0 && (
+  <section class="secao" style="padding-top:40px">
+    <div class="wrap">
+      <h2 style="margin-bottom:22px">{titulo}</h2>
+      <div class="cards-blog rolar">
+        {posts.map((p) => (
+          <a class="card-blog" href={p.url}>
+            <img src={imagemPost(p.url, 800)} alt="" width="800" height="533" loading="lazy" />
+            <span class="chip" style="align-self:flex-start">{p.frontmatter.categoria}</span>
+            <h3>{p.frontmatter.h1}</h3>
+            <p>{p.frontmatter.intro}</p>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+)}

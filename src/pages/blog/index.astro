@@ -1,0 +1,53 @@
+---
+import Base from '../../layouts/Base.astro';
+import { todosPosts, imagemPost } from '../../lib/blog';
+const posts = todosPosts();
+const categorias = [...new Set(posts.map((p) => p.frontmatter.categoria))].filter(Boolean);
+const schema = {
+  '@context': 'https://schema.org',
+  '@type': 'Blog',
+  name: 'Blog Cadeirinha Bebê',
+  url: new URL('/blog/', Astro.site).href,
+  blogPost: posts.map((p) => ({ '@type': 'BlogPosting', headline: p.frontmatter.h1, url: new URL(p.url, Astro.site).href, datePublished: p.frontmatter.data })),
+};
+---
+<Base title="Blog: segurança e uso da cadeirinha" description="Artigos sobre cadeirinha para carro: até quando usar o bebê conforto, quando virar de frente, instalação, validade, Inmetro, limpeza e mais." schema={schema}>
+  <header class="cabeca-pagina">
+    <div class="wrap">
+      <nav class="migalhas" aria-label="Você está em"><a href="/">Início</a> / Blog</nav>
+      <h1>Blog</h1>
+      <p class="lead" style="max-width:62ch">As dúvidas que pais e mães mais trazem sobre cadeirinha, respondidas primeiro e explicadas depois.</p>
+    </div>
+  </header>
+  <section class="wrap" style="padding:28px 20px 80px">
+    {categorias.length > 1 && (
+      <div class="filtro-blog" role="group" aria-label="Filtrar por categoria">
+        <button type="button" aria-pressed="true" data-cat="">Todos</button>
+        {categorias.map((c) => <button type="button" aria-pressed="false" data-cat={c}>{c}</button>)}
+      </div>
+    )}
+    <div class="cards-blog" id="lista-posts">
+      {posts.map((p) => (
+        <a class="card-blog" href={p.url} data-cat={p.frontmatter.categoria}>
+          <img src={imagemPost(p.url, 800)} alt="" width="800" height="533" loading="lazy" />
+          <span class="chip" style="align-self:flex-start">{p.frontmatter.categoria}</span>
+          <h2 style="font-size:1.25rem">{p.frontmatter.h1}</h2>
+          <p>{p.frontmatter.intro}</p>
+        </a>
+      ))}
+    </div>
+  </section>
+  <script is:inline>
+    (function () {
+      var bts = document.querySelectorAll('.filtro-blog button');
+      var cards = document.querySelectorAll('#lista-posts .card-blog');
+      bts.forEach(function (b) {
+        b.addEventListener('click', function () {
+          bts.forEach(function (x) { x.setAttribute('aria-pressed', x === b ? 'true' : 'false'); });
+          var c = b.dataset.cat;
+          cards.forEach(function (k) { k.hidden = !!c && k.dataset.cat !== c; });
+        });
+      });
+    })();
+  </script>
+</Base>

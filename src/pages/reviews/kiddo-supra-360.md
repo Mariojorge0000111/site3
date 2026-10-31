@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Review.astro
 produto: kiddo-supra-360
-titulo: "Kiddo Supra 360: review com prós e contras"
+titulo: "Kiddo Supra 360: review da giratória nacional"
 descricao: "Review da Kiddo Supra 360: giratória com ISOFIX, de costas até 18 kg e top tether com alarme que avisa a cinta frouxa. Veja os prós, contras e para quem é."
 h1: "Review Kiddo Supra 360: a giratória com alarme no top tether"
 data: "2026-10-31"

@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Review.astro
 produto: maxi-cosi-spinel-360
-titulo: "Maxi-Cosi Spinel 360: review com prós e contras"
+titulo: "Maxi-Cosi Spinel 360: review com perna de apoio"
 descricao: "Review da Maxi-Cosi Spinel 360: giratória com perna de apoio e posição de costas até 18 kg. Veja se o seu carro comporta e se o preço alto se justifica."
 h1: "Review Maxi-Cosi Spinel 360: perna de apoio e de costas até 18 kg"
 data: "2026-10-31"

@@ -6,6 +6,9 @@ import Ficha from '../components/Ficha.astro';
 import ProsContras from '../components/ProsContras.astro';
 import BotaoML from '../components/BotaoML.astro';
 import Faq from '../components/Faq.astro';
+import Regua from '../components/Regua.astro';
+import PostsRelacionados from '../components/PostsRelacionados.astro';
+import { postsRelacionados } from '../lib/blog';
 import { produto, urlReview, CATEGORIAS, imgProduto } from '../data/produtos';
 import { SITE } from '../config';
 import { dataBR } from '../lib/datas';
@@ -14,6 +17,7 @@ const { frontmatter: f } = Astro.props;
 const p = produto(f.produto);
 const cat = CATEGORIAS[p.categoria];
 const url = new URL(Astro.url.pathname, Astro.site).href;
+const relacionados = postsRelacionados({ produto: p.slug, tags: [p.categoria, 'instalacao'], limite: 3 });
 const alternativas = ((f.alternativas ?? []) as string[]).map(produto);
 const criterios: [string, number][] = [
   ['Segurança', p.notas.seguranca],
@@ -90,6 +94,8 @@ const schema = [
         ))}
       </div>
 
+      <div class="caixa" style="margin-top:20px;padding:16px 18px"><Regua kgMin={p.kgMin} kgMax={p.kgMax} rotulo={`Faixa de uso: ${p.faixa}`} /></div>
+
       <ProsContras pros={p.pros} contras={p.contras} />
 
       <div class="grade" style="margin-top:20px;grid-template-columns:repeat(auto-fit,minmax(240px,1fr))">
@@ -128,7 +134,7 @@ const schema = [
             <a class="caixa caixa-link" href={urlReview(a.slug)}>
               <div class="produto-foto" style="max-height:180px;aspect-ratio:auto;height:180px"><FotoProduto nome={a.imagem} alt={a.imagemAlt} sizes="200px" /></div>
               <h3>{a.nome}</h3>
-              <p>{a.faixa} · nota {a.nota.toFixed(1).replace('.', ',')}</p>
+              <p>{a.faixa}, nota {a.nota.toFixed(1).replace('.', ',')}</p>
             </a>
           ))}
         </div>
@@ -142,6 +148,8 @@ const schema = [
       <Faq itens={f.faq} />
     </section>
   )}
+
+  <PostsRelacionados posts={relacionados} titulo="Leia também no blog" />
 
   <div class="cta-fixo">
     <span>{p.nome}</span>

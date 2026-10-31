@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Review.astro
 produto: fisher-price-maxguard
-titulo: "Fisher-Price MaxGuard: review com prós e contras"
+titulo: "Fisher-Price MaxGuard: review da i-Size de frente"
 descricao: "Review da Fisher-Price MaxGuard: cadeirinha i-Size com ISOFIX para depois do bebê conforto, de 76 a 150 cm. Veja quando trocar e o que ela não faz."
 h1: "Review Fisher-Price MaxGuard: a cadeira i-Size para depois do bebê conforto"
 data: "2026-10-31"

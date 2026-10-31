@@ -1,0 +1,13 @@
+---
+/** Régua de uso: mostra a faixa de peso do produto numa escala de 0 a 36 kg. */
+interface Props { kgMin: number; kgMax: number; rotulo?: string; mostrarRotulo?: boolean; }
+const { kgMin, kgMax, rotulo, mostrarRotulo = true } = Astro.props;
+const marcas = [0, 9, 13, 18, 36];
+---
+<div class="regua" style={`--ini:${kgMin};--fim:${kgMax}`} role="img" aria-label={`Faixa de uso de ${kgMin} a ${kgMax} kg, numa escala de 0 a 36 kg`}>
+  {mostrarRotulo && <div class="regua-rotulo"><span>{rotulo ?? `Serve de ${kgMin} a ${kgMax} kg`}</span><span>escala 0 a 36 kg</span></div>}
+  <div style="position:relative"><div class="regua-trilho"></div><div class="regua-faixa"></div></div>
+  <div class="regua-marcas" aria-hidden="true">
+    {marcas.map((m) => <span style={`left:${(m / 36) * 100}%`}>{m}</span>)}
+  </div>
+</div>

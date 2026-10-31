@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Review.astro
 produto: litet-all-stages-fix-2
-titulo: "Litet All Stages Fix 2.0: review com prós e contras"
+titulo: "Litet All Stages Fix 2.0: review com ISOFIX"
 descricao: "Review da Litet All Stages Fix 2.0: cadeirinha 0 a 36 kg com ISOFIX de costas e de frente e top tether. Veja o que a norma R44/04 significa."
 h1: "Review Litet All Stages Fix 2.0: ISOFIX desde o nascimento por preço de cadeira básica"
 data: "2026-10-31"

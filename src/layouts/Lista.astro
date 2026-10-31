@@ -8,6 +8,8 @@ import BotaoML from '../components/BotaoML.astro';
 import { produto, urlReview, imgProduto } from '../data/produtos';
 import { SITE } from '../config';
 import { md } from '../lib/md';
+import PostsRelacionados from '../components/PostsRelacionados.astro';
+import { postsRelacionados } from '../lib/blog';
 import { dataBR } from '../lib/datas';
 
 const { frontmatter: f } = Astro.props;
@@ -15,6 +17,8 @@ const itens = (f.produtos as { slug: string; selo: string; texto?: string }[]).m
 const selos = Object.fromEntries(itens.map((i) => [i.slug, i.selo]));
 const url = new URL(Astro.url.pathname, Astro.site).href;
 const top3 = itens.slice(0, 3);
+const tagsLista = [...new Set(itens.map((i) => i.p.categoria))];
+const relacionados = postsRelacionados({ tags: [...tagsLista, 'instalacao', 'lei'], limite: 3 });
 
 const schema = [
   {
@@ -84,7 +88,7 @@ const schema = [
           <FotoProduto nome={i.p.imagem} alt={i.p.imagemAlt} sizes="160px" />
           <div>
             <h3><a href={`#${i.slug}`} style="color:inherit;text-decoration:none">{i.p.nome}</a></h3>
-            <p>{i.p.faixa} · nota {i.p.nota.toFixed(1).replace('.', ',')}</p>
+            <p>{i.p.faixa}, nota {i.p.nota.toFixed(1).replace('.', ',')}</p>
           </div>
           <BotaoML href={i.p.mlUrl} texto="Ver preço" />
         </div>
@@ -111,4 +115,5 @@ const schema = [
       <Faq itens={f.faq} />
     </section>
   )}
+  <PostsRelacionados posts={relacionados} titulo="Para decidir com mais segurança" />
 </Base>

@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Review.astro
 produto: cosco-evolutty-360-x
-titulo: "Cosco Evolutty 360 X: review com prós e contras"
+titulo: "Cosco Evolutty 360 X: review, de costas até 18 kg"
 descricao: "Review da Cosco Evolutty 360 X: giratória de costas até 18 kg com ISOFIX e top tether. Veja o que exige do carro e como comprar sem pagar caro demais."
 h1: "Review Cosco Evolutty 360 X: giratória de costas até 18 kg sem preço de importada"
 data: "2026-10-31"

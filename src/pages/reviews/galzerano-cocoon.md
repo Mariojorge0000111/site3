@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Review.astro
 produto: galzerano-cocoon
-titulo: "Galzerano Cocoon: review com prós e contras"
+titulo: "Galzerano Cocoon é bom? Review do bebê conforto"
 descricao: "Review do Galzerano Cocoon: bebê conforto nacional leve e barato. Veja como instalar com cinto, quando comprar a base e até quando usar."
 h1: "Review Galzerano Cocoon: bebê conforto nacional simples, com base opcional"
 data: "2026-10-31"

@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Review.astro
 produto: safety-1st-multifix
-titulo: "Safety 1st Multifix: review com prós e contras"
+titulo: "Safety 1st Multifix vale a pena? Review completo"
 descricao: "Review da Safety 1st Multifix: cadeirinha 0 a 36 kg que instala com cinto ou ISOFIX e serve em quase todo carro. Veja como funciona cada fase."
 h1: "Review Safety 1st Multifix: a cadeirinha 0 a 36 kg que se adapta a quase qualquer carro"
 data: "2026-10-31"

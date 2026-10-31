@@ -1,7 +1,8 @@
 ---
 interface Props { valor: number; pequena?: boolean; }
 const { valor, pequena = false } = Astro.props;
+const txt = valor.toFixed(1).replace('.', ',');
 ---
-<span class:list={['nota', { 'nota-p': pequena }]} aria-label={`Nota ${valor.toFixed(1).replace('.', ',')} de 10`}>
-  {valor.toFixed(1).replace('.', ',')}{!pequena && <small>de 10</small>}
+<span class:list={['nota', { 'nota-p': pequena }]} style={`--v:${valor}`} role="img" aria-label={`Nota ${txt} de 10`}>
+  <span>{txt}{!pequena && <small>de 10</small>}</span>
 </span>

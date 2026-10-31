@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Review.astro
 produto: chicco-gofit-plus
-titulo: "Chicco GoFit Plus: review com prós e contras"
+titulo: "Chicco GoFit Plus: review do booster com trava"
 descricao: "Review do Chicco GoFit Plus: booster leve, com trava ISOFIX e nota alta. Veja quando a criança está pronta para um assento sem encosto."
 h1: "Review Chicco GoFit Plus: o booster sem encosto para a criança que já cresceu"
 data: "2026-10-31"

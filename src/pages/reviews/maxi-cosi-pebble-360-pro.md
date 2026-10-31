@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Review.astro
 produto: maxi-cosi-pebble-360-pro
-titulo: "Maxi-Cosi Pebble 360 Pro²: review com prós e contras"
+titulo: "Maxi-Cosi Pebble 360 Pro²: review do bebê conforto"
 descricao: "Review do Maxi-Cosi Pebble 360 Pro²: base ISOFIX que gira, i-Size e reclinação total. Veja se o preço alto compensa no seu dia a dia."
 h1: "Review Maxi-Cosi Pebble 360 Pro²: o bebê conforto giratório vale o preço?"
 data: "2026-10-31"

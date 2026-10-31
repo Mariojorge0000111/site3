@@ -11,7 +11,8 @@ export const MENU = [
   { href: '/melhor-cadeirinha-para-carro/', rotulo: 'Cadeirinhas' },
   { href: '/melhor-bebe-conforto/', rotulo: 'Bebê conforto' },
   { href: '/melhor-cadeirinha-giratoria-360/', rotulo: 'Giratórias 360' },
-  { href: '/melhor-assento-de-elevacao/', rotulo: 'Assento de elevação' },
+  { href: '/melhor-assento-de-elevacao/', rotulo: 'Assentos' },
   { href: '/comparador/', rotulo: 'Comparador' },
-  { href: '/guias/', rotulo: 'Guias' },
+  { href: '/blog/', rotulo: 'Blog' },
+  { href: '/sobre/', rotulo: 'Quem somos' },
 ];
