@@ -6,7 +6,8 @@ import Nota from '../components/Nota.astro';
 import BotaoML from '../components/BotaoML.astro';
 import PostsRelacionados from '../components/PostsRelacionados.astro';
 import { produto, urlReview } from '../data/produtos';
-import { SITE } from '../config';
+import { SITE, PESSOAS, pessoaSchema } from '../config';
+import Autores from '../components/Autores.astro';
 import { dataBR } from '../lib/datas';
 import { imagemPost, postsRelacionados } from '../lib/blog';
 
@@ -28,7 +29,7 @@ const schema = [
     image: capaAbs,
     datePublished: f.data,
     dateModified: f.atualizado ?? f.data,
-    author: { '@type': 'Organization', name: SITE.equipe, url: new URL('/sobre/', Astro.site).href },
+    author: pessoaSchema(PESSOAS.joao, Astro.site!),
     publisher: { '@id': new URL('/#organizacao', Astro.site).href },
     mainEntityOfPage: url,
     articleSection: f.categoria,
@@ -60,7 +61,7 @@ const schema = [
       {f.intro && <p class="lead">{f.intro}</p>}
       <div class="meta">
         <span>Atualizado em <strong><time datetime={f.atualizado ?? f.data}>{dataBR(f.atualizado ?? f.data)}</time></strong></span>
-        <span>Por <a href="/sobre/">{SITE.equipe}</a></span>
+        <Autores com="texto" />
       </div>
     </div>
   </header>

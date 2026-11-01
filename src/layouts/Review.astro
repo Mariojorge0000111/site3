@@ -10,7 +10,8 @@ import Regua from '../components/Regua.astro';
 import PostsRelacionados from '../components/PostsRelacionados.astro';
 import { postsRelacionados } from '../lib/blog';
 import { produto, urlReview, CATEGORIAS, imgProduto } from '../data/produtos';
-import { SITE } from '../config';
+import { SITE, PESSOAS, pessoaSchema } from '../config';
+import Autores from '../components/Autores.astro';
 import { dataBR } from '../lib/datas';
 
 const { frontmatter: f } = Astro.props;
@@ -38,7 +39,7 @@ const schema = [
     review: {
       '@type': 'Review',
       name: f.h1,
-      author: { '@type': 'Organization', name: SITE.equipe, url: new URL('/sobre/', Astro.site).href },
+      author: [pessoaSchema(PESSOAS.mariana, Astro.site!), pessoaSchema(PESSOAS.joao, Astro.site!)],
       datePublished: f.data,
       reviewBody: p.resumo,
       reviewRating: { '@type': 'Rating', ratingValue: p.nota, bestRating: 10, worstRating: 0 },
@@ -72,7 +73,7 @@ const schema = [
       <div class="meta">
         <span class="chip">{p.tipo}</span>
         <span>Atualizado em <strong><time datetime={f.atualizado ?? f.data}>{dataBR(f.atualizado ?? f.data)}</time></strong></span>
-        <span>Por <a href="/sobre/">{SITE.equipe}</a></span>
+        <Autores com="teste-e-texto" />
         <a href="/metodologia/">Como avaliamos</a>
       </div>
     </div>

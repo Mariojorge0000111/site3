@@ -1,7 +1,8 @@
 ---
 import Base from './Base.astro';
 import Faq from '../components/Faq.astro';
-import { SITE } from '../config';
+import { SITE, PESSOAS, pessoaSchema } from '../config';
+import Autores from '../components/Autores.astro';
 import { dataBR } from '../lib/datas';
 
 const { frontmatter: f } = Astro.props;
@@ -16,7 +17,7 @@ const schema = [
     description: f.descricao,
     datePublished: f.data,
     dateModified: f.atualizado ?? f.data,
-    author: { '@type': 'Organization', name: SITE.equipe, url: new URL('/sobre/', Astro.site).href },
+    author: pessoaSchema(PESSOAS.joao, Astro.site!),
     publisher: { '@id': new URL('/#organizacao', Astro.site).href },
     image: new URL(`/images/${f.imagem ?? 'og-padrao'}.webp`, Astro.site).href,
     mainEntityOfPage: url,
@@ -48,7 +49,7 @@ const schema = [
       {f.intro && <p class="lead">{f.intro}</p>}
       <div class="meta">
         <span>Atualizado em <strong><time datetime={f.atualizado ?? f.data}>{dataBR(f.atualizado ?? f.data)}</time></strong></span>
-        <span>Por <a href="/sobre/">{SITE.equipe}</a></span>
+        <Autores com="texto" />
       </div>
     </div>
   </header>

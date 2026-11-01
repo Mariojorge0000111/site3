@@ -6,7 +6,8 @@ import Faq from '../components/Faq.astro';
 import FotoProduto from '../components/FotoProduto.astro';
 import BotaoML from '../components/BotaoML.astro';
 import { produto, urlReview, imgProduto } from '../data/produtos';
-import { SITE } from '../config';
+import { SITE, PESSOAS, pessoaSchema } from '../config';
+import Autores from '../components/Autores.astro';
 import { md } from '../lib/md';
 import PostsRelacionados from '../components/PostsRelacionados.astro';
 import { postsRelacionados } from '../lib/blog';
@@ -28,7 +29,7 @@ const schema = [
     description: f.descricao,
     datePublished: f.data,
     dateModified: f.atualizado ?? f.data,
-    author: { '@type': 'Organization', name: SITE.equipe, url: new URL('/sobre/', Astro.site).href },
+    author: [pessoaSchema(PESSOAS.mariana, Astro.site!), pessoaSchema(PESSOAS.joao, Astro.site!)],
     publisher: { '@id': new URL('/#organizacao', Astro.site).href },
     image: imgProduto(itens[0].p.imagem),
     mainEntityOfPage: url,
@@ -70,7 +71,7 @@ const schema = [
       <p class="lead" style="max-width:68ch" set:html={md(f.intro)} />
       <div class="meta">
         <span>Atualizado em <strong><time datetime={f.atualizado ?? f.data}>{dataBR(f.atualizado ?? f.data)}</time></strong></span>
-        <span>Por <a href="/sobre/">{SITE.equipe}</a></span>
+        <Autores com="teste-e-texto" />
         <span>{itens.length} modelos avaliados</span>
         <a href="/metodologia/">Como avaliamos</a>
       </div>

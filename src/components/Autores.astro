@@ -1,0 +1,16 @@
+---
+import { PESSOAS } from '../config';
+interface Props { com?: 'texto' | 'teste-e-texto'; }
+const { com = 'texto' } = Astro.props;
+const lista = com === 'teste-e-texto'
+  ? [{ p: PESSOAS.mariana, r: 'Testado por' }, { p: PESSOAS.joao, r: 'Texto de' }]
+  : [{ p: PESSOAS.joao, r: 'Por' }];
+---
+<span class="autores">
+  {lista.map(({ p, r }) => (
+    <a href={`/sobre/#${p.id}`} class="autor">
+      <img src={p.foto} alt="" width="28" height="28" loading="lazy" />
+      <span>{r} <strong>{p.nome}</strong></span>
+    </a>
+  ))}
+</span>

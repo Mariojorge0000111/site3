@@ -481,3 +481,10 @@ p { margin: 0 0 1em; }
 }
 .card-blog p { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
 .rodape-tit { color: #fff; font-weight: 700; margin: 0 0 12px; font-family: var(--display); }
+.autores { display: inline-flex; flex-wrap: wrap; gap: 8px 16px; }
+.autor { display: inline-flex; align-items: center; gap: 8px; color: var(--suave); text-decoration: none; }
+.autor img { width: 28px; height: 28px; border-radius: 50%; object-fit: cover; }
+.autor:hover strong { color: var(--cobalto); }
+.pessoa .foto { width: 96px; height: 96px; border-radius: 28px; object-fit: cover; margin-bottom: 16px; }
+.equipe-2 { grid-template-columns: repeat(2, 1fr); }
+@media (max-width: 900px) { .equipe-2 { grid-template-columns: 1fr; } }
