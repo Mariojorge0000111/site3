@@ -48,7 +48,7 @@ Blog de afiliado do Mário Jorge: reviews ultra nichados de cadeirinhas de bebê
 
 ## Pendências conhecidas
 - Ainda sem tarefa de artigos recorrentes e sem backlinks da 8links.
-- O Mário ainda precisa enviar o sitemap `https://cadeirinhabebe.com.br/sitemap-index.xml` no Search Console.
+- Search Console conectado em 03/11/2026 (propriedade de domínio, verificada pela Cloudflare) e sitemap enviado. Indexação pedida para melhor-cadeirinha-para-carro, melhor-cadeirinha-giratoria-360 e o comparativo Safety 1st x Cosco.
 - O que mais vai ajudar o ranqueamento: fotos e vídeos próprios dos testes da Mariana.
 
 ## Combinados com o Mário
