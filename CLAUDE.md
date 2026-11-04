@@ -18,7 +18,7 @@ Blog de afiliado do Mário Jorge: reviews ultra nichados de cadeirinhas de bebê
   - `melhor-*.md`: 4 listas;
   - `guias/`: lei da cadeirinha, i-Size, ISOFIX ou cinto;
   - `comparativos/`;
-  - `blog/*.md`: 10 artigos, com `capa`, `categoria`, `tags` e `produtos`;
+  - `blog/*.md`: 14 artigos, com `capa`, `categoria`, `tags` e `produtos`;
   - `comparador.astro`, `sobre.astro`, `metodologia`, `aviso-de-afiliado`, `privacidade`.
 - `src/lib/blog.ts`: os posts relacionados (por tags e produtos) geram os links internos automáticos.
 - As capas do blog ficam em `public/images/blog/<slug>.webp` (1600x800) e `-800.webp`. As fotos vêm do Pexels: conferir sempre se a foto é segura, ou seja, criança presa na cadeirinha e nunca solta ou no banco do motorista.
