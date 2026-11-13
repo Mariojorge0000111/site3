@@ -4,7 +4,7 @@ export const SITE = {
   descricao:
     'Reviews e comparativos de cadeirinhas para carro, bebês conforto e assentos de elevação vendidos no Brasil, com ficha técnica completa e prós e contras.',
   equipe: 'Equipe Cadeirinha Bebê',
-  grupoOfertas: 'https://chat.whatsapp.com/CE34yYz8T382KqlEHnQnsw',
+  grupoOfertas: 'https://chat.whatsapp.com/K8uPHAs4sp5GY3lDhMnpEt',
 };
 
 export const MENU = [

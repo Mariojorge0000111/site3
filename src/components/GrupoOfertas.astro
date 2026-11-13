@@ -1,0 +1,48 @@
+---
+import { SITE } from '../config';
+---
+<section class="grupo-ofertas" aria-labelledby="grupo-ofertas-tit">
+  <div class="wrap grupo-ofertas-caixa">
+    <div class="grupo-ofertas-icone" aria-hidden="true">
+      <svg viewBox="0 0 24 24" width="28" height="28" fill="currentColor"><path d="M12.04 2a9.9 9.9 0 0 0-8.5 15l-1.4 5.1 5.24-1.37A9.9 9.9 0 1 0 12.04 2zm0 18.1a8.2 8.2 0 0 1-4.18-1.15l-.3-.18-3.1.82.83-3.03-.2-.31a8.2 8.2 0 1 1 6.95 3.85zm4.5-6.14c-.25-.12-1.46-.72-1.69-.8-.23-.08-.39-.12-.55.12-.17.25-.64.8-.78.97-.14.16-.29.18-.53.06a6.7 6.7 0 0 1-3.32-2.9c-.25-.43.25-.4.72-1.33.08-.16.04-.3-.02-.43-.06-.12-.55-1.33-.76-1.82-.2-.48-.4-.41-.55-.42h-.47a.9.9 0 0 0-.66.31c-.23.25-.86.84-.86 2.06 0 1.21.88 2.38 1 2.55.13.16 1.74 2.65 4.21 3.72 1.56.67 2.17.73 2.95.62.48-.07 1.46-.6 1.67-1.18.2-.58.2-1.07.14-1.18-.06-.1-.22-.16-.47-.28z"/></svg>
+    </div>
+    <div class="grupo-ofertas-texto">
+      <p id="grupo-ofertas-tit" class="grupo-ofertas-tit">Grupo de ofertas especiais no WhatsApp</p>
+      <p>Entre no nosso grupo e receba as promoções que a gente encontra no Mercado Livre, inclusive de cadeirinhas, bebês conforto e assentos. Para sair, basta um toque.</p>
+    </div>
+    <a class="grupo-ofertas-botao" href={SITE.grupoOfertas} target="_blank" rel="noopener">
+      Entrar no grupo
+      <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+    </a>
+  </div>
+</section>
+
+<style>
+  .grupo-ofertas { background: var(--menta); padding: 32px 0; }
+  .grupo-ofertas-caixa { display: flex; align-items: center; gap: 20px; }
+  .grupo-ofertas-icone {
+    flex: none; width: 56px; height: 56px; border-radius: 50%;
+    background: var(--menta-escura); color: #fff;
+    display: grid; place-items: center;
+  }
+  .grupo-ofertas-texto { flex: 1; min-width: 0; }
+  .grupo-ofertas-texto p { margin: 0; color: var(--texto); }
+  .grupo-ofertas-tit {
+    font-family: var(--display); font-weight: 700; font-size: 1.25rem;
+    color: var(--tinta) !important; margin-bottom: 4px !important;
+  }
+  .grupo-ofertas-botao {
+    flex: none; display: inline-flex; align-items: center; gap: 8px;
+    background: var(--menta-escura); color: #fff; text-decoration: none;
+    font-weight: 700; padding: 14px 22px; border-radius: 999px; min-height: 48px;
+    transition: background .15s;
+  }
+  .grupo-ofertas-botao:hover { background: #115c3b; color: #fff; }
+  .grupo-ofertas-botao:focus-visible { outline: 3px solid var(--tinta); outline-offset: 3px; }
+  @media (max-width: 720px) {
+    .grupo-ofertas-caixa { flex-wrap: wrap; gap: 14px; align-items: flex-start; }
+    .grupo-ofertas-icone { width: 48px; height: 48px; }
+    .grupo-ofertas-texto { flex-basis: calc(100% - 62px); }
+    .grupo-ofertas-botao { width: 100%; justify-content: center; }
+  }
+</style>
