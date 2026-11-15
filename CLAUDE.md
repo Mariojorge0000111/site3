@@ -59,7 +59,7 @@ Blog de afiliado do Mário Jorge: reviews ultra nichados de cadeirinhas de bebê
 - Regras para quem escreve: `fila/BRIEF.md`. Artigo da fila não linka outro artigo da fila.
 
 ## Pendências conhecidas
-- Ainda sem tarefa de artigos recorrentes e sem backlinks da 8links.
+- Tarefa agendada "Publicar 5 artigos do Cadeirinha Bebê" (diária, 7h51 de Brasília, nuvem) publica a fila; quando a fila acabar, ainda não há tarefa de artigos recorrentes. Sem backlinks da 8links.
 - Search Console conectado em 03/11/2026 (propriedade de domínio, verificada pela Cloudflare) e sitemap enviado. Indexação pedida para melhor-cadeirinha-para-carro, melhor-cadeirinha-giratoria-360 e o comparativo Safety 1st x Cosco.
 - O que mais vai ajudar o ranqueamento: fotos e vídeos próprios dos testes da Mariana.
 
