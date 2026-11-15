@@ -52,6 +52,12 @@ Blog de afiliado do Mário Jorge: reviews ultra nichados de cadeirinhas de bebê
 - O link não precisa ser do modelo exato: o objetivo é levar a pessoa para dentro da loja.
 - O aviso "Como Associado da Amazon, recebo por compras qualificadas" é obrigatório e está no rodapé e em `/aviso-de-afiliado/`.
 
+## Fila de publicação (nov/2026)
+- 100 palavras-chave levantadas em 15/11/2026 (autocompletar do Google + concorrentes: gdm, AnalisaMelhor, Guia o Melhor, Busca Melhores, Melhores para Comprar, mybest, Buscapé, blog do Mercado Livre, Amo Produtinhos, Mundo dos Reviews). Lista em `docs/palavras-chave.csv` e na planilha "Palavras-chave Cadeirinha Bebê" (Claude Sheets).
+- 37 já tinham página (2 artigos escritos foram descartados em `fila/descartados/` por disputarem busca com as listas); 63 artigos novos ficam em `fila/<slug>.md`, fora de `src/pages`, na ordem de `fila/fila.json`.
+- O Mário escolheu publicar 5 por dia. `python3 fila/publicar.py 5` move os próximos 5 para `src/pages/<destino>/` com a data do dia (só os que passam em `fila/checar.py`) e registra em `fila/publicados.json`. Uma tarefa agendada diária roda isso, faz o build, o commit e o push.
+- Regras para quem escreve: `fila/BRIEF.md`. Artigo da fila não linka outro artigo da fila.
+
 ## Pendências conhecidas
 - Ainda sem tarefa de artigos recorrentes e sem backlinks da 8links.
 - Search Console conectado em 03/11/2026 (propriedade de domínio, verificada pela Cloudflare) e sitemap enviado. Indexação pedida para melhor-cadeirinha-para-carro, melhor-cadeirinha-giratoria-360 e o comparativo Safety 1st x Cosco.
