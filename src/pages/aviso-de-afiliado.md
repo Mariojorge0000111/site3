@@ -1,17 +1,19 @@
 ---
 layout: ../layouts/Artigo.astro
 titulo: "Aviso de afiliado do Cadeirinha Bebê"
-descricao: "Entenda como funcionam os links de afiliado do Mercado Livre no Cadeirinha Bebê, quanto isso custa para você (nada) e por que não muda as nossas notas."
+descricao: "Entenda como funcionam os links de afiliado do Mercado Livre e da Amazon, quanto isso custa para você (nada) e por que as nossas notas não mudam."
 h1: "Aviso de afiliado"
-intro: "Os botões \"Ver preço no Mercado Livre\" deste site são links de afiliado."
+intro: "Os botões \"Ver preço no Mercado Livre\" e \"Ver preço na Amazon\" deste site são links de afiliado."
 data: "2026-10-31"
-atualizado: "2026-10-31"
+atualizado: "2026-11-15"
 secao: { nome: "Sobre", url: "/sobre/" }
 ---
 
 ## Como funciona
 
-Quando você clica num link nosso e compra no Mercado Livre, o Mercado Livre pode nos pagar uma pequena comissão sobre a venda. **O preço para você é o mesmo** de quem entra direto no site.
+Quando você clica num link nosso e compra no Mercado Livre ou na Amazon, a loja pode nos pagar uma pequena comissão sobre a venda. **O preço para você é o mesmo** de quem entra direto no site.
+
+Como Associado da Amazon, recebo por compras qualificadas.
 
 ## O que isso muda nas avaliações
 

@@ -32,6 +32,7 @@ export interface Produto {
   imagem: string; // nome do arquivo em /images sem extensão
   imagemAlt: string;
   mlUrl: string; // link de afiliado
+  amazonUrl?: string; // link de afiliado da Amazon (tag mjs0b8-20)
   fonte: string; // URL da ficha técnica usada
   atualizado: string; // AAAA-MM-DD
 }

@@ -4,6 +4,7 @@ import Faq from '../components/Faq.astro';
 import FotoProduto from '../components/FotoProduto.astro';
 import Nota from '../components/Nota.astro';
 import BotaoML from '../components/BotaoML.astro';
+import BotaoAmazon from '../components/BotaoAmazon.astro';
 import PostsRelacionados from '../components/PostsRelacionados.astro';
 import { produto, urlReview } from '../data/produtos';
 import { SITE, PESSOAS, pessoaSchema } from '../config';
@@ -91,7 +92,8 @@ const schema = [
               <div><h3 style="font-size:1.05rem"><a href={urlReview(p.slug)} style="color:inherit;text-decoration:none">{p.nome}</a></h3><div style="color:var(--suave);font-size:.88rem">{p.faixa}</div></div>
               <Nota valor={p.nota} pequena />
             </div>
-            <BotaoML href={p.mlUrl} texto="Ver preço" bloco />
+            <BotaoML href={p.mlUrl} texto={p.amazonUrl ? 'Mercado Livre' : 'Ver preço'} bloco />
+            {p.amazonUrl && <BotaoAmazon href={p.amazonUrl} texto="Amazon" bloco />}
           </div>
         ))}
       </div>

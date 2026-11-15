@@ -9,7 +9,7 @@ Blog de afiliado do Mário Jorge: reviews ultra nichados de cadeirinhas de bebê
 - Commits: autor `Mário Jorge <mariojorgefx@gmail.com>`, mensagem em português. Trabalho grande: branch `redesign-blog` e depois merge na `main`.
 
 ## Onde fica cada coisa
-- `src/data/produtos/<slug>.json`: ficha de cada uma das 17 cadeirinhas (faixa de peso, ISOFIX, notas por critério, prós, contras, link `meli.la`, id da foto no ML). A nota geral pesa segurança 35, instalação 20, conforto 15, versatilidade 15 e custo 15.
+- `src/data/produtos/<slug>.json`: ficha de cada uma das 17 cadeirinhas (faixa de peso, ISOFIX, notas por critério, prós, contras, link `meli.la` em `mlUrl`, link da Amazon em `amazonUrl`, id da foto no ML). A nota geral pesa segurança 35, instalação 20, conforto 15, versatilidade 15 e custo 15.
 - `src/data/produtos.ts`: tipos, categorias e `imgProduto(id)`. As fotos são carregadas do CDN do Mercado Livre (`http2.mlstatic.com`).
 - `src/config.ts`: `SITE`, `MENU` e `PESSOAS` (equipe, usada nas assinaturas e no schema Person).
 - Layouts: `Review` (reviews), `Lista` (melhor-…), `Artigo` (guias), `Post` (blog).
@@ -45,6 +45,12 @@ Blog de afiliado do Mário Jorge: reviews ultra nichados de cadeirinhas de bebê
 ## Mercado Livre
 - Os links de afiliado são gerados no linkbuilder do ML, na conta do Mário (pelo navegador do app). O ML recusou Touring X e One Safe.
 - A busca do ML às vezes pede captcha. Quando isso acontecer, avisar o Mário por notificação.
+
+## Amazon
+- Associado da Amazon desde nov/2026, StoreID `mjs0b8-20`. O cadeirinhabebe.com.br está na lista de sites da conta.
+- Link no formato `https://www.amazon.com.br/dp/<ASIN>?tag=mjs0b8-20`, no campo `amazonUrl`. O botão `BotaoAmazon` aparece nos cards das listas, na lateral do review, nos destaques da home e no bloco de produtos dos posts; tabelas, comparador e faixa fixa ficam só com o Mercado Livre.
+- O link não precisa ser do modelo exato: o objetivo é levar a pessoa para dentro da loja.
+- O aviso "Como Associado da Amazon, recebo por compras qualificadas" é obrigatório e está no rodapé e em `/aviso-de-afiliado/`.
 
 ## Pendências conhecidas
 - Ainda sem tarefa de artigos recorrentes e sem backlinks da 8links.

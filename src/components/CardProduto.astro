@@ -6,6 +6,7 @@ import Nota from './Nota.astro';
 import Ficha from './Ficha.astro';
 import ProsContras from './ProsContras.astro';
 import BotaoML from './BotaoML.astro';
+import BotaoAmazon from './BotaoAmazon.astro';
 import Regua from './Regua.astro';
 interface Props { p: Produto; posicao: number; selo?: string; texto?: string; }
 const { p, posicao, selo, texto } = Astro.props;
@@ -28,6 +29,7 @@ const { p, posicao, selo, texto } = Astro.props;
       <p class="produto-resumo">{texto ?? p.resumo}</p>
       <div class="produto-acoes">
         <BotaoML href={p.mlUrl} />
+        {p.amazonUrl && <BotaoAmazon href={p.amazonUrl} />}
         <a class="btn btn-linha" href={urlReview(p.slug)}>Ler review completo</a>
       </div>
       <p class="preco-ref">Preço de referência: {p.precoRef}. Confira o valor atual no anúncio.</p>

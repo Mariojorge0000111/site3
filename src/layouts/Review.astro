@@ -5,6 +5,7 @@ import Nota from '../components/Nota.astro';
 import Ficha from '../components/Ficha.astro';
 import ProsContras from '../components/ProsContras.astro';
 import BotaoML from '../components/BotaoML.astro';
+import BotaoAmazon from '../components/BotaoAmazon.astro';
 import Faq from '../components/Faq.astro';
 import Regua from '../components/Regua.astro';
 import PostsRelacionados from '../components/PostsRelacionados.astro';
@@ -117,6 +118,7 @@ const schema = [
           <Nota valor={p.nota} pequena />
         </div>
         <BotaoML href={p.mlUrl} bloco />
+        {p.amazonUrl && <div style="margin-top:10px"><BotaoAmazon href={p.amazonUrl} bloco /></div>}
         <p class="preco-ref">Referência: {p.precoRef}. Link de afiliado.</p>
       </div>
     </aside>
