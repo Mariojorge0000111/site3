@@ -29,6 +29,7 @@ const schemaSite = {
       name: SITE.nome,
       url: new URL('/', Astro.site).href,
       logo: new URL('/favicon.svg', Astro.site).href,
+      sameAs: [SITE.youtube],
     },
     {
       '@type': 'WebSite',
@@ -135,6 +136,7 @@ const schemas = [schemaSite, ...(schema ? (Array.isArray(schema) ? schema : [sch
               <li><a href="/aviso-de-afiliado/">Aviso de afiliado</a></li>
               <li><a href="/privacidade/">Privacidade</a></li>
               <li><a href={SITE.grupoOfertas} target="_blank" rel="noopener">Grupo de ofertas no WhatsApp</a></li>
+              <li><a href={SITE.youtube} target="_blank" rel="noopener">Nosso canal no YouTube</a></li>
             </ul>
           </div>
         </div>

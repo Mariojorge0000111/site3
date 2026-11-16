@@ -21,6 +21,7 @@ const schema = {
     '@id': new URL('/#organizacao', Astro.site).href,
     '@type': 'Organization',
     name: SITE.nome,
+    sameAs: [SITE.youtube],
     member: equipe.map((p) => pessoaSchema(p, Astro.site!)),
   },
 };
@@ -61,6 +62,7 @@ const schema = {
         {passos.map((p) => <li><h3>{p.t}</h3><p>{p.p}</p></li>)}
       </ol>
       <p style="margin-top:22px"><a href="/metodologia/">Ver os critérios e os pesos da nota</a></p>
+      <p>Os reviews também viram vídeo: <a href={SITE.youtube} target="_blank" rel="noopener">assista no nosso canal do YouTube</a>.</p>
     </div>
   </section>
 
