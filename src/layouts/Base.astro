@@ -1,4 +1,5 @@
 ---
+import Analytics from '../components/Analytics.astro';
 import '../styles/global.css';
 import { SITE, MENU } from '../config';
 import GrupoOfertas from '../components/GrupoOfertas.astro';
@@ -68,6 +69,7 @@ const schemas = [schemaSite, ...(schema ? (Array.isArray(schema) ? schema : [sch
     <meta name="twitter:card" content="summary_large_image" />
     <link rel="sitemap" href="/sitemap-index.xml" />
     {schemas.map((s) => <script type="application/ld+json" set:html={JSON.stringify(s)} />)}
+    <Analytics />
   </head>
   <body class={ctaFixo ? 'tem-cta-fixo' : undefined}>
     <a class="pular" href="#conteudo">Pular para o conteúdo</a>
