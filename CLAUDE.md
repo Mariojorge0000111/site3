@@ -58,7 +58,12 @@ Blog de afiliado do Mário Jorge: reviews ultra nichados de cadeirinhas de bebê
 - O Mário escolheu publicar 5 por dia. `python3 fila/publicar.py 5` move os próximos 5 para `src/pages/<destino>/` com a data do dia (só os que passam em `fila/checar.py`) e registra em `fila/publicados.json`. Uma tarefa agendada diária roda isso, faz o build, o commit e o push.
 - Regras para quem escreve: `fila/BRIEF.md`. Artigo da fila não linka outro artigo da fila.
 
+## Analytics e YouTube
+- Google Analytics 4: propriedade "cadeirinhabebe.com.br" (conta "Sites SVG", a401060034 / p564523457), ID `G-9EG8F3WXVY`, tag em `src/components/Analytics.astro` (carregada no `Base`). Eventos de clique: `clique_afiliado` (param `loja`: mercado_livre | amazon), `clique_whatsapp`, `clique_youtube`, `clique_externo` e `clique_botao`, com `texto_link`, `destino`, `area` e `produto` (quando o elemento tem `data-produto`).
+- Canal do YouTube: `SITE.youtube` (https://www.youtube.com/@CadeirainhasdeBeb%C3%AA), no rodapé, no Quem somos e no `sameAs` do schema Organization. Vídeos prontos e descrições ficam em `C:\Users\mario\Videos\Canal Cadeirinha de Bebê\` no PC do Mário; o planejamento está no projeto "Site + Canal".
+
 ## Pendências conhecidas
+- Marcar `clique_afiliado` e `clique_whatsapp` como eventos principais no GA4 quando aparecerem na lista de eventos (até 24 h depois do primeiro clique).
 - Tarefa agendada "Publicar 5 artigos do Cadeirinha Bebê" (diária, 7h51 de Brasília, nuvem) publica a fila; quando a fila acabar, ainda não há tarefa de artigos recorrentes. Sem backlinks da 8links.
 - Search Console conectado em 03/11/2026 (propriedade de domínio, verificada pela Cloudflare) e sitemap enviado. Indexação pedida para melhor-cadeirinha-para-carro, melhor-cadeirinha-giratoria-360 e o comparativo Safety 1st x Cosco.
 - O que mais vai ajudar o ranqueamento: fotos e vídeos próprios dos testes da Mariana.
