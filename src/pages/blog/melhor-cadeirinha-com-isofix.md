@@ -9,8 +9,8 @@ tags: ["cadeirinha", "instalacao", "giratoria", "multigrupo"]
 produtos: ["litet-all-stages-fix-2", "safety-1st-i-nxt-360", "maxi-cosi-spinel-360", "kiddo-supra-360", "cosco-evolutty-360-x", "safety-1st-multifix"]
 capa: "pexels 14667496"
 capaAlt: "Banco traseiro de couro preto de um carro, com cintos e fivelas no vão do assento"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-16"
+atualizado: "2026-11-16"
 faq:
   - p: "Toda cadeirinha com ISOFIX usa ISOFIX de costas?"
     r: "Não. A Safety 1st Multifix e a Joie Every Stage FX usam ISOFIX só de frente, segundo o fabricante. De costas, as duas instalam com o cinto do carro. Se você quer ISOFIX desde o nascimento, confira essa informação no manual antes de comprar."

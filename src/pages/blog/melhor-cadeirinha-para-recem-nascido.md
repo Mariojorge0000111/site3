@@ -9,8 +9,8 @@ tags: ["bebe-conforto", "cadeirinha", "giratoria"]
 produtos: ["cosco-wizz", "maxi-cosi-citi-2", "maxi-cosi-pebble-360-pro", "safety-1st-i-nxt-360", "maxi-cosi-spinel-360", "joie-every-stage-fx"]
 capa: "pexels 9664045"
 capaAlt: "Pés de um bebê recém-nascido sobre uma manta clara"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-16"
+atualizado: "2026-11-16"
 faq:
   - p: "Qual a melhor cadeirinha para recém-nascido?"
     r: "Depende da rotina. Para quem tira o bebê do carro várias vezes por dia, um bebê conforto com base, como o Maxi-Cosi Citi² ou o Pebble 360 Pro². Para quem quer uma compra só e tem ISOFIX com top tether, uma giratória i-Size desde 40 cm, como a Safety 1st i-NXT 360. Para gastar pouco, o Cosco Wizz."

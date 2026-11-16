@@ -9,8 +9,8 @@ tags: ["bebe-conforto", "instalacao"]
 produtos: ["maxi-cosi-citi-2", "maxi-cosi-pebble-360-pro", "cosco-wizz", "galzerano-cocoon"]
 capa: "pexels 4223831"
 capaAlt: "Banco traseiro de carro com estofado claro e cintos de segurança de 3 pontos"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-16"
+atualizado: "2026-11-16"
 faq:
   - p: "Bebê conforto sem base é seguro?"
     r: "Sim, desde que o modelo seja feito para instalar direto com o cinto de 3 pontos e a instalação fique firme. Cosco Wizz e Galzerano Cocoon, por exemplo, são instalados assim. A base não acrescenta proteção por mágica: ela facilita acertar a instalação toda vez."

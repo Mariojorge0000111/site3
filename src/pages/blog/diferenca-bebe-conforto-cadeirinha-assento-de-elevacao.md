@@ -9,8 +9,8 @@ tags: ["bebe-conforto", "cadeirinha", "assento"]
 produtos: ["cosco-wizz", "maxi-cosi-citi-2", "litet-all-stages-fix-2", "fisher-price-maxguard", "burigotto-protege-fix", "chicco-gofit-plus"]
 capa: "pexels 6182088"
 capaAlt: "Mulher de máscara ajeitando o bebê no bebê conforto instalado no banco de trás de uma van"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-16"
+atualizado: "2026-11-16"
 faq:
   - p: "Qual a diferença entre bebê conforto e cadeirinha?"
     r: "O bebê conforto é uma concha que vai sempre de costas para o movimento e serve até cerca de 13 kg. A cadeirinha é maior, fica presa ao carro, tem cinto de 5 pontos próprio e pode ir de costas ou de frente, conforme o modelo. Muitas cadeirinhas começam no nascimento e substituem o bebê conforto."

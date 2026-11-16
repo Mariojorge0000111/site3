@@ -4,8 +4,8 @@ titulo: "Spinel 360 ou Evolutty 360 X: qual giratória comprar"
 descricao: "Spinel 360 vs Evolutty 360 X: as duas giram e vão de costas até 18 kg. Compare perna de apoio e top tether, peso, garantia e preço e veja qual serve."
 h1: "Maxi-Cosi Spinel 360 ou Cosco Evolutty 360 X: qual giratória de costas até 18 kg vale mais a pena?"
 intro: "Se o seu carro tem ponto de top tether, a **Cosco Evolutty 360 X** entrega o principal da Spinel (giro e costas até 18 kg) por bem menos. Se o carro não tem top tether mas tem piso firme atrás, ou se você valoriza a garantia de 5 anos, a **Maxi-Cosi Spinel 360** justifica o preço."
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-16"
+atualizado: "2026-11-16"
 secao: { nome: "Comparativos", url: "/comparativos/" }
 faq:
   - p: "Qual é melhor, Spinel 360 ou Evolutty 360 X?"
