@@ -9,8 +9,8 @@ tags: ["bebe-conforto", "instalacao", "lei"]
 produtos: ["cosco-wizz", "galzerano-cocoon", "maxi-cosi-citi-2", "maxi-cosi-pebble-360-pro"]
 capa: "pexels 3875082"
 capaAlt: "Roupinhas de recém-nascido, body e babadores espalhados sobre uma colcha cinza"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-17"
+atualizado: "2026-11-17"
 faq:
   - p: "O bebê precisa sair da maternidade no bebê conforto?"
     r: "Sim. Pela Resolução Contran 819/2021, a criança de até 1 ano ou até 13 kg viaja no bebê conforto ou numa cadeira conversível, de costas e no banco de trás. Não existe exceção para o trajeto da maternidade em carro particular."

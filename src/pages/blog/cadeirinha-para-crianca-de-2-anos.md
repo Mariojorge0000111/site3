@@ -9,8 +9,8 @@ tags: ["cadeirinha", "giratoria", "multigrupo"]
 produtos: ["maxi-cosi-spinel-360", "cosco-evolutty-360-x", "kiddo-supra-360", "joie-every-stage-fx", "fisher-price-maxguard"]
 capa: "pexels 10831693"
 capaAlt: "Três carrinhos de brinquedo de madeira, azul, amarelo e vermelho, sobre uma mesa de madeira"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-17"
+atualizado: "2026-11-17"
 faq:
   - p: "Com 2 anos a criança já pode ir de frente?"
     r: "Pode, se ela passou do limite de costas da cadeira. Se ainda está abaixo desse limite, a recomendação da AAP e da NHTSA é continuar de costas. A AAP deixou de usar os 2 anos como marco e passou a usar o limite de peso ou altura do fabricante."

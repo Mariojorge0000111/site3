@@ -9,8 +9,8 @@ tags: ["cadeirinha", "multigrupo", "giratoria"]
 produtos: ["cosco-progress", "litet-all-stages-fix-2", "safety-1st-multifix", "fisher-price-shieldpro-360", "safety-1st-i-nxt-360", "cosco-evolutty-360-x"]
 capa: "pexels 1602726"
 capaAlt: "Mão colocando uma moeda num cofrinho azul em forma de porquinho"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-17"
+atualizado: "2026-11-17"
 faq:
   - p: "Qual a cadeirinha com melhor custo-benefício?"
     r: "Depende do carro. Sem ISOFIX, a Cosco Progress, com nota 8,2 e faixa de R$ 520 a R$ 780 no Mercado Livre em out/2026. Com ISOFIX, a Litet All Stages Fix 2.0, nota 8,6, entre R$ 730 e R$ 920. Quem quer i-Size e giro gastando pouco tem a Fisher-Price ShieldPro 360, nota 8,9, entre R$ 1.190 e R$ 1.360."

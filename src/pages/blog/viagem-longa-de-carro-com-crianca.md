@@ -9,8 +9,8 @@ tags: ["cadeirinha", "bebe-conforto"]
 produtos: ["safety-1st-i-nxt-360", "joie-every-stage-fx", "maxi-cosi-citi-2", "burigotto-protege-fix"]
 capa: "pexels 39835378"
 capaAlt: "Vista de dentro do carro pelo para-brisa, com uma rodovia ao entardecer"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-17"
+atualizado: "2026-11-17"
 faq:
   - p: "De quanto em quanto tempo parar numa viagem de carro com criança?"
     r: "A AAP orienta parar mais ou menos a cada 2 horas para descansar você e a criança. Com bebê no bebê conforto, e principalmente com recém-nascido, as paradas podem ser mais curtas que isso. Nas pausas, tire a criança da cadeira."

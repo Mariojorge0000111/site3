@@ -9,8 +9,8 @@ tags: ["giratoria", "cadeirinha", "instalacao"]
 produtos: ["safety-1st-i-nxt-360", "fisher-price-shieldpro-360", "cosco-evolutty-360-x", "kiddo-supra-360", "maxi-cosi-spinel-360", "joie-every-stage-fx"]
 capa: "pexels 16495991"
 capaAlt: "Banco traseiro de um carro visto pela porta traseira aberta"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-17"
+atualizado: "2026-11-17"
 faq:
   - p: "Cadeirinha giratória é mais segura?"
     r: "Não pelo giro em si. Na viagem, o assento fica travado de costas ou de frente, como numa cadeira fixa. A segurança vem da norma, da fixação no carro e do tempo de costas. O giro ajuda indiretamente: facilita prender a criança direito e manter a posição de costas por mais tempo."
