@@ -9,8 +9,8 @@ tags: ["cadeirinha", "multigrupo", "assento"]
 produtos: ["safety-1st-multifix", "litet-all-stages-fix-2", "cosco-progress", "maxi-cosi-spinel-360", "fisher-price-maxguard"]
 capa: "pexels 6865340"
 capaAlt: "Dois carrinhos de brinquedo de madeira, um amarelo e um verde, ao lado de um bonequinho de madeira sobre fundo preto"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-18"
+atualizado: "2026-11-18"
 faq:
   - p: "Criança de 3 anos pode usar assento de elevação?"
     r: "A Resolução Contran 819/2021 coloca o assento de elevação na fase dos 4 aos 7 anos e meio, de 15 a 36 kg. Aos 3 anos, a fase é a da cadeirinha com cinto próprio. A AAP e a NHTSA também recomendam usar o cinto de 5 pontos até o limite da cadeira antes de passar para o assento."

@@ -9,8 +9,8 @@ tags: ["cadeirinha", "instalacao", "multigrupo", "bebe-conforto"]
 produtos: ["cosco-progress", "safety-1st-multifix", "joie-every-stage-fx", "cosco-wizz", "maxi-cosi-citi-2", "galzerano-cocoon"]
 capa: "pexels 38053878"
 capaAlt: "Fivela do cinto de segurança do carro com o botão vermelho em destaque"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-18"
+atualizado: "2026-11-18"
 faq:
   - p: "Cadeirinha sem ISOFIX é segura?"
     r: "É, quando tem registro no Inmetro e fica firme no banco. A norma NBR 14400, base do regulamento do Inmetro, prevê ensaios para cadeiras com ISOFIX ou com cinto. A diferença é que com cinto é mais fácil errar, então a instalação pede mais cuidado."

@@ -9,8 +9,8 @@ tags: ["cadeirinha", "instalacao", "bebe-conforto"]
 produtos: ["safety-1st-multifix", "kiddo-supra-360", "litet-all-stages-fix-2", "cosco-progress", "cosco-wizz"]
 capa: "pexels 7762714"
 capaAlt: "Banco traseiro de couro claro de um carro com a porta aberta"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-18"
+atualizado: "2026-11-18"
 faq:
   - p: "Qual é o erro mais comum com a cadeirinha?"
     r: "No estudo nacional da NHTSA com dados de 2011, o erro mais frequente em bebê conforto foi a inclinação errada, e nas cadeiras de frente foi a instalação frouxa. No total, 46% das cadeirinhas e assentos de elevação tinham pelo menos um erro que podia reduzir a proteção."

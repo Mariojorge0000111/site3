@@ -4,8 +4,8 @@ titulo: "Citi² ou Cosco Wizz: qual bebê conforto comprar"
 descricao: "Maxi-Cosi Citi² vs Cosco Wizz: base inclusa, instalação com cinto, peso, avaliações e preço dos dois bebês conforto. Veja qual combina com a sua rotina."
 h1: "Maxi-Cosi Citi² ou Cosco Wizz: qual bebê conforto vale mais a pena?"
 intro: "Se o bebê vai entrar e sair do carro quase todo dia e o carro não tem ISOFIX, o **Maxi-Cosi Citi²** compensa pela base que já vem na caixa. Se as saídas são poucas por semana e o orçamento é curto, o **Cosco Wizz** entrega o essencial certificado por uma fração do preço."
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-18"
+atualizado: "2026-11-18"
 secao: { nome: "Comparativos", url: "/comparativos/" }
 faq:
   - p: "Qual é melhor, Citi² ou Cosco Wizz?"

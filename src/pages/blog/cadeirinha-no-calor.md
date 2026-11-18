@@ -9,8 +9,8 @@ tags: ["cadeirinha", "bebe-conforto"]
 produtos: ["cosco-progress", "maxi-cosi-spinel-360", "maxi-cosi-citi-2", "cosco-wizz"]
 capa: "pexels 14077893"
 capaAlt: "Sol entrando pelo para-brisa de um carro antigo estacionado, com volante e painel à mostra"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-18"
+atualizado: "2026-11-18"
 faq:
   - p: "A fivela da cadeirinha pode queimar a criança?"
     r: "Pode. Peças de metal e plástico da cadeira esquentam no sol. Antes de prender a criança, encoste a mão na fivela, nas linguetas e no tecido que vão tocar a pele. Se estiver quente para você, está quente demais para ela."
