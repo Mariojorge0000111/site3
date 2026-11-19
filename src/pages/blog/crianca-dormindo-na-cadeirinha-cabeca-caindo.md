@@ -9,8 +9,8 @@ tags: ["cadeirinha", "bebe-conforto", "instalacao"]
 produtos: ["joie-every-stage-fx", "kiddo-supra-360", "safety-1st-i-nxt-360", "maxi-cosi-pebble-360-pro", "cosco-progress"]
 capa: "pexels 8387437"
 capaAlt: "Bancos de carro com encosto de cabeça em penumbra, com luz entrando pela janela"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-19"
+atualizado: "2026-11-19"
 faq:
   - p: "É perigoso a cabeça da criança cair dormindo na cadeirinha?"
     r: "Depende da idade e da posição. Em bebê pequeno, de costas, o queixo encostar no peito pode atrapalhar a respiração, e a AAP orienta deixar a cadeira no ângulo certo para a cabeça não cair para a frente. Em criança maior, de frente, a cabeça tombar para o lado costuma ser desconforto, mas vale conferir os ajustes."

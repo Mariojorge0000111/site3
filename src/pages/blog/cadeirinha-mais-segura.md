@@ -9,8 +9,8 @@ tags: ["cadeirinha", "instalacao", "giratoria", "bebe-conforto"]
 produtos: ["maxi-cosi-spinel-360", "safety-1st-i-nxt-360", "maxi-cosi-pebble-360-pro", "fisher-price-shieldpro-360", "kiddo-supra-360", "joie-every-stage-fx"]
 capa: "pexels 163945"
 capaAlt: "Motorista com cinto de segurança dirigindo num dia de chuva, visto de dentro do carro"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-19"
+atualizado: "2026-11-19"
 faq:
   - p: "Qual é a cadeirinha mais segura do Brasil?"
     r: "Não existe um teste público que compare todas as cadeiras vendidas no Brasil numa mesma batida, então ninguém pode afirmar isso com dados. O que dá para dizer é quais modelos reúnem mais recursos de proteção. Nas nossas notas de segurança, lideram o Maxi-Cosi Pebble 360 Pro² (9,6), a Safety 1st i-NXT 360 (9,5) e a Maxi-Cosi Spinel 360 (9,4)."

@@ -9,8 +9,8 @@ tags: ["bebe-conforto", "cadeirinha", "assento"]
 produtos: ["cosco-wizz", "chicco-gofit-plus", "burigotto-protege-fix"]
 capa: "pexels 36016234"
 capaAlt: "Cabine de avião vazia, com poltronas escuras e janelas mostrando o céu claro"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-19"
+atualizado: "2026-11-19"
 faq:
   - p: "Posso usar a cadeirinha do carro no avião?"
     r: "Pode, se ela for certificada para uso em aeronave e a companhia aceitar o modelo. A criança precisa ter assento próprio comprado. A Latam exige cadeira certificada para avião para bebês em assento próprio, e a Gol avalia o modelo antes do voo."

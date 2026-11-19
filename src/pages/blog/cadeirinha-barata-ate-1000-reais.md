@@ -9,8 +9,8 @@ tags: ["cadeirinha", "bebe-conforto", "assento", "multigrupo"]
 produtos: ["cosco-progress", "litet-all-stages-fix-2", "safety-1st-multifix", "cosco-wizz", "galzerano-cocoon", "burigotto-protege-fix", "chicco-gofit-plus"]
 capa: "pexels 7624053"
 capaAlt: "Cédulas de 50 e de 100 reais sobre um fundo claro"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-19"
+atualizado: "2026-11-19"
 faq:
   - p: "Qual a cadeirinha mais barata e segura?"
     r: "Entre as que a equipe avaliou, o Burigotto Protege Fix (assento de elevação, R$ 200 a R$ 380) e o Cosco Wizz (bebê conforto, R$ 280 a R$ 470) são os mais baratos. Para uma cadeira só do nascimento aos 36 kg, a Cosco Progress fica entre R$ 520 e R$ 780. Valores de referência no Mercado Livre em out/2026."

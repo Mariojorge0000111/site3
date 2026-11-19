@@ -9,8 +9,8 @@ tags: ["cadeirinha", "assento", "multigrupo"]
 produtos: ["burigotto-protege-fix", "safety-1st-multifix", "litet-all-stages-fix-2", "cosco-progress", "fisher-price-maxguard"]
 capa: "pexels 12955654"
 capaAlt: "Cubos de madeira com letras formando a palavra PLAY ao lado de um caminhão de bombeiro de brinquedo sobre fundo vermelho"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-19"
+atualizado: "2026-11-19"
 faq:
   - p: "Com 4 anos a criança já pode usar assento de elevação?"
     r: "Pela Resolução Contran 819/2021, sim: o assento de elevação é a fase dos 4 aos 7 anos e meio, de 15 a 36 kg. A recomendação de segurança da NHTSA é outra: manter a cadeira de frente com cinto de 5 pontos e top tether até o limite de peso ou altura dela, e só então passar ao assento."
