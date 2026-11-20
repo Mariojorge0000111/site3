@@ -9,8 +9,8 @@ tags: ["bebe-conforto", "cadeirinha"]
 produtos: ["maxi-cosi-pebble-360-pro", "maxi-cosi-citi-2", "cosco-wizz", "galzerano-cocoon"]
 capa: "pexels 4964342"
 capaAlt: "Elefante de pelúcia e almofadas listradas sobre uma pilha de mantas de bebê"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-20"
+atualizado: "2026-11-20"
 faq:
   - p: "Para que serve o redutor do bebê conforto?"
     r: "Ele preenche o espaço da concha para o corpo pequeno do recém-nascido ficar bem acomodado, com o cinto passando no lugar certo e a cabeça apoiada. É uma peça ensaiada junto com a cadeira, por isso só vale o redutor que veio de fábrica ou que o fabricante vende para aquele modelo."

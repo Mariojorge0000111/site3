@@ -9,8 +9,8 @@ tags: ["cadeirinha", "multigrupo", "giratoria", "bebe-conforto"]
 produtos: ["cosco-wizz", "cosco-progress", "cosco-evolutty-360-x"]
 capa: "pexels 30717331"
 capaAlt: "Banco traseiro de um carro com saídas de ar entre os encostos dianteiros"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-20"
+atualizado: "2026-11-20"
 faq:
   - p: "Qual a melhor cadeirinha da Cosco?"
     r: "Para gastar pouco e servir em qualquer carro, a Cosco Progress. Para ficar de costas até 18 kg com giro, a Evolutty 360 X, se o carro tiver ISOFIX e top tether. Para o primeiro ano com o bebê saindo do carro dentro da concha, o Wizz."

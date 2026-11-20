@@ -9,8 +9,8 @@ tags: ["cadeirinha", "instalacao"]
 produtos: ["safety-1st-i-nxt-360", "safety-1st-multifix", "cosco-progress", "litet-all-stages-fix-2"]
 capa: "pexels 5834963"
 capaAlt: "Homem sentado no banco de um carro puxando a faixa do cinto de segurança sobre o peito"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-20"
+atualizado: "2026-11-20"
 faq:
   - p: "Por que meu filho consegue tirar o braço do cinto da cadeirinha?"
     r: "Quase sempre porque a alça está frouxa, saindo alta demais em relação ao ombro ou passando sobre roupa grossa. Com o cinto bem ajustado, a criança não tem folga para puxar o braço para dentro. Faça o teste da pinça na altura do peito."

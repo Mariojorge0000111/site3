@@ -9,8 +9,8 @@ tags: ["cadeirinha", "multigrupo", "assento"]
 produtos: ["fisher-price-maxguard", "kiddo-supra-360", "cosco-evolutty-360-x", "joie-every-stage-fx", "litet-all-stages-fix-2", "safety-1st-multifix", "cosco-progress", "maxi-cosi-spinel-360"]
 capa: "pexels 15844906"
 capaAlt: "Par de sapatinhos azuis de bebê sobre um tecido laranja"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-20"
+atualizado: "2026-11-20"
 faq:
   - p: "O que é uma cadeirinha 9 a 36 kg?"
     r: "É a cadeira que junta o grupo 1 (9 a 18 kg, com cinto de 5 pontos próprio) e os grupos 2 e 3 (15 a 36 kg, em que a criança usa o cinto do carro e a cadeira funciona como assento de elevação). Ela não serve para recém-nascido. Nas fichas do site, a que começa nos 9 kg é a Fisher-Price MaxGuard, i-Size de 76 a 150 cm."

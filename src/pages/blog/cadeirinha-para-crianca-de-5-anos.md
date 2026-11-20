@@ -9,8 +9,8 @@ tags: ["assento", "cadeirinha", "multigrupo"]
 produtos: ["burigotto-protege-fix", "chicco-gofit-plus", "safety-1st-multifix", "cosco-evolutty-360-x", "joie-every-stage-fx"]
 capa: "pexels 31061847"
 capaAlt: "Blocos de madeira de montar espalhados sobre um piso de madeira"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-20"
+atualizado: "2026-11-20"
 faq:
   - p: "Criança de 5 anos pode andar só com o cinto do carro?"
     r: "Não. Pela Resolução Contran 819/2021, dos 4 aos 7 anos e meio a criança usa assento de elevação. Só com o cinto do carro é infração gravíssima pelo art. 168 do CTB. A exceção é o carro que veio de fábrica só com cinto de 2 pontos atrás."
