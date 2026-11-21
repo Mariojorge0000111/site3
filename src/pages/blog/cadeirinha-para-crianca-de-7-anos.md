@@ -9,8 +9,8 @@ tags: ["assento", "lei", "cadeirinha"]
 produtos: ["burigotto-protege-fix", "chicco-gofit-plus"]
 capa: "pexels 10895042"
 capaAlt: "Fita métrica amarela parcialmente enrolada sobre fundo azul"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-21"
+atualizado: "2026-11-21"
 faq:
   - p: "Criança de 7 anos precisa de cadeirinha?"
     r: "Até os 7 anos e meio, precisa de assento de elevação pela Resolução Contran 819/2021. Dos 7 anos e meio aos 10 anos, a lei aceita o cinto do carro no banco de trás. Por segurança, o assento continua até o cinto encaixar bem no corpo, o que costuma acontecer perto de 1,45 m."

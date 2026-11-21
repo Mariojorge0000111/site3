@@ -9,8 +9,8 @@ tags: ["assento", "lei", "cadeirinha"]
 produtos: ["chicco-gofit-plus", "burigotto-protege-fix", "fisher-price-growstages", "safety-1st-i-nxt-360"]
 capa: "pexels 6952419"
 capaAlt: "Lápis de cor apontados, em várias cores, num porta-lápis contra fundo bege"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-21"
+atualizado: "2026-11-21"
 faq:
   - p: "Criança de 6 anos precisa de cadeirinha?"
     r: "Precisa de assento de elevação. A Resolução Contran 819/2021 coloca a criança dos 4 aos 7 anos e meio, de 15 a 36 kg, nesse dispositivo, no banco de trás. Só com o cinto do carro é infração gravíssima."

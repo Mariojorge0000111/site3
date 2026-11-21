@@ -9,8 +9,8 @@ tags: ["bebe-conforto", "cadeirinha"]
 produtos: ["maxi-cosi-pebble-360-pro", "maxi-cosi-citi-2", "cosco-wizz", "galzerano-cocoon"]
 capa: "pexels 12585206"
 capaAlt: "Estetoscópio preto sobre fundo azul-claro"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-21"
+atualizado: "2026-11-21"
 faq:
   - p: "Prematuro pode usar bebê conforto comum?"
     r: "Pode, se o bebê estiver dentro da faixa mínima de peso ou altura do manual e as alças saírem na altura dos ombros ou abaixo na regulagem mais baixa. Se a cadeira não fecha bem num corpo tão pequeno, ela não serve para aquele bebê agora."

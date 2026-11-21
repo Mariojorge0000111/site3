@@ -9,8 +9,8 @@ tags: ["assento", "cadeirinha", "multigrupo", "lei"]
 produtos: ["burigotto-protege-fix", "chicco-gofit-plus", "cosco-progress", "cosco-evolutty-360-x", "litet-all-stages-fix-2"]
 capa: "pexels 8653099"
 capaAlt: "Bancos de carro com encosto de cabeça iluminados pela luz do fim de tarde"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-21"
+atualizado: "2026-11-21"
 faq:
   - p: "Quais são os sinais de que a criança precisa sair da cadeirinha?"
     r: "Basta um: passou do peso ou da altura máxima do cinto de 5 pontos, conforme o manual; os ombros ficaram acima da última regulagem das alças; ou o topo das orelhas chegou ao alto do encosto. A AAP usa esses mesmos três critérios."
