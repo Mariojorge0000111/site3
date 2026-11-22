@@ -9,8 +9,8 @@ tags: ["bebe-conforto", "instalacao"]
 produtos: ["maxi-cosi-pebble-360-pro", "maxi-cosi-citi-2", "galzerano-cocoon", "cosco-wizz"]
 capa: "pexels 8886304"
 capaAlt: "Banco traseiro de carro com estofado cinza, três encostos de cabeça e fivelas de cinto"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-22"
+atualizado: "2026-11-22"
 faq:
   - p: "Como funciona a base ISOFIX do bebê conforto?"
     r: "A base tem dois conectores que travam nos pontos ISOFIX do banco traseiro, e uma perna de apoio que desce até o assoalho. Depois de instalada, ela fica no carro e a concha encaixa e solta com um clique."

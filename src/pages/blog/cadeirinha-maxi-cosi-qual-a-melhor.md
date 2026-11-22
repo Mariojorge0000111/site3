@@ -9,8 +9,8 @@ tags: ["bebe-conforto", "giratoria", "cadeirinha"]
 produtos: ["maxi-cosi-citi-2", "maxi-cosi-pebble-360-pro", "maxi-cosi-spinel-360"]
 capa: "pexels 15501373"
 capaAlt: "Carrinho de bebê vazio, azul, parado na grama de um parque sob uma árvore"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-22"
+atualizado: "2026-11-22"
 faq:
   - p: "Qual a melhor cadeirinha Maxi-Cosi?"
     r: "Para o primeiro ano em carro sem ISOFIX, o Citi², que vem com base presa pelo cinto. Para o primeiro ano com ISOFIX e orçamento folgado, o Pebble 360 Pro², i-Size com base giratória. Para uma cadeira só, do nascimento aos 36 kg, a Spinel 360, que fica de costas até 18 kg."

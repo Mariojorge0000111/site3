@@ -9,8 +9,8 @@ tags: ["bebe-conforto", "cadeirinha"]
 produtos: ["maxi-cosi-pebble-360-pro", "safety-1st-i-nxt-360", "maxi-cosi-spinel-360", "cosco-wizz"]
 capa: "pexels 4256539"
 capaAlt: "Chupetas de várias cores arrumadas em círculo sobre fundo rosa claro"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-22"
+atualizado: "2026-11-22"
 faq:
   - p: "Por que meu bebê chora toda vez que entra na cadeirinha?"
     r: "As causas mais comuns são fome, sono, calor ou frio, fralda suja, sol no rosto e incômodo no cinto, como alça torcida ou fivela fria ou quente. Alguns bebês também estranham ficar de costas sem ver os pais. Confira cada item numa parada antes de concluir que é manha."

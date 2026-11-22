@@ -9,8 +9,8 @@ tags: ["cadeirinha", "assento", "lei"]
 produtos: ["chicco-gofit-plus", "cosco-wizz", "burigotto-protege-fix", "cosco-progress"]
 capa: "pexels 17000836"
 capaAlt: "Porta-malas de carro com uma caixa organizadora cinza aberta, com bolsas de viagem dentro"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-22"
+atualizado: "2026-11-22"
 faq:
   - p: "Cadeirinha portátil é permitida por lei?"
     r: "Só se for um dispositivo de retenção certificado e com registro no Inmetro, adequado à fase da criança pela Resolução Contran 819/2021 e aos limites do fabricante. Ser portátil, dobrável ou em formato de colete não muda a exigência."

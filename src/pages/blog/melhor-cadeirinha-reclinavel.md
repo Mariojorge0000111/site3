@@ -9,8 +9,8 @@ tags: ["cadeirinha", "giratoria", "multigrupo"]
 produtos: ["joie-every-stage-fx", "safety-1st-i-nxt-360", "kiddo-supra-360", "maxi-cosi-spinel-360", "fisher-price-shieldpro-360", "cosco-progress"]
 capa: "pexels 9651478"
 capaAlt: "Banco traseiro de couro claro de um sedã, com encosto inclinado e tela no encosto do banco da frente"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-22"
+atualizado: "2026-11-22"
 faq:
   - p: "Qual a cadeirinha com mais posições de reclinação?"
     r: "Entre as fichas do site, a Joie Every Stage FX, com 6 posições, segundo o fabricante. Em seguida vêm a Safety 1st i-NXT 360 e a Kiddo Supra 360, com 5. Na i-NXT, as 5 posições ajustam com a cadeira instalada."
