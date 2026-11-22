@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Artigo.astro
-titulo: "Lei da cadeirinha 2026: idade, regras e multa"
-descricao: "Lei da cadeirinha 2026 explicada: até que idade usar, quando a criança vai na frente, regra para Uber e táxi e o valor da multa. Veja a tabela oficial."
+titulo: "Lei da cadeirinha 2026: tabela de idade e multa"
+descricao: "Lei da cadeirinha 2026: tabela de idade, peso e 1,45 m, multa (R$ 293,47), Uber/táxi e até quando usar cadeirinha, assento ou só o cinto."
 h1: "Lei da cadeirinha 2026: o que a Resolução 819 exige, até que idade usar e qual é a multa"
 intro: "A regra vale para toda criança com menos de 10 anos que ainda não chegou a 1,45 m: ela viaja no banco de trás, no dispositivo certo para a fase. Quem descumpre leva multa gravíssima de R$ 293,47, 7 pontos na CNH e tem o carro retido até corrigir."
 data: "2026-10-31"

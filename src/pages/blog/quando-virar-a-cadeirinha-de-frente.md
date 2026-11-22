@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Post.astro
-titulo: "Quando virar a cadeirinha de frente: regras e limites"
-descricao: "Cadeirinha de costas até quando? O que dizem a lei, a i-Size e a AAP, por que adiar a virada protege o pescoço e os modelos que vão de costas até 18 kg."
+titulo: "Quando virar a cadeirinha de frente? Lei e 18 kg"
+descricao: "Quando virar a cadeirinha de frente em 2026: o que a lei permite, por que ir de costas até 18 kg protege mais e quais modelos aguentam isso."
 h1: "Quando virar a cadeirinha de frente: o que a lei permite, o que a norma exige e o que a sua cadeira aguenta"
 intro: "Vire a cadeirinha de frente só quando a criança passar do limite de costas da própria cadeira. A lei brasileira não marca uma data para isso; a norma i-Size exige pelo menos 15 meses, e a AAP recomenda ficar de costas pelo maior tempo possível."
 categoria: "Segurança"

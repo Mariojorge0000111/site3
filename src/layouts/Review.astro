@@ -13,6 +13,7 @@ import { postsRelacionados } from '../lib/blog';
 import { produto, urlReview, CATEGORIAS, imgProduto } from '../data/produtos';
 import { SITE, PESSOAS, pessoaSchema } from '../config';
 import Autores from '../components/Autores.astro';
+import VideoYouTube from '../components/VideoYouTube.astro';
 import { dataBR } from '../lib/datas';
 
 const { frontmatter: f } = Astro.props;
@@ -89,6 +90,16 @@ const schema = [
           <p>{p.resumo}</p>
         </div>
       </div>
+
+      {f.video && (
+        <VideoYouTube
+          id={f.video.id}
+          titulo={f.video.titulo}
+          descricao={f.video.descricao}
+          publicado={f.video.publicado}
+          duracao={f.video.duracao}
+        />
+      )}
 
       <div class="barras" aria-label="Notas por critério">
         {criterios.map(([nome, v]) => (

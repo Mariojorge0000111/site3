@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Post.astro
-titulo: "Validade da cadeirinha e cadeirinha usada: vale a pena?"
-descricao: "Validade da cadeirinha: no Brasil não há prazo em lei. Veja como achar a data no manual e na etiqueta e o que checar antes de comprar cadeirinha usada."
+titulo: "Validade da cadeirinha e usada: o que checar (2026)"
+descricao: "Validade da cadeirinha em 2026: no Brasil não há prazo em lei. Como achar a data na etiqueta e o que checar antes de comprar cadeirinha usada."
 h1: "Validade da cadeirinha e cadeirinha usada: o que a lei não diz, o que o fabricante diz e como decidir"
 intro: "No Brasil não existe prazo legal de validade para cadeirinha: quem define é o fabricante, no manual ou na etiqueta. Cadeirinha usada pode valer a pena se tiver registro no Inmetro, estiver inteira, tiver pouco tempo de uso e nunca tiver passado por batida moderada ou grave."
 categoria: "Uso e cuidados"

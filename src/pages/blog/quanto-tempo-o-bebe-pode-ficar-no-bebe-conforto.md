@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Post.astro
-titulo: "Quanto tempo o bebê pode ficar no bebê conforto?"
-descricao: "Quanto tempo o bebê pode ficar no bebê conforto? Entenda a regra das 2 horas, por que recém-nascido pede pausas e o risco de dormir fora do carro."
+titulo: "Quanto tempo no bebê conforto? Regra das 2 horas"
+descricao: "Quanto tempo o bebê pode ficar no bebê conforto? Regra das 2 horas, pausas no caminho, sono fora do carro e o que muda em viagem longa em 2026."
 h1: "Quanto tempo o bebê pode ficar no bebê conforto: a regra das 2 horas, as pausas e o que fazer ao chegar"
 intro: "A orientação mais usada por fabricantes e entidades de segurança infantil é não passar de 2 horas seguidas no bebê conforto, com pausas para tirar o bebê da concha. Com recém-nascidos e prematuros, o ideal é parar antes. E, ao chegar, o bebê sai da concha: ela não é lugar para dormir fora do carro."
 categoria: "Uso e cuidados"

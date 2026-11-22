@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Artigo.astro
-titulo: "ISOFIX ou cinto: o que é e como instalar"
-descricao: "ISOFIX ou cinto na cadeirinha? Entenda ISOFIX, top tether e perna de apoio, saiba se o seu carro tem ISOFIX e veja o passo a passo de instalação."
+titulo: "ISOFIX ou cinto: qual usar e como instalar (2026)"
+descricao: "Isofix ou cinto na cadeirinha? O que é Isofix, top tether e perna de apoio, como saber se o carro tem e o passo a passo de instalação em 2026."
 h1: "ISOFIX ou cinto: o que é ISOFIX, top tether e como instalar a cadeirinha do jeito certo"
 intro: "Os dois sistemas são aceitos pela norma brasileira e pelo Inmetro. O ISOFIX tem a vantagem de deixar menos espaço para erro na instalação; o cinto funciona em qualquer carro, mas exige mais atenção para ficar firme."
 data: "2026-10-31"

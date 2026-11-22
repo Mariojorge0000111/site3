@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Post.astro
-titulo: "Bebê conforto até quando usar: limite e sinais"
-descricao: "Bebê conforto até quando? Veja o limite de peso e altura, os sinais de que o bebê já não cabe e qual cadeira escolher depois sem virar de frente cedo."
+titulo: "Bebê conforto até quando usar? Peso e sinais"
+descricao: "Bebê conforto até quando usar em 2026? Limite de peso e altura, sinais de que já não cabe e qual cadeirinha escolher depois, sem virar cedo."
 h1: "Bebê conforto até quando usar: o limite real, os sinais de troca e a cadeira certa para depois"
 intro: "Use o bebê conforto até o bebê atingir o limite de peso ou de altura do manual, o que vier primeiro. Na maioria dos modelos vendidos no Brasil, o teto é 13 kg, o que costuma acontecer perto de 1 ano."
 categoria: "Uso e cuidados"

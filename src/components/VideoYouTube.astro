@@ -1,0 +1,130 @@
+---
+import { SITE } from '../config';
+
+interface Props {
+  id: string;
+  titulo: string;
+  descricao: string;
+  publicado: string;
+  duracao: string;
+}
+
+const { id, titulo, descricao, publicado, duracao } = Astro.props;
+const idOk = /^[A-Za-z0-9_-]{11}$/.test(id);
+const thumb = `https://i.ytimg.com/vi/${id}/hqdefault.jpg`;
+const assistir = `https://www.youtube.com/watch?v=${id}`;
+const pagina = new URL(Astro.url.pathname, `https://${SITE.dominio}/`).href;
+
+const schema = idOk
+  ? {
+      '@context': 'https://schema.org',
+      '@type': 'VideoObject',
+      name: titulo,
+      description: descricao,
+      thumbnailUrl: thumb,
+      uploadDate: publicado,
+      duration: duracao,
+      embedUrl: `https://www.youtube.com/embed/${id}`,
+      contentUrl: assistir,
+      inLanguage: 'pt-BR',
+      publisher: { '@id': new URL('/#organizacao', `https://${SITE.dominio}/`).href },
+      mainEntityOfPage: pagina,
+    }
+  : null;
+---
+{idOk && (
+  <figure class="video-lite">
+    {schema && <script type="application/ld+json" set:html={JSON.stringify(schema).replace(/</g, '\\u003c')} />}
+    <div class="video-lite-palco">
+      <button type="button" class="video-lite-botao" data-video-id={id} data-video-titulo={titulo} aria-label={`Reproduzir o vídeo: ${titulo}`}>
+        <img src={thumb} alt="" width="480" height="360" loading="lazy" decoding="async" />
+        <span class="video-lite-play" aria-hidden="true">
+          <svg width="22" height="22" viewBox="0 0 24 24" focusable="false"><path fill="currentColor" d="M8 5.14v13.72a1 1 0 0 0 1.54.84l10.2-6.86a1 1 0 0 0 0-1.68L9.54 4.3A1 1 0 0 0 8 5.14z"/></svg>
+        </span>
+      </button>
+    </div>
+    <figcaption>Vídeo: {titulo}</figcaption>
+    <noscript>
+      <p><a href={assistir} rel="noopener">Assistir no YouTube: {titulo}</a></p>
+    </noscript>
+  </figure>
+)}
+
+<script>
+  const raiz = document.documentElement;
+  if (raiz.dataset.videoLite !== '1') {
+    raiz.dataset.videoLite = '1';
+    document.addEventListener('click', (evento) => {
+      const alvo = evento.target;
+      if (!(alvo instanceof Element)) return;
+      const botao = alvo.closest('button[data-video-id]');
+      if (!(botao instanceof HTMLButtonElement)) return;
+      const videoId = botao.dataset.videoId ?? '';
+      const tituloVideo = botao.dataset.videoTitulo || 'Vídeo do YouTube';
+      const palco = botao.closest('.video-lite-palco');
+      if (!palco || !/^[A-Za-z0-9_-]{11}$/.test(videoId)) return;
+      const iframe = document.createElement('iframe');
+      iframe.src = `https://www.youtube-nocookie.com/embed/${videoId}?autoplay=1`;
+      iframe.title = tituloVideo;
+      iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share';
+      iframe.allowFullscreen = true;
+      iframe.referrerPolicy = 'strict-origin-when-cross-origin';
+      iframe.tabIndex = -1;
+      palco.replaceChildren(iframe);
+      iframe.focus();
+    });
+  }
+</script>
+
+<style>
+  .video-lite { margin: 0 0 24px; }
+  .video-lite-palco {
+    position: relative;
+    aspect-ratio: 16 / 9;
+    border-radius: var(--raio);
+    overflow: hidden;
+    background: var(--tinta);
+    box-shadow: var(--sombra);
+  }
+  .video-lite-botao,
+  .video-lite-botao img {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+  .video-lite-palco :global(iframe) {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+  .video-lite-botao {
+    display: block;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    background: var(--tinta);
+    cursor: pointer;
+    color: var(--tinta);
+  }
+  .video-lite-botao img { object-fit: cover; }
+  .video-lite-play {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    translate: -50% -50%;
+    width: 68px;
+    height: 48px;
+    border-radius: 14px;
+    background: var(--ml);
+    display: grid;
+    place-items: center;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, .28);
+  }
+  .video-lite-botao:hover .video-lite-play,
+  .video-lite-botao:focus-visible .video-lite-play { background: #fff; }
+  .video-lite figcaption { margin-top: 8px; color: var(--suave); font-size: .92rem; }
+</style>

@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Post.astro
 titulo: "Cadeirinha no banco do meio ou atrás do motorista?"
-descricao: "Cadeirinha no banco do meio ou atrás do motorista: a lei não escolhe o lugar, a instalação sim. Veja a tabela de decisão por tipo de carro e de cadeira."
+descricao: "Cadeirinha no banco do meio ou atrás do motorista? A lei não escolhe o lugar — a instalação sim. Tabela por tipo de carro, Isofix e cinto."
 h1: "Cadeirinha no banco do meio ou atrás do motorista: qual lugar escolher no seu carro"
 intro: "O melhor lugar é o banco de trás onde a cadeirinha fica mais firme. O meio é o mais afastado das portas, mas só vale se ali houver cinto de 3 pontos ou ISOFIX e a cadeira ficar bem presa."
 categoria: "Instalação"

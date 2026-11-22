@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Post.astro
-titulo: "Quando tirar o assento de elevação: teste dos 5 passos"
-descricao: "Quando a criança pode sair do assento de elevação? Veja o que a lei exige, por que 1,45 m importa mais que a idade e o teste dos 5 passos do cinto."
+titulo: "Quando tirar o assento de elevação? Idade e 1,45 m"
+descricao: "Quando tirar o assento de elevação em 2026: o que a lei exige, por que 1,45 m vale mais que a idade e o teste dos 5 passos do cinto do carro."
 h1: "Quando tirar o assento de elevação: o que a lei permite, o que o corpo da criança pede e o teste dos 5 passos"
 intro: "A lei brasileira permite trocar o assento de elevação pelo cinto do carro a partir de 7 anos e meio. Mas o cinto só protege quando passa nos lugares certos do corpo, o que costuma acontecer perto de 1,45 m de altura. Faça o teste dos 5 passos antes de aposentar o assento."
 categoria: "Como escolher"
