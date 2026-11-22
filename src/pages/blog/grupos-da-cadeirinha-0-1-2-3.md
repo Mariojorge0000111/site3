@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Post.astro
-titulo: "Grupo 0+, 1, 2 e 3 da cadeirinha: o que significa"
-descricao: "Grupo 0+, 1, 2 e 3 da cadeirinha explicados em uma tabela: faixa de peso de cada um, por que eles se sobrepõem e como ler a etiqueta i-Size em cm."
+titulo: "Grupos 0, 1, 2 e 3 da cadeirinha: tabela de peso"
+descricao: "Grupos 0, 0+, 1, 2 e 3 da cadeirinha: tabela de peso e idade aproximada, por que as faixas se sobrepõem e como ler a etiqueta i-Size em cm."
 h1: "Grupo 0+, 1, 2 e 3 da cadeirinha: o que cada número significa e como usar isso na compra"
 intro: "Os grupos são faixas de peso da criança: o 0+ vai até 13 kg, o 1 vai de 9 a 18 kg e os grupos 2 e 3 cobrem de 15 a 36 kg. Na i-Size a lógica é a mesma, mas a faixa vem em centímetros de altura."
 categoria: "Como escolher"

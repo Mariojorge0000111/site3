@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Post.astro
-titulo: "Selo Inmetro da cadeirinha: como conferir o registro"
-descricao: "Selo Inmetro na cadeirinha: onde achar o número de registro, o que a etiqueta precisa ter, o que perguntar ao vendedor e o que fazer se a cadeira não tem."
+titulo: "Selo Inmetro da cadeirinha: como consultar em 2026"
+descricao: "Selo Inmetro da cadeirinha: como consultar o registro em 2026, o que a etiqueta precisa ter e o que fazer se o anúncio não mostra o número."
 h1: "Selo Inmetro na cadeirinha: como conferir o registro antes de comprar"
 intro: "Toda cadeirinha vendida no Brasil precisa ter o selo do Inmetro e um número de registro no próprio produto. Se a cadeira ou o anúncio não mostram esse número, não compre."
 categoria: "Lei e normas"

@@ -6,6 +6,12 @@ descricao: "Review da Cosco Evolutty 360 X: giratória de costas até 18 kg com 
 h1: "Review Cosco Evolutty 360 X: giratória de costas até 18 kg sem preço de importada"
 data: "2026-10-31"
 atualizado: "2026-10-31"
+video:
+  id: XEAQ_N_ge-0
+  titulo: "Cadeirinha Giratória Cosco Evolutty 360 X: Review Honesto, Prós e Contras"
+  descricao: "Review em vídeo da Cosco Evolutty 360 X: giratória de costas até 18 kg, com Isofix e top tether."
+  publicado: "2026-11-16T18:00:24-03:00"
+  duracao: "PT8M25S"
 alternativas: ["maxi-cosi-spinel-360", "kiddo-supra-360", "safety-1st-i-nxt-360"]
 faq:
   - p: "A Evolutty 360 X funciona em carro sem top tether?"

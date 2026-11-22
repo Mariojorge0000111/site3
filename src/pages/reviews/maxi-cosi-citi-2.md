@@ -1,8 +1,8 @@
 ---
 layout: ../../layouts/Review.astro
 produto: maxi-cosi-citi-2
-titulo: "Maxi-Cosi Citi² com base: review e instalação"
-descricao: "Review do Maxi-Cosi Citi² com base: como funciona a base presa com cinto em carro sem ISOFIX, até quando usar e se o preço faz sentido."
+titulo: "Maxi-Cosi Citi²: review 2026 do bebê conforto"
+descricao: "Review do Maxi-Cosi Citi² com base (2026): instalação com cinto em carro sem Isofix, peso da concha, até quando usar e se o preço compensa."
 h1: "Review Maxi-Cosi Citi² com base: uma base fixa para quem tem carro sem ISOFIX"
 data: "2026-10-31"
 atualizado: "2026-10-31"

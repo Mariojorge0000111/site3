@@ -17,7 +17,7 @@ interface Props {
 const { title, description, schema, ogImage, ogType = 'website', preloadImg, ctaFixo = false, noindex = false } = Astro.props;
 const comMarca = `${title} | ${SITE.nome}`;
 const fullTitle = title.includes(SITE.nome) || comMarca.length > 60 ? title : comMarca;
-const canonical = new URL(Astro.url.pathname, Astro.site).href;
+const canonical = new URL(Astro.url.pathname, `https://${SITE.dominio}/`).href;
 const og = ogImage?.startsWith('http') ? ogImage : new URL(`/images/${ogImage ?? 'og-padrao'}.webp`, Astro.site).href;
 const caminho = Astro.url.pathname;
 

@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Artigo.astro
-titulo: "O que é i-Size (R129) e quando vale a pena"
-descricao: "O que é i-Size, o que muda da R44 para a R129, se o Inmetro aceita e quando a cadeirinha i-Size vale a pena. Tabela comparativa e modelos avaliados."
+titulo: "O que é i-Size (R129) e quando vale a pena em 2026"
+descricao: "O que é i-Size (R129) em 2026: diferenças para a R44, se o Inmetro aceita e quando a cadeirinha i-Size vale a pena, com modelos avaliados."
 h1: "O que é i-Size (R129): diferenças para a R44 e quando a cadeirinha i-Size vale a pena"
 intro: "i-Size é o nome da norma europeia UN R129 para cadeirinhas: classifica pela altura da criança, exige teste de impacto lateral e mantém o bebê de costas até pelo menos 15 meses. No Brasil ela é aceita pelo Inmetro, ao lado da NBR 14400 e da norma americana FMVSS 213."
 data: "2026-10-31"

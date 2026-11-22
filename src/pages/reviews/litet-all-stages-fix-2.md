@@ -6,6 +6,12 @@ descricao: "Review da Litet All Stages Fix 2.0: cadeirinha 0 a 36 kg com ISOFIX 
 h1: "Review Litet All Stages Fix 2.0: ISOFIX desde o nascimento por preço de cadeira básica"
 data: "2026-10-31"
 atualizado: "2026-10-31"
+video:
+  id: VrfJDeI3OtE
+  titulo: "Litet All Stages Fix 2.0: Isofix de costas sem pagar caro! Review honesto (vale a pena?)"
+  descricao: "Review em vídeo da Litet All Stages Fix 2.0: Isofix de costas e de frente, top tether, e a norma R44/04 em vez da i-Size."
+  publicado: "2026-11-19T18:00:07-03:00"
+  duracao: "PT8M52S"
 alternativas: ["safety-1st-multifix", "cosco-progress", "fisher-price-growstages"]
 faq:
   - p: "A Litet All Stages Fix 2.0 tem ISOFIX de costas?"
