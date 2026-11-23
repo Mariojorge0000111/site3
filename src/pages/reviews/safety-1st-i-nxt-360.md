@@ -10,7 +10,7 @@ video:
   id: lwhkjWe8cS4
   titulo: "Safety 1st i-NXT 360: giro i-Size vale a pena?"
   descricao: "Review em vídeo da Safety 1st i-NXT 360: giratória i-Size de 0 a 36 kg, com Isofix e top tether. Veja o que ela exige do carro e se vale a pena."
-  publicado: "2026-11-30T18:00:00-03:00"
+  publicado: "2026-11-24T18:00:00-03:00"
   duracao: "PT6M23S"
 alternativas: ["cosco-evolutty-360-x", "fisher-price-shieldpro-360", "kiddo-supra-360"]
 faq:
