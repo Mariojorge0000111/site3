@@ -6,6 +6,12 @@ descricao: "Review da Cosco Progress 2026, cadeirinha 0 a 36 kg sem Isofix: como
 h1: "Review Cosco Progress: como instalar firme com o cinto do carro a cadeirinha mais vendida"
 data: "2026-10-31"
 atualizado: "2026-10-31"
+video:
+  id: ChIlOBC-fk0
+  titulo: "Cosco Progress vale a pena? Review sem Isofix"
+  descricao: "Review em vídeo da Cosco Progress, cadeirinha 0 a 36 kg sem Isofix: como instalar firme no cinto do carro e para quem ela vale a pena."
+  publicado: "2026-12-03T18:00:00-03:00"
+  duracao: "PT7M16S"
 alternativas: ["safety-1st-multifix", "litet-all-stages-fix-2", "joie-every-stage-fx"]
 faq:
   - p: "Como saber se a Cosco Progress está bem instalada?"
