@@ -10,7 +10,7 @@ video:
   id: ChIlOBC-fk0
   titulo: "Cosco Progress vale a pena? Review sem Isofix"
   descricao: "Review em vídeo da Cosco Progress, cadeirinha 0 a 36 kg sem Isofix: como instalar firme no cinto do carro e para quem ela vale a pena."
-  publicado: "2026-12-03T18:00:00-03:00"
+  publicado: "2026-11-26T18:00:00-03:00"
   duracao: "PT6M12S"
 alternativas: ["safety-1st-multifix", "litet-all-stages-fix-2", "joie-every-stage-fx"]
 faq:
