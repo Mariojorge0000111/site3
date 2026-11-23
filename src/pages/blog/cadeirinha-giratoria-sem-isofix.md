@@ -9,8 +9,8 @@ tags: ["giratoria", "instalacao", "multigrupo"]
 produtos: ["cosco-progress", "safety-1st-multifix", "joie-every-stage-fx", "maxi-cosi-citi-2", "cosco-evolutty-360-x", "maxi-cosi-spinel-360"]
 capa: "pexels 15200595"
 capaAlt: "Interior de carro com bancos claros de couro e fileira de bancos ao fundo"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-23"
+atualizado: "2026-11-23"
 faq:
   - p: "Existe cadeirinha giratória que instala só com cinto?"
     r: "Entre os 17 modelos que a gente avaliou, não. As cinco giratórias usam ISOFIX, e nas fichas da i-NXT 360 e da Evolutty 360 X ele aparece como obrigatório nas fases de bebê. Se você encontrar um anúncio de giratória que instala só com cinto, confira o registro no Inmetro e leia o manual antes de comprar."

@@ -9,8 +9,8 @@ tags: ["cadeirinha", "assento"]
 produtos: ["burigotto-protege-fix", "chicco-gofit-plus", "fisher-price-maxguard", "safety-1st-i-nxt-360"]
 capa: "pexels 17941662"
 capaAlt: "Vista do banco de trás de um carro, pela janela, de morros verdes e um lago"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-23"
+atualizado: "2026-11-23"
 faq:
   - p: "Por que a criança enjoa no carro?"
     r: "Por causa de sinais contraditórios que chegam ao cérebro. O ouvido interno percebe o movimento, mas os olhos, se estão num livro, numa tela ou no encosto do banco da frente, dizem que está tudo parado. Essa confusão provoca a cinetose, o enjoo de movimento."

@@ -9,8 +9,8 @@ tags: ["cadeirinha", "giratoria", "multigrupo"]
 produtos: ["maxi-cosi-spinel-360", "joie-every-stage-fx", "cosco-evolutty-360-x", "kiddo-supra-360"]
 capa: "pexels 7566233"
 capaAlt: "Meias de bebê cinza e brancas ao lado de chupetas transparentes sobre fundo branco"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-23"
+atualizado: "2026-11-23"
 faq:
   - p: "É normal as pernas do bebê encostarem no banco na cadeirinha de costas?"
     r: "Sim. Conforme a criança cresce, as pernas passam a dobrar, cruzar ou apoiar os pés no encosto do banco do carro. A AAP diz que as crianças são flexíveis e encontram com facilidade uma posição confortável de costas."

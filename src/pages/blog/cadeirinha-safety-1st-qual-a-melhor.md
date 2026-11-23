@@ -9,8 +9,8 @@ tags: ["cadeirinha", "multigrupo", "giratoria"]
 produtos: ["safety-1st-multifix", "safety-1st-i-nxt-360"]
 capa: "pexels 11820803"
 capaAlt: "Fivela do cinto de segurança de um carro com botão vermelho em destaque"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-23"
+atualizado: "2026-11-23"
 faq:
   - p: "Qual a melhor cadeirinha Safety 1st?"
     r: "A i-NXT 360, se o carro tem ISOFIX e top tether na mesma posição e você quer giro e i-Size. A Multifix, se o carro não tem top tether, se não tem ISOFIX ou se o orçamento é menor."
