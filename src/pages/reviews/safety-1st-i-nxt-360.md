@@ -6,6 +6,12 @@ descricao: "Review da Safety 1st i-NXT 360 (2026): giratória i-Size 0 a 36 kg. 
 h1: "Review Safety 1st i-NXT 360: a giratória i-Size que exige ISOFIX e top tether"
 data: "2026-10-31"
 atualizado: "2026-10-31"
+video:
+  id: lwhkjWe8cS4
+  titulo: "Safety 1st i-NXT 360: giro i-Size vale a pena?"
+  descricao: "Review em vídeo da Safety 1st i-NXT 360: giratória i-Size de 0 a 36 kg, com Isofix e top tether. Veja o que ela exige do carro e se vale a pena."
+  publicado: "2026-11-30T18:00:00-03:00"
+  duracao: "PT7M36S"
 alternativas: ["cosco-evolutty-360-x", "fisher-price-shieldpro-360", "kiddo-supra-360"]
 faq:
   - p: "A i-NXT 360 serve no banco do meio?"
