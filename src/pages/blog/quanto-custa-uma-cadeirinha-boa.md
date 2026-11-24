@@ -9,8 +9,8 @@ tags: ["cadeirinha", "bebe-conforto", "giratoria", "assento"]
 produtos: ["cosco-progress", "litet-all-stages-fix-2", "safety-1st-i-nxt-360", "maxi-cosi-spinel-360", "cosco-wizz", "burigotto-protege-fix"]
 capa: "pexels 11417942"
 capaAlt: "Etiqueta de preço em branco com cordão sobre um tecido bege"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-24"
+atualizado: "2026-11-24"
 faq:
   - p: "Qual o preço de uma cadeirinha boa?"
     r: "Pelas referências de outubro de 2026 no Mercado Livre, as cadeiras de 0 a 36 kg que avaliamos começam entre R$ 520 e R$ 780 (Cosco Progress). Com ISOFIX em todas as fases, entre R$ 730 e R$ 920 (Litet All Stages Fix 2.0). Giratórias vão de cerca de R$ 920 a R$ 4.600, conforme o modelo e o vendedor."

@@ -9,8 +9,8 @@ tags: ["bebe-conforto", "cadeirinha"]
 produtos: ["maxi-cosi-citi-2", "cosco-wizz", "galzerano-cocoon", "maxi-cosi-pebble-360-pro"]
 capa: "pexels 5268219"
 capaAlt: "Retrovisor interno de carro refletindo uma estrada no deserto"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-24"
+atualizado: "2026-11-24"
 faq:
   - p: "Espelho para bebê conforto é seguro?"
     r: "Não existe norma que teste esses espelhos com a sua cadeirinha. Os riscos são o espelho se soltar e atingir alguém numa batida e o motorista olhar para ele em vez da estrada. Se usar, escolha um leve, de bordas macias, bem preso no encosto de cabeça do carro."

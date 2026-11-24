@@ -9,8 +9,8 @@ tags: ["bebe-conforto", "cadeirinha"]
 produtos: ["cosco-wizz", "maxi-cosi-pebble-360-pro", "maxi-cosi-citi-2", "galzerano-cocoon"]
 capa: "pexels 7397042"
 capaAlt: "Cinco carrinhos de bebê vazios enfileirados junto a uma parede, em preto e branco"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-24"
+atualizado: "2026-11-24"
 faq:
   - p: "O que é travel system?"
     r: "É o sistema em que a concha do bebê conforto encaixa no carrinho, direto ou com adaptador. Você tira a concha do carro com o bebê dentro e prende no carrinho sem desafivelar o bebê."

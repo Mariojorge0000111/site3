@@ -9,8 +9,8 @@ tags: ["instalacao", "cadeirinha"]
 produtos: ["litet-all-stages-fix-2", "safety-1st-multifix", "cosco-progress", "maxi-cosi-spinel-360"]
 capa: "pexels 1633602"
 capaAlt: "Banco traseiro de couro branco de um carro, com as fivelas dos cintos à mostra"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-24"
+atualizado: "2026-11-24"
 faq:
   - p: "Protetor de banco para cadeirinha é seguro?"
     r: "Depende do que o manual da sua cadeira diz. A AAP orienta não usar produtos extras na cadeirinha a menos que tenham vindo com ela ou sejam aprovados pelo fabricante da cadeira. Há fabricantes que proíbem qualquer coisa embaixo, outros que aceitam só o protetor da própria marca e outros que aceitam uma toalha fina."
