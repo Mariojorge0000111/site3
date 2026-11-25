@@ -9,8 +9,8 @@ tags: ["instalacao", "cadeirinha"]
 produtos: ["cosco-wizz", "maxi-cosi-citi-2", "litet-all-stages-fix-2", "burigotto-protege-fix", "chicco-gofit-plus", "safety-1st-i-nxt-360"]
 capa: "pexels 12369543"
 capaAlt: "Banco traseiro de couro bege de um carro, com porta aberta e cintos de segurança à mostra"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-25"
+atualizado: "2026-11-25"
 faq:
   - p: "Onde colocar duas cadeirinhas no carro?"
     r: "Na maioria dos carros, uma em cada lateral do banco de trás, porque é onde ficam os pontos ISOFIX e os cintos de 3 pontos. O manual do carro mostra quais lugares aceitam cadeira e que tipo de fixação cada um tem."

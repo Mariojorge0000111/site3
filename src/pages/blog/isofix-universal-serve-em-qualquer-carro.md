@@ -9,8 +9,8 @@ tags: ["instalacao", "cadeirinha"]
 produtos: ["litet-all-stages-fix-2", "safety-1st-i-nxt-360", "maxi-cosi-spinel-360", "kiddo-supra-360", "maxi-cosi-pebble-360-pro"]
 capa: "pexels 11790383"
 capaAlt: "Banco traseiro de couro preto com costuras e cinto de segurança vermelhos"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-25"
+atualizado: "2026-11-25"
 faq:
   - p: "Cadeirinha ISOFIX universal serve em qualquer carro?"
     r: "Serve nos lugares do carro que o manual do veículo aprova para cadeiras ISOFIX universais, que têm os pontos ISOFIX e o ponto de top tether. Carro com ISOFIX mas sem ponto de top tether naquele lugar não recebe uma cadeira que exige o top tether."

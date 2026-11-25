@@ -9,8 +9,8 @@ tags: ["cadeirinha", "bebe-conforto"]
 produtos: ["cosco-wizz", "maxi-cosi-pebble-360-pro", "cosco-progress", "kiddo-supra-360"]
 capa: "pexels 11881811"
 capaAlt: "Brinquedo de pelúcia em forma de girafa sorridente sobre fundo escuro"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-25"
+atualizado: "2026-11-25"
 faq:
   - p: "Posso usar almofada redutora ou apoio de cabeça comprado à parte?"
     r: "Não, a menos que o fabricante da sua cadeira aprove aquele produto. A AAP orienta não usar nenhum tipo de redutor ou acessório que não veio com a cadeira ou não foi feito pelo fabricante dela. Peças à parte mudam a posição do bebê e do cinto."

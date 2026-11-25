@@ -9,8 +9,8 @@ tags: ["cadeirinha", "bebe-conforto", "assento"]
 produtos: ["cosco-progress", "safety-1st-multifix", "cosco-wizz", "burigotto-protege-fix"]
 capa: "pexels 7363199"
 capaAlt: "Caixa de papelão e envelopes de entrega deixados na entrada de uma casa"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-25"
+atualizado: "2026-11-25"
 faq:
   - p: "É seguro comprar cadeirinha pela internet?"
     r: "Sim, desde que o produto seja novo, tenha selo e número de registro do Inmetro e venha de loja oficial ou vendedor com boa reputação. Ao receber, confira a etiqueta da cadeira, o manual em português e se o modelo bate com o anúncio."
