@@ -52,9 +52,9 @@ Cada modelo tem os seus. O manual mostra o que cada cor significa. Regra simples
 
 ## A base do Pebble 360 Pro²
 
-Entre os bebês conforto que a equipe testou, só o Maxi-Cosi Pebble 360 Pro² usa base ISOFIX. Segundo o fabricante, a base FamilyFix 360 Pro tem ISOFIX e perna de apoio, e ainda gira 360° e desliza na direção dos pais na hora de colocar o bebê.
+Entre os bebês conforto que a equipe analisou, só o Maxi-Cosi Pebble 360 Pro² usa base ISOFIX. Segundo o fabricante, a base FamilyFix 360 Pro tem ISOFIX e perna de apoio, e ainda gira 360° e desliza na direção dos pais na hora de colocar o bebê.
 
-Nos testes, a gente conferiu três coisas na instalação: os dois conectores travados (puxando a base para testar), a perna encostada no piso e a ausência de tampa ou compartimento embaixo dela. Por causa do giro, vale um cuidado a mais: antes de sair, confira que a concha voltou para a posição de viagem e travou.
+Na instalação, confira três coisas: os dois conectores travados (puxando a base para testar), a perna encostada no piso e a ausência de tampa ou compartimento embaixo dela. Por causa do giro, vale um cuidado a mais: antes de sair, confira que a concha voltou para a posição de viagem e travou.
 
 Os outros modelos da nossa lista não têm ISOFIX. O Maxi-Cosi Citi² vem com base presa pelo cinto do carro. O Galzerano Cocoon tem a base 8185 vendida à parte e, até onde o anúncio informa, sem ISOFIX. O Cosco Wizz não tem ISOFIX.
 

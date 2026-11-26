@@ -24,7 +24,7 @@ faq:
 
 O Maxi-Cosi Citi² e o Cosco Wizz são dois bebês conforto de 0 a 13 kg, para o primeiro ano, que instalam com o cinto do carro. Nenhum dos dois tem ISOFIX. O que separa um do outro é a base, o preço e o volume de avaliações de compradores.
 
-A equipe instalou e usou os dois. Neste comparativo, Citi² vs Wizz, mostramos onde cada um ganha e para quem cada um serve.
+Nossa equipe analisou e comparou os dois. Neste comparativo, Citi² vs Wizz, mostramos onde cada um ganha e para quem cada um serve.
 
 ## Citi² vs Wizz lado a lado
 
@@ -60,15 +60,15 @@ Dados dos fabricantes e dos anúncios. Preços de referência no Mercado Livre e
 
 ### Citi²: instala uma vez, encaixa sempre
 
-A base do Citi² vem na caixa. Você a prende com o cinto de 3 pontos do carro uma vez, com calma, e depois só encaixa e solta o casco com um clique. Nos testes da equipe, o encaixe foi simples e o clique de travamento é fácil de ouvir.
+A base do Citi² vem na caixa. Você a prende com o cinto de 3 pontos do carro uma vez, com calma, e depois só encaixa e solta o casco com um clique. O encaixe é por clique. Vale confirmar o travamento antes de sair.
 
 O ganho real é trocar várias instalações apressadas por uma bem feita. E quem busca o bebê num dia diferente, como um avô ou uma babá, só precisa encaixar o casco.
 
-O porém: a base é presa com cinto, não com ISOFIX. Na primeira instalação, o passo de esticar a faixa diagonal com o peso do corpo sobre a base foi o que mais pediu atenção da equipe. Em família com dois carros, ou você reinstala a base a cada troca, ou procura uma segunda base, e o anúncio não informa se ela é vendida avulsa.
+O porém: a base é presa com cinto, não com ISOFIX. Na primeira instalação, o passo que mais pede atenção é esticar a faixa diagonal com o peso do corpo sobre a base. Em família com dois carros, ou você reinstala a base a cada troca, ou procura uma segunda base, e o anúncio não informa se ela é vendida avulsa.
 
 ### Wizz: cinto passado a cada viagem
 
-No Wizz mais barato, o cinto do carro passa pelas guias do casco toda vez. A equipe não achou a passagem difícil. O que pesa é a repetição: com o bebê chorando, a sacola no ombro e pressa, é fácil deixar a faixa frouxa ou torcida. O passo a passo está em [como instalar o bebê conforto no carro](/blog/como-instalar-bebe-conforto-no-carro/).
+No Wizz mais barato, o cinto do carro passa pelas guias do casco toda vez. A passagem do cinto pelas guias, em si, não é complicada. O que pesa é a repetição: com o bebê chorando, a sacola no ombro e pressa, é fácil deixar a faixa frouxa ou torcida. O passo a passo está em [como instalar o bebê conforto no carro](/blog/como-instalar-bebe-conforto-no-carro/).
 
 Para duas ou três saídas por semana, isso é tolerável. Para creche todo dia, vira desgaste. Existe versão do Wizz com base, mais cara; confira no anúncio qual você está comprando.
 

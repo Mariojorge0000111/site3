@@ -28,8 +28,8 @@ const { p, posicao, selo, texto } = Astro.props;
       <Regua kgMin={p.kgMin} kgMax={p.kgMax} />
       <p class="produto-resumo">{texto ?? p.resumo}</p>
       <div class="produto-acoes">
-        <BotaoML href={p.mlUrl} />
         {p.amazonUrl && <BotaoAmazon href={p.amazonUrl} />}
+        <BotaoML href={p.mlUrl} />
         <a class="btn btn-linha" href={urlReview(p.slug)}>Ler review completo</a>
       </div>
       <p class="preco-ref">Preço de referência: {p.precoRef}. Confira o valor atual no anúncio.</p>

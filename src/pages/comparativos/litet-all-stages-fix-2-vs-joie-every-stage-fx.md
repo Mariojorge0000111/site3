@@ -24,7 +24,7 @@ faq:
 
 A Litet All Stages Fix 2.0 e a Joie Every Stage FX aparecem juntas na busca de quem quer uma cadeira só, do nascimento aos 36 kg, sem pagar por giro. Seguem a mesma norma europeia, têm registro no Inmetro e notas próximas na nossa avaliação. Mas cada uma foi desenhada para resolver um problema diferente.
 
-A equipe instalou e usou as duas. Neste comparativo, Litet All Stages Fix 2.0 vs Joie Every Stage FX, mostramos o que cada uma resolve, o que cada uma cobra e para quem serve.
+Nossa equipe analisou e comparou as duas. Neste comparativo, Litet All Stages Fix 2.0 vs Joie Every Stage FX, mostramos o que cada uma resolve, o que cada uma cobra e para quem serve.
 
 ## Litet vs Joie lado a lado
 
@@ -50,7 +50,7 @@ Dados dos fabricantes e dos anúncios. Preços de referência no Mercado Livre e
 
 **Mesma norma.** As duas seguem a R44/04 e têm registro no Inmetro. São legais e podem ser vendidas e usadas no Brasil. Nenhuma passou pelo teste de impacto lateral que a i-Size (R129) exige, como explica o guia [o que é i-Size](/guias/o-que-e-i-size/).
 
-**Uma cadeira só, sem giro.** As duas vão do nascimento aos 36 kg e terminam como assento de elevação. Nenhuma gira, então, de costas, você se inclina para dentro do carro para colocar a criança. Nos testes da equipe, isso cansou nas duas, e mais na Joie, que leva a criança de costas até um peso maior.
+**Uma cadeira só, sem giro.** As duas vão do nascimento aos 36 kg e terminam como assento de elevação. Nenhuma gira, então, de costas, você se inclina para dentro do carro para colocar a criança. Isso pesa nas duas, e mais na Joie, que leva a criança de costas até um peso maior.
 
 **Bem avaliadas.** A Litet tinha quase 2.800 avaliações com nota 4,9 no Mercado Livre. A Joie também é muito procurada, com preço que varia bastante de vendedor para vendedor.
 
@@ -60,7 +60,7 @@ Dados dos fabricantes e dos anúncios. Preços de referência no Mercado Livre e
 
 O ISOFIX da Litet é reversível: trava nas barras do banco tanto de costas quanto de frente. Somado ao top tether, a cinta que prende o alto da cadeira num gancho do carro, isso dá uma instalação por encaixe desde a maternidade, que tende a sair igual toda vez. Nessa faixa de preço, ver as duas coisas juntas é incomum.
 
-Nos testes da equipe, o ISOFIX encaixou com facilidade, e a fita do top tether foi a parte que pediu atenção, porque pode afrouxar quando alguém mexe no banco.
+O ISOFIX é instalação por encaixe. A fita do top tether é a parte que pede atenção, porque pode afrouxar quando alguém mexe no banco.
 
 A condição é o carro: precisa de ISOFIX e top tether na mesma posição do banco. Sem isso, a Litet perde a razão de existir.
 
@@ -68,7 +68,7 @@ A condição é o carro: precisa de ISOFIX e top tether na mesma posição do ba
 
 Na Joie, a fase de costas, do nascimento até 18 kg, é sempre com o cinto de 3 pontos do carro. O ISOFIX só entra de frente, a partir de 9 kg, e não há top tether.
 
-Isso tem dois lados. O bom: ela instala de costas em qualquer carro com cinto de 3 pontos, inclusive os sem ISOFIX. O ruim: a firmeza durante a fase mais longa depende de você passar o cinto pelas guias de costas e esticar bem, com uma cadeira de 14 kg. Nos testes da equipe, essa foi a etapa que mais pediu atenção, e a ajuda de uma segunda pessoa facilitou. A referência da NHTSA para o teste de folga é a cadeira não se mover mais que cerca de 2,5 cm onde o cinto passa.
+Isso tem dois lados. O bom: ela instala de costas em qualquer carro com cinto de 3 pontos, inclusive os sem ISOFIX. O ruim: a firmeza durante a fase mais longa depende de você passar o cinto pelas guias de costas e esticar bem, com uma cadeira de 14 kg. Essa é a etapa que mais pede atenção, e a ajuda de uma segunda pessoa facilita. A referência da NHTSA para o teste de folga é a cadeira não se mover mais que cerca de 2,5 cm onde o cinto passa.
 
 O guia [ISOFIX ou cinto](/guias/isofix-ou-cinto/) compara os dois sistemas em detalhe.
 

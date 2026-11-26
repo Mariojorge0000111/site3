@@ -5,6 +5,7 @@ import Tabela from '../components/Tabela.astro';
 import Faq from '../components/Faq.astro';
 import FotoProduto from '../components/FotoProduto.astro';
 import BotaoML from '../components/BotaoML.astro';
+import BotaoAmazon from '../components/BotaoAmazon.astro';
 import { produto, urlReview, imgProduto } from '../data/produtos';
 import { SITE, PESSOAS, pessoaSchema } from '../config';
 import Autores from '../components/Autores.astro';
@@ -91,7 +92,8 @@ const schema = [
             <h3><a href={`#${i.slug}`} style="color:inherit;text-decoration:none">{i.p.nome}</a></h3>
             <p>{i.p.faixa}, nota {i.p.nota.toFixed(1).replace('.', ',')}</p>
           </div>
-          <BotaoML href={i.p.mlUrl} texto="Ver preço" />
+          {i.p.amazonUrl && <BotaoAmazon href={i.p.amazonUrl} texto="Amazon" bloco />}
+          <BotaoML href={i.p.mlUrl} texto={i.p.amazonUrl ? 'Mercado Livre' : 'Ver preço'} bloco />
         </div>
       ))}
     </div>
