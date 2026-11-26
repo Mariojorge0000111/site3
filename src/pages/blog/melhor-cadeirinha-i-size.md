@@ -9,8 +9,8 @@ tags: ["cadeirinha", "giratoria", "bebe-conforto", "multigrupo"]
 produtos: ["safety-1st-i-nxt-360", "fisher-price-shieldpro-360", "fisher-price-growstages", "maxi-cosi-pebble-360-pro", "fisher-price-maxguard"]
 capa: "pexels 7778196"
 capaAlt: "Fita métrica branca enrolada sobre uma superfície clara"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-26"
+atualizado: "2026-11-26"
 faq:
   - p: "Qual a melhor cadeirinha i-Size?"
     r: "Entre as que avaliamos, a Safety 1st i-NXT 360, giratória do nascimento aos 150 cm, com dupla homologação (R129 e NBR 14400:2020) e 5 reclinações. Para gastar menos, a Fisher-Price ShieldPro 360."

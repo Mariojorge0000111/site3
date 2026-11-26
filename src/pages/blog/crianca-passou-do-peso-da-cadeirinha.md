@@ -9,8 +9,8 @@ tags: ["cadeirinha", "bebe-conforto", "multigrupo", "lei"]
 produtos: ["maxi-cosi-spinel-360", "cosco-evolutty-360-x", "joie-every-stage-fx", "kiddo-supra-360", "fisher-price-growstages", "fisher-price-maxguard"]
 capa: "pexels 3639034"
 capaAlt: "Trena amarela esticada com os números em centímetros em destaque"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-26"
+atualizado: "2026-11-26"
 faq:
   - p: "Meu bebê passou de 13 kg antes de 1 ano. E agora?"
     r: "Ele não pode continuar no bebê conforto ou na posição de costas de uma cadeira limitada a 13 kg. O ideal é passar para uma cadeira que continue de costas por mais tempo, como as que vão de costas até 18 kg. A lei usa idade ou peso como referência, e o limite da cadeira é o que vale."

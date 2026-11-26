@@ -9,8 +9,8 @@ tags: ["bebe-conforto", "cadeirinha"]
 produtos: ["cosco-wizz", "galzerano-cocoon", "maxi-cosi-citi-2", "maxi-cosi-pebble-360-pro"]
 capa: "pexels 53404"
 capaAlt: "Balança digital de vidro com uma fita métrica azul por cima"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-26"
+atualizado: "2026-11-26"
 faq:
   - p: "Quanto pesa um bebê conforto?"
     r: "Entre os modelos que a gente avaliou, de 2,5 kg a 3,2 kg, segundo os fabricantes: Cosco Wizz 2,5 kg, Galzerano Cocoon 2,6 kg e Maxi-Cosi Citi² 3,2 kg. O anúncio do Maxi-Cosi Pebble 360 Pro² não informa o peso."

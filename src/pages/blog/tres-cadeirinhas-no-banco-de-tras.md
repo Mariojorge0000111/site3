@@ -9,8 +9,8 @@ tags: ["instalacao", "cadeirinha", "assento"]
 produtos: ["chicco-gofit-plus", "burigotto-protege-fix", "cosco-progress", "cosco-wizz", "fisher-price-maxguard"]
 capa: "pexels 17710774"
 capaAlt: "Interior de um carro com as portas abertas, mostrando os bancos dianteiros e o banco traseiro"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-26"
+atualizado: "2026-11-26"
 faq:
   - p: "Cabem três cadeirinhas no banco de trás?"
     r: "Em alguns carros, sim; em muitos, não. Depende da largura útil do banco, da largura das três cadeiras e do que o lugar do meio oferece (cinto de 3 pontos, ISOFIX ou top tether). O único jeito seguro de saber é testar as três juntas no carro."

@@ -9,8 +9,8 @@ tags: ["instalacao", "giratoria", "multigrupo"]
 produtos: ["safety-1st-i-nxt-360", "maxi-cosi-spinel-360", "kiddo-supra-360", "litet-all-stages-fix-2", "burigotto-protege-fix"]
 capa: "pexels 14667486"
 capaAlt: "Porta-malas de carro aberto e vazio, com forração escura"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-26"
+atualizado: "2026-11-26"
 faq:
   - p: "Como soltar o ISOFIX da cadeirinha?"
     r: "Cada conector tem um botão ou alavanca de liberação. Empurre a cadeira contra o encosto do banco para tirar a tensão, aperte o botão de um lado até o conector soltar e repita do outro lado. Alguns modelos têm um comando único que solta os dois. O manual mostra onde fica."
