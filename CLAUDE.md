@@ -47,8 +47,8 @@ Blog de afiliado do Mário Jorge: reviews ultra nichados de cadeirinhas de bebê
 - A busca do ML às vezes pede captcha. Quando isso acontecer, avisar o Mário por notificação.
 
 ## Amazon
-- Associado da Amazon desde nov/2026, StoreID `mjs0b8-20`. O cadeirinhabebe.com.br está na lista de sites da conta.
-- Link no formato `https://www.amazon.com.br/dp/<ASIN>?tag=mjs0b8-20`, no campo `amazonUrl`. O botão `BotaoAmazon` aparece nos cards das listas, na lateral do review, nos destaques da home e no bloco de produtos dos posts; tabelas, comparador e faixa fixa ficam só com o Mercado Livre.
+- Associado da Amazon desde nov/2026, StoreID `mjscadblog-20`. O cadeirinhabebe.com.br está na lista de sites da conta.
+- Link no formato `https://www.amazon.com.br/dp/<ASIN>?tag=mjscadblog-20`, no campo `amazonUrl`. O botão `BotaoAmazon` aparece nos cards das listas, na lateral do review, nos destaques da home e no bloco de produtos dos posts; tabelas, comparador e faixa fixa ficam só com o Mercado Livre.
 - O link não precisa ser do modelo exato: o objetivo é levar a pessoa para dentro da loja.
 - O aviso "Como Associado da Amazon, recebo por compras qualificadas" é obrigatório e está no rodapé e em `/aviso-de-afiliado/`.
 
