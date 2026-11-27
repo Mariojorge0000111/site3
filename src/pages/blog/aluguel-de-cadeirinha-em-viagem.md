@@ -9,8 +9,8 @@ tags: ["cadeirinha", "bebe-conforto", "assento", "lei"]
 produtos: ["cosco-wizz", "cosco-progress", "chicco-gofit-plus", "burigotto-protege-fix"]
 capa: "pexels 97079"
 capaAlt: "Mão segurando a chave de um carro com controle remoto"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-27"
+atualizado: "2026-11-27"
 faq:
   - p: "É seguro alugar cadeirinha na locadora de carros?"
     r: "Pode ser, se você conferir a cadeira antes de aceitar. O problema é que você não conhece o histórico dela. Confira selo do Inmetro, faixa de peso, prazo do fabricante, sinais de batida, peças e manual. Se algo não bater, peça outra."

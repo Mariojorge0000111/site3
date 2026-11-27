@@ -9,8 +9,8 @@ tags: ["instalacao", "cadeirinha", "assento", "lei"]
 produtos: ["cosco-progress", "safety-1st-multifix", "burigotto-protege-fix", "chicco-gofit-plus"]
 capa: "pexels 20846594"
 capaAlt: "Interior de minivan com bancos cinza e a última fileira de assentos ao fundo"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-27"
+atualizado: "2026-11-27"
 faq:
   - p: "Pode colocar cadeirinha na terceira fileira?"
     r: "Pode, se o manual do carro permitir dispositivo de retenção naquele lugar e se ele tiver o que a cadeira precisa: cinto de 3 pontos, ISOFIX ou top tether, conforme o modelo. A Resolução 819 manda a criança ir nos bancos traseiros, e a terceira fileira também é banco traseiro."

@@ -9,8 +9,8 @@ tags: ["instalacao", "cadeirinha", "bebe-conforto", "multigrupo"]
 produtos: ["joie-every-stage-fx", "safety-1st-multifix", "cosco-progress", "cosco-wizz", "maxi-cosi-citi-2"]
 capa: "pexels 36377055"
 capaAlt: "Bancos de couro preto de uma van com cintos de segurança"
-data: "2026-11-15"
-atualizado: "2026-11-15"
+data: "2026-11-27"
+atualizado: "2026-11-27"
 faq:
   - p: "O que significam as cores azul e vermelha na cadeirinha?"
     r: "Na norma europeia R44, que muitas cadeiras vendidas no Brasil seguem, as guias por onde passa o cinto do carro têm cor obrigatória: azul para a instalação de costas para o movimento e vermelho para a instalação de frente. A mesma cor aparece nas etiquetas com o desenho da instalação."
