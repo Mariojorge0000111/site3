@@ -26,7 +26,7 @@ faq:
 
 Nas fichas das giratórias que a gente avaliou, a resposta é clara: **nenhuma instala só com o cinto do carro**. As cinco usam ISOFIX, e em duas delas a ficha diz que ele é obrigatório nas fases de bebê. Quase todas pedem também um terceiro ponto, o top tether ou a perna de apoio.
 
-Isso não quer dizer que não exista no mercado algum modelo que gire e aceite cinto. Quer dizer que, entre as giratórias que a gente testou e recomenda, nenhuma serve para carro sem ISOFIX. Se o seu carro não tem, a escolha mais segura é uma cadeira sem giro que instale bem com o cinto.
+Isso não quer dizer que não exista no mercado algum modelo que gire e aceite cinto. Quer dizer que, entre as giratórias que a gente analisou e recomenda, nenhuma serve para carro sem ISOFIX. Se o seu carro não tem, a escolha mais segura é uma cadeira sem giro que instale bem com o cinto.
 
 > **Resposta rápida:** entre as giratórias avaliadas, todas exigem ISOFIX. Se o carro não tem os pontos, compre uma cadeira que instale com o cinto de 3 pontos, como o Cosco Progress, a Safety 1st Multifix ou a Joie Every Stage FX, que fica de costas até 18 kg com o cinto.
 

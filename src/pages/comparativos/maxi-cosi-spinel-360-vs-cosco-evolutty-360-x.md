@@ -24,7 +24,7 @@ faq:
 
 A Maxi-Cosi Spinel 360 e a Cosco Evolutty 360 X são as giratórias que mais aparecem para quem quer manter a criança de costas além do primeiro ano. As duas vão do nascimento aos 36 kg, giram com a cadeira instalada, ficam de costas até 18 kg e terminam como assento de elevação. Seguem a mesma norma brasileira.
 
-O que separa as duas é o terceiro ponto de fixação, a garantia e uma diferença de preço grande. A equipe instalou e usou as duas. Abaixo, Spinel 360 vs Evolutty 360 X ponto a ponto.
+O que separa as duas é o terceiro ponto de fixação, a garantia e uma diferença de preço grande. Nossa equipe analisou e comparou as duas. Abaixo, Spinel 360 vs Evolutty 360 X ponto a ponto.
 
 ## Spinel 360 vs Evolutty 360 X lado a lado
 
@@ -51,7 +51,7 @@ Dados dos fabricantes e dos anúncios. Preços de referência no Mercado Livre e
 
 **Costas até 18 kg.** É o motivo de as duas existirem. Com 5 kg a mais de margem do que as multigrupo que viram aos 13 kg, a criança fica bem mais tempo na posição que protege cabeça e pescoço numa batida frontal. A diretriz de 2018 da AAP orienta manter de costas até o limite do fabricante. O texto [quando virar a cadeirinha de frente](/blog/quando-virar-a-cadeirinha-de-frente/) explica os sinais.
 
-**Giro com a cadeira instalada.** Nas duas, você vira o assento para a porta, prende a criança olhando para ela e gira de volta. Nos testes da equipe, isso fez mais diferença justamente na fase de costas com criança grande, que é onde as duas vão mais longe.
+**Giro com a cadeira instalada.** Nas duas, você vira o assento para a porta, prende a criança olhando para ela e gira de volta. A diferença aparece justamente na fase de costas com criança grande, que é onde as duas vão mais longe.
 
 **Mesma norma.** Nenhuma é i-Size. As duas seguem a NBR 14400, com classificação por peso. Se o teste de impacto lateral da R129 é prioridade, leia o guia [o que é i-Size](/guias/o-que-e-i-size/) antes.
 
@@ -65,13 +65,13 @@ Esta é a diferença que decide a compra.
 
 A Spinel trava nas barras ISOFIX e se apoia no chão por uma perna que sai da frente da base. Numa batida frontal, a perna impede que a cadeira tombe para frente e para baixo, levando parte da força para o piso.
 
-A vantagem é não depender de gancho atrás do banco, que muitos carros não têm. A desvantagem é depender do assoalho: se houver compartimento, tampa ou caixa sob o tapete traseiro, a perna pode não ter apoio firme. O manual do carro costuma dizer quais posições aceitam perna de apoio. Nos testes da equipe, achar a altura certa da perna foi a etapa que pediu mais atenção.
+A vantagem é não depender de gancho atrás do banco, que muitos carros não têm. A desvantagem é depender do assoalho: se houver compartimento, tampa ou caixa sob o tapete traseiro, a perna pode não ter apoio firme. O manual do carro costuma dizer quais posições aceitam perna de apoio. Achar a altura certa da perna é a etapa que pede mais atenção.
 
 ### Evolutty 360 X: ISOFIX e top tether
 
 A Evolutty trava nas barras ISOFIX e, nos grupos 0+ e 1, exige o top tether, a cinta que sai do alto da cadeira e engata numa argola do carro. Sem essa argola, ela não pode ser usada até 18 kg.
 
-Nos testes da equipe, os conectores ISOFIX entraram sem drama, e a cinta superior foi o que mais pediu atenção: precisa sair reta, sem torção, e bem esticada. Nos grupos 2 e 3, ela passa a usar o cinto do carro e o ISOFIX vira opcional.
+Os conectores ISOFIX são por encaixe. A cinta superior é o que pede atenção: precisa sair reta, sem torção, e bem esticada. Nos grupos 2 e 3, ela passa a usar o cinto do carro e o ISOFIX vira opcional.
 
 ### O que isso significa para você
 

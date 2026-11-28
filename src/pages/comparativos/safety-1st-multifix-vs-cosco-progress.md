@@ -24,7 +24,7 @@ faq:
 
 A Safety 1st Multifix e a Cosco Progress são as duas cadeirinhas de 0 a 36 kg que mais aparecem na busca de quem quer comprar uma cadeira só, do nascimento até cerca de 10 anos. As duas são multigrupo conversíveis, seguem a mesma norma brasileira e têm certificação do Inmetro. A diferença está em três pontos: como prendem no carro, quanto pesam e quanto custam.
 
-A equipe instalou e usou as duas. Neste comparativo, Multifix vs Progress, mostramos o que cada uma faz melhor, onde cada uma deixa a desejar e qual combina com o seu carro e a sua rotina.
+Nossa equipe analisou e comparou as duas. Neste comparativo, Multifix vs Progress, mostramos o que cada uma faz melhor, onde cada uma deixa a desejar e qual combina com o seu carro e a sua rotina.
 
 ## Multifix vs Progress lado a lado
 
@@ -57,7 +57,7 @@ Antes das diferenças, vale entender o que você leva em qualquer uma das duas.
 
 **Apoio de cabeça que regula junto com o cinto.** Nas duas, segundo os fabricantes, ajustar a altura do apoio de cabeça também ajusta a altura do cinto. Isso evita um erro comum: cinto passando abaixo ou muito acima do ombro da criança.
 
-**Nenhuma gira.** Para colocar o bebê, você se inclina para dentro do carro. Nos testes da equipe, isso exigiu mais esforço de coluna nas duas, principalmente na fase de costas.
+**Nenhuma gira.** Para colocar o bebê, você se inclina para dentro do carro. Isso exige mais esforço de coluna nas duas, principalmente na fase de costas.
 
 ## Instalação: a maior diferença
 
@@ -65,7 +65,7 @@ Antes das diferenças, vale entender o que você leva em qualquer uma das duas.
 
 A Multifix aceita ISOFIX ou o cinto do carro. O detalhe que muda tudo: o ISOFIX só funciona na posição de frente, a partir do grupo 1. Na fase de costas, até 13 kg, ela é presa com o cinto de 3 pontos.
 
-Na prática, o bebê começa numa instalação com cinto, que pede atenção para passar e esticar bem. Quando ele vira de frente, você troca para o ISOFIX, que trava nos pontos metálicos do banco e dispensa a firmeza do cinto. A Multifix tem indicador de instalação correta, segundo o fabricante, que ajuda a confirmar o encaixe. Nos testes da equipe, a instalação com ISOFIX foi a mais simples entre as duas cadeiras, sem depender da força para esticar o cinto.
+Na prática, o bebê começa numa instalação com cinto, que pede atenção para passar e esticar bem. Quando ele vira de frente, você troca para o ISOFIX, que trava nos pontos metálicos do banco e dispensa a firmeza do cinto. A Multifix tem indicador de instalação correta, segundo o fabricante, que ajuda a confirmar o encaixe. A instalação com ISOFIX é a mais simples entre as duas cadeiras, sem depender da força para esticar o cinto.
 
 Ela não tem top tether nem perna de apoio. Ou seja, o ISOFIX prende a base da cadeira, mas não há uma segunda ancoragem para segurar a rotação para a frente.
 
@@ -73,7 +73,7 @@ Ela não tem top tether nem perna de apoio. Ou seja, o ISOFIX prende a base da c
 
 A Progress não tem ISOFIX. Em todas as fases, ela é presa com o cinto de 3 pontos do carro. Isso tem um lado bom: serve em qualquer carro com cinto de 3 pontos no banco traseiro, incluindo carros antigos sem ISOFIX.
 
-O lado ruim é que a firmeza da cadeira depende de você. O cinto precisa passar pelas guias certas, sem torção, e ser esticado até a cadeira quase não se mexer. Nos testes da equipe, passar e esticar o cinto foi a etapa que mais pediu atenção, e vale refazer até ficar firme. Ela também não tem top tether nem perna de apoio.
+O lado ruim é que a firmeza da cadeira depende de você. O cinto precisa passar pelas guias certas, sem torção, e ser esticado até a cadeira quase não se mexer. Passar e esticar o cinto é a etapa que mais pede atenção, e vale refazer até ficar firme. Ela também não tem top tether nem perna de apoio.
 
 ### O que isso significa para você
 

@@ -24,7 +24,7 @@ faq:
 
 A Safety 1st i-NXT 360 e a Fisher-Price ShieldPro 360 são as duas giratórias i-Size que mais aparecem para quem quer uma cadeira só, do nascimento até a fase de assento, com giro e a norma europeia mais recente. As duas classificam a criança por altura, passaram pelo teste de impacto lateral da R129 e precisam dos mesmos três pontos de fixação no carro.
 
-A equipe instalou e usou as duas. Neste comparativo, i-NXT 360 vs ShieldPro 360, mostramos onde a diferença de preço aparece e para quem cada uma serve.
+Nossa equipe analisou e comparou as duas. Neste comparativo, i-NXT 360 vs ShieldPro 360, mostramos onde a diferença de preço aparece e para quem cada uma serve.
 
 ## i-NXT 360 vs ShieldPro 360 lado a lado
 
@@ -49,7 +49,7 @@ Dados dos fabricantes e dos anúncios. Preços de referência no Mercado Livre e
 
 **i-Size do nascimento aos 150 cm.** As duas seguem a R129: classificação por altura, teste de impacto lateral e posição de costas obrigatória até pelo menos 15 meses, com a posição de frente liberada só a partir de 76 cm. O guia [o que é i-Size](/guias/o-que-e-i-size/) explica o que isso muda.
 
-**Mesmos três pontos de fixação.** As duas travam nas barras ISOFIX e usam top tether, a cinta que prende o alto da cadeira num gancho do carro, nas primeiras fases. Nos testes da equipe, o ISOFIX encaixou fácil nas duas, e a cinta superior foi o que pediu mais cuidado: reta, sem torção e bem esticada.
+**Mesmos três pontos de fixação.** As duas travam nas barras ISOFIX e usam top tether, a cinta que prende o alto da cadeira num gancho do carro, nas primeiras fases. O ISOFIX é por encaixe nas duas. A cinta superior é o que pede mais cuidado: reta, sem torção e bem esticada.
 
 **Giro com a cadeira instalada.** Nas duas, você vira o assento para a porta, prende a criança de frente para você e gira de volta. Na fase de costas, isso poupa a coluna de quem pega o bebê várias vezes por dia.
 
@@ -59,7 +59,7 @@ Dados dos fabricantes e dos anúncios. Preços de referência no Mercado Livre e
 
 ### i-NXT 360: 5 posições sem desinstalar
 
-A i-NXT 360 tem 5 reclinações, e todas mudam com a cadeira presa no carro. Nos testes da equipe, foi o recurso mais usado depois do giro. O bebê pega no sono, a cabeça começa a tombar para frente, e na parada seguinte você deita um pouco mais o assento sem desinstalar nada. O cinto de 5 pontos sobe junto com o apoio de cabeça, o que reduz a chance de alças baixas demais.
+A i-NXT 360 tem 5 reclinações, e todas mudam com a cadeira presa no carro. Na rotina, é o recurso que mais entra em jogo depois do giro. O bebê pega no sono, a cabeça começa a tombar para frente, e na parada seguinte você deita um pouco mais o assento sem desinstalar nada. O cinto de 5 pontos sobe junto com o apoio de cabeça, o que reduz a chance de alças baixas demais.
 
 ### ShieldPro 360: uma posição de costas
 

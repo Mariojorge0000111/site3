@@ -398,6 +398,7 @@ p { margin: 0 0 1em; }
 .review-lateral { position: sticky; top: 86px; }
 .compra { background: #fff; border: 1px solid var(--linha); border-radius: var(--raio-g); padding: 22px; box-shadow: var(--sombra); }
 .compra .produto-foto { margin-bottom: 16px; }
+.compra .btn-bloco + .btn-bloco { margin-top: 10px; }
 .veredito { display: flex; gap: 18px; align-items: center; background: var(--tinta); color: #c9d3e6; border-radius: var(--raio-g); padding: 22px 24px; margin: 0 0 24px; }
 .veredito strong { color: #fff; font-family: var(--display); font-size: 1.15rem; display: block; margin-bottom: 4px; }
 .veredito p { margin: 0; }

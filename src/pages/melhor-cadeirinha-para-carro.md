@@ -11,7 +11,7 @@ atualizado: "2026-10-31"
 produtos:
   - slug: "safety-1st-i-nxt-360"
     selo: "Melhor no geral"
-    texto: "Ficou em primeiro porque junta o que mais pesa no uso diário: giro com a cadeira instalada, norma i-Size com teste de impacto lateral e uso do nascimento aos 36 kg, segundo o fabricante. Nos testes da equipe, o giro foi o recurso que mais facilitou colocar e tirar o bebê sem torcer as costas. O ponto fraco é o tempo de costas, que vai só até 87 cm (cerca de 13 kg). Antes de comprar, confira se o carro tem ISOFIX e ponto de top tether, porque nos grupos 0+ e 1 ela não instala sem eles."
+    texto: "Ficou em primeiro porque junta o que mais pesa no uso diário: giro com a cadeira instalada, norma i-Size com teste de impacto lateral e uso do nascimento aos 36 kg, segundo o fabricante. O giro, segundo o fabricante, serve para colocar e tirar o bebê sem torcer as costas. O ponto fraco é o tempo de costas, que vai só até 87 cm (cerca de 13 kg). Antes de comprar, confira se o carro tem ISOFIX e ponto de top tether, porque nos grupos 0+ e 1 ela não instala sem eles."
   - slug: "safety-1st-multifix"
     selo: "Melhor multigrupo"
     texto: "É a multigrupo mais versátil da lista: instala com ISOFIX ou com o cinto do carro e serve em quase qualquer veículo. Quando instalamos, o indicador de instalação correta ajudou a conferir se tudo estava travado. Perde posições por não girar e por ficar de costas só até 13 kg, e nessa fase com o cinto do carro, já que o ISOFIX só funciona de frente. Atende bem quem quer uma cadeira só, confiável, sem pagar pelo giro."
@@ -72,7 +72,7 @@ O tipo de cadeira vem antes do modelo. São quatro caminhos:
 
 - **Bebê conforto:** do nascimento até cerca de 1 ano ou 13 kg, sempre de costas, e sai do carro com o bebê dentro. A gente separou os modelos na lista de [bebê conforto com e sem base ISOFIX](/melhor-bebe-conforto/).
 - **Multigrupo 0 a 36 kg:** uma cadeira que fica instalada e acompanha a criança até a fase do assento. Progress, Multifix e Litet são desse tipo.
-- **Giratória 360:** uma multigrupo que gira sobre a base para ficar de frente para a porta. Quem quer só esse tipo pode comparar as [cadeirinhas giratórias 360 que a gente testou](/melhor-cadeirinha-giratoria-360/).
+- **Giratória 360:** uma multigrupo que gira sobre a base para ficar de frente para a porta. Quem quer só esse tipo pode comparar as [cadeirinhas giratórias 360 que a gente analisou](/melhor-cadeirinha-giratoria-360/).
 - **Assento de elevação:** para a criança maior, que já usa o cinto de 3 pontos do carro. Tem uma página só para [assentos de elevação e boosters](/melhor-assento-de-elevacao/).
 
 Se os nomes de grupo (0+, 1, 2 e 3) confundem, o artigo sobre [o que significa cada grupo da cadeirinha](/blog/grupos-da-cadeirinha-0-1-2-3/) traduz cada um em idade e peso aproximados. As cadeiras i-Size trocam os grupos por centímetros, e aí o que vale é medir a criança em pé e comparar com o manual.
@@ -138,9 +138,9 @@ Quem está entre as duas mais procuradas da faixa de entrada pode ler o [compara
 
 Pela [Resolução Contran nº 819/2021](https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao8192021.pdf/@@display-file/file), quem tem menos de 10 anos e ainda não alcançou 1,45 m vai no banco de trás, no dispositivo da sua fase. Por fase: bebê conforto ou conversível no primeiro ano (ou até 13 kg), cadeirinha de 1 a 4 anos (ou de 9 a 18 kg), assento de elevação até 7 anos e meio (ou 1,45 m) e, depois, o cinto do carro. A punição é gravíssima, pelo art. 168 do CTB. Valor da multa, pontos e exceções, como táxi e aplicativo, estão no guia da [lei da cadeirinha](/guias/lei-da-cadeirinha/).
 
-## Como a gente testou estas cadeiras
+## Como a gente analisou estas cadeiras
 
-A equipe instalou cada modelo com ISOFIX e com cinto, quando a cadeira permite, e pontuou segurança, instalação, conforto, versatilidade e custo-benefício. Nenhuma marca pagou para aparecer. Os critérios completos estão na [metodologia de avaliação](/metodologia/).
+A equipe analisou e comparou cada modelo, com ISOFIX e com cinto quando a cadeira permite, e pontuou segurança, instalação, conforto, versatilidade e custo-benefício. Nenhuma marca pagou para aparecer. Os critérios completos estão na [metodologia de avaliação](/metodologia/).
 
 ## O que a gente faria
 

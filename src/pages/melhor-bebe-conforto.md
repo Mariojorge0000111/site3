@@ -11,7 +11,7 @@ atualizado: "2026-10-31"
 produtos:
   - slug: "maxi-cosi-pebble-360-pro"
     selo: "Melhor no geral"
-    texto: "É o único bebê conforto da lista com base ISOFIX, perna de apoio e homologação i-Size, e aceita prematuros a partir de 40 cm, segundo o fabricante. Nos testes da equipe, a base que gira e desliza na direção dos pais foi o que mais facilitou encaixar o bebê sem se curvar dentro do carro. O preço é o triplo de um bebê conforto comum para um uso que vai só até cerca de 15 meses. E a base exige carro com ISOFIX."
+    texto: "É o único bebê conforto da lista com base ISOFIX, perna de apoio e homologação i-Size, e aceita prematuros a partir de 40 cm, segundo o fabricante. A base que gira e desliza na direção dos pais, segundo o fabricante, facilita encaixar o bebê sem se curvar dentro do carro. O preço é o triplo de um bebê conforto comum para um uso que vai só até cerca de 15 meses. E a base exige carro com ISOFIX."
   - slug: "maxi-cosi-citi-2"
     selo: "Com base, sem ISOFIX"
     texto: "Vem com base, que fica presa no carro com o cinto de 3 pontos: você encaixa e solta o bebê com um clique, sem passar o cinto toda vez. É leve (3,2 kg, segundo o fabricante) e o registro no Inmetro aparece no anúncio. Quando instalamos, a base pediu atenção para esticar bem o cinto, como toda instalação por cinto. É caro para um modelo sem ISOFIX e tem poucas avaliações no Mercado Livre."
@@ -38,7 +38,7 @@ faq:
 
 > **Resposta rápida:** o que decide o modelo é quantas vezes por dia o bebê entra e sai do carro. Se são muitas, vale pagar por uma base que fica instalada: ISOFIX no Pebble 360 Pro², cinto no Citi². Se são poucas saídas, um modelo sem base como o Wizz resolve, desde que você aceite passar o cinto do carro em toda viagem.
 
-Antes de seguir: os números de faixa, peso e altura desta página vêm do fabricante ou do anúncio. As impressões de uso são da equipe, que instalou cada modelo no banco de trás.
+Antes de seguir: os números de faixa, peso e altura desta página vêm do fabricante ou do anúncio. A equipe analisou e comparou as fichas, os anúncios e as avaliações de compradores.
 
 ## Quantas vezes por dia você vai tirar o bebê do carro?
 
@@ -117,9 +117,9 @@ Nas primeiras vezes, achar as guias pede atenção. Depois de algumas instalaç�
 
 Sobre o lugar no banco: pela lei, o bebê vai atrás. Com airbag no passageiro, cadeira de costas na frente é proibida.
 
-## Como a gente testou
+## Como a gente analisou
 
-A equipe instalou cada modelo no banco de trás, com base e sem base quando a versão permite, e avaliou segurança, instalação, conforto, versatilidade e custo-benefício. A [metodologia](/metodologia/) traz os critérios completos.
+A equipe analisou e comparou cada modelo, com base e sem base quando a versão permite, e avaliou segurança, instalação, conforto, versatilidade e custo-benefício. A [metodologia](/metodologia/) traz os critérios completos.
 
 ## O que a gente faria
 

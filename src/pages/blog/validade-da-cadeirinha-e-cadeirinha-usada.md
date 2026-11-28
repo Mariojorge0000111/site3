@@ -1,16 +1,16 @@
 ---
 layout: ../../layouts/Post.astro
-titulo: "Validade da cadeirinha e usada: o que checar (2026)"
-descricao: "Validade da cadeirinha em 2026: no Brasil não há prazo em lei. Como achar a data na etiqueta e o que checar antes de comprar cadeirinha usada."
+titulo: "Cadeirinha tem validade? Prazo, etiqueta e usada (2026)"
+descricao: "Cadeirinha e bebê conforto têm validade? Não há prazo em lei: o fabricante define, em média até 6 anos. Veja onde achar a data e quando comprar nova."
 h1: "Validade da cadeirinha e cadeirinha usada: o que a lei não diz, o que o fabricante diz e como decidir"
 intro: "No Brasil não existe prazo legal de validade para cadeirinha: quem define é o fabricante, no manual ou na etiqueta. Cadeirinha usada pode valer a pena se tiver registro no Inmetro, estiver inteira, tiver pouco tempo de uso e nunca tiver passado por batida moderada ou grave."
 categoria: "Uso e cuidados"
 tags: ["cadeirinha", "lei"]
-produtos: ["cosco-progress", "cosco-wizz", "burigotto-protege-fix", "litet-all-stages-fix-2"]
+produtos: ["litet-all-stages-fix-2", "safety-1st-multifix", "cosco-evolutty-360-x", "cosco-wizz"]
 capa: "child car seat label"
 capaAlt: "Cadeirinha instalada no banco traseiro de um carro"
 data: "2026-10-31"
-atualizado: "2026-10-31"
+atualizado: "2026-12-01"
 faq:
   - p: "Qual é a validade da cadeirinha de carro?"
     r: "Não há prazo fixado em lei no Brasil. O prazo é do fabricante e aparece no manual ou numa etiqueta na cadeira. Como referência, a Abramet fala em uso médio de até cerca de 6 anos."
@@ -27,6 +27,17 @@ faq:
 No Brasil não existe prazo de validade para cadeirinha definido em lei. Quem define o tempo de uso é o fabricante, e essa informação fica no manual ou numa etiqueta presa na cadeira. Como referência geral, a Associação Brasileira de Medicina de Tráfego (Abramet) fala em uso médio de até cerca de 6 anos.
 
 Cadeirinha usada pode, sim, valer a pena. Mas só passa no filtro se cumprir quatro condições ao mesmo tempo. A gente mostra quais são e como checar cada uma.
+
+**Passou do prazo ou não sabe a história da usada?** Uma cadeirinha nova com registro do Inmetro custa menos do que parece. As que a gente mais indica:
+
+<div class="botoes-afiliado" style="display:flex;gap:10px;flex-wrap:wrap;margin:14px 0">
+  <a class="btn btn-amazon" href="https://www.amazon.com.br/dp/B0BXMCSK8J?tag=mjscadblog-20" target="_blank" rel="sponsored nofollow noopener">Ver Litet All Stages Fix 2.0 na Amazon</a>
+  <a class="btn btn-ml" href="https://meli.la/16V1M87" target="_blank" rel="sponsored nofollow noopener">Ver Litet All Stages Fix 2.0 no Mercado Livre</a>
+</div>
+<div class="botoes-afiliado" style="display:flex;gap:10px;flex-wrap:wrap;margin:14px 0">
+  <a class="btn btn-amazon" href="https://www.amazon.com.br/dp/B09BDZZV23?tag=mjscadblog-20" target="_blank" rel="sponsored nofollow noopener">Ver Safety 1st Multifix na Amazon</a>
+  <a class="btn btn-ml" href="https://meli.la/28uEjYN" target="_blank" rel="sponsored nofollow noopener">Ver Safety 1st Multifix no Mercado Livre</a>
+</div>
 
 > **Resposta rápida:** procure a data de fabricação na etiqueta e o prazo no manual. Se não achar o prazo, use cerca de 6 anos como teto. Uma cadeira usada só vale a pena se tiver registro no Inmetro, estiver em perfeito estado, estiver dentro do prazo e nunca tiver passado por batida moderada ou grave.
 
@@ -70,6 +81,19 @@ Nada disso quer dizer que a cadeira vira um risco no dia seguinte ao prazo. Quer
 | Faltando peça, fita desfiada, fivela que trava mal ou plástico com marca branca de estresse | Não vale |
 
 O ponto mais difícil é a batida. Uma cadeira que passou por colisão pode ter microfissuras que ninguém enxerga. Por isso a orientação da NHTSA, agência de segurança no trânsito dos Estados Unidos, é trocar depois de colisão moderada ou grave, e a Criança Segura orienta não reutilizar cadeira que já passou por acidente. A gente detalha os critérios no texto sobre [cadeirinha depois de acidente](/blog/cadeirinha-depois-de-acidente/).
+
+## Se for comprar nova: 4 opções com registro no Inmetro
+
+Dados dos fabricantes e anúncios, conferidos em out–nov/2026. Preços mudam.
+
+| Modelo | Faixa | Fixação | Para quem | Comprar |
+|---|---|---|---|---|
+| Litet All Stages Fix 2.0 | 0 a 36 kg | ISOFIX + top tether | Uma cadeira do nascimento aos 10 anos | <a href="https://www.amazon.com.br/dp/B0BXMCSK8J?tag=mjscadblog-20" target="_blank" rel="sponsored nofollow noopener">Amazon</a> · <a href="https://meli.la/16V1M87" target="_blank" rel="sponsored nofollow noopener">Mercado Livre</a> |
+| Safety 1st Multifix | 9 a 36 kg | ISOFIX ou cinto | Saiu do bebê conforto | <a href="https://www.amazon.com.br/dp/B09BDZZV23?tag=mjscadblog-20" target="_blank" rel="sponsored nofollow noopener">Amazon</a> · <a href="https://meli.la/28uEjYN" target="_blank" rel="sponsored nofollow noopener">Mercado Livre</a> |
+| Cosco Evolutty 360 X | 0 a 36 kg | ISOFIX, giratória | Quer giro 360° | <a href="https://www.amazon.com.br/dp/B0GVTDW6SP?tag=mjscadblog-20" target="_blank" rel="sponsored nofollow noopener">Amazon</a> · <a href="https://meli.la/2Q3TJy8" target="_blank" rel="sponsored nofollow noopener">Mercado Livre</a> |
+| Cosco Wizz | 0 a 13 kg | Cinto do carro | Bebê conforto barato | <a href="https://www.amazon.com.br/dp/B09WG3HDT7?tag=mjscadblog-20" target="_blank" rel="sponsored nofollow noopener">Amazon</a> · <a href="https://meli.la/1JPAr4F" target="_blank" rel="sponsored nofollow noopener">Mercado Livre</a> |
+
+Comparou e ainda está em dúvida? O [comparador de cadeirinhas](/comparador/) cruza peso, ISOFIX e preço.
 
 ## O que perguntar ao vendedor
 
@@ -129,3 +153,10 @@ Parece exagero, mas uma cadeira inteira deixada na calçada pode ser recolhida e
 **Se a ideia é economizar comprando de um desconhecido:** compararia antes com as opções novas de entrada. O [Cosco Wizz](/reviews/cosco-wizz/) para a fase do bebê conforto e o [Cosco Progress](/reviews/cosco-progress/) do nascimento aos 36 kg estão na faixa de preço mais baixa da categoria, com registro no Inmetro e sem histórico desconhecido. Para crianças maiores, o [Burigotto Protege Fix](/reviews/burigotto-protege-fix/) é assento de elevação com ISOFIX também barato. As três aparecem na lista das [melhores cadeirinhas para carro](/melhor-cadeirinha-para-carro/) e das categorias vizinhas.
 
 **Se você quer passar a cadeira adiante depois:** guardaria o manual, a nota e a foto da etiqueta, e registraria qualquer batida. Uma cadeira com histórico claro ajuda a próxima família a decidir. Para comparar o que existe hoje antes de vender ou comprar, o [comparador de cadeirinhas](/comparador/) mostra os modelos lado a lado. As regras de uso por idade estão no [guia da lei da cadeirinha](/guias/lei-da-cadeirinha/).
+
+<div class="botoes-afiliado" style="display:flex;gap:10px;flex-wrap:wrap;margin:14px 0">
+  <a class="btn btn-amazon" href="https://www.amazon.com.br/dp/B0BXMCSK8J?tag=mjscadblog-20" target="_blank" rel="sponsored nofollow noopener">Ver Litet All Stages Fix 2.0 na Amazon</a>
+  <a class="btn btn-ml" href="https://meli.la/16V1M87" target="_blank" rel="sponsored nofollow noopener">Ver Litet All Stages Fix 2.0 no Mercado Livre</a>
+</div>
+
+> **Aviso de afiliado:** os botões da Amazon e do Mercado Livre são links de afiliado. Se você comprar por eles, o site pode receber uma comissão, sem custo extra para você. Como Associado da Amazon, recebemos por compras qualificadas. [Entenda](/aviso-de-afiliado/).

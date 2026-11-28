@@ -4,6 +4,7 @@ import Faq from '../components/Faq.astro';
 import { SITE, PESSOAS, pessoaSchema } from '../config';
 import Autores from '../components/Autores.astro';
 import { dataBR } from '../lib/datas';
+import { md } from '../lib/md';
 
 const { frontmatter: f } = Astro.props;
 const url = new URL(Astro.url.pathname, Astro.site).href;
@@ -46,7 +47,7 @@ const schema = [
     <div class="texto">
       <nav class="migalhas" aria-label="Você está em"><a href="/">Início</a> / <a href={secao.url}>{secao.nome}</a></nav>
       <h1>{f.h1}</h1>
-      {f.intro && <p class="lead">{f.intro}</p>}
+      {f.intro && <p class="lead" set:html={md(f.intro)} />}
       <div class="meta">
         <span>Atualizado em <strong><time datetime={f.atualizado ?? f.data}>{dataBR(f.atualizado ?? f.data)}</time></strong></span>
         <Autores com="texto" />

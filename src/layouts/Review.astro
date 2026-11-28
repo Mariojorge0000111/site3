@@ -128,8 +128,8 @@ const schema = [
           <div><strong style="color:var(--tinta);font-size:1.1rem">{p.nome}</strong><div style="color:var(--suave);font-size:.92rem">{p.faixa}</div></div>
           <Nota valor={p.nota} pequena />
         </div>
+        {p.amazonUrl && <BotaoAmazon href={p.amazonUrl} bloco />}
         <BotaoML href={p.mlUrl} bloco />
-        {p.amazonUrl && <div style="margin-top:10px"><BotaoAmazon href={p.amazonUrl} bloco /></div>}
         <p class="preco-ref">Referência: {p.precoRef}. Link de afiliado.</p>
       </div>
     </aside>

@@ -51,7 +51,7 @@ Existem dois tipos de base, e a diferença pesa mais do que a base em si.
 | Base com cinto | Cinto de 3 pontos do carro passando pelas guias da base | Serve em quase qualquer carro com cinto de 3 pontos atrás | A firmeza depende de quem esticou o cinto |
 | Base ISOFIX | Conectores nos pontos ISOFIX do banco, com perna de apoio ou outro terceiro ponto | Trava em pontos fixos e costuma ter indicador | Só serve em carro com ISOFIX naquele lugar |
 
-Entre os bebês conforto que a equipe testou, o Maxi-Cosi Citi² vem com base presa pelo cinto, segundo o fabricante. O Maxi-Cosi Pebble 360 Pro² usa a base FamilyFix 360 Pro, com ISOFIX e perna de apoio, e ela ainda gira. Se você quer entender o funcionamento dos pontos ISOFIX e do terceiro ponto, o guia [ISOFIX ou cinto](/guias/isofix-ou-cinto/) explica com calma.
+Entre os bebês conforto que a equipe analisou, o Maxi-Cosi Citi² vem com base presa pelo cinto, segundo o fabricante. O Maxi-Cosi Pebble 360 Pro² usa a base FamilyFix 360 Pro, com ISOFIX e perna de apoio, e ela ainda gira. Se você quer entender o funcionamento dos pontos ISOFIX e do terceiro ponto, o guia [ISOFIX ou cinto](/guias/isofix-ou-cinto/) explica com calma.
 
 ## Quando a base compensa
 
