@@ -3,7 +3,7 @@ import { PESSOAS } from '../config';
 interface Props { com?: 'texto' | 'teste-e-texto'; }
 const { com = 'texto' } = Astro.props;
 const lista = com === 'teste-e-texto'
-  ? [{ p: PESSOAS.mariana, r: 'Testado por' }, { p: PESSOAS.joao, r: 'Texto de' }]
+  ? [{ p: PESSOAS.mariana, r: 'Análise de' }, { p: PESSOAS.joao, r: 'Texto de' }]
   : [{ p: PESSOAS.joao, r: 'Por' }];
 ---
 <span class="autores">

@@ -111,3 +111,13 @@ Para comparar opções e preços de referência, veja [melhor assento de elevaç
 - [AAP, HealthyChildren.org: "Car Seats: Information for Families", atualizado em 16/04/2026](https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Car-Safety-Seats-Information-for-Families.aspx)
 - [OMS: peso por idade de 5 a 10 anos, meninos](https://cdn.who.int/media/docs/default-source/child-growth/growth-reference-5-19-years/weight-for-age-(5-10-years)/sft-wfa-boys-z-5-10years.pdf?sfvrsn=dbc4f49d_4) e [meninas](https://cdn.who.int/media/docs/default-source/child-growth/growth-reference-5-19-years/weight-for-age-(5-10-years)/sft-wfa-girls-z-5-10years.pdf?sfvrsn=ef362c66_4)
 - [OMS: altura por idade de 5 a 19 anos, meninos](https://cdn.who.int/media/docs/default-source/child-growth/growth-reference-5-19-years/height-for-age-(5-19-years)/sft-hfa-boys-z-5-19years.pdf?sfvrsn=133da6b6_4) e [meninas](https://cdn.who.int/media/docs/default-source/child-growth/growth-reference-5-19-years/height-for-age-(5-19-years)/sft-hfa-girls-z-5-19years.pdf?sfvrsn=65c549dc_4)
+
+## No mesmo assunto
+
+No ano seguinte, [cadeirinha para criança de 7 anos](/blog/cadeirinha-para-crianca-de-7-anos/) mostra o que muda quando a criança se aproxima dos 7 anos e meio.
+
+Para quem olha a linha do tempo inteira, [cadeirinha para criança de 3 anos](/blog/cadeirinha-para-crianca-de-3-anos/) marca a fase em que o cinto de 5 pontos ainda é a regra.
+
+No começo dessa linha, [cadeirinha para criança de 2 anos](/blog/cadeirinha-para-crianca-de-2-anos/) mostra por que o cinto de 5 pontos ainda fica.
+
+No início da fase de assento, [cadeirinha para criança de 4 anos ou assento](/blog/cadeirinha-para-crianca-de-4-anos/) explica por que o encosto ainda importa.

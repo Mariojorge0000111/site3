@@ -22,7 +22,7 @@ faq:
 
 > **Resposta rápida:** o GoFit Plus é para a criança maior, que já passou de 18 kg, senta direito o trajeto inteiro e não cabe mais no encosto da cadeirinha, e para a família que troca o assento de carro toda semana. O porém é que, sem encosto, ele não protege cabeça nem ombros numa batida lateral, e custa mais do que assentos com encosto e ISOFIX.
 
-Peso de 3 kg, espuma dupla e norma de projeto vêm da Chicco e do anúncio. A sensação de conforto e de firmeza é impressão dos testes da equipe.
+Peso de 3 kg, espuma dupla e norma de projeto vêm da Chicco e do anúncio. A sensação de conforto e de firmeza é o que compradores mais relatam.
 
 ## O booster sem encosto é seguro para uma criança de 4 anos?
 
@@ -45,13 +45,13 @@ Se algum item falhar, mantenha um assento com encosto por mais tempo. Se ele dor
 
 Não, e isso confunde muita gente. Os conectores LATCH, do sistema americano de ancoragem, travam nas âncoras do banco de trás e prendem o assento. A criança continua presa só pelo cinto de 3 pontos do carro.
 
-O ganho é outro: o booster não escorrega quando a criança sobe e não vira um objeto solto quando está vazio numa freada. Nos testes da equipe, a trava deixou o GoFit Plus firme e simples de prender. O guia [ISOFIX ou cinto](/guias/isofix-ou-cinto/) explica o que muda quando a ancoragem prende só o assento.
+O ganho é outro: o booster não escorrega quando a criança sobe e não vira um objeto solto quando está vazio numa freada. Compradores relatam que a trava deixa o GoFit Plus firme e simples de prender. O guia [ISOFIX ou cinto](/guias/isofix-ou-cinto/) explica o que muda quando a ancoragem prende só o assento.
 
 Para instalar: encaixe os conectores nas âncoras, empurre o assento contra o banco, sente a criança e passe o cinto. Neste modelo, a faixa do colo costuma passar por baixo dos apoios de braço, que ajudam a mantê-la baixa. O desenho exato está no manual.
 
 ## Por que um booster custa mais que um assento com encosto?
 
-Porque você paga por leveza, espuma e marca, não por proteção extra. O GoFit Plus tem espuma dupla, que nos testes da equipe se mostrou mais macia que a de boosters simples, porta-copos, apoios de braço e alça para carregar. O anúncio soma mais de 800 avaliações com nota 5,0, a melhor da nossa lista de assentos.
+Porque você paga por leveza, espuma e marca, não por proteção extra. O GoFit Plus tem espuma dupla, que na nossa comparação se mostrou mais macia que a de boosters simples, porta-copos, apoios de braço e alça para carregar. O anúncio soma mais de 800 avaliações com nota 5,0, a melhor da nossa lista de assentos.
 
 Só que, em proteção, um assento com encosto e ISOFIX de preço menor entrega mais: abas para a cabeça e guia para o cinto. Se o critério é segurança da cabeça, o GoFit Plus perde. Se o critério é conforto e mobilidade para uma criança que já está pronta, ele ganha.
 

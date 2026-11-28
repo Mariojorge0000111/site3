@@ -25,7 +25,7 @@ const schema = {
 ---
 <Base
   title="Comparador de Cadeirinhas para Carro com Filtros"
-  description="Compare cadeirinhas, bebês conforto e assentos de elevação por peso da criança, ISOFIX, giro 360°, i-Size e faixa de preço. Ficha técnica lado a lado."
+  description="Compare cadeirinhas, bebês conforto e assentos de elevação por peso da criança, ISOFIX, giro 360°, i-Size e faixa (entrada, intermediária ou premium)."
   schema={schema}
 >
   <header class="cabeca-pagina">
@@ -64,9 +64,9 @@ const schema = {
       <label>Norma
         <select name="isize"><option value="">Qualquer</option><option value="sim">i-Size (R129)</option></select>
       </label>
-      <label>Preço
+      <label>Faixa
         <select name="preco">
-          <option value="">Qualquer preço</option>
+          <option value="">Qualquer faixa</option>
           {Object.entries(FAIXAS_PRECO).map(([k, v]) => <option value={k}>{v}</option>)}
         </select>
       </label>
@@ -76,28 +76,28 @@ const schema = {
     <div class="tabela-rolagem">
       <table class="tabela" style="min-width:980px">
         <thead>
-          <tr><th>Modelo</th><th>Tipo</th><th>Faixa</th><th>ISOFIX</th><th>Ancoragem</th><th>De costas</th><th>Giro</th><th>Norma</th><th>Preço</th><th>Nota</th><th><span class="pular">Comprar</span></th></tr>
+          <tr><th>Modelo</th><th>Tipo</th><th>Faixa de uso</th><th>ISOFIX</th><th>Ancoragem</th><th>De costas</th><th>Giro</th><th>Norma</th><th>Faixa</th><th>Nota</th><th><span class="pular">Comprar</span></th></tr>
         </thead>
         <tbody>
           {linhas.map(({ p, dados }) => (
             <tr data-categoria={dados.categoria} data-kgmin={dados.kgmin} data-kgmax={dados.kgmax} data-isofix={dados.isofix} data-giro={dados.giro} data-isize={dados.isize} data-preco={dados.preco}>
               <td data-rotulo="Modelo"><span class="tabela-mini"><img src={imgProduto(p.imagem)} referrerpolicy="no-referrer" alt="" width="44" height="44" loading="lazy" /><a href={urlReview(p.slug)}>{p.nome}</a></span></td>
               <td data-rotulo="Tipo">{CATEGORIAS[p.categoria].nome}</td>
-              <td data-rotulo="Faixa">{p.faixa}</td>
+              <td data-rotulo="Faixa de uso">{p.faixa}</td>
               <td data-rotulo="ISOFIX">{p.isofix.split(' (')[0]}</td>
               <td data-rotulo="Ancoragem">{p.ancoragem}</td>
               <td data-rotulo="De costas">{p.costasAte}</td>
               <td data-rotulo="Giro">{p.giro360 ? 'Sim' : 'Não'}</td>
               <td data-rotulo="Norma">{p.norma}</td>
-              <td data-rotulo="Preço" style="white-space:nowrap">{FAIXAS_PRECO[p.precoFaixa]}</td>
+              <td data-rotulo="Faixa">{FAIXAS_PRECO[p.precoFaixa]}</td>
               <td data-rotulo="Nota" class="num">{p.nota.toFixed(1).replace('.', ',')}</td>
-              <td data-rotulo=""><a class="btn btn-ml" style="padding:8px 12px;font-size:.88rem" href={p.mlUrl} target="_blank" rel="sponsored nofollow noopener">Ver preço</a></td>
+              <td data-rotulo=""><a class="btn btn-ml" style="padding:8px 12px;font-size:.88rem" href={p.mlUrl} target="_blank" rel="sponsored nofollow noopener">Mercado Livre</a></td>
             </tr>
           ))}
         </tbody>
       </table>
     </div>
-    <p style="font-size:.9rem;color:var(--suave);margin-top:14px">As faixas de preço são referências de outubro de 2026 e mudam com promoções. Links para o Mercado Livre são de afiliado. Antes de comprar, confira se o seu carro tem ancoragem ISOFIX e top tether no manual do veículo: veja o guia <a href="/guias/isofix-ou-cinto/">ISOFIX ou cinto</a>.</p>
+    <p style="font-size:.9rem;color:var(--suave);margin-top:14px">A coluna Faixa indica entrada, intermediária, premium ou mais alta, sem valor. O preço muda: confira no anúncio. Links para o Mercado Livre são de afiliado. Antes de comprar, confira se o seu carro tem ancoragem ISOFIX e top tether no manual do veículo: veja o guia <a href="/guias/isofix-ou-cinto/">ISOFIX ou cinto</a>.</p>
   </section>
 
   <script is:inline>

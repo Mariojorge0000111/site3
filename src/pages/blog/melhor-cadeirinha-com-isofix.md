@@ -15,7 +15,7 @@ faq:
   - p: "Toda cadeirinha com ISOFIX usa ISOFIX de costas?"
     r: "Não. A Safety 1st Multifix e a Joie Every Stage FX usam ISOFIX só de frente, segundo o fabricante. De costas, as duas instalam com o cinto do carro. Se você quer ISOFIX desde o nascimento, confira essa informação no manual antes de comprar."
   - p: "Qual a cadeirinha com ISOFIX mais barata?"
-    r: "Entre as que usam ISOFIX em todas as fases, a Litet All Stages Fix 2.0, com faixa de referência entre R$ 730 e R$ 920 no Mercado Livre em out/2026. Ela também tem top tether, mas segue a norma R44/04, sem o teste de impacto lateral da i-Size."
+    r: "Entre as que usam ISOFIX em todas as fases, a Litet All Stages Fix 2.0, na faixa intermediária. Ela também tem top tether, mas segue a norma R44/04, sem o teste de impacto lateral da i-Size."
   - p: "Cadeirinha com ISOFIX precisa de top tether?"
     r: "Depende do modelo. A i-NXT 360 e a Evolutty 360 X exigem top tether nos grupos 0+ e 1. A Spinel 360 usa perna de apoio no lugar do top tether. A Multifix e a Joie Every Stage FX não têm terceiro ponto. O manual da cadeira diz qual é obrigatório."
   - p: "Assento de elevação com ISOFIX segura a criança pelo ISOFIX?"
@@ -65,7 +65,7 @@ Informações do fabricante ou do anúncio. Onde a ficha só diz "Sim", sem sepa
 
 Este é o grupo para quem quer ISOFIX desde a maternidade.
 
-A [Litet All Stages Fix 2.0](/reviews/litet-all-stages-fix-2/) é a multigrupo cuja ficha deixa explícito o ISOFIX reversível em todos os grupos, segundo o fabricante, e ainda tem top tether. Custa entre R$ 730 e R$ 920 no Mercado Livre (referência de out/2026). Em troca, segue a R44/04, não gira e fica de costas só no grupo 0+.
+A [Litet All Stages Fix 2.0](/reviews/litet-all-stages-fix-2/) é a multigrupo cuja ficha deixa explícito o ISOFIX reversível em todos os grupos, segundo o fabricante, e ainda tem top tether. Fica na faixa intermediária. Em troca, segue a R44/04, não gira e fica de costas só no grupo 0+.
 
 As giratórias [Safety 1st i-NXT 360](/reviews/safety-1st-i-nxt-360/) e [Cosco Evolutty 360 X](/reviews/cosco-evolutty-360-x/) tornam o ISOFIX obrigatório nos grupos 0+ e 1, com top tether. Na Evolutty, ele passa a ser opcional nos grupos 2 e 3, segundo o fabricante. A [Maxi-Cosi Spinel 360](/reviews/maxi-cosi-spinel-360/) trocou o top tether pela perna de apoio, que desce até o assoalho. A [Kiddo Supra 360](/reviews/kiddo-supra-360/) tem um alarme no top tether que avisa quando a cinta não está tensionada. Na nossa avaliação, isso ajuda quem tem medo de instalar errado.
 
@@ -79,7 +79,7 @@ Isso não é defeito. É uma escolha de projeto que tem um lado bom: elas servem
 
 ## ISOFIX no bebê conforto e no assento de elevação
 
-No bebê conforto, o ISOFIX fica na base. O [Maxi-Cosi Pebble 360 Pro²](/reviews/maxi-cosi-pebble-360-pro/) usa a base FamilyFix 360 Pro, com ISOFIX e perna de apoio, que gira e desliza na direção dos pais. É o mais completo e o mais caro: entre R$ 3.100 e R$ 3.500 na referência de out/2026. Os outros bebês conforto das fichas não têm ISOFIX. Veja a lista dos [melhores bebês conforto](/melhor-bebe-conforto/).
+No bebê conforto, o ISOFIX fica na base. O [Maxi-Cosi Pebble 360 Pro²](/reviews/maxi-cosi-pebble-360-pro/) usa a base FamilyFix 360 Pro, com ISOFIX e perna de apoio, que gira e desliza na direção dos pais. É o mais completo e o mais caro: faixa mais alta na referência. Os outros bebês conforto das fichas não têm ISOFIX. Veja a lista dos [melhores bebês conforto](/melhor-bebe-conforto/).
 
 No assento de elevação, o ISOFIX tem outro papel. O [Burigotto Protege Fix](/reviews/burigotto-protege-fix/) e o [Chicco GoFit Plus](/reviews/chicco-gofit-plus/) prendem o assento nos pontos do carro para ele não virar um objeto solto. A criança continua presa pelo cinto de 3 pontos do carro.
 

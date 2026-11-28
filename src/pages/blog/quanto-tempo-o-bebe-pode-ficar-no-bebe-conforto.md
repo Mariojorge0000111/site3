@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Post.astro
-titulo: "Quanto tempo o bebê pode ficar no bebê conforto? (2 horas)"
-descricao: "No máximo 2 horas seguidas no bebê conforto, com pausas. Veja quanto tempo em viagem, se pode dormir nele e o que muda para recém-nascido (2026)."
+titulo: "Quanto tempo o bebê pode ficar no bebê conforto?"
+descricao: "Até 2 horas seguidas, e menos no recém-nascido. Veja o limite por idade, por que ele existe e o que fazer em viagem longa de carro."
 h1: "Quanto tempo o bebê pode ficar no bebê conforto: a regra das 2 horas, as pausas e o que fazer ao chegar"
 intro: "A orientação mais usada por fabricantes e entidades de segurança infantil é não passar de 2 horas seguidas no bebê conforto, com pausas para tirar o bebê da concha. Com recém-nascidos e prematuros, o ideal é parar antes. E, ao chegar, o bebê sai da concha: ela não é lugar para dormir fora do carro."
 categoria: "Uso e cuidados"
@@ -131,3 +131,37 @@ Nas paradas, tirar o bebê da concha e deixá-lo deitado é o que conta. Se voc�
 - Universidade de Bristol e The Lullaby Trust, estudo piloto "Is the infant car seat challenge useful? A pilot study in a simulated moving vehicle", *Archives of Disease in Childhood*, 2016, via Nursery World.
 - Avionaut, "How long should a car journey with an infant take?": avionaut.com.
 - Resolução Contran nº 819/2021.
+
+## No mesmo assunto
+
+A primeira viagem costuma ser a mais curta e a mais tensa: [bebê conforto na saída da maternidade](/blog/bebe-conforto-saida-da-maternidade/).
+
+O tempo sentado também depende do [redutor de bebê conforto](/blog/redutor-de-bebe-conforto/): ele só vale se for o da própria cadeira.
+
+Base fixa ou cinto a cada viagem muda a rotina, e o texto de [bebê conforto com base ou sem base](/blog/bebe-conforto-com-base-ou-sem-base/) compara os dois caminhos.
+
+Com prematuro, o tempo no casco é ainda mais curto. O texto de [bebê conforto para prematuro](/blog/bebe-conforto-para-prematuro/) explica o porquê.
+
+Promoção não muda o limite de tempo no casco. Se for comprar nessa data, veja [cadeirinha na Black Friday](/blog/cadeirinha-black-friday/).
+
+Fora do carro, o casco no carrinho tem limite também: [bebê conforto no carrinho](/blog/bebe-conforto-no-carrinho-travel-system/).
+
+O limite de 2 horas vale para o casco, não para a cadeirinha. A diferença está em [bebê conforto, cadeirinha e assento](/blog/diferenca-bebe-conforto-cadeirinha-assento-de-elevacao/).
+
+Quando o ano chega, a pergunta deixa de ser o relógio e passa a ser a cadeira: [cadeirinha para bebê de 1 ano](/blog/cadeirinha-para-bebe-de-1-ano/).
+
+Se a compra do casco e da cadeira seguinte pesa no orçamento, [cadeirinha custo-benefício](/blog/cadeirinha-custo-beneficio/) compara as faixas sem publicar valor.
+
+Deixar o bebê dormindo no casco fora do carro é um dos [erros comuns com a cadeirinha e como corrigir](/blog/erros-comuns-com-a-cadeirinha/).
+
+Calor encurta a paciência, não aumenta o limite de tempo. Veja [cadeirinha no calor](/blog/cadeirinha-no-calor/).
+
+Nos primeiros dias o limite de tempo é menor. A escolha do equipamento está em [melhor cadeirinha para recém-nascido](/blog/melhor-cadeirinha-para-recem-nascido/).
+
+Quando o casco acaba, a cadeira seguinte precisa deitar o bebê. Veja [melhor cadeirinha reclinável](/blog/melhor-cadeirinha-reclinavel/).
+
+Choro não é motivo para passar das 2 horas. O texto de [bebê chora na cadeirinha](/blog/bebe-chora-na-cadeirinha/) separa desconforto de risco.
+
+Olhar o bebê sem virar o tronco o tempo todo é o assunto de [espelho para bebê conforto](/blog/espelho-para-bebe-conforto/).
+
+Almofada extra no casco muda o cinto. O que pode e o que não pode está em [acessórios de cadeirinha](/blog/acessorios-de-cadeirinha-o-que-e-seguro/).

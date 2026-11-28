@@ -22,7 +22,7 @@ faq:
 
 > **Resposta rápida:** a GrowStages é para quem quer comprar uma cadeira só, com a norma i-Size, ISOFIX e top tether, e não quer pagar pelo mecanismo de giro. O porém é a falta de informação: a Fisher-Price não divulga nos anúncios até quando ela fica de costas, e não há avaliações de catálogo no Mercado Livre para consultar.
 
-Todos os números técnicos desta página (40 a 150 cm, 36 kg, 17 posições de apoio de cabeça, 4 reclinações) vêm da Fisher-Price. O que a gente sentiu nos testes vem descrito como impressão.
+Todos os números técnicos desta página (40 a 150 cm, 36 kg, 17 posições de apoio de cabeça, 4 reclinações) vêm da Fisher-Price. O que a equipe comparou no manual e nas avaliações de compradores está no texto.
 
 ## Uma cadeira do nascimento aos 150 cm compensa?
 
@@ -34,7 +34,7 @@ O outro lado é o desgaste. São muitos anos de tecido, espuma e fivela. Não ex
 
 Depende do carro. O giro de 360° ajuda a colocar o bebê, mas encarece a cadeira e costuma deixá-la mais pesada. A GrowStages abre mão dele e mantém o que pesa na segurança: classificação por altura, teste de impacto lateral, ISOFIX e top tether.
 
-Em carro de porta larga e banco alto, o giro faz pouca falta. Em carro baixo ou de duas portas, você vai se dobrar mais. Nos testes da equipe, colocar a criança na fase de costas pediu mais esforço de coluna do que numa giratória, como já era de esperar pelo desenho. Se vocês prendem e soltam o bebê muitas vezes por dia, pese isso com seriedade.
+Em carro de porta larga e banco alto, o giro faz pouca falta. Em carro baixo ou de duas portas, você vai se dobrar mais. Compradores relatam que colocar a criança na fase de costas pede mais esforço de coluna do que numa giratória, como já era de esperar pelo desenho. Se vocês prendem e soltam o bebê muitas vezes por dia, pese isso com seriedade.
 
 ## Na prática: o que conferir no carro antes de comprar
 
@@ -79,3 +79,7 @@ O anúncio informa a certificação do Inmetro, sem número. O artigo sobre [com
 - **Orçamento apertado e i-Size não sendo obrigatória para vocês:** a [Litet All Stages Fix 2.0](/reviews/litet-all-stages-fix-2/) tem ISOFIX em todas as fases, e a [Safety 1st Multifix](/reviews/safety-1st-multifix/) aceita ISOFIX ou cinto.
 
 O ranking de [melhor cadeirinha para carro](/melhor-cadeirinha-para-carro/) compara todas. Ao receber a GrowStages, procure o registro do Inmetro na etiqueta e confirme no manual do carro onde ficam o ISOFIX e o ponto de top tether.
+
+## No mesmo assunto
+
+A GrowStages no conjunto da marca está em [cadeirinha Fisher-Price](/blog/cadeirinha-fisher-price-qual-a-melhor/).

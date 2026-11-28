@@ -22,7 +22,7 @@ faq:
 
 > **Resposta rápida:** a MaxGuard é a segunda cadeira da família: começa onde o bebê conforto termina e vai até os 150 cm, com i-Size, ISOFIX, top tether e só 7 kg. O porém é que ela é só de frente, a partir de 76 cm, e não reclina. Quem quer manter a criança de costas por mais tempo precisa de outro modelo.
 
-Faixa, peso e registro no Inmetro são dados da Fisher-Price e do anúncio. O que a equipe percebeu ao instalar aparece como impressão de uso.
+Faixa, peso e registro no Inmetro são dados da Fisher-Price e do anúncio. O que a equipe comparou no manual e nas avaliações de compradores está no texto.
 
 ## Meu bebê saiu do bebê conforto: a MaxGuard já serve?
 
@@ -50,7 +50,7 @@ Em troca, ela entrega a i-Size: faixa por altura, mais precisa que os grupos de 
 
 A MaxGuard usa dois conectores ISOFIX, que travam nos pontos metálicos do banco traseiro, e uma fita de top tether, que prende o alto da cadeira num ponto de ancoragem atrás do banco. Numa cadeira de frente, o top tether tem um papel grande: ele segura o movimento para a frente, que é justamente o mais forte numa batida frontal.
 
-O ponto de ancoragem muda de carro para carro. Pode estar no encosto do banco, no teto ou no assoalho do porta-malas. Na instalação, a gente confere os dois conectores travados (puxando a cadeira) e a fita esticada, sem torção. Nos testes da equipe, o peso baixo da cadeira deixou a montagem menos cansativa. O papel de cada sistema está no guia [ISOFIX ou cinto](/guias/isofix-ou-cinto/).
+O ponto de ancoragem muda de carro para carro. Pode estar no encosto do banco, no teto ou no assoalho do porta-malas. Na instalação, confira os dois conectores travados (puxando a cadeira) e a fita esticada, sem torção. Compradores relatam que o peso baixo da cadeira deixa a montagem menos cansativa. O papel de cada sistema está no guia [ISOFIX ou cinto](/guias/isofix-ou-cinto/).
 
 ## Uma cadeira sem reclinação aguenta viagem longa?
 

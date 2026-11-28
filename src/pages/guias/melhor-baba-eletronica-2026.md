@@ -45,7 +45,6 @@ Dados dos fabricantes e dos anúncios, conferidos em 26/11/2026. Preços mudam c
 | Falar com o bebê | Sim | Sim | Sim | Sim |
 | Sensores | Temperatura e umidade | Temperatura com alerta | Temperatura, luz, som e movimento | Temperatura |
 | Extra | CryAssist (análise do choro), ruído branco | 15 sons, grava a voz dos pais, luz noturna | Compatível com Alexa | Alcance de até 300 m (área aberta) |
-| Faixa de preço (nov/2026) | R$ 1.400 a R$ 1.900 | R$ 750 a R$ 900 | R$ 530 a R$ 650 | R$ 440 a R$ 600 |
 
 ## Como escolher: monitor próprio ou celular?
 

@@ -64,7 +64,7 @@ A ShieldPro 360 tem 4 posições, mas só 1 de costas, segundo o fabricante. Par
 
 ### Se ajusta com a cadeira instalada
 
-Na i-NXT 360, as 5 reclinações ajustam sem desinstalar, segundo o fabricante. Nos testes da equipe, ajustar com a cadeira no lugar foi um dos recursos que mais facilitaram a rotina. Se a cadeira precisa sair do lugar para mudar de posição, na prática a família acaba deixando numa posição só.
+Na i-NXT 360, as 5 reclinações ajustam sem desinstalar, segundo o fabricante. Segundo o fabricante, as reclinações ajustam com a cadeira no lugar, e compradores citam isso como um alívio na rotina. Se a cadeira precisa sair do lugar para mudar de posição, na prática a família acaba deixando numa posição só.
 
 ### O tempo de costas
 

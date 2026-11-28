@@ -30,7 +30,7 @@ Ela é robusta. A estrutura interna é de aço, o casco é largo e as laterais s
 
 Por que isso importa: numa batida de frente, a cadeira de costas apoia cabeça, pescoço e tronco ao mesmo tempo. De frente, o cinto segura o tronco e a cabeça é lançada para frente. A orientação da AAP de 2018 vai nessa linha: manter de costas até o limite de peso ou altura que o fabricante da cadeira permite. Os sinais certos para a virada estão no artigo [quando virar a cadeirinha de frente](/blog/quando-virar-a-cadeirinha-de-frente/).
 
-O efeito que pouca gente considera é o físico. Sem giro, pôr uma criança grande de costas exige se curvar para dentro do carro e erguer o peso dela. Nos testes da equipe, essa foi a parte mais cansativa do uso. Se você faz isso várias vezes por dia, uma giratória pode compensar a diferença de preço.
+O efeito que pouca gente considera é o físico. Sem giro, pôr uma criança grande de costas exige se curvar para dentro do carro e erguer o peso dela. Compradores relatam que essa é a parte mais cansativa. Se você faz isso várias vezes por dia, uma giratória pode compensar a diferença de preço.
 
 ## De costas com cinto, de frente com ISOFIX
 
@@ -53,7 +53,7 @@ Como a fase de costas pode durar bem mais de um ano, a instalação com cinto vi
 4. Faça o [teste de folga](/guias/isofix-ou-cinto/): a referência da NHTSA é que a cadeira não se mova mais que cerca de 2,5 cm na altura em que o cinto passa.
 5. Repita a conferência com frequência. Com uma cadeira de 14 kg e uma criança cada vez mais pesada, o cinto do carro pode ceder com o uso.
 
-Quando a gente instalou, passar o cinto pelas guias de costas foi a etapa que pediu mais atenção. A cadeira é grande e pesada, então vale fazer a instalação com calma, com a porta toda aberta e, se possível, com outra pessoa segurando a cadeira no lugar enquanto você puxa o cinto. Depois de pegar o jeito, a reinstalação fica mais rápida, mas o teste de folga continua obrigatório.
+Segundo o manual, passar o cinto pelas guias de costas foi a etapa que pediu mais atenção. A cadeira é grande e pesada, então vale fazer a instalação com calma, com a porta toda aberta e, se possível, com outra pessoa segurando a cadeira no lugar enquanto você puxa o cinto. Depois de pegar o jeito, a reinstalação fica mais rápida, mas o teste de folga continua obrigatório.
 
 ## Estrutura de aço e laterais que abrem
 
@@ -90,3 +90,7 @@ Num anúncio na parte de baixo da faixa, a relação entre recursos e custo melh
 - **Mesma meta, mas quer giro e tem orçamento maior:** [Maxi-Cosi Spinel 360](/reviews/maxi-cosi-spinel-360/), com ISOFIX e perna de apoio.
 - **Quer giro e 18 kg de costas gastando menos, com top tether no carro:** [Cosco Evolutty 360 X](/reviews/cosco-evolutty-360-x/).
 - **Prefere uma cadeira mais leve e aceita virar perto de 1 ano:** [Safety 1st Multifix](/reviews/safety-1st-multifix/).
+
+## No mesmo assunto
+
+A Joie ao lado da Litet está em [Litet All Stages Fix 2.0 ou Joie Every Stage FX](/comparativos/litet-all-stages-fix-2-vs-joie-every-stage-fx/).

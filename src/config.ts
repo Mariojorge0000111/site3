@@ -6,6 +6,7 @@ export const SITE = {
   equipe: 'Equipe Cadeirinha Bebê',
   grupoOfertas: 'https://chat.whatsapp.com/K8uPHAs4sp5GY3lDhMnpEt',
   youtube: 'https://www.youtube.com/@CadeirainhasdeBeb%C3%AA',
+  amazonOfertasUrl: 'https://www.amazon.com.br/s?k=cadeirinha+para+carro&tag=mjscadblog-20',
 };
 
 export const MENU = [
@@ -22,18 +23,18 @@ export const PESSOAS = {
   mariana: {
     id: 'mariana-silva',
     nome: 'Mariana Silva',
-    papel: 'Testes de instalação',
+    papel: 'Análise técnica e comparação',
     foto: '/images/equipe/mariana-silva.webp',
-    bio: 'Testa as cadeirinhas antes de qualquer nota sair: instala com ISOFIX e com o cinto do carro, ajusta para cada fase e anota o que dá trabalho no uso real.',
-    faz: ['Instala cada modelo e confere a folga na base', 'Testa giro, reclinação e ajuste do cinto de 5 pontos', 'Avalia peso, tamanho no banco e a capa na hora de lavar'],
+    bio: 'Analisa e compara cada cadeirinha antes de qualquer nota sair: lê o manual e a ficha do fabricante, confere o registro no Inmetro e a norma (i-Size ou NBR 14400) e cruza com as avaliações de quem comprou.',
+    faz: ['Compara instalação (ISOFIX, top tether, perna de apoio) pelo manual', 'Compara giro, reclinação e ajuste do cinto de 5 pontos pela ficha técnica', 'Resume as reclamações mais comuns de compradores (peso, tamanho no banco, capa)'],
   },
   joao: {
     id: 'joao-almeida',
     nome: 'João Almeida',
     papel: 'Edição e blog',
     foto: '/images/equipe/joao-almeida.webp',
-    bio: 'Escreve e administra o blog. Transforma os testes e a ficha técnica em texto direto: resposta primeiro, defeito sem rodeio, sem alarmismo.',
-    faz: ['Confere a ficha com o manual, o fabricante e o registro no Inmetro', 'Acompanha as regras do Contran e as normas i-Size e NBR 14400', 'Atualiza reviews quando o modelo muda e revisa preços de referência'],
+    bio: 'Escreve e administra o blog. Transforma a análise da equipe e a ficha técnica em texto direto: resposta primeiro, defeito sem rodeio, sem alarmismo.',
+    faz: ['Confere a ficha com o manual, o fabricante e o registro no Inmetro', 'Acompanha as regras do Contran e as normas i-Size e NBR 14400', 'Atualiza reviews quando o modelo muda'],
   },
 } as const;
 

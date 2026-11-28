@@ -118,7 +118,7 @@ const schema = [
 
       <h2 style="margin:40px 0 14px">Ficha técnica</h2>
       <div class="tabela-rolagem" style="border-radius:16px"><Ficha p={p} /></div>
-      <p style="font-size:.88rem;color:var(--suave);margin-top:10px">Dados conferidos com a <a href={p.fonte} target="_blank" rel="nofollow noopener">ficha do fabricante ou do varejista</a> e com o uso da nossa equipe. Antes de comprar, confira o número de registro no Inmetro na etiqueta e o manual do seu carro.</p>
+      <p style="font-size:.88rem;color:var(--suave);margin-top:10px">Nossa equipe analisou e comparou os dados da <a href={p.fonte} target="_blank" rel="nofollow noopener">ficha do fabricante ou do varejista</a>, o manual e as avaliações de compradores. Antes de comprar, confira o número de registro no Inmetro na etiqueta e o manual do seu carro.</p>
     </div>
 
     <aside class="review-lateral" aria-label="Onde comprar">
@@ -130,7 +130,7 @@ const schema = [
         </div>
         {p.amazonUrl && <BotaoAmazon href={p.amazonUrl} bloco />}
         <BotaoML href={p.mlUrl} bloco />
-        <p class="preco-ref">Referência: {p.precoRef}. Link de afiliado.</p>
+        <p class="preco-ref">Confira o valor atualizado no anúncio. Links de afiliado.</p>
       </div>
     </aside>
   </div>
@@ -167,6 +167,7 @@ const schema = [
 
   <div class="cta-fixo">
     <span>{p.nome}</span>
-    <BotaoML href={p.mlUrl} texto="Ver preço" />
+    {p.amazonUrl && <BotaoAmazon href={p.amazonUrl} texto="Ver na Amazon" />}
+    <BotaoML href={p.mlUrl} texto={p.amazonUrl ? 'Mercado Livre' : 'Ver preço'} />
   </div>
 </Base>

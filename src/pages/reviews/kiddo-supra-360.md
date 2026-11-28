@@ -28,7 +28,7 @@ Os números deste review (faixa, reclinações, limite de costas) são os que a 
 
 Primeiro, o básico. O ISOFIX trava a base da cadeira embaixo, nas barras do banco. O top tether trava o topo: é uma fita ligada ao encosto da cadeira que você engata num ponto de ancoragem do carro, quase sempre atrás do banco traseiro ou no piso do porta-malas. Numa batida de frente, ela limita o quanto a cadeira gira para frente e, com isso, o movimento da cabeça da criança.
 
-O alarme da Supra 360 acusa quando essa cinta não está tensionada. Parece pouco, mas é o ponto em que a gente mais viu instalação errada em todas as cadeiras com top tether que analisou.
+O alarme da Supra 360 acusa quando essa cinta não está tensionada. Parece pouco, mas é o ponto em que mais aparece instalação errada nas avaliações de cadeiras com top tether.
 
 Pense em quem vai mexer na cadeira. Se é sempre a mesma pessoa, cuidadosa, que leu o manual, o alarme é um conforto. Se a criança vai para a escola com o pai, volta com a avó e às vezes sai com a babá, ele vira um segundo par de olhos que não se cansa. É nesse cenário que a Supra 360 se destaca das concorrentes de preço parecido.
 

@@ -15,7 +15,7 @@ faq:
   - p: "Cadeirinha sem ISOFIX é segura?"
     r: "É, quando tem registro no Inmetro e fica firme no banco. A norma NBR 14400, base do regulamento do Inmetro, prevê ensaios para cadeiras com ISOFIX ou com cinto. A diferença é que com cinto é mais fácil errar, então a instalação pede mais cuidado."
   - p: "Qual a melhor cadeirinha 0 a 36 kg sem ISOFIX?"
-    r: "A Cosco Progress, que instala só com o cinto do carro, pesa 5,8 kg e fica entre R$ 520 e R$ 780 no Mercado Livre (referência de out/2026). Se você quer manter de costas até 18 kg, a Joie Every Stage FX faz isso com o cinto do carro."
+    r: "A Cosco Progress, que instala só com o cinto do carro, pesa 5,8 kg e fica na faixa de entrada. Se você quer manter de costas até 18 kg, a Joie Every Stage FX faz isso com o cinto do carro."
   - p: "Cadeirinha com ISOFIX pode ser instalada com cinto?"
     r: "Só se o manual permitir naquela fase. A Safety 1st Multifix e a Joie Every Stage FX aceitam o cinto em todas as fases. Já a Safety 1st i-NXT 360 e a Cosco Evolutty 360 X exigem ISOFIX nos grupos 0+ e 1, segundo o fabricante."
   - p: "Quanto a cadeirinha pode se mexer depois de instalada com cinto?"
@@ -32,16 +32,16 @@ Cadeira com cinto não é cadeira de segunda linha. O que muda é quem faz o tra
 
 ## Quais modelos funcionam sem ISOFIX
 
-Nas fichas que a gente mantém, a situação de cada modelo é esta. Dados do fabricante ou do anúncio; preço é referência no Mercado Livre em out/2026.
+Nas fichas que a gente mantém, a situação de cada modelo é esta. Dados do fabricante ou do anúncio; preço é referência no Mercado Livre.
 
-| Modelo | Tipo | Instalação | De costas até | Preço de referência |
+| Modelo | Tipo | Instalação | De costas até | Faixa |
 |---|---|---|---|---|
-| Cosco Progress | 0 a 36 kg | Só cinto do carro | 13 kg | R$ 520 a R$ 780 |
-| Safety 1st Multifix | 0 a 36 kg | Cinto em todas as fases; ISOFIX opcional de frente | 13 kg | R$ 840 a R$ 1.000 |
-| Joie Every Stage FX | 0 a 36 kg | Cinto em todas as fases; ISOFIX opcional de frente | 18 kg | R$ 1.430 a R$ 3.000 |
-| Cosco Wizz | Bebê conforto | Cinto de 3 pontos | Sempre de costas | R$ 280 a R$ 470 |
-| Galzerano Cocoon | Bebê conforto | Cinto de 3 pontos; base 8185 à parte | Sempre de costas | R$ 410 a R$ 530 |
-| Maxi-Cosi Citi² com base | Bebê conforto | Base presa com cinto de 3 pontos | Sempre de costas | R$ 1.030 a R$ 1.800 |
+| Cosco Progress | 0 a 36 kg | Só cinto do carro | 13 kg | faixa de entrada |
+| Safety 1st Multifix | 0 a 36 kg | Cinto em todas as fases; ISOFIX opcional de frente | 13 kg | faixa intermediária |
+| Joie Every Stage FX | 0 a 36 kg | Cinto em todas as fases; ISOFIX opcional de frente | 18 kg | faixa premium |
+| Cosco Wizz | Bebê conforto | Cinto de 3 pontos | Sempre de costas | faixa de entrada |
+| Galzerano Cocoon | Bebê conforto | Cinto de 3 pontos; base 8185 à parte | Sempre de costas | faixa de entrada |
+| Maxi-Cosi Citi² com base | Bebê conforto | Base presa com cinto de 3 pontos | Sempre de costas | faixa intermediária |
 
 Ficam de fora os modelos que, segundo a ficha, exigem ISOFIX nas primeiras fases, como a Safety 1st i-NXT 360 e a Cosco Evolutty 360 X, e os que a ficha só descreve com ISOFIX, sem informar instalação por cinto: Litet All Stages Fix 2.0, Maxi-Cosi Spinel 360, Kiddo Supra 360 e as Fisher-Price i-Size. Se você gosta de algum deles, o manual é quem diz se existe uma opção com cinto.
 

@@ -114,3 +114,7 @@ As opções estão comparadas em [melhor assento de elevação](/melhor-assento-
 - [AAP, HealthyChildren.org: "Car Seats: Information for Families", atualizado em 16/04/2026](https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Car-Safety-Seats-Information-for-Families.aspx)
 - [NHTSA: "Car Seats and Booster Seats"](https://www.nhtsa.gov/vehicle-safety/car-seats-and-booster-seats)
 - [OMS: altura por idade de 5 a 19 anos, meninos](https://cdn.who.int/media/docs/default-source/child-growth/growth-reference-5-19-years/height-for-age-(5-19-years)/sft-hfa-boys-z-5-19years.pdf?sfvrsn=133da6b6_4) e [meninas](https://cdn.who.int/media/docs/default-source/child-growth/growth-reference-5-19-years/height-for-age-(5-19-years)/sft-hfa-girls-z-5-19years.pdf?sfvrsn=65c549dc_4)
+
+## No mesmo assunto
+
+Se a criança ainda tem 6 anos, o caminho é o do texto de [cadeirinha para criança de 6 anos](/blog/cadeirinha-para-crianca-de-6-anos/), antes de pensar em tirar o assento.

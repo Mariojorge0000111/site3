@@ -26,7 +26,7 @@ faq:
     r: "Não. Para colocar o bebê de costas você precisa se inclinar para dentro do carro. Se o giro for prioridade, veja a lista de [cadeirinhas giratórias 360](/melhor-cadeirinha-giratoria-360/)."
 ---
 
-> **Resposta rápida:** a All Stages Fix 2.0 é a cadeira que a gente indicaria para quem tem ISOFIX e top tether no carro e quer encaixe desde a maternidade gastando menos de R$ 1.000. O porém é a norma: ela segue a R44/04, sem o teste de impacto lateral da i-Size, e não gira.
+> **Resposta rápida:** a All Stages Fix 2.0 é a cadeira que a gente indicaria para quem tem ISOFIX e top tether no carro e quer encaixe desde a maternidade gastando menos da faixa intermediária. O porém é a norma: ela segue a R44/04, sem o teste de impacto lateral da i-Size, e não gira.
 
 Os dados técnicos abaixo (peso, posições, norma, registro) são os que a Litet e o anúncio informam. As impressões de uso são da nossa equipe.
 
@@ -65,7 +65,7 @@ O guia [o que é i-Size](/guias/o-que-e-i-size/) aprofunda a comparação. E, pa
 5. Faça o [teste de folga](/guias/isofix-ou-cinto/) puxando pela base.
 6. Coloque na rotina a conferência da fita superior, junto com a das alças da criança.
 
-Quando a gente instalou, o ISOFIX encaixou com facilidade. A fita do top tether foi a parte que pediu atenção. Ela pode afrouxar quando alguém mexe no banco ou quando a cadeira sai para limpeza, e só trabalha direito se estiver tensionada.
+Segundo o manual, o ISOFIX encaixou com facilidade. A fita do top tether foi a parte que pediu atenção. Ela pode afrouxar quando alguém mexe no banco ou quando a cadeira sai para limpeza, e só trabalha direito se estiver tensionada.
 
 Se o seu carro não tem ISOFIX, esta cadeira perde a razão de existir. A [Cosco Progress](/reviews/cosco-progress/) foi feita para o cinto.
 
@@ -81,7 +81,7 @@ O tecido e a espuma são mais simples que os de marcas premium. Para a gente, is
 
 Dá, com uma condição. Com 8,5 kg, ela é mais leve que as giratórias e mais pesada que as multigrupo só de cinto. Carregar até o outro carro não é o problema. O problema é que o outro carro também precisa de ISOFIX e top tether na mesma posição. Sem isso, ela não instala como foi pensada.
 
-A falta de giro aparece na hora de pôr o bebê. De costas, você se inclina para dentro do carro com ele no colo. Nos testes da equipe, isso cansou mais do que nas giratórias, sobretudo em carros de porta pequena.
+A falta de giro aparece na hora de pôr o bebê. De costas, você se inclina para dentro do carro com ele no colo. Compradores relatam que isso cansa mais do que nas giratórias, sobretudo em carros de porta pequena.
 
 ## O que as quase 2.800 avaliações contam
 
@@ -97,7 +97,11 @@ A All Stages Fix 2.0 tem quase 2.800 avaliações no Mercado Livre, com nota 4,9
 
 ## O que a gente faria
 
-- **Orçamento de até R$ 1.000, encaixe desde o nascimento e os dois pontos (ISOFIX e top tether) no carro:** a gente iria de All Stages Fix 2.0. Ela aparece como opção de ISOFIX barato na nossa lista de [melhores cadeirinhas para carro](/melhor-cadeirinha-para-carro/).
+- **Orçamento de até faixa intermediária, encaixe desde o nascimento e os dois pontos (ISOFIX e top tether) no carro:** a gente iria de All Stages Fix 2.0. Ela aparece como opção de ISOFIX barato na nossa lista de [melhores cadeirinhas para carro](/melhor-cadeirinha-para-carro/).
 - **Carro sem ISOFIX ou com um só dos pontos:** [Safety 1st Multifix](/reviews/safety-1st-multifix/), que aceita cinto ou ISOFIX e tem proteção lateral Air Protect.
 - **Orçamento ainda menor e cadeira que vai rodar entre carros:** [Cosco Progress](/reviews/cosco-progress/).
 - **Faz questão de i-Size sem giro:** [Fisher-Price GrowStages](/reviews/fisher-price-growstages/), com ISOFIX e top tether.
+
+## No mesmo assunto
+
+A Litet ao lado da Joie está em [Litet All Stages Fix 2.0 ou Joie Every Stage FX](/comparativos/litet-all-stages-fix-2-vs-joie-every-stage-fx/).

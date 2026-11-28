@@ -86,7 +86,7 @@ E os falsos sinais, que aos 2 anos aparecem muito: pernas cruzadas ou com os pé
 
 ## O que a gente faria
 
-**Criança de 2 anos ainda de costas e carro com ISOFIX:** compraria uma cadeira que siga de costas até 18 kg. A [Maxi-Cosi Spinel 360](/reviews/maxi-cosi-spinel-360/) tem perna de apoio e garantia de 5 anos, segundo o fabricante, mas pesa 14 kg e custa caro (entre R$ 2.450 e R$ 4.600 no Mercado Livre, out/2026). A [Cosco Evolutty 360 X](/reviews/cosco-evolutty-360-x/) e a [Kiddo Supra 360](/reviews/kiddo-supra-360/) chegam aos mesmos 18 kg com top tether. Giro ajuda muito nessa idade, porque fica mais fácil prender uma criança que se contorce.
+**Criança de 2 anos ainda de costas e carro com ISOFIX:** compraria uma cadeira que siga de costas até 18 kg. A [Maxi-Cosi Spinel 360](/reviews/maxi-cosi-spinel-360/) tem perna de apoio e garantia de 5 anos, segundo o fabricante, mas pesa 14 kg e fica na faixa mais alta. A [Cosco Evolutty 360 X](/reviews/cosco-evolutty-360-x/) e a [Kiddo Supra 360](/reviews/kiddo-supra-360/) chegam aos mesmos 18 kg com top tether. Giro ajuda muito nessa idade, porque fica mais fácil prender uma criança que se contorce.
 
 **Carro sem ISOFIX:** a [Joie Every Stage FX](/reviews/joie-every-stage-fx/) vai de costas até 18 kg presa com o cinto do carro. Não gira e é pesada.
 

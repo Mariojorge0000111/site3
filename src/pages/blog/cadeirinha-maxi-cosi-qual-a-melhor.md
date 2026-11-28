@@ -41,7 +41,6 @@ O que os três têm em comum é o preço alto para a categoria. O que muda é o 
 | De costas até | Sempre de costas | Sempre de costas | 18 kg |
 | Norma | NBR 14400 | R129 (i-Size) | NBR 14400 |
 | Peso | 3,2 kg | Não informado no anúncio | 14 kg |
-| Faixa de preço (out/2026) | R$ 1.030 a R$ 1.800 | R$ 3.100 a R$ 3.500 | R$ 2.450 a R$ 4.600 |
 | Nossa nota | 8,1 | 8,6 | 8,8 |
 
 Dados do fabricante e dos anúncios; preços de referência no Mercado Livre em outubro de 2026.
@@ -70,7 +69,7 @@ Três cuidados antes de comprar:
 
 - **Assoalho.** A perna precisa apoiar em piso firme. Se houver compartimento ou tampa sob o tapete traseiro, ela pode não servir. O manual do carro costuma dizer quais posições aceitam perna de apoio.
 - **Peso e volume.** São 14 kg, e de costas ela avança na direção do banco da frente. Em carro compacto, meça antes, como mostra o texto sobre [cadeirinha para carro pequeno](/blog/cadeirinha-para-carro-pequeno/).
-- **Preço.** A faixa é larga, de R$ 2.450 a R$ 4.600 em out/2026, conforme o vendedor. Comparar anúncios faz parte da compra.
+- **Preço.** A faixa é larga, faixa mais alta, conforme o vendedor. Comparar anúncios faz parte da compra.
 
 O fabricante informa a NBR 14400, não a i-Size. Para muita família, os 18 kg de costas valem mais do que a homologação europeia; o texto [quando virar a cadeirinha de frente](/blog/quando-virar-a-cadeirinha-de-frente/) ajuda a pesar isso.
 

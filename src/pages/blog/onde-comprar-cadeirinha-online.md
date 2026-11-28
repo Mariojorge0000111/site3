@@ -32,7 +32,7 @@ Um aviso de transparência antes: os botões do Mercado Livre e da Amazon nos no
 
 ## Mercado Livre: o que olhar no anúncio
 
-O Mercado Livre reúne muitos vendedores para o mesmo produto. Isso explica por que o mesmo modelo aparece com preços tão diferentes: em outubro de 2026, a Maxi-Cosi Spinel 360 ia de R$ 2.450 a R$ 4.600, conforme o vendedor.
+O Mercado Livre reúne muitos vendedores para o mesmo produto. Isso explica por que o mesmo modelo aparece com preços tão diferentes: em outubro de 2026, a Maxi-Cosi Spinel 360 ficava na faixa mais alta, conforme o vendedor.
 
 No anúncio, olhe:
 

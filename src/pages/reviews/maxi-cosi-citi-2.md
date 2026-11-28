@@ -1,9 +1,9 @@
 ---
 layout: ../../layouts/Review.astro
 produto: maxi-cosi-citi-2
-titulo: "Maxi-Cosi Citi²: review 2026 do bebê conforto"
-descricao: "Review do Maxi-Cosi Citi² com base (2026): instalação com cinto em carro sem Isofix, peso da concha, até quando usar e se o preço compensa."
-h1: "Review Maxi-Cosi Citi² com base: uma base fixa para quem tem carro sem ISOFIX"
+titulo: "Maxi-Cosi Citi² com base vale a pena? Review 2026"
+descricao: "Bebê conforto Maxi-Cosi Citi² até 13 kg: como funciona a base, peso, compatibilidade com carrinhos e defeitos que os compradores apontam."
+h1: "Maxi-Cosi Citi² com base vale a pena?"
 data: "2026-10-31"
 atualizado: "2026-10-31"
 alternativas: ["maxi-cosi-pebble-360-pro", "cosco-wizz", "galzerano-cocoon"]
@@ -22,13 +22,13 @@ faq:
 
 > **Resposta rápida:** o Citi² é para quem tem carro sem ISOFIX, sai com o bebê quase todo dia e quer instalar uma vez só. A base vem na caixa, presa pelo cinto do carro, e o casco encaixa nela com um clique. O porém é o preço: para um bebê conforto sem ISOFIX, sem reclinação e com poucas avaliações, ele é caro.
 
-Peso, faixa e registro no Inmetro são informações da Maxi-Cosi e do anúncio. Onde a gente fala de como foi encaixar ou instalar, é impressão da equipe.
+Peso, faixa e registro no Inmetro são informações da Maxi-Cosi e do anúncio. Onde o texto fala de encaixe ou instalação, a fonte é o manual e as avaliações de compradores.
 
 ## Para que serve uma base se o carro não tem ISOFIX?
 
 Para tirar da sua rotina a parte que mais dá erro. Sem base, toda saída exige passar o cinto do carro pelas guias do casco, esticar e conferir. Com a base, esse trabalho é feito uma vez, com calma, no fim de semana. Depois, o casco só encaixa e solta.
 
-Nos testes da equipe, o encaixe foi simples e o clique de travamento é fácil de ouvir. Esse é o ganho real do Citi²: você troca dez instalações apressadas por uma bem feita. Para quem usa o carro uma vez por semana, isso pesa pouco. Para quem leva o bebê à creche e ao pediatra, pesa muito.
+Segundo o manual, o encaixe é simples e o clique de travamento é fácil de ouvir. Esse é o ganho real do Citi²: você troca dez instalações apressadas por uma bem feita. Para quem usa o carro uma vez por semana, isso pesa pouco. Para quem leva o bebê à creche e ao pediatra, pesa muito.
 
 Tem um ganho escondido também. Como a base fica no carro, quem pega o bebê na creche num dia diferente, como um avô ou uma babá, só precisa encaixar o casco. Ninguém precisa aprender a passar o cinto do jeito certo.
 
@@ -43,7 +43,7 @@ A base do Citi² não tem conectores ISOFIX. A firmeza vem do cinto do carro, en
 5. Segure a base pela frente e empurre para os lados e para a frente. Ela quase não deve sair do lugar.
 6. Encaixe o casco vazio, escute o clique e puxe para cima para conferir a trava.
 
-Nos testes da equipe, o passo 4 foi o que mais pediu atenção. Refaça até a base ficar firme. Lembre que o bebê conforto vai sempre atrás, nunca no banco da frente, como manda a Resolução 819/2021 do Contran (as exceções estão no guia da [lei da cadeirinha](/guias/lei-da-cadeirinha/)).
+Segundo o manual, o passo 4 é o que mais pede atenção. Refaça até a base ficar firme. Lembre que o bebê conforto vai sempre atrás, nunca no banco da frente, como manda a Resolução 819/2021 do Contran (as exceções estão no guia da [lei da cadeirinha](/guias/lei-da-cadeirinha/)).
 
 ## Dá para usar sem a base?
 
@@ -81,3 +81,9 @@ Um cuidado que vale para o Citi² e para qualquer bebê conforto: as alças do c
 - **Poucas saídas por semana e orçamento curto:** o [Cosco Wizz](/reviews/cosco-wizz/) ou o [Galzerano Cocoon](/reviews/galzerano-cocoon/) cumprem a certificação por uma fração do preço. O Cocoon ainda deixa comprar a base depois.
 
 Todos estão comparados no ranking de [melhor bebê conforto](/melhor-bebe-conforto/). Antes do primeiro passeio, ache na etiqueta do casco o número do Inmetro e veja no manual do carro em quais lugares de trás o cinto é de 3 pontos.
+
+## No mesmo assunto
+
+O Citi² é o bebê conforto de entrada da marca. O conjunto da linha está em [cadeirinha Maxi-Cosi](/blog/cadeirinha-maxi-cosi-qual-a-melhor/).
+
+O Citi² comparado com o Wizz está em [Citi² ou Cosco Wizz](/comparativos/maxi-cosi-citi-2-vs-cosco-wizz/).

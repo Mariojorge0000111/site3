@@ -42,7 +42,6 @@ As três têm muito em comum. Todas são homologadas pela i-Size (R129), instala
 | Gira | Sim | Não | Não |
 | Fixação | ISOFIX + top tether | ISOFIX + top tether | ISOFIX + top tether |
 | Peso | 11 kg | Não informado | 7 kg |
-| Faixa de preço (out/2026) | R$ 1.190 a R$ 1.360 | R$ 1.260 a R$ 1.900 | R$ 920 a R$ 1.580 |
 | Nossa nota | 8,9 | 8,8 | 8,4 |
 
 Dados do fabricante e dos anúncios; preços de referência no Mercado Livre em outubro de 2026.
@@ -57,7 +56,7 @@ Dados do fabricante e dos anúncios; preços de referência no Mercado Livre em 
 
 ## Fisher-Price ShieldPro 360: a giratória i-Size mais em conta
 
-A [Fisher-Price ShieldPro 360](/reviews/fisher-price-shieldpro-360/) gira 360° com a cadeira instalada e vai do nascimento aos 150 cm. Na nossa referência de out/2026, custava entre R$ 1.190 e R$ 1.360, perto do preço de multigrupos comuns.
+A [Fisher-Price ShieldPro 360](/reviews/fisher-price-shieldpro-360/) gira 360° com a cadeira instalada e vai do nascimento aos 150 cm. Fica na faixa das multigrupos, não na das importadas de topo.
 
 O limite está na fase de costas: só uma reclinação nessa posição, segundo o fabricante. Em trajetos curtos, pouco importa. Em estrada, quando o bebê dorme e a cabeça tomba, você não tem como deitar mais o assento. Pesa 11 kg, então é cadeira para instalar e deixar.
 
@@ -67,7 +66,7 @@ O limite está na fase de costas: só uma reclinação nessa posição, segundo 
 
 A [Fisher-Price GrowStages](/reviews/fisher-price-growstages/) faz a mesma faixa da ShieldPro, de 40 a 150 cm, sem o mecanismo de giro. Tem 4 reclinações e apoio de cabeça com 17 posições, segundo o anúncio.
 
-Os pontos fracos são de informação: o fabricante não divulga o peso nem o limite exato de costas nos anúncios, e não há avaliações de catálogo no Mercado Livre. Repare também que a faixa de preço dela (R$ 1.260 a R$ 1.900) começava acima da ShieldPro em out/2026. Sem giro, ela só compensa num anúncio na parte de baixo da faixa.
+Os pontos fracos são de informação: o fabricante não divulga o peso nem o limite exato de costas nos anúncios, e não há avaliações de catálogo no Mercado Livre. Repare também que a faixa de preço dela (faixa premium) começava acima da ShieldPro. Sem giro, ela só compensa num anúncio na parte de baixo da faixa.
 
 **Para quem:** carro de acesso fácil, poucas entradas e saídas por dia e preço encontrado abaixo da ShieldPro.
 

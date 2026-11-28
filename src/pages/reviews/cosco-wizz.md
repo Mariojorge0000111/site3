@@ -11,7 +11,7 @@ faq:
   - p: "Posso levar o Cosco Wizz no avião?"
     r: "A Cosco informa que ele é aprovado para uso em avião. Quem decide se ele entra na cabine é a companhia aérea, então consulte a sua antes de comprar a passagem e leve o manual na bolsa."
   - p: "A versão do Wizz com base tem ISOFIX?"
-    r: "O anúncio que a gente usou como referência não diz como essa base é presa. A versão sem base, que é a mais vendida, só instala com o cinto de 3 pontos do carro. Leia a descrição da versão com base antes de pagar a mais por ela."
+    r: "O anúncio de referência não diz como essa base é presa. A versão sem base, que é a mais vendida, só instala com o cinto de 3 pontos do carro. Leia a descrição da versão com base antes de pagar a mais por ela."
   - p: "O Cosco Wizz reclina?"
     r: "O casco não tem posições de reclinação. O ângulo vem da instalação no banco, e o que muda de posição é a alça, que tem 4 ajustes e serve de apoio ou balanço fora do carro."
   - p: "Em qual carrinho o Wizz encaixa?"
@@ -22,7 +22,7 @@ faq:
 
 > **Resposta rápida:** o Wizz serve para a família que quer um bebê conforto certificado, leve e muito bem avaliado gastando o mínimo, e que sai de carro poucas vezes por semana. O porém é que a versão mais em conta não tem base: você passa o cinto do carro pelo casco a cada viagem, e a proteção lateral é mais simples que a dos modelos caros.
 
-Os números citados aqui (peso, faixa de uso, aprovação para avião) vêm da Cosco e do anúncio. O que a nossa equipe sentiu instalando e carregando o Wizz aparece como impressão, sem medição própria.
+Os números citados aqui (peso, faixa de uso, aprovação para avião) vêm da Cosco e do anúncio. O que compradores relatam sobre instalar e carregar o Wizz entra no texto, sem medição própria da equipe.
 
 ## O que muda quando você escolhe o bebê conforto mais barato?
 
@@ -88,3 +88,7 @@ O Wizz também encaixa em carrinhos Cosco compatíveis, formando um pequeno trav
 - **Se a dúvida é entre os dois baratos:** leia o review do [Galzerano Cocoon](/reviews/galzerano-cocoon/), que vende a base à parte.
 
 Os quatro estão lado a lado no ranking de [melhor bebê conforto](/melhor-bebe-conforto/). Quando o Wizz chegar, procure o selo do Inmetro na etiqueta do casco e confira no manual do carro quais lugares do banco de trás têm cinto de 3 pontos.
+
+## No mesmo assunto
+
+O Wizz ao lado do Citi², com e sem base, está em [Citi² ou Cosco Wizz](/comparativos/maxi-cosi-citi-2-vs-cosco-wizz/).

@@ -1,7 +1,7 @@
 ---
 layout: ../layouts/Lista.astro
-titulo: "Melhor cadeirinha giratória 360 de 2026"
-descricao: "Melhor cadeirinha giratória 360 com ISOFIX: 5 modelos avaliados, quem fica de costas até 18 kg e uma resposta honesta sobre se a cadeira 360 vale a pena."
+titulo: "Melhor cadeirinha giratória 360 de 2026: comparativo"
+descricao: "As melhores cadeirinhas giratórias 360 com ISOFIX de 2026: i-Size ou grupos, peso, giro com uma mão e para quem vale a pena pagar mais."
 h1: "Melhor cadeirinha giratória 360 em 2026: 5 modelos com ISOFIX avaliados"
 migalha: "Melhor cadeirinha giratória 360"
 tituloAnalises: "As 5 giratórias, girando uma por uma"
@@ -11,7 +11,7 @@ atualizado: "2026-10-31"
 produtos:
   - slug: "safety-1st-i-nxt-360"
     selo: "Melhor no geral"
-    texto: "Gira 360° com a cadeira instalada, segue a i-Size com teste de impacto lateral e tem 5 reclinações que ajustam sem desinstalar, segundo o fabricante. Nos testes da equipe, o giro e a reclinação com a cadeira no lugar foram os recursos que mais ajudaram no dia a dia. O limite de costas é o mais baixo da lista, 87 cm (cerca de 13 kg). Nos grupos 0+ e 1, só instala com ISOFIX e top tether."
+    texto: "Gira 360° com a cadeira instalada, segue a i-Size com teste de impacto lateral e tem 5 reclinações que ajustam sem desinstalar, segundo o fabricante. Compradores relatam que o giro e a reclinação com a cadeira no lugar são os recursos que mais ajudam no dia a dia. O limite de costas é o mais baixo da lista, 87 cm (cerca de 13 kg). Nos grupos 0+ e 1, só instala com ISOFIX e top tether."
   - slug: "fisher-price-shieldpro-360"
     selo: "Melhor preço i-Size"
     texto: "Tem a faixa de preço mais baixa entre as giratórias i-Size desta lista, com ISOFIX e top tether de 40 a 150 cm. Pesa 11 kg, segundo o fabricante, um pouco menos que a i-NXT 360. Tem só uma reclinação de costas, o que limita o conforto do bebê dormindo em viagem, e ainda acumula poucas avaliações. Exige carro com ponto de top tether."
@@ -47,7 +47,7 @@ Os números de faixa, reclinação, peso e limite de costas citados aqui são do
 
 Primeiro, o que o giro não faz: ele não deixa a cadeira mais segura numa batida. Com o carro andando, a giratória está travada de costas ou de frente como qualquer outra. Quem protege é a norma, a instalação firme, o cinto rente ao corpo e o tempo de costas.
 
-O que ele faz é mudar o embarque. Sem giro, você se curva para dentro do carro, segura o bebê com os braços esticados e passa as alças com a cadeira virada para o encosto. Com giro, o assento fica de frente para a porta, você acomoda a criança olhando para ela e volta para a posição de viagem. Foi a diferença mais clara que a equipe sentiu entre giratórias e multigrupos comuns.
+O que ele faz é mudar o embarque. Sem giro, você se curva para dentro do carro, segura o bebê com os braços esticados e passa as alças com a cadeira virada para o encosto. Com giro, o assento fica de frente para a porta, você acomoda a criança olhando para ela e volta para a posição de viagem. É a diferença mais clara entre giratórias e multigrupos comuns, no relato de quem usa os dois tipos.
 
 **Compensa quando:**
 
@@ -100,7 +100,7 @@ A i-NXT 360 e a ShieldPro 360 seguem a R129, a i-Size, que classifica por altura
 
 ## O que conferir numa giratória antes de pagar
 
-- **Preço do mesmo modelo em vários vendedores.** A faixa dos cards é referência de outubro de 2026. A Evolutty 360 X é o caso extremo: vai de pouco menos de R$ 1.000 até perto de R$ 1.800, conforme a loja.
+- **Preço do mesmo modelo em vários vendedores.** A faixa dos cards é referência de outubro de 2026. A Evolutty 360 X é o caso extremo: vai da faixa intermediária, conforme a loja.
 - **Garantia do mecanismo de giro.** São peças que trabalham todo dia. A Maxi-Cosi anuncia 5 anos com registro no site da marca. Nos outros modelos, guarde a nota fiscal e veja o prazo no manual.
 - **Capa removível.** A da Spinel 360 vai na máquina. Nas demais, siga a etiqueta, e o artigo sobre [como limpar a cadeirinha](/blog/como-limpar-cadeirinha-de-carro/) ajuda a não estragar a espuma.
 - **Em que fase a criança está.** Uma giratória 0 a 36 kg termina como assento com encosto, e nessa etapa o giro perde valor, porque a criança maior entra sozinha. Comprando perto dessa fase, os [assentos de elevação com ISOFIX](/melhor-assento-de-elevacao/) custam bem menos.
@@ -125,9 +125,9 @@ O ritual de cada embarque numa giratória tem um passo a mais que nas outras cad
 
 Pela [Resolução Contran nº 819/2021](https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao8192021.pdf/@@display-file/file), uma giratória 0 a 36 kg cobre todas as fases que a lei pede, desde que cada uma seja usada na configuração do manual. Multa e exceções estão no guia da [lei da cadeirinha](/guias/lei-da-cadeirinha/).
 
-## Como a gente pôs as giratórias à prova
+## Como a gente analisou e comparou
 
-A equipe instalou cada giratória com ISOFIX e com o terceiro ponto que o fabricante exige, girou e travou nas posições de costas e de frente e pontuou segurança, instalação, conforto, versatilidade e custo-benefício. Os critérios estão na [metodologia](/metodologia/).
+A equipe analisou e comparou cada giratória pelo manual e pela ficha: ISOFIX, o terceiro ponto que o fabricante exige, giro e travas nas posições de costas e de frente. A nota pesa segurança, instalação, conforto, versatilidade e custo-benefício. Os critérios estão na [metodologia](/metodologia/).
 
 ## O que a gente faria
 
@@ -136,3 +136,9 @@ A equipe instalou cada giratória com ISOFIX e com o terceiro ponto que o fabric
 - **Pais de primeira viagem com medo de instalar errado:** a [Kiddo Supra 360](/reviews/kiddo-supra-360/), porque o alarme avisa quando o top tether está frouxo. Quem precisa de i-Size gastando o mínimo pode olhar a [Fisher-Price ShieldPro 360](/reviews/fisher-price-shieldpro-360/), sabendo que ela reclina pouco de costas.
 
 Se o bebê ainda nem nasceu e você pensa em começar com um casco leve antes da giratória, compare os [bebês conforto com e sem base](/melhor-bebe-conforto/).
+
+## Dúvidas comuns antes de comprar
+
+Entre as duas que ficam de costas até 18 kg, o comparativo [Spinel 360 ou Evolutty 360 X](/comparativos/maxi-cosi-spinel-360-vs-cosco-evolutty-360-x/) coloca perna de apoio de um lado e a faixa de entrada do outro.
+
+As duas i-Size giratórias da lista estão lado a lado em [i-NXT 360 ou ShieldPro 360](/comparativos/safety-1st-i-nxt-360-vs-fisher-price-shieldpro-360/).

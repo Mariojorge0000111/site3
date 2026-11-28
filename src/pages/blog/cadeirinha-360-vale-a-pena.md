@@ -21,7 +21,7 @@ faq:
   - p: "Posso girar a cadeirinha com o carro andando?"
     r: "Não. O giro é só para colocar e tirar a criança com o carro parado. Antes de sair, confira se o assento travou na posição de viagem."
   - p: "Qual a cadeirinha 360 mais barata?"
-    r: "Na nossa referência de out/2026, a Cosco Evolutty 360 X tinha a faixa que começava mais baixo, entre R$ 920 e R$ 1.800 conforme o vendedor. A Fisher-Price ShieldPro 360, entre R$ 1.190 e R$ 1.360, era a i-Size giratória mais em conta."
+    r: "A Cosco Evolutty 360 X fica na faixa intermediária, e o valor muda conforme o vendedor. A Fisher-Price ShieldPro 360 é a i-Size giratória de entrada."
 ---
 
 A cadeirinha 360 vale a pena quando o seu problema é **colocar e tirar a criança do carro**, várias vezes por dia, e o carro tem ISOFIX. Nesse cenário, virar o assento para a porta poupa a coluna de quem prende a criança e ajuda a manter a posição de costas por mais tempo. Fora dele, você paga mais por uma cadeira mais pesada sem ganhar proteção extra numa batida.
@@ -42,7 +42,7 @@ O que o giro **não** faz: ele não protege mais numa batida. Na estrada, o asse
 
 ## Os prós da cadeirinha 360
 
-- **Coluna poupada.** Nos testes da equipe, prender a criança com o assento virado para a porta foi bem mais leve do que nas cadeiras fixas, sobretudo de costas.
+- **Coluna poupada.** Compradores relatam que prender a criança com o assento virado para a porta é mais leve do que nas cadeiras fixas, sobretudo de costas.
 - **Alças bem ajustadas.** De frente para a criança, você enxerga se a alça torceu e consegue apertar com as duas mãos. Ajuste mal feito é um dos erros mais comuns, como mostra o texto sobre [como ajustar o cinto da cadeirinha](/blog/como-ajustar-o-cinto-da-cadeirinha/).
 - **Mais tempo de costas sem sofrimento.** Algumas giratórias ficam de costas até 18 kg, segundo os fabricantes.
 - **Uma cadeira só.** Todas as giratórias que avaliamos vão do nascimento aos 36 kg ou aos 150 cm.
@@ -51,7 +51,7 @@ O que o giro **não** faz: ele não protege mais numa batida. Na estrada, o asse
 
 **Peso.** O mecanismo e a base pesam. Entre as giratórias que informam o peso, a Fisher-Price ShieldPro 360 tem 11 kg, a Safety 1st i-NXT 360 tem 11,5 kg e a Maxi-Cosi Spinel 360 tem 14 kg, segundo os fabricantes. A Cosco Progress, fixa e sem ISOFIX, pesa 5,8 kg. Giratória é cadeira para instalar e deixar.
 
-**Preço.** Na referência de out/2026 no Mercado Livre, as giratórias que avaliamos iam de R$ 920 (piso da Evolutty 360 X) a R$ 4.600 (teto da Spinel 360). Cadeiras fixas de 0 a 36 kg começavam em R$ 520.
+**Preço.** As giratórias que avaliamos vão da faixa intermediária (Evolutty 360 X) à faixa mais alta (Spinel 360). Cadeiras fixas de 0 a 36 kg começam na faixa de entrada. O valor muda conforme o vendedor: confira no anúncio.
 
 **Espaço.** A base é volumosa e, de costas, a cadeira avança em direção ao banco da frente. Em compactos, o passageiro pode precisar adiantar o banco. O texto sobre [cadeirinha para carro pequeno](/blog/cadeirinha-para-carro-pequeno/) mostra como medir.
 
@@ -59,13 +59,13 @@ O que o giro **não** faz: ele não protege mais numa batida. Na estrada, o asse
 
 ## As giratórias que avaliamos
 
-| Modelo | Norma | De costas até | Terceiro ponto | Peso | Faixa (out/2026) |
+| Modelo | Norma | De costas até | Terceiro ponto | Peso | Faixa |
 |---|---|---|---|---|---|
-| Safety 1st i-NXT 360 | R129 e NBR 14400 | 87 cm (cerca de 13 kg) | Top tether | 11,5 kg | R$ 1.250 a R$ 1.950 |
-| Fisher-Price ShieldPro 360 | R129 | Limite de altura do manual | Top tether | 11 kg | R$ 1.190 a R$ 1.360 |
-| Cosco Evolutty 360 X | NBR 14400 | 18 kg | Top tether | Não informado | R$ 920 a R$ 1.800 |
-| Kiddo Supra 360 | NBR 14400 | 18 kg | Top tether com alarme | Não informado de forma consistente | R$ 1.380 a R$ 1.710 |
-| Maxi-Cosi Spinel 360 | NBR 14400 | 18 kg | Perna de apoio | 14 kg | R$ 2.450 a R$ 4.600 |
+| Safety 1st i-NXT 360 | R129 e NBR 14400 | 87 cm (cerca de 13 kg) | Top tether | 11,5 kg | faixa premium |
+| Fisher-Price ShieldPro 360 | R129 | Limite de altura do manual | Top tether | 11 kg | faixa premium |
+| Cosco Evolutty 360 X | NBR 14400 | 18 kg | Top tether | Não informado | faixa intermediária |
+| Kiddo Supra 360 | NBR 14400 | 18 kg | Top tether com alarme | Não informado de forma consistente | faixa premium |
+| Maxi-Cosi Spinel 360 | NBR 14400 | 18 kg | Perna de apoio | 14 kg | faixa mais alta |
 
 Dados dos fabricantes e anúncios. Existe ainda o bebê conforto [Maxi-Cosi Pebble 360 Pro²](/reviews/maxi-cosi-pebble-360-pro/), cuja base ISOFIX gira, mas ele serve só até cerca de 15 meses.
 

@@ -1,7 +1,7 @@
 ---
 layout: ../layouts/Lista.astro
-titulo: "Melhor assento de elevação 2026: 4 avaliados"
-descricao: "Melhor assento de elevação de 2026: modelos com ISOFIX, com e sem encosto, quando trocar a cadeirinha, como passar o cinto e o que a lei exige."
+titulo: "Melhor assento de elevação 2026: com e sem encosto"
+descricao: "Os melhores assentos de elevação de 2026, com e sem encosto, com ISOFIX ou cinto: até que idade usar, o que a lei pede e qual escolher."
 h1: "Melhor assento de elevação em 2026: com ISOFIX, com encosto e booster"
 migalha: "Melhor assento de elevação"
 tituloAnalises: "Os 4 assentos, do mais simples ao mais completo"
@@ -14,7 +14,7 @@ produtos:
     texto: "Tem encosto com apoio de cabeça de 3 alturas e ganchos ISOFIX que mantêm o assento firme mesmo vazio, e o encosto sai para virar booster no grupo 3, segundo o fabricante. Tem mais de 1.300 avaliações com nota 4,9 no Mercado Livre e a faixa de preço mais baixa da lista. Na nossa avaliação, o acolchoado é simples e o anúncio não informa proteção lateral reforçada. A ficha do anúncio tem grupo e peso trocados, então confira a faixa na etiqueta."
   - slug: "chicco-gofit-plus"
     selo: "Booster para crianças maiores"
-    texto: "Booster sem encosto que trava nas âncoras ISOFIX, pesa 3 kg e tem alça para levar, segundo o fabricante. Tem nota 5,0 com mais de 800 avaliações no Mercado Livre. Nos testes da equipe, a trava foi o que mais fez diferença: o assento não escorrega nem fica solto no banco quando a criança desce. Só serve a partir de 18 kg, não protege cabeça nem ombros e é caro para um booster."
+    texto: "Booster sem encosto que trava nas âncoras ISOFIX, pesa 3 kg e tem alça para levar, segundo o fabricante. Tem nota 5,0 com mais de 800 avaliações no Mercado Livre. Compradores relatam que a trava faz diferença: o assento não escorrega nem fica solto no banco quando a criança desce. Só serve a partir de 18 kg, não protege cabeça nem ombros e é caro para um booster."
   - slug: "fisher-price-maxguard"
     selo: "Com encosto até 150 cm"
     texto: "Não é um assento de elevação simples: é uma cadeirinha i-Size de frente, com ISOFIX e top tether, que acompanha a criança de 76 a 150 cm, segundo o fabricante. Entra aqui para quem quer manter encosto, apoio de cabeça e cadeira presa ao carro até o fim da fase de retenção. Pesa 7 kg e o registro no Inmetro aparece no anúncio. Não reclina, o que torna a soneca em viagem menos confortável."

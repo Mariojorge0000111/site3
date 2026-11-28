@@ -47,8 +47,8 @@ A orientação dos órgãos de defesa do consumidor, como o Procon-SP, é acompa
 Para cadeirinha, a gente faria assim:
 
 - **Anote o preço do modelo exato** em pelo menos três lojas, com frete, desde o começo de novembro.
-- **Use a nossa faixa de referência como régua.** Cada review traz a faixa de preço que a gente viu no Mercado Livre em outubro de 2026. Se a "oferta" está acima dela, não é oferta.
-- **Desconfie dos modelos de preço largo.** Algumas cadeiras aparecem com valores muito diferentes conforme o vendedor. A Cosco Evolutty 360 X ia de R$ 920 a R$ 1.800 e a Maxi-Cosi Spinel 360 de R$ 2.450 a R$ 4.600, segundo a nossa referência de out/2026. Nesses casos, o "desconto" pode ser só a diferença entre um vendedor caro e um normal.
+- **Compare mais de um anúncio.** O mesmo modelo muda de valor conforme o vendedor. Se a "oferta" só aparece num anúncio isolado, não é oferta.
+- **Desconfie dos modelos de preço largo.** Algumas cadeiras aparecem com valores muito diferentes conforme o vendedor. A Cosco Evolutty 360 X fica na faixa intermediária e a Maxi-Cosi Spinel 360 na mais alta. Nesses casos, o "desconto" pode ser só a diferença entre um vendedor caro e um normal.
 - **Compare a mesma versão.** Bebê conforto com base e sem base são produtos com preços diferentes. Não compare um com o outro.
 
 Este texto não promete desconto em nenhum modelo. O que a gente garante é que, com essa régua, você sabe dizer se o preço do dia é bom.
@@ -95,7 +95,7 @@ Se mesmo assim a usada entrar na conta, siga o checklist de [validade da cadeiri
 
 ## Na prática: checklist para o dia 27
 
-1. Leve a lista de modelos com o preço de referência de cada um.
+1. Leve a lista de modelos que você já comparou e olhe o anúncio de mais de um vendedor.
 2. Compare o preço com frete em três lojas.
 3. Confirme na ficha técnica a versão, a fixação e a faixa.
 4. Veja a reputação do vendedor e se ele emite nota fiscal.
@@ -104,7 +104,7 @@ Se mesmo assim a usada entrar na conta, siga o checklist de [validade da cadeiri
 
 ## O que a gente faria
 
-**Bebê a caminho, poucas saídas de carro por semana:** acompanharia o preço do [Cosco Wizz](/reviews/cosco-wizz/), o bebê conforto mais barato entre os que avaliamos (entre R$ 280 e R$ 470 em out/2026, conforme cor e versão com base). Na promoção, confira se o anúncio é com ou sem base.
+**Bebê a caminho, poucas saídas de carro por semana:** acompanharia o preço do [Cosco Wizz](/reviews/cosco-wizz/), o bebê conforto mais barato entre os que avaliamos (faixa de entrada, conforme cor e versão com base). Na promoção, confira se o anúncio é com ou sem base.
 
 **Bebê a caminho, carro sem ISOFIX, saída todo dia:** o [Maxi-Cosi Citi²](/reviews/maxi-cosi-citi-2/), que já vem com base presa pelo cinto. É caro para o que entrega, então é um modelo em que esperar a data pode fazer sentido, se o bebê ainda não nasceu.
 
@@ -114,7 +114,7 @@ Se mesmo assim a usada entrar na conta, siga o checklist de [validade da cadeiri
 
 **Criança na fase do assento de elevação:** o [Burigotto Protege Fix](/reviews/burigotto-protege-fix/), com encosto e ganchos ISOFIX, numa faixa de preço baixa mesmo fora de promoção.
 
-Os rankings de [melhor cadeirinha para carro](/melhor-cadeirinha-para-carro/) e de [melhor bebê conforto](/melhor-bebe-conforto/) mostram todos os modelos que a gente avaliou, com a faixa de referência de cada um.
+Os rankings de [melhor cadeirinha para carro](/melhor-cadeirinha-para-carro/) e de [melhor bebê conforto](/melhor-bebe-conforto/) mostram os modelos que a equipe comparou, com prós, contras e a faixa (entrada, intermediária, premium ou mais alta), sem valor publicado.
 
 ## Fontes
 

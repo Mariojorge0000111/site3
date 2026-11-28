@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Post.astro
-titulo: "Grupos 0, 1, 2 e 3 da cadeirinha: tabela de peso"
-descricao: "Grupos 0, 0+, 1, 2 e 3 da cadeirinha: tabela de peso e idade aproximada, por que as faixas se sobrepõem e como ler a etiqueta i-Size em cm."
+titulo: "Grupos da cadeirinha 0+, 1, 2 e 3: tabela de peso e idade"
+descricao: "Tabela dos grupos 0+, 1, 2 e 3 da cadeirinha por peso e idade, a equivalência com o i-Size em centímetros e qual modelo cobre mais fases."
 h1: "Grupo 0+, 1, 2 e 3 da cadeirinha: o que cada número significa e como usar isso na compra"
 intro: "Os grupos são faixas de peso da criança: o 0+ vai até 13 kg, o 1 vai de 9 a 18 kg e os grupos 2 e 3 cobrem de 15 a 36 kg. Na i-Size a lógica é a mesma, mas a faixa vem em centímetros de altura."
 categoria: "Como escolher"
@@ -114,3 +114,7 @@ Se nenhum desses sinais apareceu, a cadeira atual continua servindo, mesmo que a
 **Se você prefere dividir em fases:** comece com um bebê conforto 0+ leve, como o [Cosco Wizz](/reviews/cosco-wizz/), e compre a próxima cadeira só quando o bebê se aproximar do limite. Assim você escolhe a segunda cadeira já sabendo o tamanho real da criança.
 
 **Se a criança já passou dos 15 kg e vai de frente:** um assento de elevação de grupos 2 e 3 com encosto, como o Protege Fix, até ela crescer o bastante para dispensar o encosto. Antes de pagar, confira a etiqueta, não a ficha do anúncio.
+
+## No mesmo assunto
+
+Um modelo que atravessa os grupos 0+, 1, 2 e 3 é a [melhor cadeirinha 0 a 36 kg](/blog/melhor-cadeirinha-0-a-36-kg/), com o que se perde e o que se ganha nessa escolha.

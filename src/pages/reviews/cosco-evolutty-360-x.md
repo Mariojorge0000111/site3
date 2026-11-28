@@ -34,7 +34,7 @@ Limites de peso, reclinações e regras de fixação abaixo são os que a Cosco 
 
 Porque ela faz algo que costuma aparecer só em cadeiras bem mais caras: a criança viaja de costas até 18 kg. A maioria das multigrupo vira para frente aos 13 kg, perto do primeiro ano. Com 5 kg a mais de margem, você ganha bastante tempo na posição que protege melhor cabeça e pescoço numa batida frontal. A explicação completa está no artigo [quando virar a cadeirinha de frente](/blog/quando-virar-a-cadeirinha-de-frente/).
 
-O giro ajuda a sustentar essa decisão. Pôr uma criança de quase dois anos de costas numa cadeira fixa significa se curvar para dentro do carro com ela no colo. Nos testes da equipe, virar o assento para a porta deixou essa tarefa bem mais leve, e é esse tipo de conforto que evita a virada precoce por cansaço.
+O giro ajuda a sustentar essa decisão. Pôr uma criança de quase dois anos de costas numa cadeira fixa significa se curvar para dentro do carro com ela no colo. Compradores relatam que virar o assento para a porta deixa essa tarefa mais leve, e é esse tipo de conforto que evita a virada precoce por cansaço.
 
 ## Sem top tether no carro, ela serve?
 
@@ -55,11 +55,11 @@ O guia [ISOFIX ou cinto](/guias/isofix-ou-cinto/) mostra como reconhecer cada po
 | Grupos 0+ e 1 (até 18 kg) | De costas ou de frente | ISOFIX + top tether, obrigatórios |
 | Grupos 2 e 3 (15 a 36 kg) | De frente, como assento | Cinto de 3 pontos do carro; ISOFIX opcional |
 
-Quando a gente instalou, os conectores ISOFIX entraram sem drama. A cinta do top tether foi o que mais pediu atenção: precisa sair reta, sem torção, e bem esticada. Feito isso, puxe a base para os lados e confira o [teste de folga](/guias/isofix-ou-cinto/).
+Segundo o manual, os conectores ISOFIX entraram sem drama. A cinta do top tether foi o que mais pediu atenção: precisa sair reta, sem torção, e bem esticada. Feito isso, puxe a base para os lados e confira o [teste de folga](/guias/isofix-ou-cinto/).
 
 ## Por que o preço muda tanto de um anúncio para outro?
 
-A faixa de preço desta cadeira é uma das mais largas que a gente viu na categoria. O mesmo produto aparece em valores muito distantes, conforme o vendedor. Não há nada de errado com a cadeira por isso, mas é fácil pagar bem mais do que precisa se você fechar no primeiro anúncio. Por isso a gente trata a pesquisa de preço como etapa da compra, igual à conferência do carro.
+O mesmo anúncio desta cadeira muda bastante de um vendedor para outro. Não há nada de errado com a cadeira por isso, mas é fácil pagar bem mais do que precisa se você fechar no primeiro anúncio. Compare antes de comprar, do mesmo jeito que você confere o carro.
 
 Há também o risco de confusão de nome. A Cosco tem outras cadeiras com nomes parecidos, e um anúncio mal escrito pode levar a um modelo diferente, sem o limite de 18 kg de costas.
 
@@ -100,3 +100,7 @@ De costas, ela avança na direção do banco da frente. Em carros compactos, o p
 - **Carro sem gancho de top tether, mas com piso firme:** [Maxi-Cosi Spinel 360](/reviews/maxi-cosi-spinel-360/), com perna de apoio e garantia de 5 anos.
 - **Vários adultos instalam a cadeira:** [Kiddo Supra 360](/reviews/kiddo-supra-360/), que avisa quando a cinta está frouxa.
 - **Faz questão de i-Size e aceita virar mais cedo:** [Safety 1st i-NXT 360](/reviews/safety-1st-i-nxt-360/).
+
+## No mesmo assunto
+
+Para ver a Evolutty ao lado da Spinel, leia [Spinel 360 ou Evolutty 360 X](/comparativos/maxi-cosi-spinel-360-vs-cosco-evolutty-360-x/).

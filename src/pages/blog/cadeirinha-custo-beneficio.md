@@ -13,18 +13,18 @@ data: "2026-11-17"
 atualizado: "2026-11-17"
 faq:
   - p: "Qual a cadeirinha com melhor custo-benefício?"
-    r: "Depende do carro. Sem ISOFIX, a Cosco Progress, com nota 8,2 e faixa de R$ 520 a R$ 780 no Mercado Livre em out/2026. Com ISOFIX, a Litet All Stages Fix 2.0, nota 8,6, entre R$ 730 e R$ 920. Quem quer i-Size e giro gastando pouco tem a Fisher-Price ShieldPro 360, nota 8,9, entre R$ 1.190 e R$ 1.360."
+    r: "Depende do carro. Sem ISOFIX, a Cosco Progress, com nota 8,2, na faixa de entrada. Com ISOFIX, a Litet All Stages Fix 2.0, nota 8,6, na faixa intermediária. Quem quer i-Size e giro gastando pouco tem a Fisher-Price ShieldPro 360, nota 8,9, na faixa premium."
   - p: "Cadeirinha cara é mais segura?"
     r: "Não automaticamente. Preço maior costuma trazer recursos como i-Size, mais tempo de costas, perna de apoio ou giro. Mas uma cadeira barata com registro no Inmetro, bem instalada e na fase certa protege mais do que uma cara mal instalada."
   - p: "Vale pagar por cadeirinha giratória?"
     r: "Vale se você coloca e tira a criança várias vezes por dia, tem carro baixo ou dor nas costas. O giro é conforto para quem cuida, não um recurso de proteção em batida. Se a rotina é leve, o dinheiro rende mais em ISOFIX ou em tempo de costas."
   - p: "Como o site calcula a nota de custo-benefício?"
-    r: "É um dos cinco critérios da nota geral e vale 15%. Compara o preço de referência com o que o modelo entrega e com o tempo de uso. A nota geral pesa segurança em 35%, instalação 20%, conforto 15%, versatilidade 15% e custo-benefício 15%."
-  - p: "Preço de referência é o preço atual?"
-    r: "Não. É uma faixa coletada no Mercado Livre em out/2026. O preço muda conforme o vendedor e a data, e em alguns modelos a diferença entre anúncios é grande. O valor certo está sempre no anúncio."
+    r: "É um dos cinco critérios da nota geral e vale 15%. Compara a faixa (entrada, intermediária, premium ou mais alta) com o que o modelo entrega e com o tempo de uso. O site não publica o valor. A nota geral pesa segurança em 35%, instalação 20%, conforto 15%, versatilidade 15% e custo-benefício 15%."
+  - p: "O site mostra o preço atual?"
+    r: "Não. A nota de custo usa uma faixa interna, sem valor na página. O preço muda conforme o vendedor e a data, e em alguns modelos a diferença entre anúncios é grande. O valor certo está sempre no anúncio."
 ---
 
-A cadeirinha de melhor custo-benefício não é a mais barata, e sim a que entrega mais segurança e uso por real gasto no carro que você tem. Cruzando a nota geral, as notas por critério e a faixa de preço de referência, três modelos se destacam: a [Cosco Progress](/reviews/cosco-progress/) para carro sem ISOFIX, a [Litet All Stages Fix 2.0](/reviews/litet-all-stages-fix-2/) para carro com ISOFIX e a [Fisher-Price ShieldPro 360](/reviews/fisher-price-shieldpro-360/) para quem quer i-Size e giro sem pagar preço de importada premium.
+A cadeirinha de melhor custo-benefício não é a mais barata, e sim a que entrega mais segurança e uso por real gasto no carro que você tem. Cruzando a nota geral e as notas por critério, três modelos se destacam: a [Cosco Progress](/reviews/cosco-progress/) para carro sem ISOFIX, a [Litet All Stages Fix 2.0](/reviews/litet-all-stages-fix-2/) para carro com ISOFIX e a [Fisher-Price ShieldPro 360](/reviews/fisher-price-shieldpro-360/) para quem quer i-Size e giro sem pagar preço de importada premium.
 
 A seguir, os números e o que muda em cada degrau de preço. Ninguém precisa da cadeira mais cara para cumprir a lei. Mas alguns recursos que custam mais fazem diferença de verdade, e vale saber quais.
 
@@ -32,56 +32,56 @@ A seguir, os números e o que muda em cada degrau de preço. Ninguém precisa da
 
 ## Como a gente mede custo-benefício
 
-Cada modelo do site recebe cinco notas de 0 a 10. A nota geral pesa segurança em 35%, instalação em 20% e conforto, versatilidade e custo em 15% cada. A nota de custo compara o preço de referência com o que a cadeira entrega e com o tempo de uso. Os detalhes estão na [metodologia](/metodologia/).
+Cada modelo do site recebe cinco notas de 0 a 10. A nota geral pesa segurança em 35%, instalação em 20% e conforto, versatilidade e custo em 15% cada. A nota de custo compara a faixa do modelo com o que a cadeira entrega e com o tempo de uso, sem publicar valor. Os detalhes estão na [metodologia](/metodologia/).
 
 Duas observações honestas antes da tabela:
 
 - **A nota de custo não é a nota geral.** O Burigotto Protege Fix tem custo 9,5 e geral 8,2. A Maxi-Cosi Spinel 360 tem custo 6,5 e geral 8,8. Uma é barata, a outra é boa, e as duas coisas não se confundem.
-- **Preço é faixa, não etiqueta.** Os valores abaixo são de out/2026 no Mercado Livre. Em alguns modelos, como Evolutty, Joie e Spinel, a diferença entre anúncios é grande.
+- **A tabela não traz valor.** A coluna Faixa diz entrada, intermediária, premium ou mais alta. Em alguns modelos, como Evolutty, Joie e Spinel, a diferença entre anúncios é grande.
 
 ## Tabela: nota, notas por critério e faixa de preço
 
-Cadeiras que cobrem do nascimento aos 36 kg, em ordem de preço mínimo de referência.
+Cadeiras que cobrem do nascimento aos 36 kg, da faixa de entrada à mais alta.
 
-| Modelo | Nota geral | Segurança | Instalação | Conforto | Versatilidade | Custo | Preço de referência (out/2026) |
+| Modelo | Nota geral | Segurança | Instalação | Conforto | Versatilidade | Custo | Faixa |
 |---|---|---|---|---|---|---|---|
-| Cosco Progress | 8,2 | 8,0 | 7,0 | 8,5 | 8,5 | 9,5 | R$ 520 a R$ 780 |
-| Litet All Stages Fix 2.0 | 8,6 | 8,7 | 8,5 | 8,0 | 9,0 | 9,0 | R$ 730 a R$ 920 |
-| Safety 1st Multifix | 8,6 | 8,8 | 8,0 | 8,5 | 9,0 | 8,5 | R$ 840 a R$ 1.000 |
-| Cosco Evolutty 360 X | 8,7 | 9,0 | 8,5 | 8,5 | 9,5 | 7,5 | R$ 920 a R$ 1.800 |
-| Fisher-Price ShieldPro 360 | 8,9 | 9,3 | 8,5 | 8,5 | 9,5 | 8,5 | R$ 1.190 a R$ 1.360 |
-| Safety 1st i-NXT 360 | 9,1 | 9,5 | 9,0 | 9,0 | 9,5 | 8,0 | R$ 1.250 a R$ 1.950 |
-| Fisher-Price GrowStages | 8,8 | 9,2 | 8,5 | 8,5 | 9,5 | 8,0 | R$ 1.260 a R$ 1.900 |
-| Kiddo Supra 360 | 8,8 | 9,0 | 8,5 | 8,5 | 9,5 | 8,0 | R$ 1.380 a R$ 1.710 |
-| Joie Every Stage FX | 8,7 | 9,0 | 8,0 | 9,0 | 9,5 | 7,5 | R$ 1.430 a R$ 3.000 |
-| Maxi-Cosi Spinel 360 | 8,8 | 9,4 | 9,0 | 9,0 | 9,5 | 6,5 | R$ 2.450 a R$ 4.600 |
+| Cosco Progress | 8,2 | 8,0 | 7,0 | 8,5 | 8,5 | 9,5 | faixa de entrada |
+| Litet All Stages Fix 2.0 | 8,6 | 8,7 | 8,5 | 8,0 | 9,0 | 9,0 | faixa intermediária |
+| Safety 1st Multifix | 8,6 | 8,8 | 8,0 | 8,5 | 9,0 | 8,5 | faixa intermediária |
+| Cosco Evolutty 360 X | 8,7 | 9,0 | 8,5 | 8,5 | 9,5 | 7,5 | faixa intermediária |
+| Fisher-Price ShieldPro 360 | 8,9 | 9,3 | 8,5 | 8,5 | 9,5 | 8,5 | faixa premium |
+| Safety 1st i-NXT 360 | 9,1 | 9,5 | 9,0 | 9,0 | 9,5 | 8,0 | faixa premium |
+| Fisher-Price GrowStages | 8,8 | 9,2 | 8,5 | 8,5 | 9,5 | 8,0 | faixa premium |
+| Kiddo Supra 360 | 8,8 | 9,0 | 8,5 | 8,5 | 9,5 | 8,0 | faixa premium |
+| Joie Every Stage FX | 8,7 | 9,0 | 8,0 | 9,0 | 9,5 | 7,5 | faixa premium |
+| Maxi-Cosi Spinel 360 | 8,8 | 9,4 | 9,0 | 9,0 | 9,5 | 6,5 | faixa mais alta |
 
 ## O que cada degrau de preço compra
 
-### Até cerca de R$ 800: o essencial certificado
+### Faixa de entrada: o essencial certificado
 
 A Cosco Progress cobre do nascimento aos 36 kg com registro no Inmetro, pesa 5,8 kg e tem mais de 12 mil avaliações com nota 4,9 no Mercado Livre, segundo o anúncio. A nota de instalação (7,0) é a mais baixa da tabela porque ela depende só do cinto do carro: na nossa avaliação, passar e esticar a fita pede atenção toda vez. Você economiza dinheiro e paga com cuidado na instalação.
 
-### De R$ 730 a R$ 1.000: ISOFIX
+### Faixa intermediária: ISOFIX
 
 Subir para a Litet All Stages Fix 2.0 compra ISOFIX em todas as fases, inclusive de costas, mais top tether. A nota de instalação vai de 7,0 para 8,5. A Safety 1st Multifix, na mesma faixa, compra outra coisa: ISOFIX só de frente, mas com proteção lateral Air Protect e indicador de instalação correta, e a flexibilidade de instalar com cinto em qualquer carro. As duas param de costas em 13 kg.
 
-### De R$ 920 em diante: mais tempo de costas
+### Subindo de faixa: mais tempo de costas
 
-Este é o salto que mais pesa em segurança. A Cosco Evolutty 360 X vai de costas até 18 kg, segundo o fabricante, e gira. É a forma mais barata das fichas de chegar aos 18 kg de costas. O porém: a faixa de preço vai de R$ 920 a R$ 1.800, então vale comparar anúncios com calma. A AAP orienta manter de costas pelo maior tempo que a cadeira permitir, e o texto [quando virar a cadeirinha de frente](/blog/quando-virar-a-cadeirinha-de-frente/) explica por quê.
+Este é o salto que mais pesa em segurança. A Cosco Evolutty 360 X vai de costas até 18 kg, segundo o fabricante, e gira. É a forma mais barata das fichas de chegar aos 18 kg de costas. O porém: o valor muda de um anúncio para outro, então vale comparar anúncios com calma. A AAP orienta manter de costas pelo maior tempo que a cadeira permitir, e o texto [quando virar a cadeirinha de frente](/blog/quando-virar-a-cadeirinha-de-frente/) explica por quê.
 
-### De R$ 1.190 a R$ 1.950: i-Size
+### Faixa premium: i-Size
 
 A ShieldPro 360 e a i-NXT 360 compram a homologação R129, que inclui teste de impacto lateral e faixa por altura. A ShieldPro tem a maior nota de custo entre as i-Size (8,5), mas só 1 reclinação de costas. A i-NXT 360 custa mais e entrega 5 reclinações ajustáveis com a cadeira instalada e a maior nota geral do site (9,1). Entenda a norma no guia [o que é i-Size](/guias/o-que-e-i-size/).
 
-### Acima de R$ 2.450: o topo
+### Faixa mais alta: o topo
 
 A Maxi-Cosi Spinel 360 junta costas até 18 kg, perna de apoio e garantia de 5 anos, segundo o fabricante. Tem nota de segurança 9,4, uma das mais altas do site. Mas a nota de custo (6,5) mostra a conta: boa parte desses recursos existe em cadeiras que custam metade, só que não todos juntos.
 
 ## O que pagar mais não compra
 
 - **Legalidade.** Toda cadeira vendida no Brasil precisa de registro no Inmetro, da mais barata à mais cara. Confira o número em [como consultar o selo do Inmetro](/blog/selo-inmetro-cadeirinha-como-consultar/).
-- **Instalação certa.** Uma cadeira de R$ 4.000 com o top tether frouxo protege menos do que uma de R$ 600 bem esticada.
+- **Instalação certa.** Uma cadeira da faixa mais alta com o top tether frouxo protege menos do que uma da faixa de entrada bem esticada.
 - **Uso na fase errada.** Nenhum recurso compensa virar de frente cedo ou tirar o assento de elevação antes da hora.
 
 ## Na prática: como achar o seu custo-benefício
@@ -96,7 +96,7 @@ A Maxi-Cosi Spinel 360 junta costas até 18 kg, perna de apoio e garantia de 5 a
 
 **Orçamento curto ou carro sem ISOFIX:** [Cosco Progress](/reviews/cosco-progress/), com treino de instalação antes do bebê chegar.
 
-**Carro com ISOFIX, orçamento até R$ 1.000:** [Litet All Stages Fix 2.0](/reviews/litet-all-stages-fix-2/). Se a cadeira vai alternar com um carro sem ISOFIX, [Safety 1st Multifix](/reviews/safety-1st-multifix/).
+**Carro com ISOFIX, orçamento até faixa intermediária:** [Litet All Stages Fix 2.0](/reviews/litet-all-stages-fix-2/). Se a cadeira vai alternar com um carro sem ISOFIX, [Safety 1st Multifix](/reviews/safety-1st-multifix/).
 
 **Pode pagar um pouco mais e quer o maior ganho de segurança por real:** [Cosco Evolutty 360 X](/reviews/cosco-evolutty-360-x/), pelos 18 kg de costas, comparando bem o preço.
 

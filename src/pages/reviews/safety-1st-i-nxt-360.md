@@ -1,9 +1,9 @@
 ---
 layout: ../../layouts/Review.astro
 produto: safety-1st-i-nxt-360
-titulo: "Safety 1st i-NXT 360: review 2026 (0 a 36 kg)"
-descricao: "Review da Safety 1st i-NXT 360 (2026): giratória i-Size 0 a 36 kg. Veja o que ela exige de Isofix e top tether e se vale a pena no seu carro."
-h1: "Review Safety 1st i-NXT 360: a giratória i-Size que exige ISOFIX e top tether"
+titulo: "Safety 1st i-NXT 360 vale a pena? Review 2026"
+descricao: "Cadeirinha Safety 1st i-NXT 360: i-Size de 40 a 150 cm, ISOFIX e giro 360. Pontos fortes, defeitos e para quem vale a pena, sem enrolação."
+h1: "Safety 1st i-NXT 360 vale a pena?"
 data: "2026-10-31"
 atualizado: "2026-10-31"
 video:
@@ -57,7 +57,7 @@ Se tudo bate, a i-NXT 360 entra na disputa. Se algum item falhar, pule para o fi
 | 76 a 105 cm, de 9 a 18 kg | De frente | ISOFIX + top tether |
 | 100 a 150 cm, de 15 a 36 kg | De frente, como assento | Cinto de 3 pontos do carro na criança |
 
-Quando a gente instalou, a parte que pediu mais cuidado foi a cinta superior. Ela tem que sair reta, sem torção, e ficar bem tensionada. Os conectores ISOFIX encaixam com facilidade. Depois de travar tudo, faça o [teste de folga](/guias/isofix-ou-cinto/) puxando a cadeira pela base.
+Segundo o manual, a parte que pediu mais cuidado foi a cinta superior. Ela tem que sair reta, sem torção, e ficar bem tensionada. Os conectores ISOFIX encaixam com facilidade. Depois de travar tudo, faça o [teste de folga](/guias/isofix-ou-cinto/) puxando a cadeira pela base.
 
 ## O que a i-Size acrescenta numa batida lateral?
 
@@ -103,3 +103,27 @@ O giro compensa parte do volume. Com o assento virado para a porta, você acomod
 - **Carro sem top tether:** nenhuma dessas. A [Safety 1st Multifix](/reviews/safety-1st-multifix/) instala de costas com o cinto.
 
 Para cruzar faixa, fixação e preço de todos os modelos, o [comparador](/comparador/) ajuda.
+
+## No mesmo assunto
+
+A i-NXT 360 cobre as fases que a regra pede. O que de fato mudou no texto legal está em [lei da cadeirinha mudou em 2026](/blog/lei-da-cadeirinha-mudou-2026/).
+
+Para ver a i-NXT ao lado das outras da marca, o texto de [cadeirinha Safety 1st](/blog/cadeirinha-safety-1st-qual-a-melhor/) organiza a linha.
+
+Se a i-NXT aparecer em promoção, o texto de [cadeirinha na Black Friday](/blog/cadeirinha-black-friday/) ajuda a separar oferta de anúncio confuso.
+
+Quem compara com a ShieldPro pode ir direto ao texto [i-NXT 360 ou ShieldPro 360](/comparativos/safety-1st-i-nxt-360-vs-fisher-price-shieldpro-360/).
+
+A i-NXT lidera a nota geral. Onde ela fica na conta de cada família está em [cadeirinha custo-benefício](/blog/cadeirinha-custo-beneficio/).
+
+Mesmo numa i-Size, os [erros comuns com a cadeirinha e como corrigir](/blog/erros-comuns-com-a-cadeirinha/) continuam valendo, sobretudo top tether e casaco por baixo do cinto.
+
+Viagem no calor com a i-NXT pede o mesmo cuidado de qualquer cadeira: [cadeirinha no calor](/blog/cadeirinha-no-calor/).
+
+A i-NXT começa em 40 cm. O que um recém-nascido pede além disso está em [melhor cadeirinha para recém-nascido](/blog/melhor-cadeirinha-para-recem-nascido/).
+
+As 5 reclinações da i-NXT entram na comparação de [melhor cadeirinha reclinável](/blog/melhor-cadeirinha-reclinavel/).
+
+Se a i-NXT passar do teto, a lista de [cadeirinha barata até R$ 1.000](/blog/cadeirinha-barata-ate-1000-reais/) fica nas cadeiras de entrada certificadas.
+
+Antes de acrescentar algo na i-NXT, leia [acessórios de cadeirinha](/blog/acessorios-de-cadeirinha-o-que-e-seguro/).

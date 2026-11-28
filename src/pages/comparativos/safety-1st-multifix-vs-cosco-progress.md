@@ -28,7 +28,7 @@ Nossa equipe analisou e comparou as duas. Neste comparativo, Multifix vs Progres
 
 ## Multifix vs Progress lado a lado
 
-Os dados abaixo vêm dos fabricantes e dos anúncios. Os preços são a faixa de referência no Mercado Livre em outubro de 2026 e mudam com frequência.
+Os dados abaixo vêm dos fabricantes e dos anúncios. O site não publica preço: a faixa (entrada, intermediária, premium ou mais alta) só orienta, e o valor muda de anúncio para anúncio.
 
 | | Safety 1st Multifix | Cosco Progress |
 |---|---|---|
@@ -42,7 +42,6 @@ Os dados abaixo vêm dos fabricantes e dos anúncios. Os preços são a faixa de
 | Peso da cadeira | 10,3 kg | 5,8 kg |
 | Norma | NBR 14400 | NBR 14400 |
 | Inmetro | Sim (confira o nº na etiqueta) | Sim, nº 003852/2020 |
-| Faixa de preço (out/2026) | R$ 840 a R$ 1.000 | R$ 520 a R$ 780 |
 | Nossa nota | 8,6 | 8,2 |
 
 ## Onde elas são iguais
@@ -111,7 +110,7 @@ Isso importa para quem troca a cadeira de carro com frequência: casal com dois 
 
 As duas são muito bem avaliadas no Mercado Livre. A Progress somava mais de 12 mil avaliações com nota 4,9 no anúncio. A Multifix, mais de 1.700 avaliações com nota alta. Os números mostram que as duas têm muitos compradores satisfeitos, e a Progress tem uma base bem maior. Como ela é muito vendida, também aparece bastante usada. Antes de aceitar uma de segunda mão, veja o que a gente escreveu sobre [validade e cadeirinha usada](/blog/validade-da-cadeirinha-e-cadeirinha-usada/).
 
-No preço, a faixa de referência de outubro de 2026 era de R$ 840 a R$ 1.000 para a Multifix e de R$ 520 a R$ 780 para a Progress. A diferença paga, basicamente, o ISOFIX de frente, o indicador de instalação e a proteção lateral Air Protect.
+A Multifix fica na faixa intermediária e a Progress na de entrada. A diferença paga, basicamente, o ISOFIX de frente, o indicador de instalação e a proteção lateral Air Protect.
 
 ## O que a gente faria
 
@@ -129,3 +128,7 @@ Qualquer que seja a escolha, confira o selo e o registro do Inmetro na etiqueta,
 - [Inmetro: legislação para dispositivos de retenção para crianças](https://www.gov.br/inmetro/pt-br/acesso-a-informacao/perguntas-frequentes/avaliacao-da-conformidade/dispositivos-de-retencao-para-criancas/qual-legislacao-estabelece-o-regulamento-para-dispositivos-de-retencao-para-criancas)
 - [Inmetro: o que o regulamento de cadeirinhas exige](https://www.gov.br/inmetro/pt-br/acesso-a-informacao/perguntas-frequentes/avaliacao-da-conformidade/dispositivos-de-retencao-para-criancas/o-que-a-medida-regulatoria-para-dispositivos-de-retencao-para-criancas-estabelece)
 - [Inmetro: assentos de elevação são dispositivos de retenção](https://www.gov.br/inmetro/pt-br/acesso-a-informacao/perguntas-frequentes/avaliacao-da-conformidade/dispositivos-de-retencao-para-criancas/assentos-de-elevacao-sao-considerados-como-dispositivos-de-retencao)
+
+## No mesmo assunto
+
+A Multifix é uma das cadeiras da Safety 1st. O panorama da marca está em [cadeirinha Safety 1st](/blog/cadeirinha-safety-1st-qual-a-melhor/).

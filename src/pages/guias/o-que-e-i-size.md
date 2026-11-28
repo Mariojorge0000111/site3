@@ -98,9 +98,9 @@ Todos os modelos abaixo são homologados pela R129, segundo o fabricante. A fich
 
 ### Para usar do nascimento aos 150 cm
 
-A [Safety 1st i-NXT 360, giratória i-Size do nascimento aos 36 kg](/reviews/safety-1st-i-nxt-360/) tem dupla homologação, R129 e NBR 14400:2020, e o fabricante informa o registro no Inmetro. Nos testes da equipe, girar a cadeira já instalada poupou bastante as costas na hora de colocar o bebê. O porém: nos primeiros grupos ela só instala com ISOFIX e top tether, e com 11,5 kg, segundo o fabricante, é pesada para trocar de carro.
+A [Safety 1st i-NXT 360, giratória i-Size do nascimento aos 36 kg](/reviews/safety-1st-i-nxt-360/) tem dupla homologação, R129 e NBR 14400:2020, e o fabricante informa o registro no Inmetro. Compradores relatam que girar a cadeira já instalada poupa as costas na hora de colocar o bebê. O porém: nos primeiros grupos ela só instala com ISOFIX e top tether, e com 11,5 kg, segundo o fabricante, é pesada para trocar de carro.
 
-A [Fisher-Price ShieldPro 360, giratória i-Size de entrada](/reviews/fisher-price-shieldpro-360/) cobre de 40 a 150 cm com ISOFIX e top tether e fica numa faixa de preço próxima à das multigrupos comuns (referência de outubro de 2026, entre R$ 1.190 e R$ 1.360 no Mercado Livre; o valor muda). A limitação é ter só uma reclinação de costas, segundo o fabricante, o que pesa em viagens longas com bebê dormindo.
+A [Fisher-Price ShieldPro 360, giratória i-Size de entrada](/reviews/fisher-price-shieldpro-360/) cobre de 40 a 150 cm com ISOFIX e top tether e fica numa faixa de preço próxima à das multigrupos comuns (referência de outubro de 2026, faixa premium; o valor muda). A limitação é ter só uma reclinação de costas, segundo o fabricante, o que pesa em viagens longas com bebê dormindo.
 
 A [Fisher-Price GrowStages, multigrupo i-Size sem giro](/reviews/fisher-price-growstages/) é a opção para quem quer a norma e o ISOFIX sem pagar pelo giro. O apoio de cabeça tem 17 posições, segundo o anúncio. O fabricante não divulga nos anúncios até quantos centímetros ela fica de costas, então confira no manual antes de comprar.
 

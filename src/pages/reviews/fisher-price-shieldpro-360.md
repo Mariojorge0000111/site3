@@ -20,9 +20,9 @@ faq:
     r: "O anúncio informa o selo, mas não traz o número de registro. Confira na etiqueta da cadeira quando ela chegar. O artigo sobre [o selo do Inmetro](/blog/selo-inmetro-cadeirinha-como-consultar/) mostra onde procurar."
 ---
 
-> **Resposta rápida:** a ShieldPro 360 é o jeito mais barato que a gente encontrou de ter giro e i-Size na mesma cadeira, e serve bem para quem roda mais na cidade. O porém é a fase de costas: só existe uma inclinação, o que pesa em viagens longas com o bebê dormindo.
+> **Resposta rápida:** a ShieldPro 360 é a giratória i-Size de entrada da nossa lista, para quem roda mais na cidade e quer giro com ISOFIX. Este review fica no que é próprio dela: para quem serve, o que compradores reclamam e como ela ocupa o banco. O lado a lado com a i-NXT 360 está no [comparativo i-NXT 360 ou ShieldPro 360](/comparativos/safety-1st-i-nxt-360-vs-fisher-price-shieldpro-360/). O porém é a fase de costas: só existe uma inclinação, o que pesa em viagens longas com o bebê dormindo.
 
-Faixa, peso e número de reclinações vêm da ficha da Fisher-Price. O que a gente sentiu instalando e usando aparece como impressão da equipe.
+Faixa, peso e número de reclinações vêm da ficha da Fisher-Price. O que a equipe comparou no manual e nas avaliações de compradores está no texto.
 
 ## Por que ela mede a criança em centímetros?
 
@@ -64,7 +64,7 @@ Uma saída para quem viaja de vez em quando é planejar paradas mais frequentes 
 
 É. A ShieldPro 360 prende com ISOFIX e top tether, a cinta que sai do alto da cadeira até um gancho do carro. Muitos carros têm as barras ISOFIX e não têm o gancho, e sem ele a cadeira não pode ser usada como o fabricante prevê.
 
-Confirme no manual do carro que os três pontos estão na mesma posição do banco. O guia [ISOFIX ou cinto](/guias/isofix-ou-cinto/) mostra como reconhecer cada um. Quando a gente instalou, a cinta superior foi a parte que pediu mais cuidado: precisa ficar reta, sem torção, bem esticada e reconferida de tempos em tempos.
+Confirme no manual do carro que os três pontos estão na mesma posição do banco. O guia [ISOFIX ou cinto](/guias/isofix-ou-cinto/) mostra como reconhecer cada um. Segundo o manual, a cinta superior foi a parte que pediu mais cuidado: precisa ficar reta, sem torção, bem esticada e reconferida de tempos em tempos.
 
 ## Marca nova em giratória: o que isso significa
 

@@ -1,9 +1,9 @@
 ---
 layout: ../../layouts/Review.astro
 produto: cosco-progress
-titulo: "Cosco Progress: review 2026 da 0 a 36 kg sem Isofix"
-descricao: "Review da Cosco Progress 2026, cadeirinha 0 a 36 kg sem Isofix: como instalar firme no cinto do carro e os erros que deixam a cadeira solta."
-h1: "Review Cosco Progress: como instalar firme com o cinto do carro a cadeirinha mais vendida"
+titulo: "Cosco Progress é boa? Review da cadeirinha 0 a 36 kg"
+descricao: "Cosco Progress não tem ISOFIX: instala com o cinto de 3 pontos e vai de 0 a 36 kg. Veja pontos fortes, defeitos e para quem vale a pena."
+h1: "Cosco Progress é boa? Review da cadeirinha 0 a 36 kg"
 data: "2026-10-31"
 atualizado: "2026-10-31"
 video:
@@ -26,9 +26,9 @@ faq:
     r: "Não. Ela instala só com o cinto de segurança do carro, em todas as fases, e também não tem top tether nem perna de apoio."
 ---
 
-> **Resposta rápida:** a Progress é a cadeira que a gente indicaria para quem quer gastar pouco, tem carro sem ISOFIX ou divide a cadeira entre dois carros. O porém é que tudo depende do cinto do carro: instalada com folga, ela perde boa parte da proteção, e de costas só vai até 13 kg.
+> **Resposta rápida:** a Cosco Progress não tem ISOFIX. Instala só com o cinto de 3 pontos e vai de 0 a 36 kg. A gente indicaria para quem quer a faixa de entrada, tem carro sem ISOFIX ou divide a cadeira entre dois carros. O porém é a instalação: com folga no cinto, ela perde boa parte da proteção, e de costas só vai até 13 kg.
 
-Peso, posições e alturas do apoio de cabeça foram tirados da ficha da Cosco. O que é impressão de uso vem da nossa equipe.
+Peso, posições e alturas do apoio de cabeça foram tirados da ficha da Cosco. O que a equipe comparou no manual e nas avaliações de compradores está no texto.
 
 ## Por que a cadeira mais vendida pede mais cuidado?
 

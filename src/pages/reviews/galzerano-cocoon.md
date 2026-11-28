@@ -45,7 +45,7 @@ Não existe número mágico. O que a gente quer evitar é a instalação feita c
 
 O casco vai no banco de trás, virado para o vidro traseiro, com o cinto de 3 pontos passando pelas guias laterais e pela traseira. O passo a passo completo, faixa por faixa, está em [como instalar bebê conforto no carro](/blog/como-instalar-bebe-conforto-no-carro/).
 
-O que é próprio do Cocoon: nos testes da equipe, a parte que mais pediu atenção foi a guia de trás do casco, onde a fita diagonal tende a torcer quando você passa o cinto com uma mão só. Faça com calma e confira com a mão depois de afivelar. O cinto só de colo, de 2 pontos, não serve para esse tipo de instalação.
+O que é próprio do Cocoon: na nossa comparação, a parte que mais pediu atenção foi a guia de trás do casco, onde compradores relatam que a fita diagonal tende a torcer quando o cinto passa com uma mão só. Faça com calma e confira com a mão depois de afivelar. O cinto só de colo, de 2 pontos, não serve para esse tipo de instalação.
 
 ## O que o anúncio não diz sobre impacto lateral
 

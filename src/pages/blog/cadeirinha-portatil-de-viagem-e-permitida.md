@@ -104,3 +104,7 @@ Os assentos mais leves estão na lista de [melhor assento de elevação](/melhor
 - [Inmetro: assentos de elevação são dispositivos de retenção](https://www.gov.br/inmetro/pt-br/acesso-a-informacao/perguntas-frequentes/avaliacao-da-conformidade/dispositivos-de-retencao-para-criancas/assentos-de-elevacao-sao-considerados-como-dispositivos-de-retencao)
 - [Agência Gov (com informações do Inmetro): orientações para escolher o bebê conforto, 21/01/2026](https://agenciagov.ebc.com.br/noticias/202601/bebe-conforto-cadeirinha-assento-elevacao-seguranca-crianca)
 - [AAP, HealthyChildren.org: "Car Seats: Information for Families", atualizado em 16/04/2026](https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Car-Safety-Seats-Information-for-Families.aspx)
+
+## No mesmo assunto
+
+Se o deslocamento for de avião, as regras mudam: o guia de [cadeirinha no avião](/blog/cadeirinha-no-aviao/) separa o que pode ir a bordo do que se despacha.

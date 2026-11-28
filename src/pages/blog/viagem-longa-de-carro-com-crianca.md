@@ -121,3 +121,7 @@ E uma regra que vale em qualquer parada: **nunca deixe a criança sozinha no car
 - AAP, HealthyChildren.org, "Holiday Travel Safety Tips for Parents With Young Kids", Jennifer Shu, atualizado em 04/12/2025.
 - AAP, HealthyChildren.org, "Car Sickness", atualizado em 23/12/2025.
 - Cleveland Clinic, "When Can Babies Have Water?", 12/09/2023.
+
+## No mesmo assunto
+
+Enjoo no caminho longo é comum. O que ajuda está em [criança enjoa no carro](/blog/crianca-enjoa-no-carro/).

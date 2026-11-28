@@ -58,10 +58,10 @@ export const CATEGORIAS: Record<Categoria, { nome: string; lista: string }> = {
 };
 
 export const FAIXAS_PRECO: Record<number, string> = {
-  1: 'até R$ 500',
-  2: 'R$ 500 a R$ 1.000',
-  3: 'R$ 1.000 a R$ 2.000',
-  4: 'acima de R$ 2.000',
+  1: 'Entrada',
+  2: 'Intermediária',
+  3: 'Premium',
+  4: 'Mais alta',
 };
 
 export const urlReview = (slug: string) => `/reviews/${slug}/`;

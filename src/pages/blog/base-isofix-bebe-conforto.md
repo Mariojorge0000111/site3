@@ -105,7 +105,7 @@ Se a base passou por uma batida, veja antes [o que fazer com a cadeirinha depois
 
 ## O que a gente faria
 
-**Carro com ISOFIX, piso liberado para perna de apoio e rotina puxada:** o [Maxi-Cosi Pebble 360 Pro²](/reviews/maxi-cosi-pebble-360-pro/). A base ISOFIX com perna de apoio deixa pouca margem para erro, e o giro ajuda a colocar o bebê sem se dobrar. É o mais caro da nossa lista: entre R$ 3.100 e R$ 3.500 no Mercado Livre em out/2026.
+**Carro com ISOFIX, piso liberado para perna de apoio e rotina puxada:** o [Maxi-Cosi Pebble 360 Pro²](/reviews/maxi-cosi-pebble-360-pro/). A base ISOFIX com perna de apoio deixa pouca margem para erro, e o giro ajuda a colocar o bebê sem se dobrar. É o mais caro da nossa lista: faixa mais alta.
 
 **Carro sem ISOFIX ou com piso que não aceita perna de apoio:** o [Maxi-Cosi Citi²](/reviews/maxi-cosi-citi-2/), com base presa pelo cinto. Exige mais capricho na instalação, mas é feita uma vez só.
 
@@ -119,3 +119,7 @@ Os quatro estão no ranking de [melhor bebê conforto](/melhor-bebe-conforto/). 
 - Fundación Mapfre, "Current ECE R44 regulation" (categorias universal, ISOFIX universal com top tether e cadeiras de veículo específico): fundacionmapfre.org.
 - Kia, manual do proprietário, "Suitability of each seating position for belted & ISOFIX Child Restraint Systems": ownersmanual.kia.com.
 - RoSPA, Child Car Seats, "Isofix seats": childcarseats.org.uk.
+
+## No mesmo assunto
+
+Se o carro nem tem ISOFIX, comece por [bebê conforto com base ou sem base](/blog/bebe-conforto-com-base-ou-sem-base/) antes de olhar a base.

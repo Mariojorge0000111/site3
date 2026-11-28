@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Post.astro
-titulo: "Cadeirinha para criança de 5 anos: o que usar"
-descricao: "Qual cadeirinha usar com 5 anos? O que a lei exige, o peso nessa idade, assento com ou sem encosto e como ver se o cinto do carro passa no lugar certo."
+titulo: "Qual cadeirinha usar com 5 anos? Assento ou cadeirinha"
+descricao: "Com 5 anos a lei pede assento de elevação ou cadeirinha. Se ainda cabe no cinto de 5 pontos, ele protege mais. Veja qual escolher e como saber."
 h1: "Cadeirinha para criança de 5 anos: assento de elevação com ou sem encosto e como conferir o cinto"
 intro: "Aos 5 anos, a lei exige assento de elevação ou cadeirinha: só o cinto do carro dá multa. Muitas crianças dessa idade estão perto dos 18 kg, onde o cinto de 5 pontos do grupo 1 costuma acabar. Para quem já passou, o próximo passo é o assento com encosto."
 categoria: "Como escolher"
@@ -93,7 +93,7 @@ Se a criança passa a faixa do ombro por trás das costas ou por baixo do braço
 
 ## O que a gente faria
 
-**Criança de 5 anos que já passou do cinto de 5 pontos, orçamento curto:** o [Burigotto Protege Fix](/reviews/burigotto-protege-fix/), de 15 a 36 kg, com encosto removível e ganchos ISOFIX, segundo o fabricante. Custa entre R$ 200 e R$ 380 no Mercado Livre (out/2026). O anúncio não informa proteção lateral reforçada.
+**Criança de 5 anos que já passou do cinto de 5 pontos, orçamento curto:** o [Burigotto Protege Fix](/reviews/burigotto-protege-fix/), de 15 a 36 kg, com encosto removível e ganchos ISOFIX, segundo o fabricante. Fica na faixa de entrada. O anúncio não informa proteção lateral reforçada.
 
 **Família com multigrupo em casa:** usaria o modo de assento da própria cadeira. [Safety 1st Multifix](/reviews/safety-1st-multifix/), [Cosco Evolutty 360 X](/reviews/cosco-evolutty-360-x/) e [Joie Every Stage FX](/reviews/joie-every-stage-fx/) vão até 36 kg, segundo os fabricantes.
 
@@ -109,3 +109,21 @@ A comparação completa está em [melhor assento de elevação](/melhor-assento-
 - [Inmetro: assentos de elevação são dispositivos de retenção](https://www.gov.br/inmetro/pt-br/acesso-a-informacao/perguntas-frequentes/avaliacao-da-conformidade/dispositivos-de-retencao-para-criancas/assentos-de-elevacao-sao-considerados-como-dispositivos-de-retencao)
 - [OMS: peso por idade, meninos](https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-for-age/sft-wfa-boys-z-0-5.pdf?sfvrsn=c735bc54_11) e [meninas](https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/weight-for-age/sft-wfa-girls-z-0-5.pdf?sfvrsn=6606c085_11)
 - [OMS: altura por idade de 2 a 5 anos, meninos](https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/length-height-for-age/sft_lhfa_boys_z_2_5.pdf?sfvrsn=e70e3a87_7) e [meninas](https://cdn.who.int/media/docs/default-source/child-growth/child-growth-standards/indicators/length-height-for-age/sft_lhfa_girls_z_2_5.pdf?sfvrsn=72bff814_9)
+
+## No mesmo assunto
+
+Um ano depois, a dúvida muda de novo: veja [cadeirinha para criança de 6 anos](/blog/cadeirinha-para-crianca-de-6-anos/).
+
+Dois anos à frente, [cadeirinha para criança de 7 anos](/blog/cadeirinha-para-crianca-de-7-anos/) é a página da última fase antes do cinto sozinho.
+
+Nessa idade é comum o braço escapar da alça. O que fazer está em [criança tira o braço do cinto da cadeirinha](/blog/crianca-tira-o-braco-do-cinto-da-cadeirinha/).
+
+Dois anos antes, [cadeirinha para criança de 3 anos](/blog/cadeirinha-para-crianca-de-3-anos/) ainda está na fase da cadeirinha, não do assento.
+
+Nessa idade o enjoo aparece mais. Veja [criança enjoa no carro](/blog/crianca-enjoa-no-carro/).
+
+Se a viagem é longa, [viagem longa de carro com criança](/blog/viagem-longa-de-carro-com-crianca/) junta paradas, sono e cinto.
+
+Três anos antes, [cadeirinha para criança de 2 anos](/blog/cadeirinha-para-crianca-de-2-anos/) ainda discute virar de frente, não o assento.
+
+Um ano antes, [cadeirinha para criança de 4 anos ou assento](/blog/cadeirinha-para-crianca-de-4-anos/) é a primeira idade em que o assento entra na regra.
