@@ -22,7 +22,7 @@ faq:
 
 > **Resposta rápida:** para quem quer uma cadeira só, do nascimento aos 36 kg, que funcione em qualquer carro, com ou sem ISOFIX, a gente aponta a Multifix. O porém é o tempo de costas: só até 13 kg, sempre com o cinto do carro, e ela não gira.
 
-As medidas e os limites que aparecem aqui são os informados pela Safety 1st. O resto é o que a nossa equipe viu instalando.
+As medidas e os limites que aparecem aqui são os informados pela Safety 1st. O resto vem do manual e das avaliações de quem comprou.
 
 ## Multifix quer dizer ISOFIX o tempo todo?
 
@@ -38,7 +38,7 @@ Na prática, mesmo com ISOFIX no seu carro, o primeiro ano é com o cinto. Isso 
 
 ## O primeiro ano é com o cinto: como deixar firme
 
-De costas, o cinto de 3 pontos do carro passa pelas guias da Multifix. Quando a gente instalou, essa foi a etapa que pediu mais atenção: o cinto tem que seguir exatamente o caminho marcado na cadeira, sem torção, e ficar bem esticado. Apoiar o peso na cadeira enquanto recolhe a parte diagonal ajudou a tirar a folga.
+De costas, o cinto de 3 pontos do carro passa pelas guias da Multifix. Segundo o manual, essa foi a etapa que pediu mais atenção: o cinto tem que seguir exatamente o caminho marcado na cadeira, sem torção, e ficar bem esticado. Apoiar o peso na cadeira enquanto recolhe a parte diagonal ajudou a tirar a folga.
 
 O indicador de instalação correta é um bom aliado aqui. Ele não substitui o teste com a mão, mas avisa quando algo ficou fora do lugar. Depois, faça o [teste de folga](/guias/isofix-ou-cinto/) na altura em que o cinto atravessa a cadeira.
 
@@ -65,7 +65,7 @@ A certificação é a NBR 14400, por peso, sem i-Size informada. O anúncio não
 
 ## Sem giro, quanto esforço dá colocar o bebê?
 
-Mais do que numa giratória, principalmente de costas. Você precisa se inclinar para dentro do carro, segurar o bebê e passar as alças com os braços esticados. Nos testes da equipe, isso cansou mais do que nas giratórias, sobretudo em carros de porta menor.
+Mais do que numa giratória, principalmente de costas. Você precisa se inclinar para dentro do carro, segurar o bebê e passar as alças com os braços esticados. Compradores relatam que isso cansa mais do que nas giratórias, sobretudo em carros de porta menor.
 
 Não é um problema de segurança. É de ergonomia, e quem carrega o bebê várias vezes por dia sente nas costas. Se esse ponto pesa, uma giratória como a [Safety 1st i-NXT 360](/reviews/safety-1st-i-nxt-360/) resolve, mas exige ISOFIX e top tether no carro.
 

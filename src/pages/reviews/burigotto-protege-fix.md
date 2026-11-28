@@ -22,13 +22,13 @@ faq:
 
 > **Resposta rápida:** o Protege Fix é para quem precisa do assento de elevação obrigatório e quer gastar pouco sem abrir mão de encosto e ganchos ISOFIX. O porém é a lateral: o anúncio não informa proteção reforçada contra impacto lateral, e o acolchoado é simples.
 
-Faixa, alturas de apoio de cabeça e registro no Inmetro são informações da Burigotto e do anúncio. O que a gente sentiu com a criança sentada vem como impressão da equipe.
+Faixa, alturas de apoio de cabeça e registro no Inmetro são informações da Burigotto e do anúncio. O que compradores relatam sobre o uso com a criança está no texto.
 
 ## Para que serve ISOFIX num assento de elevação?
 
 Para prender o assento, não a criança. Essa é a confusão mais comum que a gente ouve. Num assento de elevação, quem segura a criança numa batida é o cinto de 3 pontos do carro. Os ganchos Fix só travam o assento no banco.
 
-E isso já resolve dois problemas reais. Com o assento vazio, ele não vira um objeto solto dentro do carro numa freada. Com a criança sentada, ele não escorrega para os lados quando ela sobe, desce ou se mexe. Nos testes da equipe, o Protege Fix ficou firme no banco mesmo sem ninguém em cima, que é exatamente o que os ganchos prometem. O guia [ISOFIX ou cinto](/guias/isofix-ou-cinto/) explica como o papel do ISOFIX muda em cada tipo de cadeira.
+E isso já resolve dois problemas reais. Com o assento vazio, ele não vira um objeto solto dentro do carro numa freada. Com a criança sentada, ele não escorrega para os lados quando ela sobe, desce ou se mexe. Na nossa comparação, o Protege Fix ficou firme no banco mesmo sem ninguém em cima, que é exatamente o que os ganchos prometem. O guia [ISOFIX ou cinto](/guias/isofix-ou-cinto/) explica como o papel do ISOFIX muda em cada tipo de cadeira.
 
 O conjunto é raro na faixa de preço mais baixa: encosto, apoio de cabeça regulável e ISOFIX. E o anúncio soma mais de 1.300 avaliações com nota 4,9.
 

@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Artigo.astro
-titulo: "Lei da cadeirinha 2026: tabela de idade e multa"
-descricao: "Lei da cadeirinha 2026: tabela de idade, peso e 1,45 m, multa (R$ 293,47), Uber/táxi e até quando usar cadeirinha, assento ou só o cinto."
+titulo: "Lei da cadeirinha 2026: tabela de idade, peso e multa"
+descricao: "Tabela 2026 da lei da cadeirinha: bebê conforto, cadeirinha e assento por idade, peso e altura (1,45 m), multa de R$ 293,47 e o que mudou."
 h1: "Lei da cadeirinha 2026: o que a Resolução 819 exige, até que idade usar e qual é a multa"
 intro: "A regra vale para toda criança com menos de 10 anos que ainda não chegou a 1,45 m: ela viaja no banco de trás, no dispositivo certo para a fase. Quem descumpre leva multa gravíssima de R$ 293,47, 7 pontos na CNH e tem o carro retido até corrigir."
 data: "2026-10-31"
@@ -144,3 +144,9 @@ Se quiser comparar faixa de uso, tipo de instalação e registro de vários mode
 - [Inmetro: qual legislação estabelece o regulamento](https://www.gov.br/inmetro/pt-br/acesso-a-informacao/perguntas-frequentes/avaliacao-da-conformidade/dispositivos-de-retencao-para-criancas/qual-legislacao-estabelece-o-regulamento-para-dispositivos-de-retencao-para-criancas)
 - [Inmetro: assentos de elevação são dispositivos de retenção](https://www.gov.br/inmetro/pt-br/acesso-a-informacao/perguntas-frequentes/avaliacao-da-conformidade/dispositivos-de-retencao-para-criancas/assentos-de-elevacao-sao-considerados-como-dispositivos-de-retencao)
 - [Agência Gov: Inmetro reforça orientações para o transporte seguro de crianças](https://agenciagov.ebc.com.br/noticias/202509/cadeirinha-salva-vidas-inmetro-reforca-orientacoes-para-transporte-seguro-de-criancas)
+
+## No mesmo assunto
+
+No carro vale esta tabela. No avião, o guia de [cadeirinha no avião](/blog/cadeirinha-no-aviao/) explica o que a Latam, a Gol e a Azul pedem.
+
+O que circulou como mudança grande está destrinchado em [lei da cadeirinha mudou em 2026](/blog/lei-da-cadeirinha-mudou-2026/).

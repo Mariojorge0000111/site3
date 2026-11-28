@@ -1,9 +1,9 @@
 ---
 layout: ../../layouts/Artigo.astro
-titulo: "ISOFIX ou cinto: qual usar e como instalar (2026)"
-descricao: "Isofix ou cinto na cadeirinha? O que é Isofix, top tether e perna de apoio, como saber se o carro tem e o passo a passo de instalação em 2026."
-h1: "ISOFIX ou cinto: o que é ISOFIX, top tether e como instalar a cadeirinha do jeito certo"
-intro: "Os dois sistemas são aceitos pela norma brasileira e pelo Inmetro. O ISOFIX tem a vantagem de deixar menos espaço para erro na instalação; o cinto funciona em qualquer carro, mas exige mais atenção para ficar firme."
+titulo: "O que é ISOFIX? Isofix ou cinto na cadeirinha"
+descricao: "ISOFIX são dois engates de metal no banco do carro que prendem a cadeirinha sem o cinto. Veja se seu carro tem e quando o cinto é melhor."
+h1: "O que é ISOFIX? Isofix ou cinto na cadeirinha"
+intro: "ISOFIX são dois engates de metal no vão do banco que prendem a cadeirinha sem o cinto do carro. Os dois sistemas são aceitos pela norma e pelo Inmetro. O ISOFIX deixa menos espaço para erro; o cinto funciona em qualquer carro, mas pede mais atenção para ficar firme."
 data: "2026-10-31"
 atualizado: "2026-10-31"
 secao: { nome: "Guias", url: "/guias/" }
@@ -87,7 +87,7 @@ Siga sempre o manual da sua cadeira. Os passos abaixo são o roteiro geral:
 5. **Trave o cinto**, se a cadeira tiver trava própria para isso, conforme o manual.
 6. **Faça o teste de folga.**
 
-Nos testes da equipe com cadeiras instaladas só pelo cinto, passar a fita pelas guias e esticar até a cadeira ficar firme exige atenção e alguma força. Vale treinar antes do dia em que o bebê chega. Para o bebê conforto, com e sem base, a gente fez um roteiro próprio em [como instalar o bebê conforto no carro](/blog/como-instalar-bebe-conforto-no-carro/).
+Em cadeiras instaladas só pelo cinto, o manual pede passar a fita pelas guias e esticar até a cadeira ficar firme. Isso exige atenção e alguma força. Vale treinar antes do dia em que o bebê chega. Para o bebê conforto, com e sem base, a gente fez um roteiro próprio em [como instalar o bebê conforto no carro](/blog/como-instalar-bebe-conforto-no-carro/).
 
 ## O teste de folga
 
@@ -118,7 +118,7 @@ A [Safety 1st Multifix, que aceita ISOFIX e cinto do carro](/reviews/safety-1st-
 
 ### ISOFIX em todas as fases
 
-A [Litet All Stages Fix 2.0, com ISOFIX de costas e de frente](/reviews/litet-all-stages-fix-2/) usa ISOFIX em todos os grupos, inclusive de costas, e tem top tether, segundo o fabricante. Fica numa faixa de preço de cadeira básica (referência de outubro de 2026, entre R$ 730 e R$ 920 no Mercado Livre; o valor muda). O ponto contra é a norma: R44/04, sem o teste de impacto lateral que a i-Size exige.
+A [Litet All Stages Fix 2.0, com ISOFIX de costas e de frente](/reviews/litet-all-stages-fix-2/) usa ISOFIX em todos os grupos, inclusive de costas, e tem top tether, segundo o fabricante. Fica numa faixa de preço de cadeira básica (referência de outubro de 2026, faixa intermediária; o valor muda). O ponto contra é a norma: R44/04, sem o teste de impacto lateral que a i-Size exige.
 
 Para filtrar outros modelos pelo tipo de instalação, use o [comparador de cadeirinhas por ISOFIX e faixa de uso](/comparador/).
 
@@ -141,3 +141,7 @@ Para filtrar outros modelos pelo tipo de instalação, use o [comparador de cade
 - [Inmetro: a NBR 14400 vale para cadeiras com ISOFIX ou com cinto](https://www.gov.br/inmetro/pt-br/acesso-a-informacao/perguntas-frequentes/avaliacao-da-conformidade/dispositivos-de-retencao-para-criancas/o-que-a-medida-regulatoria-para-dispositivos-de-retencao-para-criancas-estabelece)
 - [Inmetro: qual legislação estabelece o regulamento (Portaria nº 246/2021)](https://www.gov.br/inmetro/pt-br/acesso-a-informacao/perguntas-frequentes/avaliacao-da-conformidade/dispositivos-de-retencao-para-criancas/qual-legislacao-estabelece-o-regulamento-para-dispositivos-de-retencao-para-criancas)
 - [Resolução Contran nº 819/2021 (Ministério dos Transportes)](https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao8192021.pdf/@@display-file/file)
+
+## No mesmo assunto
+
+O selo universal tem limite de peso e de carro. O detalhe está em [ISOFIX universal serve em qualquer carro](/blog/isofix-universal-serve-em-qualquer-carro/).

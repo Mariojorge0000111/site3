@@ -73,18 +73,18 @@ Os sinais para fazer essa conversão estão em [como ajustar o cinto da cadeirin
 
 ## Tabela comparativa: a faixa 9 a 36 kg em 8 modelos
 
-Dados dos fabricantes. Preço é faixa de referência no Mercado Livre em out/2026.
+Dados dos fabricantes. A coluna Faixa não traz valor: confira o preço no anúncio.
 
-| Modelo | De costas (dentro de 9 a 36 kg) | Frente com 5 pontos | ISOFIX em qual fase | Terceiro ponto | Peso da cadeira | Preço de referência |
+| Modelo | De costas (dentro de 9 a 36 kg) | Frente com 5 pontos | ISOFIX em qual fase | Terceiro ponto | Peso da cadeira | Faixa |
 |---|---|---|---|---|---|---|
-| Fisher-Price MaxGuard | Não vai | A partir de 76 cm | Sim | Top tether | 7 kg | R$ 920 a R$ 1.580 |
-| Kiddo Supra 360 | Até 18 kg | Sim | Sim | Top tether com alarme | Não informado de forma consistente | R$ 1.380 a R$ 1.710 |
-| Cosco Evolutty 360 X | Até 18 kg | Sim | Obrigatório nos grupos 0+ e 1, opcional nos 2 e 3 | Top tether (grupos 0+ e 1) | Não informado | R$ 920 a R$ 1.800 |
-| Maxi-Cosi Spinel 360 | Até 18 kg | Sim | Sim | Perna de apoio | 14 kg | R$ 2.450 a R$ 4.600 |
-| Joie Every Stage FX | Até 18 kg, com cinto do carro | Sim | Só de frente, a partir de 9 kg | Não tem | 14 kg | R$ 1.430 a R$ 3.000 |
-| Litet All Stages Fix 2.0 | Até 13 kg | Sim | Todas | Top tether | 8,5 kg | R$ 730 a R$ 920 |
-| Safety 1st Multifix | Até 13 kg, com cinto do carro | Sim | Só de frente, a partir do grupo 1 | Não tem | 10,3 kg | R$ 840 a R$ 1.000 |
-| Cosco Progress | Até 13 kg | Sim | Não tem | Não tem | 5,8 kg | R$ 520 a R$ 780 |
+| Fisher-Price MaxGuard | Não vai | A partir de 76 cm | Sim | Top tether | 7 kg | faixa intermediária |
+| Kiddo Supra 360 | Até 18 kg | Sim | Sim | Top tether com alarme | Não informado de forma consistente | faixa premium |
+| Cosco Evolutty 360 X | Até 18 kg | Sim | Obrigatório nos grupos 0+ e 1, opcional nos 2 e 3 | Top tether (grupos 0+ e 1) | Não informado | faixa intermediária |
+| Maxi-Cosi Spinel 360 | Até 18 kg | Sim | Sim | Perna de apoio | 14 kg | faixa mais alta |
+| Joie Every Stage FX | Até 18 kg, com cinto do carro | Sim | Só de frente, a partir de 9 kg | Não tem | 14 kg | faixa premium |
+| Litet All Stages Fix 2.0 | Até 13 kg | Sim | Todas | Top tether | 8,5 kg | faixa intermediária |
+| Safety 1st Multifix | Até 13 kg, com cinto do carro | Sim | Só de frente, a partir do grupo 1 | Não tem | 10,3 kg | faixa intermediária |
+| Cosco Progress | Até 13 kg | Sim | Não tem | Não tem | 5,8 kg | faixa de entrada |
 
 Para cruzar esses números com os outros modelos do site, use o [comparador de cadeirinhas](/comparador/).
 
@@ -131,3 +131,7 @@ A lista das [melhores cadeirinhas para carro](/melhor-cadeirinha-para-carro/) tr
 
 - [Resolução Contran nº 819/2021 (Ministério dos Transportes)](https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao8192021.pdf/@@display-file/file)
 - [AAP, HealthyChildren.org: "Car Seats: Information for Families", atualizado em 16/04/2026](https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Car-Safety-Seats-Information-for-Families.aspx)
+
+## No mesmo assunto
+
+Quem ainda está no bebê e quer uma cadeira só pode olhar a [melhor cadeirinha 0 a 36 kg](/blog/melhor-cadeirinha-0-a-36-kg/), que inclui a fase de costas desde o nascimento.

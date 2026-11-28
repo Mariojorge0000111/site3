@@ -75,12 +75,12 @@ Entre os bebês conforto que a equipe analisou, o Maxi-Cosi Citi² vem com base 
 
 Pelos preços de referência que a gente levantou no Mercado Livre em outubro de 2026:
 
-| Modelo | Base | Faixa de preço (out/2026) |
+| Modelo | Base | Faixa |
 |---|---|---|
-| Cosco Wizz | Sem base na versão mais barata; há versão com base | Entre R$ 280 e R$ 470, conforme a cor e a versão com base |
-| Galzerano Cocoon | Base 8185 vendida à parte | Entre R$ 410 e R$ 530 (sem a base) |
-| Maxi-Cosi Citi² | Base com cinto inclusa | Entre R$ 1.030 e R$ 1.800 |
-| Maxi-Cosi Pebble 360 Pro² | Base ISOFIX com perna de apoio | Entre R$ 3.100 e R$ 3.500 |
+| Cosco Wizz | Sem base na versão mais barata; há versão com base | faixa de entrada |
+| Galzerano Cocoon | Base 8185 vendida à parte | faixa de entrada (sem a base) |
+| Maxi-Cosi Citi² | Base com cinto inclusa | faixa intermediária |
+| Maxi-Cosi Pebble 360 Pro² | Base ISOFIX com perna de apoio | faixa mais alta |
 
 Preço muda toda semana, então use a tabela só como ordem de grandeza. A conta honesta é somar a base, se ela for vendida à parte, e comparar com o modelo que já vem com ela.
 

@@ -42,7 +42,6 @@ Dados dos fabricantes e dos anúncios. Preços de referência no Mercado Livre e
 | Gira | Sim | Sim |
 | Peso da cadeira | 11,5 kg | 11 kg |
 | Inmetro | Sim, nº 005197/2021 | Sim (confira o nº na etiqueta) |
-| Faixa de preço (out/2026) | R$ 1.250 a R$ 1.950 | R$ 1.190 a R$ 1.360 |
 | Nossa nota | 9,1 | 8,9 |
 
 ## Onde elas são iguais
@@ -75,18 +74,16 @@ A ShieldPro 360 não traz um número no anúncio, só "fase bebê, no limite de 
 
 Há outras lacunas de informação na ShieldPro. O anúncio cita a certificação do Inmetro sem o número de registro, e a Fisher-Price é marca nova no segmento de giratórias, com poucas avaliações publicadas. Isso não afeta a homologação, mas dá menos base para prever durabilidade do giro e do tecido. A i-NXT 360 informa o registro (nº 005197/2021) e tem dupla homologação, R129 e NBR 14400:2020. O texto sobre [o selo do Inmetro](/blog/selo-inmetro-cadeirinha-como-consultar/) mostra onde achar o número na etiqueta.
 
-## Preço
+## O que muda de uma para a outra
 
-Na referência de out/2026, a ShieldPro 360 ia de R$ 1.190 a R$ 1.360, a menor faixa entre as giratórias i-Size que avaliamos e próxima da de multigrupos comuns. A i-NXT 360 ia de R$ 1.250 a R$ 1.950.
-
-As faixas se encostam na parte de baixo. Se você achar a i-NXT 360 perto do piso da faixa, a diferença para a ShieldPro fica pequena, e as reclinações passam a sair quase de graça. Vale comparar vendedores antes de decidir.
+A ShieldPro 360 é a giratória i-Size de entrada da lista, perto das multigrupos. A i-NXT 360 fica um degrau acima. As duas mudam de um vendedor para outro: compare os anúncios antes de decidir. Se a i-NXT aparecer por um valor parecido com o da ShieldPro, as reclinações a mais pesam mais na escolha.
 
 ## Para quem é cada uma
 
 **i-NXT 360 é para quem:**
 - viaja de estrada com o bebê e quer ajustar a reclinação nas paradas sem desinstalar a cadeira;
 - quer o limite de costas e o registro do Inmetro claros desde o anúncio;
-- encontrou um preço perto do piso da faixa.
+- encontrou as duas por um valor parecido no anúncio.
 
 **ShieldPro 360 é para quem:**
 - roda mais na cidade, em trajetos curtos;
@@ -108,3 +105,7 @@ As duas estão na lista de [melhor cadeirinha giratória 360](/melhor-cadeirinha
 ## Fontes
 
 - [Inmetro: normas de ensaio aceitas para cadeirinhas (NBR 14400, R129 e FMVSS 213)](https://www.gov.br/inmetro/pt-br/acesso-a-informacao/perguntas-frequentes/avaliacao-da-conformidade/dispositivos-de-retencao-para-criancas/o-que-a-medida-regulatoria-para-dispositivos-de-retencao-para-criancas-estabelece)
+
+## No mesmo assunto
+
+A ShieldPro é uma das três Fisher-Price da lista. O panorama está em [cadeirinha Fisher-Price](/blog/cadeirinha-fisher-price-qual-a-melhor/).

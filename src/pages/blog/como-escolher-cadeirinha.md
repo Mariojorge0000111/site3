@@ -64,9 +64,9 @@ Cadeira de costas ocupa muito comprimento. Antes de comprar, sente no banco da f
 
 Pelos preços de referência que a gente levantou no Mercado Livre em outubro de 2026, dá para separar em três patamares:
 
-- **Até cerca de R$ 1.000:** bebês conforto de entrada, como o Cosco Wizz (entre R$ 280 e R$ 470), e multigrupos como Cosco Progress (entre R$ 520 e R$ 780), Litet All Stages Fix 2.0 (entre R$ 730 e R$ 920) e Multifix (entre R$ 840 e R$ 1.000).
-- **De R$ 1.000 a R$ 2.000:** giratórias e cadeiras i-Size, como a i-NXT 360 (entre R$ 1.250 e R$ 1.950) e a Fisher-Price MaxGuard (entre R$ 920 e R$ 1.580, na fronteira entre as duas faixas).
-- **Acima de R$ 2.000:** modelos premium, com mais tempo de costas ou base giratória.
+- **Até cerca da faixa intermediária:** bebês conforto de entrada, como o Cosco Wizz (faixa de entrada), e multigrupos como Cosco Progress (faixa de entrada), Litet All Stages Fix 2.0 (faixa intermediária) e Multifix (faixa intermediária).
+- **faixa intermediária:** giratórias e cadeiras i-Size, como a i-NXT 360 (faixa premium) e a Fisher-Price MaxGuard (faixa intermediária, na fronteira entre as duas faixas).
+- **Acima da faixa premium:** modelos premium, com mais tempo de costas ou base giratória.
 
 Os preços mudam. Use as faixas como referência e confira no anúncio.
 
@@ -105,7 +105,7 @@ Para ver vários modelos lado a lado por faixa de uso, ISOFIX e preço, use o [c
 
 **Orçamento curto, carro sem ISOFIX ou cadeira que troca de carro:** o [Cosco Progress](/reviews/cosco-progress/). É leve, vai do nascimento aos 36 kg e serve em qualquer banco com cinto de 3 pontos. O ponto de atenção é esticar bem o cinto.
 
-**Carro com ISOFIX e top tether, sem querer passar de R$ 1.000:** a [Litet All Stages Fix 2.0](/reviews/litet-all-stages-fix-2/), com ISOFIX em todas as fases, inclusive de costas, segundo o fabricante. A norma é a R44/04, mais antiga.
+**Carro com ISOFIX e top tether, sem querer passar da faixa intermediária:** a [Litet All Stages Fix 2.0](/reviews/litet-all-stages-fix-2/), com ISOFIX em todas as fases, inclusive de costas, segundo o fabricante. A norma é a R44/04, mais antiga.
 
 **Um carro com ISOFIX e outro sem:** a [Safety 1st Multifix](/reviews/safety-1st-multifix/), que aceita os dois sistemas. De costas, ela vai com cinto.
 

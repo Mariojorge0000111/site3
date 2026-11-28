@@ -137,3 +137,7 @@ A concha do bebê conforto segue as mesmas regras da cadeirinha: capa conforme o
 **Se o bebê ainda está no bebê conforto:** escolheria um modelo com acolchoado removível, como o Galzerano Cocoon. Bebê pequeno regurgita, e capa que sai fácil faz diferença. Os outros modelos estão em [melhores bebês conforto](/melhor-bebe-conforto/).
 
 **Se a cadeira já tem alguns anos de uso:** aproveitaria a limpeza para conferir a data de fabricação na etiqueta e o estado das cintas e do plástico. O artigo sobre [validade da cadeirinha e cadeirinha usada](/blog/validade-da-cadeirinha-e-cadeirinha-usada/) mostra o que observar.
+
+## No mesmo assunto
+
+Na hora de reinstalar depois da lavagem, confira se o [ISOFIX universal serve em qualquer carro](/blog/isofix-universal-serve-em-qualquer-carro/) antes de contar com o encaixe em qualquer banco.

@@ -40,18 +40,18 @@ Três motivos:
 
 ## As marcas pelo que os modelos oferecem
 
-| Marca | Modelos avaliados | O que se destaca | Ponto de atenção | Faixa (out/2026) |
+| Marca | Modelos avaliados | O que se destaca | Ponto de atenção | Faixa |
 |---|---|---|---|---|
-| Safety 1st | Multifix, i-NXT 360 | Maior nota da nossa lista (i-NXT 360, 9,1); Multifix aceita ISOFIX ou cinto | i-NXT 360 exige top tether; nenhuma passa de 13 kg de costas | R$ 840 a R$ 1.950 |
-| Maxi-Cosi | Citi², Pebble 360 Pro², Spinel 360 | Perna de apoio, base giratória, de costas até 18 kg na Spinel | Os preços mais altos da lista | R$ 1.030 a R$ 4.600 |
-| Fisher-Price | GrowStages, MaxGuard, ShieldPro 360 | Linha toda i-Size, com ISOFIX e top tether | Poucas avaliações; exige top tether | R$ 920 a R$ 1.900 |
-| Cosco Kids | Wizz, Progress, Evolutty 360 X | Preço baixo e milhares de avaliações | Wizz e Progress sem ISOFIX | R$ 280 a R$ 1.800 |
-| Joie | Every Stage FX | De costas até 18 kg sem giro, com o cinto do carro | 14 kg; preço oscila entre vendedores | R$ 1.430 a R$ 3.000 |
-| Litet | All Stages Fix 2.0 | ISOFIX de costas e de frente, com top tether, abaixo de R$ 1.000 | Norma R44/04, sem teste lateral | R$ 730 a R$ 920 |
-| Kiddo | Supra 360 | Top tether com alarme e costas até 18 kg | Poucas avaliações, acabamento simples | R$ 1.380 a R$ 1.710 |
-| Galzerano | Cocoon | Bebê conforto nacional barato | Sem base na caixa, sem ISOFIX | R$ 410 a R$ 530 |
-| Burigotto | Protege Fix | Assento de elevação com ganchos ISOFIX barato | Anúncio não informa proteção lateral reforçada | R$ 200 a R$ 380 |
-| Chicco | GoFit Plus | Booster leve, trava nas âncoras ISOFIX | Sem encosto; só a partir de 18 kg | R$ 640 a R$ 790 |
+| Safety 1st | Multifix, i-NXT 360 | Maior nota da nossa lista (i-NXT 360, 9,1); Multifix aceita ISOFIX ou cinto | i-NXT 360 exige top tether; nenhuma passa de 13 kg de costas | faixa intermediária |
+| Maxi-Cosi | Citi², Pebble 360 Pro², Spinel 360 | Perna de apoio, base giratória, de costas até 18 kg na Spinel | Os preços mais altos da lista | faixa intermediária |
+| Fisher-Price | GrowStages, MaxGuard, ShieldPro 360 | Linha toda i-Size, com ISOFIX e top tether | Poucas avaliações; exige top tether | faixa intermediária |
+| Cosco Kids | Wizz, Progress, Evolutty 360 X | Preço baixo e milhares de avaliações | Wizz e Progress sem ISOFIX | faixa de entrada |
+| Joie | Every Stage FX | De costas até 18 kg sem giro, com o cinto do carro | 14 kg; preço oscila entre vendedores | faixa premium |
+| Litet | All Stages Fix 2.0 | ISOFIX de costas e de frente, com top tether, na faixa de entrada | Norma R44/04, sem teste lateral | faixa intermediária |
+| Kiddo | Supra 360 | Top tether com alarme e costas até 18 kg | Poucas avaliações, acabamento simples | faixa premium |
+| Galzerano | Cocoon | Bebê conforto nacional barato | Sem base na caixa, sem ISOFIX | faixa de entrada |
+| Burigotto | Protege Fix | Assento de elevação com ganchos ISOFIX barato | Anúncio não informa proteção lateral reforçada | faixa de entrada |
+| Chicco | GoFit Plus | Booster leve, trava nas âncoras ISOFIX | Sem encosto; só a partir de 18 kg | faixa de entrada |
 
 Dados dos fabricantes e anúncios. Preços de referência no Mercado Livre em outubro de 2026.
 
@@ -69,7 +69,7 @@ Um dado curioso: Maxi-Cosi, Safety 1st e Cosco fazem parte do mesmo grupo, a Dor
 
 **Cosco Kids** tem os produtos com mais avaliações de compradores: a [Progress](/reviews/cosco-progress/) passava de 12 mil e o Wizz de quase 6 mil, ambos com nota 4,9. São cadeiras certificadas, simples e baratas, que dependem do cinto do carro. A Evolutty 360 X leva a marca ao segmento das giratórias.
 
-**Litet** se destaca por um modelo: a [All Stages Fix 2.0](/reviews/litet-all-stages-fix-2/), com ISOFIX também de costas e top tether, por menos de R$ 1.000. Segue a R44/04, mais antiga que a i-Size.
+**Litet** se destaca por um modelo: a [All Stages Fix 2.0](/reviews/litet-all-stages-fix-2/), com ISOFIX também de costas e top tether, por menos da faixa intermediária. Segue a R44/04, mais antiga que a i-Size.
 
 ## Tempo de costas: Joie e Kiddo
 
@@ -96,7 +96,7 @@ Aqui a marca aparece com um produto específico. O [Galzerano Cocoon](/reviews/g
 
 **Máximo de tempo de costas sem ISOFIX:** [Joie Every Stage FX](/reviews/joie-every-stage-fx/).
 
-**ISOFIX desde o nascimento abaixo de R$ 1.000:** [Litet All Stages Fix 2.0](/reviews/litet-all-stages-fix-2/).
+**ISOFIX desde o nascimento na faixa de entrada:** [Litet All Stages Fix 2.0](/reviews/litet-all-stages-fix-2/).
 
 **Orçamento curto ou cadeira que muda de carro:** [Cosco Progress](/reviews/cosco-progress/).
 

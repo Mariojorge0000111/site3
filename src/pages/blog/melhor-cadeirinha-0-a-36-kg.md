@@ -42,20 +42,20 @@ O que a faixa não diz é como a cadeira se comporta em cada fase. Duas cadeiras
 
 ## Tabela comparativa das cadeirinhas 0 a 36 kg
 
-Dados do fabricante ou do anúncio. Preço é faixa de referência no Mercado Livre em out/2026 e muda com frequência.
+Dados do fabricante ou do anúncio. A coluna Faixa não traz valor: o preço muda de anúncio para anúncio.
 
-| Modelo | De costas até | ISOFIX | Terceiro ponto | Giro | Norma | Peso | Preço de referência |
+| Modelo | De costas até | ISOFIX | Terceiro ponto | Giro | Norma | Peso | Faixa |
 |---|---|---|---|---|---|---|---|
-| Safety 1st i-NXT 360 | 87 cm (cerca de 13 kg) | Obrigatório nos grupos 0+ e 1 | Top tether (0+ e 1) | Sim | R129 e NBR 14400 | 11,5 kg | R$ 1.250 a R$ 1.950 |
-| Cosco Progress | 13 kg (grupo 0+) | Não | Não tem | Não | NBR 14400 | 5,8 kg | R$ 520 a R$ 780 |
-| Maxi-Cosi Spinel 360 | 18 kg | Sim | Perna de apoio | Sim | NBR 14400 | 14 kg | R$ 2.450 a R$ 4.600 |
-| Safety 1st Multifix | 13 kg, com cinto | Só de frente, a partir do grupo 1 | Não tem | Não | NBR 14400 | 10,3 kg | R$ 840 a R$ 1.000 |
-| Litet All Stages Fix 2.0 | 13 kg (grupo 0+) | Em todos os grupos | Top tether | Não | R44/04 | 8,5 kg | R$ 730 a R$ 920 |
-| Fisher-Price ShieldPro 360 | Limite de altura do manual | Sim | Top tether | Sim | R129 | 11 kg | R$ 1.190 a R$ 1.360 |
-| Cosco Evolutty 360 X | 18 kg | Obrigatório nos grupos 0+ e 1 | Top tether (0+ e 1) | Sim | NBR 14400 | Não informado | R$ 920 a R$ 1.800 |
-| Kiddo Supra 360 | 18 kg | Sim | Top tether com alarme | Sim | NBR 14400 | Não informado | R$ 1.380 a R$ 1.710 |
-| Joie Every Stage FX | 18 kg, com cinto | Só de frente, a partir de 9 kg | Não tem | Não | R44/04 | 14 kg | R$ 1.430 a R$ 3.000 |
-| Fisher-Price GrowStages | Limite de altura do manual | Sim | Top tether | Não | R129 | Não informado | R$ 1.260 a R$ 1.900 |
+| Safety 1st i-NXT 360 | 87 cm (cerca de 13 kg) | Obrigatório nos grupos 0+ e 1 | Top tether (0+ e 1) | Sim | R129 e NBR 14400 | 11,5 kg | faixa premium |
+| Cosco Progress | 13 kg (grupo 0+) | Não | Não tem | Não | NBR 14400 | 5,8 kg | faixa de entrada |
+| Maxi-Cosi Spinel 360 | 18 kg | Sim | Perna de apoio | Sim | NBR 14400 | 14 kg | faixa mais alta |
+| Safety 1st Multifix | 13 kg, com cinto | Só de frente, a partir do grupo 1 | Não tem | Não | NBR 14400 | 10,3 kg | faixa intermediária |
+| Litet All Stages Fix 2.0 | 13 kg (grupo 0+) | Em todos os grupos | Top tether | Não | R44/04 | 8,5 kg | faixa intermediária |
+| Fisher-Price ShieldPro 360 | Limite de altura do manual | Sim | Top tether | Sim | R129 | 11 kg | faixa premium |
+| Cosco Evolutty 360 X | 18 kg | Obrigatório nos grupos 0+ e 1 | Top tether (0+ e 1) | Sim | NBR 14400 | Não informado | faixa intermediária |
+| Kiddo Supra 360 | 18 kg | Sim | Top tether com alarme | Sim | NBR 14400 | Não informado | faixa premium |
+| Joie Every Stage FX | 18 kg, com cinto | Só de frente, a partir de 9 kg | Não tem | Não | R44/04 | 14 kg | faixa premium |
+| Fisher-Price GrowStages | Limite de altura do manual | Sim | Top tether | Não | R129 | Não informado | faixa premium |
 
 Todas têm registro no Inmetro, segundo o fabricante ou o anúncio. Nas que não trazem o número no anúncio, confira na etiqueta.
 
@@ -73,7 +73,7 @@ A Academia Americana de Pediatria (AAP) orienta manter a criança de costas pelo
 
 ### 3. Você precisa do giro?
 
-O giro 360° deixa virar o assento para a porta e prender a criança de frente para você. Nos testes da equipe, foi o recurso que mais poupou as costas de quem coloca e tira o bebê várias vezes por dia, principalmente em carro baixo. Ele encarece e pesa. A lista de [giratórias 360](/melhor-cadeirinha-giratoria-360/) aprofunda essa escolha.
+O giro 360° deixa virar o assento para a porta e prender a criança de frente para você. Compradores relatam que o giro é o recurso que mais poupa as costas de quem coloca e tira o bebê várias vezes por dia, principalmente em carro baixo. Ele encarece e pesa. A lista de [giratórias 360](/melhor-cadeirinha-giratoria-360/) aprofunda essa escolha.
 
 ## Uma cadeira só compensa?
 
@@ -105,7 +105,7 @@ Para comparar outros detalhes lado a lado, como faixa de uso e tipo de instalaç
 
 **Carro sem ISOFIX, ou cadeira que reveza entre carros:** a [Cosco Progress](/reviews/cosco-progress/), leve e a mais barata da tabela. Se um dos carros tem ISOFIX, a [Safety 1st Multifix](/reviews/safety-1st-multifix/) usa os dois sistemas. As duas estão frente a frente em [Multifix vs Progress](/comparativos/safety-1st-multifix-vs-cosco-progress/).
 
-**Quer ISOFIX em todas as fases gastando pouco:** a [Litet All Stages Fix 2.0](/reviews/litet-all-stages-fix-2/), com top tether, abaixo de R$ 1.000 na referência de out/2026. Segue a R44/04, sem o teste lateral da i-Size.
+**Quer ISOFIX em todas as fases gastando pouco:** a [Litet All Stages Fix 2.0](/reviews/litet-all-stages-fix-2/), com top tether, na faixa de entrada na referência. Segue a R44/04, sem o teste lateral da i-Size.
 
 **Quer i-Size gastando menos:** a [Fisher-Price ShieldPro 360](/reviews/fisher-price-shieldpro-360/) gira, ou a [Fisher-Price GrowStages](/reviews/fisher-price-growstages/), que não gira. Nas duas, confira no manual até quantos centímetros vão de costas.
 

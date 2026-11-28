@@ -89,12 +89,12 @@ Se o banco da frente está encostando na cadeirinha, a questão é de espaço. V
 
 Muitas cadeiras do nascimento aos 36 kg só vão de costas até 13 kg. Se você quer manter a criança de costas mais tempo, o limite de costas pesa mais do que qualquer outro item da ficha. Entre os modelos que a gente avaliou, estes chegam a 18 kg de costas, segundo os fabricantes:
 
-| Modelo | De costas até | Instalação | Faixa de preço (out/2026) |
+| Modelo | De costas até | Instalação | Faixa |
 |---|---|---|---|
-| Maxi-Cosi Spinel 360 | 18 kg | ISOFIX com perna de apoio | Entre R$ 2.450 e R$ 4.600 |
-| Joie Every Stage FX | 18 kg | Cinto do carro (de costas) | Entre R$ 1.430 e R$ 3.000 |
-| Cosco Evolutty 360 X | 18 kg | ISOFIX com top tether | Entre R$ 920 e R$ 1.800 |
-| Kiddo Supra 360 | 18 kg | ISOFIX com top tether com alarme | Entre R$ 1.380 e R$ 1.710 |
+| Maxi-Cosi Spinel 360 | 18 kg | ISOFIX com perna de apoio | faixa mais alta |
+| Joie Every Stage FX | 18 kg | Cinto do carro (de costas) | faixa premium |
+| Cosco Evolutty 360 X | 18 kg | ISOFIX com top tether | faixa intermediária |
+| Kiddo Supra 360 | 18 kg | ISOFIX com top tether com alarme | faixa premium |
 
 O [comparador de cadeirinhas](/comparador/) mostra o limite de costas de todos os modelos lado a lado.
 

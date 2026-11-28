@@ -67,7 +67,7 @@ Entre os que a gente avaliou:
 
 - **[Cosco Wizz](/reviews/cosco-wizz/):** 2,5 kg, o mais leve e o mais barato, com quase 6 mil avaliações no Mercado Livre. A versão mais em conta não tem base, então a instalação com cinto é refeita a cada saída.
 - **[Maxi-Cosi Citi²](/reviews/maxi-cosi-citi-2/):** vem com base presa pelo cinto do carro, para quem não tem ISOFIX e sai todo dia. Caro para um bebê conforto sem ISOFIX.
-- **[Maxi-Cosi Pebble 360 Pro²](/reviews/maxi-cosi-pebble-360-pro/):** i-Size, de 40 a 87 cm, com base ISOFIX e perna de apoio que gira, segundo o fabricante. Aceita prematuros a partir de 40 cm. É o mais completo e o mais caro, entre R$ 3.100 e R$ 3.500 em out/2026.
+- **[Maxi-Cosi Pebble 360 Pro²](/reviews/maxi-cosi-pebble-360-pro/):** i-Size, de 40 a 87 cm, com base ISOFIX e perna de apoio que gira, segundo o fabricante. Aceita prematuros a partir de 40 cm. É o mais completo e o mais caro, faixa mais alta.
 
 ## Quando a cadeira desde o nascimento ganha
 

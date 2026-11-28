@@ -1,13 +1,22 @@
 ---
-// Google Analytics 4 (propriedade cadeirinhabebe.com.br) + eventos de clique em botões e links
+// Google Analytics 4 (propriedade cadeirinhabebe.com.br) + eventos de clique em botões e links.
+// O gtag.js só entra depois do load, para não disputar o conteúdo. A fila do dataLayer
+// guarda page_view e cliques até o script chegar.
 const ID = 'G-9EG8F3WXVY';
 ---
-<script is:inline async src={`https://www.googletagmanager.com/gtag/js?id=${ID}`}></script>
 <script is:inline define:vars={{ ID }}>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
+  window.gtag = gtag;
   gtag('js', new Date());
   gtag('config', ID);
+  const carregar = () => {
+    const s = document.createElement('script');
+    s.async = true;
+    s.src = 'https://www.googletagmanager.com/gtag/js?id=' + ID;
+    document.head.appendChild(s);
+  };
+  addEventListener('load', () => ('requestIdleCallback' in window ? requestIdleCallback(carregar, { timeout: 3000 }) : setTimeout(carregar, 1500)), { once: true });
 
   // Um único ouvinte para todos os cliques em links e botões do site.
   // Eventos: clique_afiliado (loja: mercado_livre | amazon), clique_whatsapp, clique_youtube,

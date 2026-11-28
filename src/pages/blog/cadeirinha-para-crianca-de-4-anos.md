@@ -97,7 +97,7 @@ A vontade da criança de "ir como os maiores" não está na lista. Nem o anivers
 
 **Criança de 4 anos que ainda cabe no cinto de 5 pontos:** ficaria nele. Se precisar comprar agora, escolheria uma multigrupo que já vira assento depois, para não comprar duas vezes. A [Safety 1st Multifix](/reviews/safety-1st-multifix/) instala com ISOFIX ou com cinto e tem indicador de instalação. A [Litet All Stages Fix 2.0](/reviews/litet-all-stages-fix-2/) usa ISOFIX com top tether em todas as fases, segundo o fabricante. O [Cosco Progress](/reviews/cosco-progress/) é a mais barata, instalada só com o cinto do carro.
 
-**Criança que passou do cinto de 5 pontos:** iria para um assento com encosto. O [Burigotto Protege Fix](/reviews/burigotto-protege-fix/) vai de 15 a 36 kg, tem ganchos ISOFIX e custa entre R$ 200 e R$ 380 no Mercado Livre (out/2026). O ponto fraco é que o anúncio não informa proteção lateral reforçada.
+**Criança que passou do cinto de 5 pontos:** iria para um assento com encosto. O [Burigotto Protege Fix](/reviews/burigotto-protege-fix/) vai de 15 a 36 kg, tem ganchos ISOFIX e fica na faixa de entrada. O ponto fraco é que o anúncio não informa proteção lateral reforçada.
 
 **Família que prefere i-Size:** a [Fisher-Price MaxGuard](/reviews/fisher-price-maxguard/) acompanha de 76 a 150 cm, com ISOFIX e top tether.
 

@@ -22,7 +22,7 @@ faq:
 
 > **Resposta rápida:** o Pebble 360 Pro² é para a família que vai prender e soltar o bebê no carro várias vezes por dia, tem ISOFIX e pode pagar caro pelo bebê conforto mais completo da nossa lista. O porém é a conta por mês de uso: ele custa o triplo de um bebê conforto comum e serve só até cerca de 15 meses.
 
-Faixa em centímetros, compatibilidade com prematuros e reclinação no carrinho são informações da Maxi-Cosi. As impressões de uso vêm dos testes da equipe, sem medição própria.
+Faixa em centímetros, compatibilidade com prematuros e reclinação no carrinho são informações da Maxi-Cosi. O que compradores relatam entra como complemento, sem medição própria da equipe.
 
 ## Vale pagar o triplo de um bebê conforto comum?
 
@@ -34,7 +34,7 @@ Pense também no que vem depois. Aos 15 meses, mais ou menos, você compra outra
 
 ## Quem mais aproveita o giro
 
-Quem prende o cinto de 5 pontos muitas vezes por semana. Com o casco virado para a porta e deslizado na sua direção, você ajusta as alças de frente para o bebê, sem se dobrar para alcançar o fundo do banco. Nos testes da equipe, foi o recurso que mais aliviou a coluna, e o ganho ficou maior em porta traseira estreita.
+Quem prende o cinto de 5 pontos muitas vezes por semana. Com o casco virado para a porta e deslizado na sua direção, você ajusta as alças de frente para o bebê, sem se dobrar para alcançar o fundo do banco. Na nossa comparação, foi o recurso que mais aliviou a coluna, e o ganho ficou maior em porta traseira estreita.
 
 Também aproveita quem já planeja um travel system (casco que sai do carro e vai direto para o carrinho). A reclinação total vale no carrinho, então o bebê que dormiu no trajeto pode continuar deitado.
 
@@ -83,3 +83,7 @@ O peso do casco não aparece no anúncio, e a gente não vai chutar um número. 
 - **Uso esporádico ou orçamento curto:** o [Cosco Wizz](/reviews/cosco-wizz/) e o [Galzerano Cocoon](/reviews/galzerano-cocoon/) cumprem a certificação por uma fração do preço.
 
 O ranking de [melhor bebê conforto](/melhor-bebe-conforto/) mostra os quatro lado a lado. Com o Pebble em casa, confira na etiqueta o número de registro do Inmetro e localize no manual do carro os pontos ISOFIX antes de montar a base.
+
+## No mesmo assunto
+
+Para comparar o Pebble com o Citi² e a Spinel, veja [cadeirinha Maxi-Cosi](/blog/cadeirinha-maxi-cosi-qual-a-melhor/).

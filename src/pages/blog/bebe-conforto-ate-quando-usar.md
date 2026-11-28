@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Post.astro
-titulo: "Bebê conforto até quando usar? Peso e sinais"
-descricao: "Bebê conforto até quando usar em 2026? Limite de peso e altura, sinais de que já não cabe e qual cadeirinha escolher depois, sem virar cedo."
+titulo: "Bebê conforto até quantos meses? Peso, altura e sinais"
+descricao: "Em geral até 12 ou 15 meses, mas o limite é o peso (13 kg) ou a altura do modelo. Veja os sinais de que o bebê passou do bebê conforto."
 h1: "Bebê conforto até quando usar: o limite real, os sinais de troca e a cadeira certa para depois"
 intro: "Use o bebê conforto até o bebê atingir o limite de peso ou de altura do manual, o que vier primeiro. Na maioria dos modelos vendidos no Brasil, o teto é 13 kg, o que costuma acontecer perto de 1 ano."
 categoria: "Uso e cuidados"
@@ -111,3 +111,21 @@ A gente detalha essa decisão no texto sobre [quando virar a cadeirinha de frent
 **Se o orçamento está apertado:** pensaria em pular o bebê conforto e comprar uma única cadeira do nascimento aos 36 kg que vá de costas até 18 kg. Você faz uma compra só e não perde tempo de costas. Se nem isso couber agora, o Cosco Wizz para os primeiros meses e o Cosco Progress depois cumprem a lei, sabendo que a virada vem aos 13 kg. O [comparador de cadeirinhas](/comparador/) mostra o limite de costas de cada modelo lado a lado.
 
 **Se o bebê vai entrar e sair do carro dormindo várias vezes por dia:** ficaria com um bebê conforto com base, que você encaixa e desencaixa sem reinstalar o cinto. O Maxi-Cosi Citi² resolve em carro sem ISOFIX, e o Pebble 360 Pro é o mais completo, com uso até 87 cm. Os dois estão no ranking dos [melhores bebês conforto](/melhor-bebe-conforto/).
+
+## No mesmo assunto
+
+No começo, a pergunta é outra: [bebê conforto na saída da maternidade](/blog/bebe-conforto-saida-da-maternidade/) e o que não pode faltar nesse dia.
+
+Enquanto o bebê usa o casco, o [redutor de bebê conforto](/blog/redutor-de-bebe-conforto/) original ajuda a preencher o espaço. Um acessório genérico, não.
+
+Se o bebê nasceu antes do tempo, leia [bebê conforto para prematuro](/blog/bebe-conforto-para-prematuro/) antes de contar só os 13 kg.
+
+Encaixe no carrinho não estende o prazo do casco. Veja [bebê conforto no carrinho](/blog/bebe-conforto-no-carrinho-travel-system/).
+
+Sair do casco por volta de 1 ano tem página própria: [cadeirinha para bebê de 1 ano](/blog/cadeirinha-para-bebe-de-1-ano/).
+
+Se o choro começou junto com o casco pequeno, [bebê chora na cadeirinha](/blog/bebe-chora-na-cadeirinha/) ajuda a distinguir troca de fase e ajuste.
+
+Enquanto o bebê vai de costas, [espelho para bebê conforto](/blog/espelho-para-bebe-conforto/) mostra onde prender o espelho sem atrapalhar o airbag.
+
+A cadeira que vem depois do casco, na faixa de entrada, está em [cadeirinha barata até R$ 1.000](/blog/cadeirinha-barata-ate-1000-reais/).

@@ -90,7 +90,7 @@ Se a sua cadeira é **multigrupo** (0 a 36 kg), ela não acaba: muda de modo. Qu
 
 **Criança de 3 anos numa cadeira que ainda vai de costas para o peso dela:** manteria de costas. Se ainda vai comprar e quer esse tempo extra, a [Maxi-Cosi Spinel 360](/reviews/maxi-cosi-spinel-360/) vai de costas até 18 kg com perna de apoio, segundo o fabricante.
 
-**Criança já de frente, carro com ou sem ISOFIX:** uma multigrupo que acompanhe até os 36 kg resolve esta fase e a próxima. A [Safety 1st Multifix](/reviews/safety-1st-multifix/) instala com ISOFIX ou com o cinto do carro e tem indicador de instalação correta. A [Litet All Stages Fix 2.0](/reviews/litet-all-stages-fix-2/) usa ISOFIX com top tether e custa entre R$ 730 e R$ 920 no Mercado Livre (out/2026). O [Cosco Progress](/reviews/cosco-progress/) é a opção mais barata, mas instala só com o cinto do carro e pede mais atenção para ficar firme.
+**Criança já de frente, carro com ou sem ISOFIX:** uma multigrupo que acompanhe até os 36 kg resolve esta fase e a próxima. A [Safety 1st Multifix](/reviews/safety-1st-multifix/) instala com ISOFIX ou com o cinto do carro e tem indicador de instalação correta. A [Litet All Stages Fix 2.0](/reviews/litet-all-stages-fix-2/) usa ISOFIX com top tether e fica na faixa intermediária. O [Cosco Progress](/reviews/cosco-progress/) é a opção mais barata, mas instala só com o cinto do carro e pede mais atenção para ficar firme.
 
 **Família que já tem bebê conforto e quer uma segunda cadeira só de frente:** a [Fisher-Price MaxGuard](/reviews/fisher-price-maxguard/) é i-Size, vai de 76 a 150 cm e tem ISOFIX e top tether. Não reclina.
 

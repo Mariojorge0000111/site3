@@ -1,8 +1,8 @@
 ---
 layout: ../../layouts/Post.astro
-titulo: "Cadeirinha tem validade? Prazo, etiqueta e usada (2026)"
-descricao: "Cadeirinha e bebê conforto têm validade? Não há prazo em lei: o fabricante define, em média até 6 anos. Veja onde achar a data e quando comprar nova."
-h1: "Validade da cadeirinha e cadeirinha usada: o que a lei não diz, o que o fabricante diz e como decidir"
+titulo: "Cadeirinha tem validade? Onde ver a data e comprar usada"
+descricao: "Não há prazo em lei: quem define é o fabricante, e a Abramet fala em cerca de 6 anos. Veja a data na etiqueta e o que conferir antes de comprar usada."
+h1: "Cadeirinha tem validade? Onde ver a data e comprar usada"
 intro: "No Brasil não existe prazo legal de validade para cadeirinha: quem define é o fabricante, no manual ou na etiqueta. Cadeirinha usada pode valer a pena se tiver registro no Inmetro, estiver inteira, tiver pouco tempo de uso e nunca tiver passado por batida moderada ou grave."
 categoria: "Uso e cuidados"
 tags: ["cadeirinha", "lei"]

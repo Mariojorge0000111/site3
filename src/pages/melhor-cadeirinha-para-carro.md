@@ -1,7 +1,7 @@
 ---
 layout: ../layouts/Lista.astro
-titulo: "Melhor cadeirinha para carro 2026: 10 avaliadas"
-descricao: "Melhor cadeirinha para carro em 2026: 10 modelos de 0 a 36 kg com ISOFIX, giro e i-Size avaliados pela equipe, com prós, contras e o que a lei exige."
+titulo: "Melhor cadeirinha para carro 2026: 10 modelos comparados"
+descricao: "As 10 melhores cadeirinhas para carro de 2026 por fase (0 a 36 kg, i-Size, 360 e ISOFIX), com prós, contras e para quem vale cada uma."
 h1: "Melhor cadeirinha para carro em 2026: 10 modelos de 0 a 36 kg avaliados"
 migalha: "Melhor cadeirinha para carro"
 tituloAnalises: "As 10 cadeiras, uma por uma"
@@ -56,7 +56,7 @@ faq:
 
 > **Resposta rápida:** duas perguntas decidem esta compra antes de qualquer marca. A primeira é se o banco de trás tem ISOFIX e ponto de top tether, porque sem eles metade desta lista não instala. A segunda é quantas vezes por semana a cadeira vai mudar de carro: se for sempre, peso leve e instalação por cinto valem mais que giro.
 
-Os números técnicos desta página (faixas, peso, reclinações, limite de costas) são do fabricante ou do anúncio. O que a gente percebeu instalando e usando aparece como impressão da equipe. Abaixo, as perguntas na ordem em que a gente responderia se estivesse no seu lugar.
+Os números técnicos desta página (faixas, peso, reclinações, limite de costas) são do fabricante ou do anúncio. O que a equipe comparou no manual e nas avaliações de compradores está indicado no texto. Abaixo, as perguntas na ordem em que a gente responderia se estivesse no seu lugar.
 
 ## Seu carro tem ISOFIX e top tether?
 
@@ -149,3 +149,63 @@ A equipe analisou e comparou cada modelo, com ISOFIX e com cinto quando a cadeir
 - **Família que quer manter de costas até os 18 kg:** a [Maxi-Cosi Spinel 360](/reviews/maxi-cosi-spinel-360/), se o assoalho aceitar a perna de apoio. Sem giro e gastando menos, a [Joie Every Stage FX](/reviews/joie-every-stage-fx/) chega aos mesmos 18 kg de costas, instalada com cinto nessa fase.
 
 Qualquer que seja a escolha, a cadeira que protege é a que está bem presa em todas as viagens, não a mais cara da página.
+
+## Dúvidas comuns antes de comprar
+
+Se a ideia é uma cadeira só do nascimento aos 36 kg, o texto da [melhor cadeirinha 0 a 36 kg](/blog/melhor-cadeirinha-0-a-36-kg/) compara tempo de costas, ISOFIX e giro.
+
+Para a idade escolar, o texto de [cadeirinha para criança de 6 anos](/blog/cadeirinha-para-crianca-de-6-anos/) mostra quando o assento com encosto ainda é o lugar certo.
+
+A lei que define a fase de cada cadeira é a mesma de antes, com os ajustes explicados em [lei da cadeirinha mudou em 2026](/blog/lei-da-cadeirinha-mudou-2026/).
+
+Perto do fim da fase de assento, [cadeirinha para criança de 7 anos](/blog/cadeirinha-para-crianca-de-7-anos/) explica até quando a lei ainda pede dispositivo.
+
+Quem já fechou a marca pode ler [cadeirinha Safety 1st](/blog/cadeirinha-safety-1st-qual-a-melhor/) para separar Multifix, i-NXT 360 e o restante da linha.
+
+Na Maxi-Cosi, o texto de [cadeirinha Maxi-Cosi](/blog/cadeirinha-maxi-cosi-qual-a-melhor/) separa bebê conforto, base giratória e a Spinel.
+
+ISOFIX no anúncio não garante o seu carro: [ISOFIX universal serve em qualquer carro](/blog/isofix-universal-serve-em-qualquer-carro/).
+
+Em promoção, o cuidado não é o desconto e sim o anúncio certo: [cadeirinha na Black Friday](/blog/cadeirinha-black-friday/).
+
+Se você ainda está no começo da escolha, [como escolher cadeirinha](/blog/como-escolher-cadeirinha/) organiza peso, carro e fase antes da lista.
+
+Criança que escapa do cinto por cima do ombro tem página própria: [criança tira o braço do cinto da cadeirinha](/blog/crianca-tira-o-braco-do-cinto-da-cadeirinha/).
+
+No bebê conforto de entrada, o comparativo [Citi² ou Cosco Wizz](/comparativos/maxi-cosi-citi-2-vs-cosco-wizz/) separa base inclusa e cinto simples.
+
+Dois filhos no mesmo banco pedem medida, não só nota: [duas cadeirinhas no banco de trás](/blog/duas-cadeirinhas-no-banco-de-tras/).
+
+Aos 3 anos a cadeira ainda é de cinto de 5 pontos na maior parte dos casos: [cadeirinha para criança de 3 anos](/blog/cadeirinha-para-crianca-de-3-anos/).
+
+Perto de 1 ano muita família troca de dispositivo cedo demais. O texto de [cadeirinha para bebê de 1 ano](/blog/cadeirinha-para-bebe-de-1-ano/) segura essa pressa.
+
+Nota alta não é a mesma coisa que a melhor conta. [cadeirinha custo-benefício](/blog/cadeirinha-custo-beneficio/) ordena o que cada degrau entrega.
+
+Criança que vomita na viagem tem causa e jeito de aliviar: [criança enjoa no carro](/blog/crianca-enjoa-no-carro/).
+
+Estrada de várias horas pede pausa e cadeira certa: [viagem longa de carro com criança](/blog/viagem-longa-de-carro-com-crianca/).
+
+ISOFIX desde o nascimento ou costas até 18 kg: o comparativo [Litet All Stages Fix 2.0 ou Joie Every Stage FX](/comparativos/litet-all-stages-fix-2-vs-joie-every-stage-fx/) decide isso.
+
+A maior parte do risco mora na instalação, não no modelo. A lista de [erros comuns com a cadeirinha e como corrigir](/blog/erros-comuns-com-a-cadeirinha/) é curta e direta.
+
+Aos 2 anos a prioridade ainda é costas, se a cadeira permitir: [cadeirinha para criança de 2 anos](/blog/cadeirinha-para-crianca-de-2-anos/).
+
+No verão, capa e tecido mudam o conforto sem mudar a segurança: [cadeirinha no calor](/blog/cadeirinha-no-calor/).
+
+Protetor de banco só presta se não atrapalhar o cinto nem o ISOFIX: [protetor de banco para cadeirinha](/blog/protetor-de-banco-para-cadeirinha/).
+
+Na Fisher-Price, [cadeirinha Fisher-Price](/blog/cadeirinha-fisher-price-qual-a-melhor/) separa ShieldPro 360, GrowStages e MaxGuard.
+
+Recém-nascido tem restrição de altura e de costas: [melhor cadeirinha para recém-nascido](/blog/melhor-cadeirinha-para-recem-nascido/).
+
+Reclinação de verdade é a que ajusta com a cadeira instalada: [melhor cadeirinha reclinável](/blog/melhor-cadeirinha-reclinavel/).
+
+Choro na cadeira tem causa comum e o que não resolve: [bebê chora na cadeirinha](/blog/bebe-chora-na-cadeirinha/).
+
+Quem tem teto de orçamento pode começar pela [cadeirinha barata até R$ 1.000](/blog/cadeirinha-barata-ate-1000-reais/), sem abrir mão do Inmetro.
+
+Acessório que não veio com a cadeira quase nunca foi previsto no ensaio: [acessórios de cadeirinha](/blog/acessorios-de-cadeirinha-o-que-e-seguro/).
+
+Aos 4 anos a lei já fala em assento, e o cinto de 5 pontos ainda pode caber: [cadeirinha para criança de 4 anos ou assento](/blog/cadeirinha-para-crianca-de-4-anos/).

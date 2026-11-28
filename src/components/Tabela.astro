@@ -23,7 +23,7 @@ const { produtos, selos = {} } = Astro.props;
           <td data-rotulo="ISOFIX">{p.isofix.split(' (')[0]}</td>
           <td data-rotulo="De costas">{p.costasAte}</td>
           <td data-rotulo="Nota" class="num">{p.nota.toFixed(1).replace('.', ',')}</td>
-          <td data-rotulo=""><a class="btn btn-ml" style="padding:8px 12px;font-size:.88rem" href={p.mlUrl} target="_blank" rel="sponsored nofollow noopener">Ver preço</a></td>
+          <td data-rotulo=""><a class="btn btn-ml" style="padding:8px 12px;font-size:.88rem" href={p.mlUrl} target="_blank" rel="sponsored nofollow noopener">Mercado Livre</a></td>
         </tr>
       ))}
     </tbody>

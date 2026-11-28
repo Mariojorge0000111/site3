@@ -43,7 +43,6 @@ As duas vão do nascimento aos 36 kg. A diferença está no carro que cada uma e
 | Peso | 10,3 kg | 11,5 kg |
 | Norma | NBR 14400 | R129 (i-Size) e NBR 14400:2020 |
 | Inmetro | Sim (confira o nº na etiqueta) | Sim, nº 005197/2021 |
-| Faixa de preço (out/2026) | R$ 840 a R$ 1.000 | R$ 1.250 a R$ 1.950 |
 | Nossa nota | 8,6 | 9,1 |
 
 Dados do fabricante e dos anúncios. Os preços são a referência no Mercado Livre em outubro de 2026.
@@ -76,7 +75,7 @@ O porém é o carro. Nos grupos 0+ e 1, ela só instala com ISOFIX e top tether 
 
 **Peso.** Praticamente empatadas: 10,3 kg contra 11,5 kg. Nenhuma é cadeira de revezar toda semana.
 
-**Preço.** A Multifix custava entre R$ 840 e R$ 1.000 em out/2026; a i-NXT 360, entre R$ 1.250 e R$ 1.950. A diferença paga o giro, a i-Size e a fixação completa desde o nascimento.
+**Preço.** A Multifix fica na faixa intermediária e a i-NXT 360 na premium. A diferença paga o giro, a i-Size e a fixação completa desde o nascimento.
 
 ## Na prática: qual cabe no seu carro
 

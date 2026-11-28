@@ -120,3 +120,7 @@ Nesses casos, o problema pode não ser enjoo de movimento.
 
 - Academia Americana de Pediatria (AAP), HealthyChildren.org, "Car Sickness", adaptado de *Caring for Your Baby and Young Child*, atualizado em 23/12/2025.
 - Resolução Contran nº 819/2021, art. 1º a 3º.
+
+## No mesmo assunto
+
+Para organizar o dia inteiro na estrada, [viagem longa de carro com criança](/blog/viagem-longa-de-carro-com-crianca/).

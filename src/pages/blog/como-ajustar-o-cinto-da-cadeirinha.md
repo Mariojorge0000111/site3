@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Post.astro
-titulo: "Como ajustar o cinto da cadeirinha (teste da pinça)"
-descricao: "Como ajustar o cinto da cadeirinha: altura das alças de costas e de frente, o teste da pinça e os erros que deixam a criança frouxa no assento."
+titulo: "Como ajustar, afrouxar e apertar o cinto da cadeirinha"
+descricao: "Passo a passo para afrouxar, apertar e subir o cinto de 5 pontos da cadeirinha, o teste da pinça e onde fica a alça de ajuste em cada marca."
 h1: "Como ajustar o cinto da cadeirinha: altura das alças, teste da pinça e os erros que deixam a criança solta"
 intro: "O cinto de 5 pontos da cadeirinha está certo quando as alças saem na altura certa dos ombros, passam retas, sem torção, e ficam tão firmes que você não consegue beliscar o tecido na altura do peito. Isso leva dois minutos e vale ser conferido a cada viagem."
 categoria: "Instalação"
@@ -103,3 +103,9 @@ Para comparar modelos pela facilidade de ajuste, a lista das [melhores cadeirinh
 - Academia Americana de Pediatria (AAP), HealthyChildren.org, orientações sobre cadeirinhas e "Winter Car Seat Safety Tips" (teste da pinça).
 - NHTSA, "Car Seats and Booster Seats": nhtsa.gov.
 - Resolução Contran nº 819/2021.
+
+## No mesmo assunto
+
+O cinto certo começa na compra. O roteiro de [como escolher cadeirinha](/blog/como-escolher-cadeirinha/) vem antes do ajuste fino.
+
+Se o ajuste está certo e mesmo assim o braço sai, veja [criança tira o braço do cinto da cadeirinha](/blog/crianca-tira-o-braco-do-cinto-da-cadeirinha/).

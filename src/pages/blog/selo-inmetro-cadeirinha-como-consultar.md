@@ -132,3 +132,7 @@ E, claro, devolva a compra. Uma cadeira sem certificação não tem como provar 
 - Inmetro, "Como realizar o registro dos dispositivos de retenção para crianças" e "Posso utilizar dispositivo de retenção importado?".
 - Agência Gov, "Cadeirinha salva vidas: Inmetro reforça orientações para transporte seguro de crianças" (setembro de 2025).
 - Governo do Espírito Santo, "Ipem-ES orienta para importância da consulta de objetos registrados".
+
+## No mesmo assunto
+
+O selo é um filtro, não a escolha inteira. O passo a passo de [como escolher cadeirinha](/blog/como-escolher-cadeirinha/) junta carro, fase e norma.

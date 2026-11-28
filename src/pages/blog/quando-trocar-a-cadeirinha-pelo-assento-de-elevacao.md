@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Post.astro
-titulo: "Quando trocar a cadeirinha pelo assento: 5 sinais"
-descricao: "Quando trocar a cadeirinha pelo assento de elevação: os 5 sinais que valem mais que a idade, o que a lei exige e o checklist da primeira viagem no assento."
+titulo: "Quando trocar a cadeirinha pelo assento de elevação?"
+descricao: "A partir de 4 anos e cerca de 18 kg, quando a criança passa do limite do cinto de 5 pontos. Sinais de que é hora e erros comuns na troca."
 h1: "Quando trocar a cadeirinha pelo assento de elevação: os sinais no corpo da criança e na etiqueta da cadeira"
 intro: "Troque a cadeirinha pelo assento de elevação quando aparecer um destes sinais: a criança passou do peso ou da altura máxima do cinto de 5 pontos, os ombros ficaram acima da última regulagem das alças ou as orelhas chegaram ao topo do encosto. E ela precisa conseguir ficar sentada direito a viagem inteira. Sem isso, a cadeirinha ainda protege mais."
 categoria: "Segurança"
@@ -28,7 +28,7 @@ O momento de trocar a cadeirinha pelo assento de elevação não está no calend
 
 Se nenhum desses sinais apareceu, a cadeirinha continua sendo o lugar mais seguro, seja qual for a idade.
 
-> **Resposta rápida:** troque quando aparecer pelo menos um sinal físico (peso ou altura máxima do cinto de 5 pontos, ombros acima das últimas fendas das alças, orelhas no topo do encosto) e a criança já conseguir ficar bem sentada a viagem toda. A AAP orienta manter o cinto de 5 pontos até o limite do fabricante e, de preferência, pelo menos até os 4 anos.
+> **Resposta rápida:** a troca costuma chegar a partir de 4 anos e cerca de 18 kg, quando a criança passa do limite do cinto de 5 pontos. Troque quando aparecer pelo menos um sinal físico (peso ou altura máxima das alças, ombros acima das últimas fendas, orelhas no topo do encosto) e ela já conseguir ficar bem sentada a viagem toda. A AAP orienta manter o cinto de 5 pontos até o limite do fabricante e, de preferência, pelo menos até os 4 anos.
 
 ## Por que os sinais valem mais que a idade
 

@@ -98,3 +98,7 @@ Dois lembretes. A exceção resolve a questão legal, mas o banco de trás conti
 ## Fontes
 
 - [Resolução Contran nº 819/2021 (Ministério dos Transportes)](https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao8192021.pdf/@@display-file/file), arts. 1º, 3º e 4º.
+
+## No mesmo assunto
+
+Antes de tentar três, vale ver o que já aperta em [duas cadeirinhas no banco de trás](/blog/duas-cadeirinhas-no-banco-de-tras/).

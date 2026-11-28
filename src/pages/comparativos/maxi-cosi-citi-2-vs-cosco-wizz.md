@@ -43,7 +43,6 @@ Dados dos fabricantes e dos anúncios. Preços de referência no Mercado Livre e
 | Norma | NBR 14400 | NBR 14400 |
 | Inmetro | Sim, nº 002992/2020 | Sim (confira o nº na etiqueta) |
 | Avaliações no Mercado Livre | Poucas | Quase 6 mil, nota 4,9 |
-| Faixa de preço (out/2026) | R$ 1.030 a R$ 1.800 | R$ 280 a R$ 470, conforme cor e versão com base |
 | Nossa nota | 8,1 | 8,1 |
 
 ## Onde eles são iguais
@@ -92,7 +91,7 @@ O Wizz tem duas vantagens fora do carro: a Cosco informa aprovação para uso em
 
 O Wizz tinha quase 6 mil avaliações com nota 4,9 no anúncio, um dos maiores volumes da categoria. O Citi² tinha poucas, então há menos experiência de outros compradores para consultar.
 
-Na faixa de preço, o Citi² ia de R$ 1.030 a R$ 1.800 e o Wizz de R$ 280 a R$ 470 em out/2026. A diferença paga, basicamente, a base inclusa e a marca.
+O Citi² fica na faixa intermediária e o Wizz na de entrada. A diferença paga, basicamente, a base inclusa e a marca.
 
 ## O que a gente faria
 

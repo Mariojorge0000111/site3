@@ -1,10 +1,10 @@
 ---
 layout: ../layouts/Lista.astro
-titulo: "Melhor bebê conforto 2026: 4 modelos avaliados"
-descricao: "Melhor bebê conforto de 2026: modelos com base ISOFIX, com base de cinto e sem base, até quando usar e quando vale ir direto para a cadeirinha."
+titulo: "Melhor bebê conforto 2026: modelos comparados com base"
+descricao: "Os melhores bebês conforto de 2026 comparados: peso, base ISOFIX ou cinto, encaixe em carrinho (travel system) e defeitos que compradores apontam."
 h1: "Melhor bebê conforto em 2026: com base ISOFIX, com base de cinto ou sem base"
 migalha: "Melhor bebê conforto"
-tituloAnalises: "Cada bebê conforto, com o que a gente viu"
+tituloAnalises: "Cada bebê conforto, com o que a equipe comparou"
 intro: "O **Maxi-Cosi Pebble 360 Pro²** é o melhor bebê conforto que avaliamos: tem base ISOFIX com perna de apoio, gira e segue a norma i-Size. Custa caro para um produto de uso curto, por isso o **Cosco Wizz** é a escolha de quem quer o básico certificado gastando pouco."
 data: "2026-10-31"
 atualizado: "2026-10-31"
@@ -128,3 +128,21 @@ A equipe analisou e comparou cada modelo, com base e sem base quando a versão p
 - **Orçamento curto ou uso eventual:** o [Cosco Wizz](/reviews/cosco-wizz/), de preferência na versão com base. Se preferir um nacional com capota e acolchoado que saem para lavar, a [Galzerano Cocoon](/reviews/galzerano-cocoon/) cumpre o mesmo papel.
 
 Em todos os casos, confira o registro do Inmetro na etiqueta do casco antes da primeira viagem.
+
+## Dúvidas comuns antes de comprar
+
+Quem vai voar com o casco pode ler [cadeirinha no avião](/blog/cadeirinha-no-aviao/) antes de despachar ou comprar o assento do bebê.
+
+Na alta da maternidade, o texto de [bebê conforto na saída da maternidade](/blog/bebe-conforto-saida-da-maternidade/) lista o que conferir antes de colocar o bebê no carro.
+
+Recém-nascido pequeno pede o [redutor de bebê conforto](/blog/redutor-de-bebe-conforto/) que veio com o modelo, não um avulso de outra marca.
+
+A dúvida seguinte, com ou sem base, está em [bebê conforto com base ou sem base](/blog/bebe-conforto-com-base-ou-sem-base/).
+
+Bebê prematuro tem limite de altura próprio: [bebê conforto para prematuro](/blog/bebe-conforto-para-prematuro/).
+
+Se o casco precisa encaixar no carrinho, [bebê conforto no carrinho](/blog/bebe-conforto-no-carrinho-travel-system/) explica o que é compatível de verdade.
+
+Bebê conforto, cadeirinha e assento não são a mesma coisa: [bebê conforto, cadeirinha e assento](/blog/diferenca-bebe-conforto-cadeirinha-assento-de-elevacao/).
+
+Espelho para ver o bebê só é seguro se não virar objeto solto: [espelho para bebê conforto](/blog/espelho-para-bebe-conforto/).

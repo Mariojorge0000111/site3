@@ -106,3 +106,7 @@ O que não vale é adiantar fase para ganhar espaço. Criança abaixo de 15 kg n
 ## Fontes
 
 - Resolução Contran nº 819/2021 (banco traseiro obrigatório e exceções).
+
+## No mesmo assunto
+
+Com duas cadeiras, um protetor grosso rouba espaço. Veja [protetor de banco para cadeirinha](/blog/protetor-de-banco-para-cadeirinha/).

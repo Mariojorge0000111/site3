@@ -44,7 +44,6 @@ Dados dos fabricantes e dos anúncios. Preços de referência no Mercado Livre e
 | Garantia | 5 anos, com registro no site | Sem garantia estendida informada |
 | Norma | NBR 14400 | NBR 14400 |
 | Inmetro | Sim, nº 005468/2021 | Sim (confira o nº na etiqueta) |
-| Faixa de preço (out/2026) | R$ 2.450 a R$ 4.600 | R$ 920 a R$ 1.800 |
 | Nossa nota | 8,8 | 8,7 |
 
 ## Onde elas são iguais
@@ -87,7 +86,7 @@ De costas, as duas avançam na direção do banco da frente, e com uma criança 
 
 Aqui a diferença é grande. A Spinel tem garantia de 5 anos com registro no site da Maxi-Cosi e capa removível que vai à máquina, segundo o fabricante. O anúncio da Evolutty não fala em garantia estendida nem detalha a lavagem da capa.
 
-Na faixa de preço, a Spinel ia de R$ 2.450 a R$ 4.600 e a Evolutty de R$ 920 a R$ 1.800 em out/2026. As duas variam muito de vendedor para vendedor, então comparar anúncios é parte da compra. Mesmo comparando o teto da Evolutty com o piso da Spinel, a Cosco sai mais barata.
+A Spinel fica na faixa mais alta e a Evolutty na intermediária. As duas variam muito de vendedor para vendedor, então comparar anúncios é parte da compra. Mesmo no anúncio mais alto da Evolutty, a Cosco tende a sair mais barata que a Spinel.
 
 Na Evolutty, há ainda um cuidado com o nome: a Cosco tem outras cadeiras com nomes parecidos. Confira no título e nas fotos que é a **Evolutty 360 X**, de 0 a 36 kg.
 
@@ -116,3 +115,7 @@ As duas estão na lista de [melhor cadeirinha giratória 360](/melhor-cadeirinha
 
 - Academia Americana de Pediatria (AAP), HealthyChildren.org, recomendações de 2018 sobre a posição de costas.
 - [Resolução Contran nº 819/2021 (gov.br)](https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao8192021.pdf/@@display-file/file)
+
+## No mesmo assunto
+
+Na fase de bebê conforto, o par da mesma lógica é [Citi² ou Cosco Wizz](/comparativos/maxi-cosi-citi-2-vs-cosco-wizz/).

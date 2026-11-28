@@ -3,7 +3,7 @@ layout: ../layouts/Artigo.astro
 titulo: "Aviso de afiliado do Cadeirinha Bebê"
 descricao: "Entenda como funcionam os links de afiliado do Mercado Livre e da Amazon, quanto isso custa para você (nada) e por que as nossas notas não mudam."
 h1: "Aviso de afiliado"
-intro: "Os botões \"Ver preço no Mercado Livre\" e \"Ver preço na Amazon\" deste site são links de afiliado."
+intro: "Os botões da Amazon e do Mercado Livre deste site são links de afiliado."
 data: "2026-10-31"
 atualizado: "2026-11-15"
 secao: { nome: "Sobre", url: "/sobre/" }
@@ -21,7 +21,7 @@ Nada. As notas seguem a [metodologia](/metodologia/), com critérios e pesos pú
 
 ## Preços e disponibilidade
 
-Preços, frete e estoque mudam com frequência e são definidos pelos vendedores. A faixa de preço que aparece no site é uma referência com data. Antes de comprar, confira no anúncio:
+Preços, frete e estoque mudam com frequência e são definidos pelos vendedores. O site não publica preço. Antes de comprar, confira no anúncio:
 
 - o preço final e o frete;
 - a reputação do vendedor;

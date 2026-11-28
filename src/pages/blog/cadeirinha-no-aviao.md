@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Post.astro
-titulo: "Cadeirinha no avião: regras da Latam, Gol e Azul"
-descricao: "Pode levar cadeirinha no avião? O que Latam, Gol e Azul dizem sobre usar a bordo, assento para o bebê, despachar e a certificação exigida."
+titulo: "Cadeirinha no avião: levar a bordo ou despachar?"
+descricao: "Quando dá para usar a cadeirinha no assento do avião, como despachar sem custo e o que Latam, Gol e Azul pedem. Guia para viajar com o bebê."
 h1: "Cadeirinha no avião: levar, despachar ou usar a bordo, segundo as regras das companhias"
 intro: "Dá para levar a cadeirinha no avião de dois jeitos: despachada, como item da criança, ou instalada a bordo, num assento comprado para ela. Para usar a bordo, a cadeira precisa ser certificada para aeronave e a companhia precisa aceitar o modelo. Assento de elevação não pode ser usado no voo."
 categoria: "Uso e cuidados"
@@ -113,3 +113,7 @@ Para ver quais modelos são mais leves e fáceis de transportar, compare no [com
 - [FAA: "Child Safety: Keep Your Little One Safe When You Fly"](https://www.faa.gov/travelers/fly_children/child_safety_seat_tips)
 - [AAP, HealthyChildren.org: "Car Seats: Information for Families", atualizado em 16/04/2026](https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Car-Safety-Seats-Information-for-Families.aspx)
 - [AutoPapo: PL 5052/25, 26/06/2026](https://autopapo.com.br/curta/cadeirinha-gratis-no-aviao-o-que-muda-para-quem-viaja-com-filhos/)
+
+## No mesmo assunto
+
+Cadeira dobrável de viagem não substitui a certificada. O que a lei aceita está em [cadeirinha portátil de viagem](/blog/cadeirinha-portatil-de-viagem-e-permitida/).

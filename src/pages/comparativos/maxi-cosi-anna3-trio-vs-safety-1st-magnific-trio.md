@@ -53,7 +53,6 @@ Dados dos fabricantes e dos anúncios, conferidos em 26/11/2026. Preços mudam c
 | Extras | Mosquiteiro, capota UPF 50+ com visor | Apoio de pés em 5 posições, barra frontal removível |
 | Garantia | 5 anos com cadastro no site da Maxi-Cosi | 12 meses (fabricante) |
 | Avaliações | 4,6 na Amazon (181) | 4,6 na Amazon (203); 4,8 a 4,9 no Mercado Livre |
-| Faixa de preço (nov/2026) | R$ 3.000 a R$ 3.600 | R$ 1.180 a R$ 1.600 |
 
 ## Onde eles são iguais
 

@@ -34,12 +34,12 @@ Só que o número da etiqueta conta metade da história. Você nunca carrega a c
 
 Dados das fichas, informados pelos fabricantes:
 
-| Modelo | Peso da concha | Base | Faixa de preço (out/2026) |
+| Modelo | Peso da concha | Base | Faixa |
 |---|---|---|---|
-| Cosco Wizz | 2,5 kg | Sem base na versão mais barata | Entre R$ 280 e R$ 470, conforme a cor e a versão com base |
-| Galzerano Cocoon | 2,6 kg | Base 8185 vendida à parte | Entre R$ 410 e R$ 530 |
-| Maxi-Cosi Citi² | 3,2 kg | Base com cinto inclusa | Entre R$ 1.030 e R$ 1.800 |
-| Maxi-Cosi Pebble 360 Pro² | Não informado no anúncio | Base ISOFIX inclusa | Entre R$ 3.100 e R$ 3.500 |
+| Cosco Wizz | 2,5 kg | Sem base na versão mais barata | faixa de entrada |
+| Galzerano Cocoon | 2,6 kg | Base 8185 vendida à parte | faixa de entrada |
+| Maxi-Cosi Citi² | 3,2 kg | Base com cinto inclusa | faixa intermediária |
+| Maxi-Cosi Pebble 360 Pro² | Não informado no anúncio | Base ISOFIX inclusa | faixa mais alta |
 
 Duas observações honestas sobre a tabela:
 

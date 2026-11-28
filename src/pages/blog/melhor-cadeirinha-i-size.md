@@ -15,7 +15,7 @@ faq:
   - p: "Qual a melhor cadeirinha i-Size?"
     r: "Entre as que avaliamos, a Safety 1st i-NXT 360, giratória do nascimento aos 150 cm, com dupla homologação (R129 e NBR 14400:2020) e 5 reclinações. Para gastar menos, a Fisher-Price ShieldPro 360."
   - p: "Qual a cadeirinha i-Size mais barata?"
-    r: "Na nossa referência de out/2026 no Mercado Livre, a Fisher-Price MaxGuard começava em R$ 920, mas ela é só de frente, a partir de 76 cm. Entre as que servem desde o nascimento, a ShieldPro 360 tinha a faixa mais baixa, de R$ 1.190 a R$ 1.360."
+    r: "A Fisher-Price MaxGuard fica na faixa intermediária, mas é só de frente, a partir de 76 cm. Entre as que servem desde o nascimento, a ShieldPro 360 é a de entrada."
   - p: "Toda cadeirinha i-Size precisa de ISOFIX?"
     r: "Todas as cinco que avaliamos instalam com ISOFIX e um terceiro ponto: top tether nas cadeiras e perna de apoio na base do Pebble 360 Pro². Carro sem esses pontos não serve para elas."
   - p: "Cadeirinha i-Size é aceita no Brasil?"
@@ -32,13 +32,13 @@ Este texto compara os cinco modelos R129 da nossa lista. O que a norma é, e o q
 
 ## Os 5 modelos i-Size lado a lado
 
-| Modelo | Tipo | Faixa | Gira | Reclinações | Terceiro ponto | Peso | Faixa (out/2026) | Nota |
+| Modelo | Tipo | Faixa | Gira | Reclinações | Terceiro ponto | Peso | Faixa | Nota |
 |---|---|---|---|---|---|---|---|---|
-| Safety 1st i-NXT 360 | Giratória | 40 a 150 cm | Sim | 5 | Top tether | 11,5 kg | R$ 1.250 a R$ 1.950 | 9,1 |
-| Fisher-Price ShieldPro 360 | Giratória | 40 a 150 cm | Sim | 4 (1 de costas) | Top tether | 11 kg | R$ 1.190 a R$ 1.360 | 8,9 |
-| Fisher-Price GrowStages | Multigrupo | 40 a 150 cm | Não | 4 | Top tether | Não informado | R$ 1.260 a R$ 1.900 | 8,8 |
-| Maxi-Cosi Pebble 360 Pro² | Bebê conforto | 40 a 87 cm | Base gira | Totalmente reclinável | Perna de apoio | Não informado | R$ 3.100 a R$ 3.500 | 8,6 |
-| Fisher-Price MaxGuard | Cadeirinha de frente | 76 a 150 cm | Não | Não reclina | Top tether | 7 kg | R$ 920 a R$ 1.580 | 8,4 |
+| Safety 1st i-NXT 360 | Giratória | 40 a 150 cm | Sim | 5 | Top tether | 11,5 kg | faixa premium | 9,1 |
+| Fisher-Price ShieldPro 360 | Giratória | 40 a 150 cm | Sim | 4 (1 de costas) | Top tether | 11 kg | faixa premium | 8,9 |
+| Fisher-Price GrowStages | Multigrupo | 40 a 150 cm | Não | 4 | Top tether | Não informado | faixa premium | 8,8 |
+| Maxi-Cosi Pebble 360 Pro² | Bebê conforto | 40 a 87 cm | Base gira | Totalmente reclinável | Perna de apoio | Não informado | faixa mais alta | 8,6 |
+| Fisher-Price MaxGuard | Cadeirinha de frente | 76 a 150 cm | Não | Não reclina | Top tether | 7 kg | faixa intermediária | 8,4 |
 
 Dados dos fabricantes e anúncios; preços de referência no Mercado Livre em outubro de 2026. As notas seguem a nossa [metodologia](/metodologia/).
 
@@ -60,7 +60,7 @@ A diferença está no conforto da fase de costas: só uma reclinação nessa pos
 
 A [Fisher-Price GrowStages](/reviews/fisher-price-growstages/) cobre de 40 a 150 cm sem o mecanismo de giro, com 4 reclinações e apoio de cabeça com 17 posições. É a opção para quem quer a norma e o ISOFIX com top tether, tem carro de acesso fácil e não quer pagar pelo giro.
 
-O porém é que a faixa de preço dela começava acima da ShieldPro em out/2026. Sem giro, ela só faz sentido num anúncio na parte de baixo da faixa. O fabricante também não divulga o peso nem o limite de costas nos anúncios.
+O porém é que a faixa de preço dela começava acima da ShieldPro. Sem giro, ela só faz sentido num anúncio na parte de baixo da faixa. O fabricante também não divulga o peso nem o limite de costas nos anúncios.
 
 ## 4. Maxi-Cosi Pebble 360 Pro²: o bebê conforto i-Size
 

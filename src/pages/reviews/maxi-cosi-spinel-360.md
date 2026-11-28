@@ -59,7 +59,7 @@ Se o seu carro falha aqui, a Spinel não é a cadeira certa, por melhor que seja
 5. Faça o [teste de folga](/guias/isofix-ou-cinto/) puxando a cadeira pela base.
 6. Volte a conferir a altura da perna depois de alguns dias de uso.
 
-Nos testes da equipe, achar a altura certa da perna foi a etapa que pediu mais atenção. Depois de acertar, ela ficou estável, mas vale repetir a conferência quando alguém mexer no banco da frente ou no tapete.
+Segundo o manual, achar a altura certa da perna é a etapa que pede mais atenção. Depois de acertar, ela ficou estável, mas vale repetir a conferência quando alguém mexer no banco da frente ou no tapete.
 
 ## Por que ela custa tanto, e o que entra na conta
 
@@ -94,3 +94,7 @@ Ela também é volumosa. De costas, avança na direção do banco da frente, e e
 - **Quer os mesmos 18 kg de costas gastando bem menos e o carro tem top tether:** [Cosco Evolutty 360 X](/reviews/cosco-evolutty-360-x/).
 - **Mesma meta, mas quer ajuda para saber se a cinta superior está esticada:** [Kiddo Supra 360](/reviews/kiddo-supra-360/), com alarme no top tether.
 - **Abre mão do giro para pagar menos e ainda ficar de costas até 18 kg:** [Joie Every Stage FX](/reviews/joie-every-stage-fx/), que instala de costas com o cinto do carro.
+
+## No mesmo assunto
+
+O lado a lado com a Evolutty está em [Spinel 360 ou Evolutty 360 X](/comparativos/maxi-cosi-spinel-360-vs-cosco-evolutty-360-x/).

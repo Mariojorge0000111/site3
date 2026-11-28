@@ -1,8 +1,8 @@
 ---
 layout: ../../layouts/Post.astro
-titulo: "Cadeirinha no banco do meio ou atrás do motorista?"
-descricao: "Cadeirinha no banco do meio ou atrás do motorista? A lei não escolhe o lugar — a instalação sim. Tabela por tipo de carro, Isofix e cinto."
-h1: "Cadeirinha no banco do meio ou atrás do motorista: qual lugar escolher no seu carro"
+titulo: "Cadeirinha no banco do meio pode? Qual o lugar mais seguro"
+descricao: "Pode, e o meio é o lugar mais protegido se o carro tiver cinto de 3 pontos ou ISOFIX ali. Compare meio, atrás do motorista e do passageiro."
+h1: "Cadeirinha no banco do meio pode? Qual o lugar mais seguro"
 intro: "O melhor lugar é o banco de trás onde a cadeirinha fica mais firme. O meio é o mais afastado das portas, mas só vale se ali houver cinto de 3 pontos ou ISOFIX e a cadeira ficar bem presa."
 categoria: "Instalação"
 tags: ["instalacao", "cadeirinha"]
@@ -117,3 +117,9 @@ Se você tem dúvida sobre qual cadeira usar em cada fase, a tabela da [lei da c
 **Se o seu carro não tem ISOFIX e o meio tem cinto de 3 pontos:** testaria a [Cosco Progress](/reviews/cosco-progress/) no meio, que instala com o cinto do carro e é leve para tentar de novo em outro lugar se não ficar firme.
 
 **Se você tem duas crianças em fases diferentes:** uma cadeira em cada lateral, e a conferência da fivela do assento de elevação toda vez que mexer em alguma delas. Para escolher modelos que cabem lado a lado, comece pela lista de [melhores cadeirinhas para carro](/melhor-cadeirinha-para-carro/).
+
+## No mesmo assunto
+
+Com duas cadeiras, o lugar do meio muda de papel. O texto de [duas cadeirinhas no banco de trás](/blog/duas-cadeirinhas-no-banco-de-tras/) mede o banco.
+
+O lugar escolhido também sofre com o encaixe. O texto de [protetor de banco para cadeirinha](/blog/protetor-de-banco-para-cadeirinha/) diz o que pode ir por baixo da cadeira.

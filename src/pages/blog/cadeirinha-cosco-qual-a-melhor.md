@@ -42,7 +42,6 @@ A Cosco Kids é uma marca de entrada e preço baixo. As três seguem a norma bra
 | Gira | Não | Não | Sim |
 | Peso da cadeira | 2,5 kg | 5,8 kg | Não informado |
 | Norma | NBR 14400 | NBR 14400 | NBR 14400 |
-| Faixa de preço (out/2026) | R$ 280 a R$ 470 | R$ 520 a R$ 780 | R$ 920 a R$ 1.800 |
 | Nossa nota | 8,1 | 8,2 | 8,7 |
 
 Dados dos fabricantes e anúncios. Os preços são a referência no Mercado Livre em outubro de 2026 e mudam com frequência.
@@ -67,7 +66,7 @@ Os limites são dois. Primeiro, não tem ISOFIX: em todas as fases, a firmeza de
 
 A [Cosco Evolutty 360 X](/reviews/cosco-evolutty-360-x/) é a cadeira mais completa da marca. Gira 360° para você colocar a criança de frente para a porta e fica de costas até 18 kg, recurso que costuma aparecer em cadeiras bem mais caras. No fim do uso, vira assento de elevação com encosto. Tem 4 reclinações.
 
-A exigência é o carro: nos grupos 0+ e 1, ela só instala com ISOFIX e top tether juntos. Muitos carros têm as barras ISOFIX e não têm a argola do top tether. O preço também varia muito entre vendedores, de R$ 920 a R$ 1.800 na nossa referência de out/2026, e o fabricante não divulga o peso da cadeira.
+A exigência é o carro: nos grupos 0+ e 1, ela só instala com ISOFIX e top tether juntos. Muitos carros têm as barras ISOFIX e não têm a argola do top tether. O preço também varia muito entre vendedores, faixa intermediária na nossa referência, e o fabricante não divulga o peso da cadeira.
 
 **Para quem:** quem quer giro e mais tempo de costas gastando menos que numa giratória premium, com carro que tem os três pontos de fixação.
 
